@@ -1,0 +1,19 @@
+{
+	"presets": [
+		[
+			"@babel/preset-env",
+			{
+				"useBuiltIns": "entry",
+				"targets": {
+					"esmodules": true
+				}
+			}
+		],
+		"@babel/react"
+	],
+	"plugins": [
+		"@babel/plugin-proposal-class-properties",
+		"@babel/plugin-proposal-export-default-from",
+		"react-hot-loader/babel"
+	]
+}
