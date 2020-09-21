@@ -4,6 +4,8 @@ import { List, Button, Divider } from "@material-ui/core";
 import TimelineStep from "./TimelineStep";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import StyledButton from "../components/StyledButton";
+import ExpandLessIcon from "@material-ui/icons/ExpandLess";
+import { ExpandLess } from "@material-ui/icons";
 
 export default function Timeline() {
 	const [isShowingFullTimeline, toggleIsShowingFullTimeline] = useState(false);
@@ -17,14 +19,21 @@ export default function Timeline() {
 			<>
 				<Divider />
 				<h3>2018</h3>
-				<List></List>
+				<List>
+					<TimelineStep
+						primary={"Received a Full-time Offer from Microsoft"}
+						secondary={
+							"Too bad, I couldn't accept it because I was still in school, so I converted it into an internship."
+						}
+					/>
+				</List>
 				<Divider />
 				<h3>2017</h3>
 				<List>
 					<TimelineStep
 						primary={"Met Carol 🥰"}
 						secondary={
-							"I met my girlfriend at the Michigan vs. Michigan State football game tailgate. Unfortunately, we lost that one."
+							"Although we lost the Michigan vs. Michigan State football game that day, I met my girlfriend while tailgating."
 						}
 					/>
 					<TimelineStep
@@ -37,19 +46,19 @@ export default function Timeline() {
 				<List>
 					<TimelineStep
 						primary={"Matriculated at the University of Massachusetts, Amherst"}
-						secondary={"Apparently both my aunt-in-law and cousin went there."}
+						secondary={
+							"ZooMass baby. #1 ranked campus food in the USA. Code, party, eat, sleep, repeat."
+						}
 					/>
 					<TimelineStep
 						primary={"Climbed Mt. Fuji"}
-						secondary={"Pulled an all-nighter and climbed Mt. Fuji."}
+						secondary={
+							"Pulled an all-nighter and climbed Mt. Fuji with a couple of high school friends."
+						}
 					/>
 					<TimelineStep
 						primary={"Graduated High School"}
 						secondary={"Shanghai American School, Class of 2015!"}
-					/>
-					<TimelineStep
-						primary={"Got My First Smartphone"}
-						secondary={"It was a XiaoMi"}
 					/>
 				</List>
 				<Divider />
@@ -58,7 +67,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"First Computer"}
 						secondary={
-							"Played a lot of Yu-Gi-Oh!, Plants vs. Zombies, Runescape, League of Legends, etc."
+							"Played a lot of Plants vs. Zombies, RuneScape, WolfTeam, and League of Legends."
 						}
 					/>
 				</List>
@@ -75,7 +84,7 @@ export default function Timeline() {
 				<List>
 					<TimelineStep
 						primary={"Moved Back to Oregon"}
-						secondary={"See a pattern, yet?"}
+						secondary={"See a pattern yet?"}
 					/>
 				</List>
 				<Divider />
@@ -104,9 +113,14 @@ export default function Timeline() {
 						}
 					/>
 				</List>
-				<StyledButton endIcon={<ExpandMoreIcon />} onClick={handleClick}>
-					See Less
-				</StyledButton>
+				<Grid container justify="center">
+					<StyledButton
+						endIcon={<ExpandLessIcon />}
+						onClick={handleClick}
+						variant="outlined">
+						See Less
+					</StyledButton>
+				</Grid>
 			</>
 		);
 	};
@@ -124,7 +138,7 @@ export default function Timeline() {
 				/>
 				<TimelineStep
 					primary={"Funding Secured 🤑"}
-					secondary="We raised a seed round led by Tiger Global. It felt so good to see our hard work payoff. Say hello to job security!"
+					secondary="We raised a seed round led by Tiger Global. It felt so good to see our hard work pay off. Say hello to job security!"
 				/>
 				{/* <TimelineStep
 					primary={"Bought My First Car 🚙"}
@@ -145,7 +159,7 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Rejected by Ding Tea 🥤"}
 					secondary={
-						"Apparently landing a job at a boba shop is more competitive than landing one at Microsoft."
+						"Apparently, landing a job at a boba shop is more competitive than landing one at Microsoft."
 					}
 				/>
 				<TimelineStep
@@ -177,7 +191,7 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Worked at Microsoft 👨🏻‍💻"}
 					secondary={
-						"Moved to Seattle, Washington and finally got the big tech FAAMG experience that I had always dreamnt of."
+						"Moved to Seattle, Washington, and finally got the big tech FAAMG experience that I had always dreamt of."
 					}
 				/>
 			</List>
@@ -185,9 +199,14 @@ export default function Timeline() {
 			{isShowingFullTimeline ? (
 				<FullTimeline />
 			) : (
-				<StyledButton endIcon={<ExpandMoreIcon />} onClick={handleClick}>
-					See More
-				</StyledButton>
+				<Grid container justify="center">
+					<StyledButton
+						endIcon={<ExpandMoreIcon />}
+						onClick={handleClick}
+						variant="outlined">
+						See More
+					</StyledButton>
+				</Grid>
 			)}
 		</Grid>
 	);

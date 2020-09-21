@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const StyledButton = styled(Button)`
 	&& {
-		label: text-transform: "none";
+		text-transform: "lowercase";
 	}
 `;
 

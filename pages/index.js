@@ -9,13 +9,14 @@ import ButtonAppBar from "../components/ButtonAppBar";
 import Grid from "@material-ui/core/Grid";
 import Timeline from "../components/Timeline";
 import Footer from "../components/Footer";
+import { Typography } from "@material-ui/core";
 
 const root = process.cwd();
 
 export default function IndexPage({ postData }) {
 	return (
 		<>
-			<ButtonAppBar />
+			{/* <ButtonAppBar /> */}
 			<div className={styles.container}>
 				<Head>
 					<title>Wesley Tian</title>
@@ -23,14 +24,15 @@ export default function IndexPage({ postData }) {
 				</Head>
 
 				<main className={styles.main}>
-					<Grid container justify="center" xs={10} sm={8} md={8} lg={6}>
-						<h1 className={styles.title}>Hey, I'm Wesley! 😁</h1>
+					<Grid item container justify="center" xs={11} sm={11} md={6} lg={6}>
+						<h1>Hey, I'm Wesley! 😁</h1>
 
 						<p className={styles.description}>
-							I'm a software engineer, entrepreneur, and writer.
+							I live in Reno and work virtually at{" "}
+							<a href="https://tryvirtually.com/">Virtually</a>.
 						</p>
 
-						<Grid item container justify="flex-start" direction="column">
+						{/* <Grid item container justify="flex-start" direction="column">
 							<h2>Most Popular</h2>
 							<ul>
 								{postData.map((data) => (
@@ -41,7 +43,7 @@ export default function IndexPage({ postData }) {
 									</li>
 								))}
 							</ul>
-						</Grid>
+						</Grid> */}
 						<Timeline />
 						{/* <div className={styles.grid}>
 						<a href="https://nextjs.org/docs" className={styles.card}>
