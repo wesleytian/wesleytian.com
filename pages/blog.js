@@ -2,7 +2,7 @@ import React from 'react';
 import styles from '../styles/Home.module.css';
 import { Typography, Grid } from '@material-ui/core';
 
-export default function LibraryPage() {
+export default function BlogPage() {
 	return (
 		<div className={styles.container}>
 			<main className={styles.main}>
@@ -17,12 +17,13 @@ export default function LibraryPage() {
 						React, Material-UI, MDX, Next.js, SWR Hooks, Vercel, and
 						Google Firebase.
 					</Typography>
-					<Typography variant="body1" color="textSecondary" paragraph>
-						This library page will include my highly recommended
-						books, articles, podcasts, movies, etc., as well as
-						summarized concepts (e.g. solar/photovoltaic cells,
-						masks) for your benefit and my personal
-						learning/reference.
+					<Typography
+						variant="body1"
+						color="textSecondary"
+						className={styles.description}
+					>
+						Visit my previous blog{' '}
+						<a href={'https://wesleytian.github.io/'}>here</a>.
 					</Typography>
 				</Grid>
 			</main>

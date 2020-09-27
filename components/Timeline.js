@@ -35,7 +35,9 @@ export default function Timeline() {
 						// secondary={'Met my girlfriend.'}
 					/>
 					<TimelineStep
-						primary={'Transferred to the University of Michigan 🎊'}
+						primary={
+							'Transferred to the University of Michigan! 🎊'
+						}
 						secondary={'Go Blue!'}
 					/>
 				</List>
@@ -77,9 +79,9 @@ export default function Timeline() {
 				<Typography variant="h5">2002-2007</Typography>
 				<List>
 					<TimelineStep
-						primary={'Moved to 4 times in 5 years 🛫🛬'}
+						primary={'Moved 4 times in 5 years 🛫🛬'}
 						secondary={
-							'Moved to Oregon, Taiwan, back to Oregon, and then to China.'
+							"Moved to Oregon, Taiwan, back to Oregon, and then to China. Why? Because of my dad's job."
 						}
 					/>
 				</List>
@@ -118,12 +120,19 @@ export default function Timeline() {
 				<TimelineStep
 					primary={'Moved to Nevada 🏜 '}
 					secondary={
-						'My girlfriend and I packed up all of our belongings into my 2006 Honda Pilot and drove across the US to our new home. The trip took 4 days and around 40 hours on the road.'
+						'My girlfriend and I packed up all of our physical belongings into my 2006 Honda Pilot and drove across the US to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona.'
 					}
 				/>
 				<TimelineStep
+					primary={'Front Page of TechCrunch! 📰'}
+					secondary={`Press coverage has no correlation with startup success, but it was still pretty cool to see us be selected as one of the top 23 of 197 companies from YC's S20 batch.`}
+					// link={
+					// 	'https://techcrunch.com/2020/08/25/our-12-favorite-startups-from-y-combinators-s20-demo-day-part-2/'
+					// }
+				/>
+				<TimelineStep
 					primary={'Funding Secured 💰'}
-					secondary="Right before Y Combinator's demo day, we raised a seed round led by Tiger Global. It felt so good to see our hard work pay off. Say hello to job security!"
+					secondary="Right before Y Combinator's demo day, we raised a seed round led by Tiger Global. It felt so good to see our hard work pay off. Say hello to job security! ...at least for now..."
 				/>
 				<TimelineStep
 					primary={'Accepted into Y Combinator 🥳'}
@@ -156,10 +165,7 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={'Graduated from the University of Michigan 〽️'}
-					secondary={
-						"Took me 4.5 years to graduate college, but only 2.5 years for both UMich's computer science and data science programs, start to finish."
-					}
+					primary={'Graduated from the University of Michigan! 〽️'}
 				/>
 				<TimelineStep
 					primary={'Climbed Mt. Whitney ⛰'}

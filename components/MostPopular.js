@@ -14,17 +14,17 @@ export default function MostPopular() {
 					title={'I Nearly Failed High School'}
 					link={'https://wesleytian.github.io/2019/gpa/'}
 					snippet={
-						"Though I ended up receiving a full-time offer at Microsoft and finishing both University of Michigan's computer science and data science programs within 2.5 years while achieving University Honors, I nearly failed high school due to abysmal grades."
+						"Read about how I went from nearly failing high school to receiving a full-time offer at Microsoft and finishing both University of Michigan's computer science and data science programs within 2.5 years while achieving University Honors."
 					}
 					views={2169}
 				/>
 				<Box my={2}>
 					<PostSnippet
 						title={
-							'Climbing the Tallest Mountain in the Contiguous USA'
+							'I Climbed the Tallest Mountain in the Contiguous USA'
 						}
 						link={'https://wesleytian.github.io/2019/whitney/'}
-						snippet="After half a year of planning, my friends and I finally climbed Mt. Whitney, the tallest mountain in the contiguous US."
+						snippet="Last year, I convinced a few friends to climb Mt. Whitney (14,505 ft.) with me. This is a story of friendship, altitute sickness, and piss-drinking."
 						views={604}
 					/>
 				</Box>

@@ -24,6 +24,19 @@ export default function ButtonAppBar() {
 								</Typography>
 							</Button>
 						</NextLink>
+						<NextLink href="/blog" passHref>
+							<Button
+								style={{ textTransform: 'none' }}
+								size="large"
+							>
+								<Typography
+									variant="body1"
+									color="textSecondary"
+								>
+									Blog
+								</Typography>
+							</Button>
+						</NextLink>
 						<NextLink href="/library" passHref>
 							<Button
 								style={{ textTransform: 'none' }}
