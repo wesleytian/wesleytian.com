@@ -52,15 +52,15 @@
 	font-size: 4rem;
 }
 
-.title,
+/* .title,
 .description {
 	text-align: center;
-}
+} */
 
-.description {
+/* .description {
 	line-height: 1.5;
 	font-size: 1.5rem;
-}
+} */
 
 .description a {
 	color: #0070f3;
@@ -78,8 +78,8 @@
 	border-radius: 5px;
 	padding: 0.75rem;
 	font-size: 1.1rem;
-	font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-		Bitstream Vera Sans Mono, Courier New, monospace;
+	font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
+		DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .grid {

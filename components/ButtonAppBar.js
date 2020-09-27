@@ -1,38 +1,45 @@
-import React from "react";
-import { makeStyles } from "@material-ui/core/styles";
-import AppBar from "@material-ui/core/AppBar";
-import Toolbar from "@material-ui/core/Toolbar";
-import NextLink from "next/link";
-import "styled-components";
-import StyledButton from "../components/StyledButton";
-
-const useStyles = makeStyles((theme) => ({
-	root: {
-		flexGrow: 1
-	},
-	menuButton: {
-		marginRight: theme.spacing(2)
-	},
-	title: {
-		flexGrow: 1
-	}
-}));
+import React from 'react';
+import AppBar from '@material-ui/core/AppBar';
+import Toolbar from '@material-ui/core/Toolbar';
+import NextLink from 'next/link';
+import 'styled-components';
+import { Grid, Box, Button, Typography } from '@material-ui/core';
 
 export default function ButtonAppBar() {
-	const classes = useStyles();
 	return (
-		<div className={classes.root}>
-			<AppBar position="fixed" color="transparent" elevation={0}>
-				<Toolbar>
-					<NextLink href="/" passHref>
-						<StyledButton color="inherit">Home</StyledButton>
-					</NextLink>
-					<NextLink href="/blog" passHref>
-						<StyledButton color="inherit">Blog</StyledButton>
-					</NextLink>
-					<StyledButton color="inherit">About</StyledButton>
-				</Toolbar>
-			</AppBar>
-		</div>
+		<AppBar position="fixed" color="transparent" elevation={0}>
+			<Box my={6}>
+				<Grid item container justify="flex-end" xs={11}>
+					<Toolbar>
+						<NextLink href="/" passHref>
+							<Button
+								style={{ textTransform: 'none' }}
+								size="large"
+							>
+								<Typography
+									variant="body1"
+									color="textSecondary"
+								>
+									Home
+								</Typography>
+							</Button>
+						</NextLink>
+						<NextLink href="/about" passHref>
+							<Button
+								style={{ textTransform: 'none' }}
+								size="large"
+							>
+								<Typography
+									variant="body1"
+									color="textSecondary"
+								>
+									About
+								</Typography>
+							</Button>
+						</NextLink>
+					</Toolbar>
+				</Grid>
+			</Box>
+		</AppBar>
 	);
 }
