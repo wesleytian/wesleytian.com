@@ -22,7 +22,7 @@ export default function Timeline() {
 				<Typography variant="h5">2018</Typography>
 				<List>
 					<TimelineStep
-						primary={'Received a Full-time Offer from Microsoft'}
+						primary={'Received a Full-time Offer from Microsoft 🎉'}
 						secondary={
 							'I interviewed for an internship position, but received a full-time offer. I wanted to graduate first though, so I turned it down and asked for an internship.'
 						}
@@ -32,12 +32,12 @@ export default function Timeline() {
 				<Typography variant="h5">2017</Typography>
 				<List>
 					<TimelineStep
-						primary={'Met Carol 🥰'}
-						secondary={'Met my girlfriend.'}
+						primary={'Met My Girlfriend 🥰'}
+						// secondary={'Met my girlfriend.'}
 					/>
 					<TimelineStep
-						primary={'Transferred to the University of Michigan'}
-						secondary={'Go blue!'}
+						primary={'Transferred to the University of Michigan 🎊'}
+						secondary={'Go Blue!'}
 					/>
 				</List>
 				<Divider />
@@ -45,38 +45,42 @@ export default function Timeline() {
 				<List>
 					<TimelineStep
 						primary={
-							'Matriculated at the University of Massachusetts, Amherst'
+							'Matriculated at the University of Massachusetts, Amherst 🤪'
 						}
 						secondary={
 							'ZooMass baby. #1 ranked campus food in the USA. Code, party, eat, sleep, repeat.'
 						}
 					/>
 					<TimelineStep
-						primary={'Visited Japan and Climbed Mt. Fuji'}
+						primary={'Visited Japan 🇯🇵 and Climbed Mt. Fuji 🗻'}
 						secondary={
 							'Pulled an all-nighter and climbed Mt. Fuji with a couple of high school friends.'
 						}
 					/>
 					<TimelineStep
-						primary={'Graduated High School'}
-						secondary={'Shanghai American School'}
+						primary={'Graduated High School 🦅'}
+						secondary={
+							'Graduated from the Shanghai American School (est. 1912). Go Eagles!'
+						}
 					/>
 				</List>
 				<Divider />
 				<Typography variant="h5">2007-2015</Typography>
 				<List>
 					<TimelineStep
-						primary={'Shanghai'}
-						secondary={'Had a great time.'}
+						primary={'Lived in Shanghai 🇨🇳'}
+						secondary={
+							'Made some amazing friends, had a great time, and learned a great deal about modern Chinese culture.'
+						}
 					/>
 				</List>
 				<Divider />
 				<Typography variant="h5">2002-2007</Typography>
 				<List>
 					<TimelineStep
-						primary={'Moved to 4 times in 5 years'}
+						primary={'Moved to 4 times in 5 years 🛫🛬'}
 						secondary={
-							'Moved to Oregon, Taiwan, back to Oregon, and then to Shanghai.'
+							'Moved to Oregon, Taiwan, back to Oregon, and then to China.'
 						}
 					/>
 				</List>
@@ -104,95 +108,93 @@ export default function Timeline() {
 	};
 
 	return (
-		<Box my={2}>
-			<Grid item container justify="flex-start" direction="column">
-				<Typography variant="h4" gutterBottom>
-					<b>Timeline</b>
-				</Typography>
-				<Typography variant="h5">
-					<b>2020</b>
-				</Typography>
-				<List>
-					<TimelineStep
-						primary={'Moved to Nevada 🏞 '}
-						secondary={
-							'After four days of driving from Ann Arbor, Michigan, my girlfriend and I finally made it to Reno. '
-						}
-					/>
-					<TimelineStep
-						primary={'Funding Secured 🤑'}
-						secondary="Right before Y Combinator's demo day, we raised a seed round led by Tiger Global. It felt so good to see our hard work pay off. Say hello to job security!"
-					/>
-					<TimelineStep
-						primary={'Went Through Y Combinator'}
-						secondary={
-							"Went through Y Combinator's Summer 2020 seed money startup accelerator program. Famous YC companies include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, Twitch, Coinbase, and Cruise."
-						}
-					/>
-					<TimelineStep
-						primary={'Joined Virtually'}
-						secondary={
-							"What began as a cold call for startup advice turned into a job offer as Virtually's first employee."
-						}
-					/>
-					<TimelineStep
-						primary={'Rejected by Ding Tea 🥤'}
-						secondary={
-							'Apparently, landing a job at a boba shop is more competitive than landing one at Microsoft.'
-						}
-					/>
-					<TimelineStep
-						primary={'Rejected by Stanford ❌'}
-						secondary={
-							"I'm actually glad I didn't get in, because instead of going through virtual schooling to prepare me to pursue my startup dream, I'm doing that right now."
-						}
-					/>
-				</List>
-				<Divider />
-				<Typography variant="h5">
-					<b>2019</b>
-				</Typography>
-				<List>
-					<TimelineStep
-						primary={'Graduated from the University of Michigan 〽️'}
-						secondary={
-							"Took me 4.5 years to graduate college, but only 2.5 years for both UMich's computer science and data science programs, start to finish."
-						}
-					/>
-					<TimelineStep
-						primary={'Climbed Mt. Whitney ⛰'}
-						secondary={
-							'Climbed the tallest mountain in the contiguous US with a couple of friends.'
-						}
-					/>
-					<TimelineStep
-						primary={'Worked at Microsoft 👨🏻‍💻'}
-						secondary={
-							'Moved to Seattle, Washington, and finally got the big tech FAAMG experience that I had always dreamt of.'
-						}
-					/>
-					<TimelineStep
-						primary={'Trained For A Marathon 🏃🏻‍♂️'}
-						secondary={
-							'I ended up injuring my hip after my final 20-mile run before the race.'
-						}
-					/>
-				</List>
+		<Grid item container justify="flex-start" direction="column">
+			<Typography variant="h4" gutterBottom>
+				<b>Timeline</b>
+			</Typography>
+			<Typography variant="h5">
+				<b>2020</b>
+			</Typography>
+			<List>
+				<TimelineStep
+					primary={'Moved to Nevada 🏜 '}
+					secondary={
+						'My girlfriend and I packed up all of our belongings into my 2006 Honda Pilot and drove across the US to our new home. The trip took 4 days and around 40 hours on the road.'
+					}
+				/>
+				<TimelineStep
+					primary={'Funding Secured 💰'}
+					secondary="Right before Y Combinator's demo day, we raised a seed round led by Tiger Global. It felt so good to see our hard work pay off. Say hello to job security!"
+				/>
+				<TimelineStep
+					primary={'Accepted into Y Combinator 🥳'}
+					secondary={
+						"We went through Y Combinator's Summer 2020 seed money startup accelerator program. Famous YC companies include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, Twitch, Coinbase, and Cruise."
+					}
+				/>
+				<TimelineStep
+					primary={'Joined Virtually 💡'}
+					secondary={
+						"What began as a cold call for startup advice turned into a job offer as Virtually's first employee."
+					}
+				/>
+				<TimelineStep
+					primary={'Rejected by Ding Tea 🥤'}
+					secondary={
+						'Apparently, landing a job at a boba shop is more competitive than landing one at Microsoft.'
+					}
+				/>
+				<TimelineStep
+					primary={'Rejected by Stanford 🎒'}
+					secondary={
+						"I'm actually glad I didn't get in, because instead of going through virtual schooling to prepare me to pursue my startup dream, I'm doing that right now."
+					}
+				/>
+			</List>
+			<Divider />
+			<Typography variant="h5">
+				<b>2019</b>
+			</Typography>
+			<List>
+				<TimelineStep
+					primary={'Graduated from the University of Michigan 〽️'}
+					secondary={
+						"Took me 4.5 years to graduate college, but only 2.5 years for both UMich's computer science and data science programs, start to finish."
+					}
+				/>
+				<TimelineStep
+					primary={'Climbed Mt. Whitney ⛰'}
+					secondary={
+						'Climbed the tallest mountain in the contiguous US with a couple of friends.'
+					}
+				/>
+				<TimelineStep
+					primary={'Worked at Microsoft 👨🏻‍💻'}
+					secondary={
+						'Moved to Seattle, Washington, and finally got the big tech FAAMG experience that I had always dreamt of.'
+					}
+				/>
+				<TimelineStep
+					primary={'Trained For A Marathon 🏃🏻‍♂️'}
+					secondary={
+						'I ended up injuring my hip after my final 20-mile run before the race.'
+					}
+				/>
+			</List>
 
-				{isShowingFullTimeline ? (
-					<FullTimeline />
-				) : (
-					<Grid container justify="center">
-						<StyledButton
-							endIcon={<ExpandMoreIcon />}
-							onClick={handleClick}
-							variant="outlined"
-						>
-							See More
-						</StyledButton>
-					</Grid>
-				)}
-			</Grid>
-		</Box>
+			{isShowingFullTimeline ? (
+				<FullTimeline />
+			) : (
+				<Grid container justify="center">
+					<StyledButton
+						endIcon={<ExpandMoreIcon />}
+						onClick={handleClick}
+						variant="outlined"
+					>
+						See More
+					</StyledButton>
+				</Grid>
+			)}
+		</Grid>
 	);
 }

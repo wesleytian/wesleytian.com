@@ -19,19 +19,17 @@ export default function PostSnippet({ title, link, snippet, views }) {
 	);
 
 	return (
-		<div>
+		<Box mb={1}>
 			<a href={link}>
-				<Box mb={1}>
-					<ListItemText
-						secondaryTypographyProps={{
-							variant: 'body1',
-							color: 'textSecondary'
-						}}
-						primary={primary}
-						secondary={snippet}
-					/>
-				</Box>
+				<ListItemText
+					secondaryTypographyProps={{
+						variant: 'body1',
+						color: 'textSecondary'
+					}}
+					primary={primary}
+					secondary={snippet}
+				/>
 			</a>
-		</div>
+		</Box>
 	);
 }
