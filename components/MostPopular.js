@@ -1,6 +1,6 @@
 import React from 'react';
 import Grid from '@material-ui/core/Grid';
-import { List, Typography } from '@material-ui/core';
+import { List, Typography, Box } from '@material-ui/core';
 import PostSnippet from './PostSnippet';
 
 export default function MostPopular() {
@@ -18,14 +18,16 @@ export default function MostPopular() {
 					}
 					views={2169}
 				/>
-				<PostSnippet
-					title={
-						'Climbing the Tallest Mountain in the Contiguous USA'
-					}
-					link={'https://wesleytian.github.io/2019/whitney/'}
-					snippet="After half a year of planning, my friends and I finally climbed Mt. Whitney, the tallest mountain in the contiguous US."
-					views={604}
-				/>
+				<Box my={2}>
+					<PostSnippet
+						title={
+							'Climbing the Tallest Mountain in the Contiguous USA'
+						}
+						link={'https://wesleytian.github.io/2019/whitney/'}
+						snippet="After half a year of planning, my friends and I finally climbed Mt. Whitney, the tallest mountain in the contiguous US."
+						views={604}
+					/>
+				</Box>
 				<PostSnippet
 					title={'3 Reasons Why You Should Move to Reno'}
 					link={'https://wesleytian.github.io/2020/reno/'}

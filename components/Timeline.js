@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
 import Grid from '@material-ui/core/Grid';
-import { List, Divider, Box, Typography } from '@material-ui/core';
+import { List, Divider, Typography, Button } from '@material-ui/core';
 import TimelineStep from './TimelineStep';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import StyledButton from '../components/StyledButton';
 import ExpandLessIcon from '@material-ui/icons/ExpandLess';
 
 export default function Timeline() {
@@ -95,13 +94,13 @@ export default function Timeline() {
 					/>
 				</List>
 				<Grid container justify="center">
-					<StyledButton
+					<Button
 						endIcon={<ExpandLessIcon />}
 						onClick={handleClick}
-						variant="outlined"
+						style={{ textTransform: 'none' }}
 					>
 						See Less
-					</StyledButton>
+					</Button>
 				</Grid>
 			</>
 		);
@@ -186,13 +185,13 @@ export default function Timeline() {
 				<FullTimeline />
 			) : (
 				<Grid container justify="center">
-					<StyledButton
+					<Button
 						endIcon={<ExpandMoreIcon />}
 						onClick={handleClick}
-						variant="outlined"
+						style={{ textTransform: 'none' }}
 					>
 						See More
-					</StyledButton>
+					</Button>
 				</Grid>
 			)}
 		</Grid>
