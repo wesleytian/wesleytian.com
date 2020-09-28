@@ -23,7 +23,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={'Received a Full-time Offer from Microsoft 🎉'}
 						secondary={
-							'I interviewed for an internship position, but received a full-time offer. I wanted to graduate first though, so I turned it down and asked for an internship.'
+							'I interviewed for an internship position, but to my pleasant surprise, received a full-time offer. I wanted to graduate first though, so I turned it down and asked for an internship.'
 						}
 					/>
 				</List>
@@ -49,7 +49,7 @@ export default function Timeline() {
 							'Matriculated at the University of Massachusetts, Amherst 🤪'
 						}
 						secondary={
-							'ZooMass baby. #1 ranked campus food in the USA. Code, party, eat, sleep, repeat.'
+							'ZooMass baby. #1 ranked campus food in the USA. Code, party, eat, sleep, repeat. Within a month of attending UMass Amherst, Zedd came for his True Colors tour. It was a blast. I also received a 4.00 that semester.'
 						}
 					/>
 					<TimelineStep
@@ -81,7 +81,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={'Moved 4 times in 5 years 🛫🛬'}
 						secondary={
-							"Moved to Oregon, Taiwan, back to Oregon, and then to China. Why? Because of my dad's job."
+							"Moved to Oregon, Taiwan, back to Oregon, and then to China. Why? Because of my dad's job. What does he do? Well, let's just say he doesn't let geography limit his career growth."
 						}
 					/>
 				</List>
@@ -176,7 +176,7 @@ export default function Timeline() {
 				<TimelineStep
 					primary={'Worked at Microsoft 👨🏻‍💻'}
 					secondary={
-						'Moved to Seattle, Washington, and finally got the big tech FAAMG experience that I had always dreamt of.'
+						'Moved to Seattle, Washington, and finally got the big tech FAAMG experience that I always dreamt of.'
 					}
 				/>
 				<TimelineStep

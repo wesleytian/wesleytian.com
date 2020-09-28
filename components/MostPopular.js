@@ -24,7 +24,7 @@ export default function MostPopular() {
 							'I Climbed the Tallest Mountain in the Contiguous USA'
 						}
 						link={'https://wesleytian.github.io/2019/whitney/'}
-						snippet="Last year, I convinced a few friends to climb Mt. Whitney (14,505 ft.) with me. This is a story of friendship, altitute sickness, and piss-drinking."
+						snippet="Last year, I convinced a few friends to climb Mt. Whitney (14,505 ft.) with me. This is a story of friendship, altitute sickness, and piss-drinking (out of water shortage not for fun, obviously)."
 						views={604}
 					/>
 				</Box>

@@ -9,14 +9,14 @@ export default function AboutPage() {
 			<main className={styles.main}>
 				<Grid item container justify="flex-start" xs={11} md={8}>
 					<AboutMe />
-					<iframe
+					{/* <iframe
 						height="280"
 						src={
 							'https://www.google.com/maps/d/embed?mid=1nkhsz-sMRmwjimcGwn-dva4yiPueixfR&usp=en'
 						}
 						title="Wesley's Travel Map"
 						width="100%"
-					/>
+					/> */}
 				</Grid>
 			</main>
 		</div>
