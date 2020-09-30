@@ -20,8 +20,7 @@ export default function LibraryPage() {
 					<Typography variant="body1" color="textSecondary" paragraph>
 						This library page will include my highly recommended
 						books, articles, podcasts, movies, etc., as well as
-						summarized concepts (e.g. solar/photovoltaic cells,
-						masks) for your benefit and my personal
+						summarized concepts for your benefit and my personal
 						learning/reference.
 					</Typography>
 				</Grid>

@@ -14,7 +14,7 @@ export default function MostPopular() {
 					title={'I Nearly Failed High School'}
 					link={'https://wesleytian.github.io/2019/gpa/'}
 					snippet={
-						"Read about how I went from nearly failing high school to receiving a full-time offer at Microsoft and finishing both University of Michigan's computer science and data science programs within 2.5 years while achieving University Honors."
+						"Read about how I went from nearly failing high school to receiving a full-time offer at Microsoft and finishing both University of Michigan's computer science and data science programs in 2.5 years while achieving University Honors."
 					}
 					views={2169}
 				/>
@@ -24,7 +24,7 @@ export default function MostPopular() {
 							'I Climbed the Tallest Mountain in the Contiguous USA'
 						}
 						link={'https://wesleytian.github.io/2019/whitney/'}
-						snippet="Last year, I convinced a few friends to climb Mt. Whitney (14,505 ft.) with me. This is a story of friendship, altitute sickness, and piss-drinking (out of water shortage not for fun, obviously)."
+						snippet="Last year, I convinced a few friends to climb Mt. Whitney (14,505 ft.) with me. This is a story of friendship, altitude sickness, and piss-drinking (out of necessity and not for fun, obviously...)"
 						views={604}
 					/>
 				</Box>
@@ -32,7 +32,7 @@ export default function MostPopular() {
 					title={'3 Reasons Why You Should Move to Reno'}
 					link={'https://wesleytian.github.io/2020/reno/'}
 					snippet={
-						"With both my job and my girlfriend's schooling being completely remote, we chose to move to Reno out of all of the places in the world. Why?"
+						"With my job and my girlfriend's schooling being completely remote, we chose to move to Reno out of all of the places in the world. Why?"
 					}
 					views={386}
 				/>

@@ -21,22 +21,21 @@ export default function Timeline() {
 				<Typography variant="h5">2018</Typography>
 				<List>
 					<TimelineStep
-						primary={'Received a Full-time Offer from Microsoft 🎉'}
+						primary={
+							'Received my First Full-time Job Offer Ever–from Microsoft 🎉'
+						}
 						secondary={
-							'I interviewed for an internship position, but to my pleasant surprise, received a full-time offer. I wanted to graduate first though, so I turned it down and asked for an internship.'
+							'I interviewed for an internship position, but to my pleasant surprise, I received a full-time offer. I wanted to graduate first, though, so I turned it down and asked for an internship. (Microsoft offered it to me when I still had three semesters left till graduation.)'
 						}
 					/>
 				</List>
 				<Divider />
 				<Typography variant="h5">2017</Typography>
 				<List>
-					<TimelineStep
-						primary={'Met My Girlfriend 🥰'}
-						// secondary={'Met my girlfriend.'}
-					/>
+					<TimelineStep primary={'Met My Girlfriend 🥰'} />
 					<TimelineStep
 						primary={
-							'Transferred to the University of Michigan! 🎊'
+							'Transferred to the University of Michigan! 〽️'
 						}
 						secondary={'Go Blue!'}
 					/>
@@ -46,16 +45,16 @@ export default function Timeline() {
 				<List>
 					<TimelineStep
 						primary={
-							'Matriculated at the University of Massachusetts, Amherst 🤪'
+							'Matriculated at the University of Massachusetts, Amherst 🥘'
 						}
 						secondary={
-							'ZooMass baby. #1 ranked campus food in the USA. Code, party, eat, sleep, repeat. Within a month of attending UMass Amherst, Zedd came for his True Colors tour. It was a blast. I also received a 4.00 that semester.'
+							'Besides the people, the next best thing was the food. UMass Amherst is consistently ranked 1st in the US for its campus dining. And yes, we had all-you-can-eat lobster for Halloween.'
 						}
 					/>
 					<TimelineStep
-						primary={'Visited Japan 🇯🇵 and Climbed Mt. Fuji 🗻'}
+						primary={'Climbed Mt. Fuji 🗻🇯🇵'}
 						secondary={
-							'Pulled an all-nighter and climbed Mt. Fuji with a couple of high school friends.'
+							'As a post-graduation trip, three of my best friends and I traveled to Japan. One of those nights, we decided to pull an all-nighter and summit Mt. Fuji by sunrise. It was grueling and mind-numbing, but we did it, though!'
 						}
 					/>
 					<TimelineStep
@@ -71,7 +70,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={'Lived in Shanghai 🇨🇳'}
 						secondary={
-							'Made some amazing friends, had a great time, and learned a great deal about modern Chinese culture.'
+							'Made some amazing friends, had a great time and learned a great deal about modern Chinese culture.'
 						}
 					/>
 				</List>
@@ -79,9 +78,9 @@ export default function Timeline() {
 				<Typography variant="h5">2002-2007</Typography>
 				<List>
 					<TimelineStep
-						primary={'Moved 4 times in 5 years 🛫🛬'}
+						primary={'Moved 4 times in 5 years 🛫🛬 x 4'}
 						secondary={
-							"Moved to Oregon, Taiwan, back to Oregon, and then to China. Why? Because of my dad's job. What does he do? Well, let's just say he doesn't let geography limit his career growth."
+							"Moved to West Linn, Oregon; Taipei, Taiwan; back to West Linn, Oregon; and then to Shanghai, China. Why? Because of my dad's job. What does he do? Well, he's always worked in the semiconductor industry–first as an engineer and now as an executive–but let's just say he didn't let geography limit his career path."
 						}
 					/>
 				</List>
@@ -122,22 +121,31 @@ export default function Timeline() {
 					secondary={
 						'My girlfriend and I packed up all of our physical belongings into my 2006 Honda Pilot and drove across the US to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona.'
 					}
+					link={
+						'https://www.instagram.com/stories/highlights/18153325603070911/'
+					}
+					linkName={'See my Instagram story here.'}
 				/>
 				<TimelineStep
 					primary={'Front Page of TechCrunch! 📰'}
-					secondary={`Press coverage has no correlation with startup success, but it was still pretty cool to see us be selected as one of the top 23 of 197 companies from YC's S20 batch.`}
-					// link={
-					// 	'https://techcrunch.com/2020/08/25/our-12-favorite-startups-from-y-combinators-s20-demo-day-part-2/'
-					// }
+					secondary={`Noting that press coverage has no correlation with startup success, it was still pretty cool to see us selected as one of the top 23 of 197 companies from the YC S20 batch.`}
+					link={
+						'https://techcrunch.com/2020/08/25/our-12-favorite-startups-from-y-combinators-s20-demo-day-part-2/'
+					}
+					linkName={'Read more here.'}
 				/>
 				<TimelineStep
 					primary={'Funding Secured 💰'}
-					secondary="Right before Y Combinator's demo day, we raised a seed round led by Tiger Global. It felt so good to see our hard work pay off. Say hello to job security! ...at least for now..."
+					secondary="Right before Y Combinator's demo day, we raised a 1.75M seed round led by Tiger Global. Those 80+ hour weeks sure paid off."
+					link={
+						'https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global'
+					}
+					linkName={'Read more here.'}
 				/>
 				<TimelineStep
-					primary={'Accepted into Y Combinator 🥳'}
+					primary={'Went Through Y Combinator 🥳'}
 					secondary={
-						"We went through Y Combinator's Summer 2020 seed money startup accelerator program. Famous YC companies include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, Twitch, Coinbase, and Cruise."
+						"Went through Y Combinator's famed startup accelerator program! Some other companies that went through this program are Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
 					}
 				/>
 				<TimelineStep
@@ -149,13 +157,13 @@ export default function Timeline() {
 				<TimelineStep
 					primary={'Rejected by Ding Tea 🥤'}
 					secondary={
-						'Apparently, landing a job at a boba shop is more competitive than landing one at Microsoft.'
+						'Apparently, landing a job at a boba shop is harder than landing one at Microsoft.'
 					}
 				/>
 				<TimelineStep
 					primary={'Rejected by Stanford 🎒'}
 					secondary={
-						"I'm actually glad I didn't get in, because instead of going through virtual schooling to prepare me to pursue my startup dream, I'm doing that right now."
+						"In hindsight, I'm actually kinda glad I didn't get in because instead of going through Zoom schooling to prepare me to pursue my startup dream, I'm pursuing my dream right now."
 					}
 				/>
 			</List>
@@ -165,24 +173,26 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={'Graduated from the University of Michigan! 〽️'}
+					primary={'Graduated from the University of Michigan! 🎊'}
 				/>
 				<TimelineStep
 					primary={'Climbed Mt. Whitney ⛰'}
 					secondary={
-						'Climbed the tallest mountain in the contiguous US with a couple of friends.'
+						'Climbed the tallest mountain in the contiguous US with a couple of friends!'
+					}
+					link={'https://wesleytian.github.io/2019/whitney/'}
+					linkName={'Read more here.'}
+				/>
+				<TimelineStep
+					primary={'Worked at Microsoft👨🏻‍💻'}
+					secondary={
+						'Moved to Bellevue, Washington, and finally got the big tech FAAMG experience that I always dreamt of.'
 					}
 				/>
 				<TimelineStep
-					primary={'Worked at Microsoft 👨🏻‍💻'}
+					primary={'Trained for a Marathon 🏃🏻‍♂️'}
 					secondary={
-						'Moved to Seattle, Washington, and finally got the big tech FAAMG experience that I always dreamt of.'
-					}
-				/>
-				<TimelineStep
-					primary={'Trained For A Marathon 🏃🏻‍♂️'}
-					secondary={
-						'I ended up injuring my hip after my final 20-mile run before the race.'
+						'I trained for 4 months before injuring my hip after a 22-mile long run–right before the race. By trying to be extra prepared for the race, I overtrained myself. It was unfortunate, but I grew mentally and learned a lot about training for endurance sports.'
 					}
 				/>
 			</List>

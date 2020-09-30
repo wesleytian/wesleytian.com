@@ -17,7 +17,7 @@ export default function Header() {
 					color="textSecondary"
 					className={styles.description}
 				>
-					I live in Reno, Nevada and work virtually at{' '}
+					I live in Reno, Nevada, and work virtually at{' '}
 					<a href="https://tryvirtually.com/">Virtually.</a>
 				</Typography>
 			</Box>
