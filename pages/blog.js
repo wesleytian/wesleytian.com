@@ -28,15 +28,15 @@ export default function BlogPage() {
 						Visit my previous blog{' '}
 						<a href={'https://wesleytian.github.io/'}>here</a>.
 					</Typography>
-					<Grid
+					{/* <Grid
 						item
 						container
 						justify="flex-start"
 						direction="column"
-					>
-						<h2>Most Popular</h2>
-						<ul>
-							{/* {postData.map((data) => (
+					> */}
+					{/* <h2>Most Popular</h2> */}
+					{/* <ul> */}
+					{/* {postData.map((data) => (
 								<li>
 									<Link
 										href="/blog/[slug]"
@@ -46,8 +46,8 @@ export default function BlogPage() {
 									</Link>
 								</li>
 							))} */}
-						</ul>
-					</Grid>
+					{/* </ul> */}
+					{/* </Grid> */}
 				</Grid>
 			</main>
 		</div>
