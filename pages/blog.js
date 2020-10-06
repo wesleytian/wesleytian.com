@@ -36,7 +36,7 @@ export default function BlogPage() {
 					>
 						<h2>Most Popular</h2>
 						<ul>
-							{postData.map((data) => (
+							{/* {postData.map((data) => (
 								<li>
 									<Link
 										href="/blog/[slug]"
@@ -45,7 +45,7 @@ export default function BlogPage() {
 										<a>{data.frontMatter.title}</a>
 									</Link>
 								</li>
-							))}
+							))} */}
 						</ul>
 					</Grid>
 				</Grid>
