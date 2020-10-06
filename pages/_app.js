@@ -5,15 +5,18 @@ import Layout from '../components/layout';
 import { createMuiTheme, ThemeProvider } from '@material-ui/core';
 import ButtonAppBar from '../components/ButtonAppBar';
 import Footer from '../components/Footer';
+import JssProvider from 'react-jss/lib/JssProvider';
 
 function MyApp({ Component, pageProps }) {
 	return (
 		<Layout>
-			<ThemeProvider theme={theme}>
-				<ButtonAppBar />
-				<Component {...pageProps} />
-				<Footer />
-			</ThemeProvider>
+			<JssProvider>
+				<ThemeProvider theme={theme}>
+					<ButtonAppBar />
+					<Component {...pageProps} />
+					<Footer />
+				</ThemeProvider>
+			</JssProvider>
 		</Layout>
 	);
 }
