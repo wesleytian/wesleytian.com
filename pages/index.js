@@ -28,7 +28,7 @@ export default function IndexPage({ postData }) {
 	const [subscriberEmail, setSubcriberEmail] = useState(null);
 
 	useEffect(() => {
-		incrementViews();
+		incrementViews('home');
 	}, []);
 
 	const handleSubscribe = (event) => {};

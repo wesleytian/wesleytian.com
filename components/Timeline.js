@@ -4,6 +4,7 @@ import { List, Divider, Typography, Button } from '@material-ui/core';
 import TimelineStep from './TimelineStep';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import ExpandLessIcon from '@material-ui/icons/ExpandLess';
+import { incrementViews } from '../lib/firebase';
 
 export default function Timeline() {
 	const [isShowingFullTimeline, toggleIsShowingFullTimeline] = useState(
@@ -12,6 +13,7 @@ export default function Timeline() {
 
 	const handleClick = () => {
 		toggleIsShowingFullTimeline(!isShowingFullTimeline);
+		incrementViews('see-more');
 	};
 
 	const FullTimeline = () => {
@@ -22,10 +24,10 @@ export default function Timeline() {
 				<List>
 					<TimelineStep
 						primary={
-							'Received my First Full-time Job Offer Ever–from Microsoft 🎉'
+							'Received My First Full-time Job Offer Ever–From Microsoft 🎉'
 						}
 						secondary={
-							'I interviewed for an internship position, but to my pleasant surprise, I received a full-time offer. I wanted to graduate first, though, so I turned it down and asked for an internship. (Microsoft offered it to me when I still had three semesters left till graduation.)'
+							'I interviewed for an internship position, but to my pleasant surprise, I received a full-time offer. I wanted to graduate first, though, so I turned it down and asked for my internship back. (I still had 3 semesters left until graduation at the time.)'
 						}
 					/>
 				</List>
@@ -35,9 +37,31 @@ export default function Timeline() {
 					<TimelineStep primary={'Met My Girlfriend 🥰'} />
 					<TimelineStep
 						primary={
-							'Transferred to the University of Michigan! 〽️'
+							'Transferred To the University of Michigan! 〽️'
 						}
 						secondary={'Go Blue!'}
+					/>
+				</List>
+				<Divider />
+				<Typography variant="h5">2016</Typography>
+				<List>
+					<TimelineStep
+						primary={'Built a Google Nest for Window ACs 🤓'}
+						secondary={
+							'Developed a smart thermostat that works with window ACs instead of central HVAC systems. I built everything myself–including the hardware and the software. As a result, Google reached out to interview me.'
+						}
+						link={'https://wesleytian.github.io/2016/ac_hack/'}
+						linkName={'Read more here.'}
+					/>
+					<TimelineStep
+						primary={
+							'Got My First Job + Became Housemates With My Professor 😎'
+						}
+						secondary={
+							"My UMass Amherst computer science professor let me stay at his house over the summer while working for his IoT startup. Without his close mentorship, I probably wouldn't be where I am today. For that, I am eternally grateful."
+						}
+						link={'https://wesleytian.github.io/2016/independence/'}
+						linkName={'Read more here.'}
 					/>
 				</List>
 				<Divider />
@@ -48,13 +72,17 @@ export default function Timeline() {
 							'Matriculated at the University of Massachusetts, Amherst 🥘'
 						}
 						secondary={
-							'Besides the people, the next best thing was the food. UMass Amherst is consistently ranked 1st in the US for its campus dining. And yes, we had all-you-can-eat lobster for Halloween.'
+							'Besides the people, the next best thing was the food. Fun fact–UMass Amherst is consistently ranked 1st in the US for its campus dining, and they serve all-you-can-eat lobster on Halloween.'
 						}
+						link={
+							'https://dailycollegian.com/2016/10/why-does-umass-serve-lobster-on-halloween-an-investigative-report-into-the-annual-halloween-dinner/'
+						}
+						linkName={'Check it out.'}
 					/>
 					<TimelineStep
 						primary={'Climbed Mt. Fuji 🗻🇯🇵'}
 						secondary={
-							'As a post-graduation trip, three of my best friends and I traveled to Japan. One of those nights, we decided to pull an all-nighter and summit Mt. Fuji by sunrise. It was grueling and mind-numbing, but we did it, though!'
+							'As a post-graduation trip, three of my best friends and I traveled to Japan. One of those nights, we decided to pull an all-nighter and summit Mt. Fuji by sunrise. It was grueling and mind-numbing, but we did it!'
 						}
 					/>
 					<TimelineStep
@@ -70,7 +98,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={'Lived in Shanghai 🇨🇳'}
 						secondary={
-							'Made some amazing friends, had a great time and learned a great deal about modern Chinese culture.'
+							'Made some amazing friends, had a great time,	 and learned a great deal about modern Chinese culture.'
 						}
 					/>
 				</List>
@@ -136,7 +164,7 @@ export default function Timeline() {
 				/>
 				<TimelineStep
 					primary={'Funding Secured 💰'}
-					secondary="Right before Y Combinator's demo day, we raised a 1.75M seed round led by Tiger Global. Those 80+ hour weeks sure paid off."
+					secondary="Even before Y Combinator's demo day, we raised a 1.75M seed round led by Tiger Global. Those 80+ hour weeks sure paid off."
 					link={
 						'https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global'
 					}
@@ -145,7 +173,7 @@ export default function Timeline() {
 				<TimelineStep
 					primary={'Went Through Y Combinator 🥳'}
 					secondary={
-						"Went through Y Combinator's famed startup accelerator program! Some other companies that went through this program are Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
+						"Went through Y Combinator's famed startup accelerator program! Other companies that have gone through this program include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
 					}
 				/>
 				<TimelineStep
@@ -173,7 +201,7 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={'Graduated from the University of Michigan! 🎊'}
+					primary={'Graduated From the University of Michigan! 🎊'}
 				/>
 				<TimelineStep
 					primary={'Climbed Mt. Whitney ⛰'}
