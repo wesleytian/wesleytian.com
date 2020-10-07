@@ -46,18 +46,24 @@ export default function MostPopular() {
 				paragraph
 			></Typography>
 			<Typography
-				variant="h6"
+				variant="body1"
 				color="textSecondary"
 				className={styles.description}
 				paragraph
 			>
-				Keep up to date with my blog posts by subscribing to my
-				newsletter{' '}
-				<a href="https://buttondown.email/wesleytian" target="_blank">
-					here
-				</a>
-				. I promise to send newsletters only once every two weeks (at
-				most). Up Next: "Why I Turned Down Big Tech Out Of College."
+				<b>
+					Keep up to date with my blog posts by subscribing to my
+					newsletter{' '}
+					<a
+						href="https://buttondown.email/wesleytian"
+						target="_blank"
+					>
+						here
+					</a>
+					. I promise to send newsletters only once every two weeks
+					(at most). Up Next: "Why I Turned Down Big Tech Out Of
+					College."
+				</b>
 			</Typography>
 		</Grid>
 	);
