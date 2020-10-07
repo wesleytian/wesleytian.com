@@ -2,7 +2,7 @@ import '../styles/globals.css';
 import 'regenerator-runtime/runtime.js';
 import React from 'react';
 import Layout from '../components/layout';
-import { createMuiTheme, ThemeProvider, Box } from '@material-ui/core';
+import { createMuiTheme, ThemeProvider } from '@material-ui/core';
 import ButtonAppBar from '../components/ButtonAppBar';
 import Footer from '../components/Footer';
 import JssProvider from 'react-jss/lib/JssProvider';
@@ -12,9 +12,7 @@ function MyApp({ Component, pageProps }) {
 		<Layout>
 			<JssProvider>
 				<ThemeProvider theme={theme}>
-					<Box py={5}>
-						<ButtonAppBar />
-					</Box>
+					<ButtonAppBar />
 					<Component {...pageProps} />
 					<Footer />
 				</ThemeProvider>

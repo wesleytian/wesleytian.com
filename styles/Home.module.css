@@ -1,12 +1,5 @@
 .container {
 	min-height: 100vh;
-	/* padding: 0 0.5rem; */
-	/* display: flex; */
-	/* flex-direction: column; */
-	/* justify-content: center; */
-	/* padding-top: 5rem; */
-	/* margin-top: 4rem; */
-	/* align-items: center; */
 }
 
 .main {
@@ -16,7 +9,7 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-top: 4rem;
+	margin-top: 3rem;
 }
 
 .footer {
@@ -54,16 +47,6 @@
 	line-height: 1.15;
 	font-size: 4rem;
 }
-
-/* .title,
-.description {
-	text-align: center;
-} */
-
-/* .description {
-	line-height: 1.5;
-	font-size: 1.5rem;
-} */
 
 .description a {
 	color: #0070f3;

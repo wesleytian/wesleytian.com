@@ -1,5 +1,5 @@
-import React from 'react';
 import styles from '../styles/Home.module.css';
+import React from 'react';
 import {
 	Typography,
 	Grid,
@@ -26,19 +26,19 @@ export default function LibraryPage() {
 						paragraph
 						className={styles.description}
 					>
-						There's so much information out there these days. The
-						hard part isn't finding information, it's filtering it
-						down. Thus, I've tried very hard to curate this list to
-						include only the information that I find most
-						insightful. I find{' '}
+						There's so much reading material out there these days.
+						The hard part isn't finding stuff to read; it's
+						filtering it down. Thus, I've tried very hard to curate
+						this list to include only the information that I have
+						found most insightful. I find{' '}
 						<a
 							href="https://patrickcollison.com/bookshelf"
 							target="_blank"
 						>
 							lists like these
 						</a>{' '}
-						to be flat out overwhelming and unhelpful when looking
-						for reading recommendations.
+						to be flat-out overwhelming bordering on unhelpful when
+						looking for reading recommendations.
 					</Typography>
 					<Typography
 						variant="body1"
@@ -46,18 +46,16 @@ export default function LibraryPage() {
 						paragraph
 						className={styles.description}
 					>
-						Do you think you've read/seen something that I might
+						Have you read/seen something that you think I might
 						like? If so, drop me an email at{' '}
 						<a href="mailto:tian.wesley@gmail.com" target="_blank">
 							tian.wesley@gmail.com
 						</a>
-						. I'll give you credit here.
+						. Credit will be given where credit's due.
 					</Typography>
 
 					{/* Section 2 */}
-					<Typography variant="h6">
-						Nuggets of Wisdom (Super Short-Form)
-					</Typography>
+					{/* <Typography variant="h6">Quotes</Typography>
 					<Grid container>
 						<List>
 							<ListItem divider disableGutters>
@@ -68,18 +66,15 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Build or Buy Equity in a Business`}
-										secondary={`Naval Ravikant (Co-Founder and Ex-CEO of AngelList,
-											Early-Stage Investor in Uber, Twitter)`}
+										secondary={`Naval Ravikant`}
 									/>
 								</ListItemLink>
 							</ListItem>
 						</List>
-					</Grid>
+					</Grid> */}
 
 					{/* Section 2 */}
-					<Typography variant="h6">
-						Articles of Wisdom (Short-Form)
-					</Typography>
+					<Typography variant="h6">Short-Form</Typography>
 					<Grid container>
 						<List>
 							<ListItem divider disableGutters>
@@ -90,8 +85,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Build or Buy Equity in a Business`}
-										secondary={`Naval Ravikant (Co-Founder and Ex-CEO of AngelList,
-											Early-Stage Investor in Uber, Twitter)`}
+										secondary={`Naval Ravikant`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -111,9 +105,7 @@ export default function LibraryPage() {
 					</Grid>
 
 					{/* Section 3 */}
-					<Typography variant="h6">
-						Life-Changing Books (Long-Form)
-					</Typography>
+					<Typography variant="h6">Long-Form</Typography>
 					<Grid container>
 						<List>
 							<ListItem divider disableGutters>
@@ -124,7 +116,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Sapiens: A Brief History of Humankind`}
-										secondary={`Yuval Noah Harari`}
+										secondary={`By Yuval Noah Harari [Genres: Nonfiction, History]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -136,7 +128,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life`}
-										secondary={`William Deresiewicz`}
+										secondary={`By William Deresiewicz [Genres: Education, Nonfiction]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -148,7 +140,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Zero to One: Notes on Startups, or How to Build the Future`}
-										secondary={`Peter Thiel with Blake Masters`}
+										secondary={`By Peter Thiel, Blake Masters [Genres: Business, Nonfiction]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -156,7 +148,7 @@ export default function LibraryPage() {
 					</Grid>
 
 					{/* Section 4 */}
-					<Typography variant="h6">Passive Consumption</Typography>
+					<Typography variant="h6">Passive</Typography>
 					<Grid container>
 						<List>
 							<ListItem divider disableGutters>
@@ -167,7 +159,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Interstellar`}
-										secondary={`Christopher Nolan`}
+										secondary={`By Christopher Nolan [Genres: Science Fiction, Action]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -176,7 +168,7 @@ export default function LibraryPage() {
 								<ListItemText
 									className={styles.description}
 									primary={`Breaking Bad (TV Series)`}
-									secondary={`Vince Gilligan`}
+									secondary={`By Vince Gilligan [Genres: Crime, Drama, Thriller]`}
 								/>
 								{/* </ListItemLink> */}
 							</ListItem>
@@ -185,7 +177,7 @@ export default function LibraryPage() {
 								<ListItemText
 									className={styles.description}
 									primary={`Mindhunter (TV Series)`}
-									secondary={`Joe Penhall`}
+									secondary={`By Joe Penhall [Genres: Crime, Drama, Thriller]`}
 								/>
 								{/* </ListItemLink> */}
 							</ListItem>
@@ -194,7 +186,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Free Solo`}
-										secondary={`Jimmy Chin, Elizabeth Chai Vasarhelyi`}
+										secondary={`By Jimmy Chin, Elizabeth Chai Vasarhelyi [Genres: Documentary]`}
 									/>
 								</ListItemLink>
 							</ListItem>

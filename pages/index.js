@@ -1,8 +1,8 @@
+import styles from '../styles/Home.module.css';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import React, { useEffect } from 'react';
-import styles from '../styles/Home.module.css';
 import Head from 'next/head';
 import { Grid, Box } from '@material-ui/core';
 import Timeline from '../components/Timeline';

@@ -1,3 +1,4 @@
+import styles from '../styles/Home.module.css';
 import React from 'react';
 import {
 	ListItem,
@@ -5,7 +6,6 @@ import {
 	ListItemText,
 	Typography
 } from '@material-ui/core';
-import styles from '../styles/Home.module.css';
 import CheckBoxIcon from '@material-ui/icons/CheckBox';
 
 export default function TimelineStep({ primary, secondary, link, linkName }) {

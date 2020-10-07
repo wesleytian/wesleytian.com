@@ -1,3 +1,4 @@
+import styles from '../styles/Home.module.css';
 import React from 'react';
 import { IconButton } from '@material-ui/core';
 import GitHubIcon from '@material-ui/icons/GitHub';
@@ -6,7 +7,6 @@ import InstagramIcon from '@material-ui/icons/Instagram';
 import MailIcon from '@material-ui/icons/Mail';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import styles from '../styles/Home.module.css';
 
 export default function Footer() {
 	return (

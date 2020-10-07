@@ -1,10 +1,10 @@
-import React from 'react';
-import { Typography, Box } from '@material-ui/core';
 import styles from '../styles/Home.module.css';
+import React from 'react';
+import { Typography, Grid } from '@material-ui/core';
 
 export default function Header() {
 	return (
-		<>
+		<Grid container direction="column">
 			<Typography variant="h4" gutterBottom>
 				<b>Hey, I'm Wesley! 😁</b>
 			</Typography>
@@ -16,6 +16,6 @@ export default function Header() {
 				I live in Reno, Nevada, and work virtually at{' '}
 				<a href="https://tryvirtually.com/">Virtually.</a>
 			</Typography>
-		</>
+		</Grid>
 	);
 }
