@@ -1,3 +1,4 @@
+import styles from '../styles/Home.module.css';
 import React from 'react';
 import Grid from '@material-ui/core/Grid';
 import { List, Typography, Box } from '@material-ui/core';
@@ -9,6 +10,7 @@ export default function MostPopular() {
 			<Typography variant="h4" gutterBottom>
 				<b>Most Popular</b>
 			</Typography>
+
 			<List>
 				<PostSnippet
 					title={'I Nearly Failed High School'}
@@ -37,6 +39,26 @@ export default function MostPopular() {
 					views={386}
 				/>
 			</List>
+			<Typography
+				variant="body1"
+				color="secondary"
+				className={styles.description}
+				paragraph
+			></Typography>
+			<Typography
+				variant="h6"
+				color="textSecondary"
+				className={styles.description}
+				paragraph
+			>
+				Keep up to date with my blog posts by subscribing to my
+				newsletter{' '}
+				<a href="https://buttondown.email/wesleytian" target="_blank">
+					here
+				</a>
+				. I promise to send newsletters only once every two weeks (at
+				most). Up Next: "Why I Turned Down Big Tech Out Of College."
+			</Typography>
 		</Grid>
 	);
 }

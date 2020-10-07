@@ -147,14 +147,14 @@ export default function LibraryPage() {
 									/>
 								</ListItemLink>
 							</ListItem>
-							<ListItem divider>
-								{/* <ListItemLink href="https://www.netflix.com/title/80114855"> */}
-								<ListItemText
-									className={styles.description}
-									primary={`Mindhunter (TV Series)`}
-									secondary={`Joe Penhall [Genres: Crime, Drama, Thriller]`}
-								/>
-								{/* </ListItemLink> */}
+							<ListItem divider disableGutters>
+								<ListItemLink href="https://www.netflix.com/title/80114855">
+									<ListItemText
+										className={styles.description}
+										primary={`Mindhunter (TV Series)`}
+										secondary={`Joe Penhall [Genres: Crime, Drama, Thriller]`}
+									/>
+								</ListItemLink>
 							</ListItem>
 							<ListItem divider disableGutters>
 								<ListItemLink
@@ -169,13 +169,11 @@ export default function LibraryPage() {
 								</ListItemLink>
 							</ListItem>
 							<ListItem divider>
-								{/* <ListItemLink href=""> */}
 								<ListItemText
 									className={styles.description}
 									primary={`Breaking Bad (TV Series)`}
 									secondary={`Vince Gilligan [Genres: Crime, Drama, Thriller]`}
 								/>
-								{/* </ListItemLink> */}
 							</ListItem>
 						</List>
 					</Grid>
