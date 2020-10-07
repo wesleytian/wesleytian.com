@@ -24,7 +24,7 @@ export default function Timeline() {
 				<List>
 					<TimelineStep
 						primary={
-							'Received My First Full-Time Job Offer Ever–From Microsoft 🎉'
+							'Received My First Full-Time Job Offer Ever From Microsoft 🎉'
 						}
 						secondary={
 							'I interviewed for an internship position, but to my pleasant surprise, I received a full-time offer. I wanted to graduate first, though, so I turned it down and asked for my internship back. (I still had 3 semesters left until graduation at the time.)'
@@ -55,7 +55,7 @@ export default function Timeline() {
 					/>
 					<TimelineStep
 						primary={
-							'Got My First Job + Became Housemates With My Professor 😎'
+							'First Job + Became Housemates With A Professor 😎'
 						}
 						secondary={
 							"My UMass Amherst computer science professor let me stay at his house over the summer while working for his IoT startup. Without his close mentorship, I probably wouldn't be where I am today. For that, I am eternally grateful."
