@@ -58,6 +58,18 @@ export default function LibraryPage() {
 						<List>
 							<ListItem divider disableGutters>
 								<ListItemLink
+									href="https://digitalnative.substack.com/p/the-startups-transforming-education"
+									target="_blank"
+								>
+									<ListItemText
+										className={styles.description}
+										primary={`The Startups Transforming Education: How Technology is Improving Quality and Lowering Costs`}
+										secondary={`Rex Woodbury`}
+									/>
+								</ListItemLink>
+							</ListItem>
+							<ListItem divider disableGutters>
+								<ListItemLink
 									href="https://www.navalmanack.com/almanack-of-naval-ravikant/be-patient"
 									target="_blank"
 								>
@@ -93,7 +105,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Zero to One: Notes on Startups, or How to Build the Future`}
-										secondary={`By Peter Thiel, Blake Masters [Genres: Business, Nonfiction]`}
+										secondary={`Peter Thiel, Blake Masters [Genres: Business, Nonfiction]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -105,7 +117,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life`}
-										secondary={`By William Deresiewicz [Genres: Education, Nonfiction]`}
+										secondary={`William Deresiewicz [Genres: Education, Nonfiction]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -117,7 +129,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Sapiens: A Brief History of Humankind`}
-										secondary={`By Yuval Noah Harari [Genres: Nonfiction, History]`}
+										secondary={`Yuval Noah Harari [Genres: Nonfiction, History]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -131,7 +143,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Free Solo`}
-										secondary={`By Jimmy Chin, Elizabeth Chai Vasarhelyi [Genres: Documentary]`}
+										secondary={`Jimmy Chin, Elizabeth Chai Vasarhelyi [Genres: Documentary]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -140,7 +152,7 @@ export default function LibraryPage() {
 								<ListItemText
 									className={styles.description}
 									primary={`Mindhunter (TV Series)`}
-									secondary={`By Joe Penhall [Genres: Crime, Drama, Thriller]`}
+									secondary={`Joe Penhall [Genres: Crime, Drama, Thriller]`}
 								/>
 								{/* </ListItemLink> */}
 							</ListItem>
@@ -152,7 +164,7 @@ export default function LibraryPage() {
 									<ListItemText
 										className={styles.description}
 										primary={`Interstellar`}
-										secondary={`By Christopher Nolan [Genres: Science Fiction, Action]`}
+										secondary={`Christopher Nolan [Genres: Science Fiction, Action]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -161,7 +173,7 @@ export default function LibraryPage() {
 								<ListItemText
 									className={styles.description}
 									primary={`Breaking Bad (TV Series)`}
-									secondary={`By Vince Gilligan [Genres: Crime, Drama, Thriller]`}
+									secondary={`Vince Gilligan [Genres: Crime, Drama, Thriller]`}
 								/>
 								{/* </ListItemLink> */}
 							</ListItem>
