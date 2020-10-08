@@ -1,6 +1,13 @@
+import styles from '../styles/Home.module.css';
 import React, { useState } from 'react';
-import Grid from '@material-ui/core/Grid';
-import { List, Divider, Typography, Button } from '@material-ui/core';
+import {
+	List,
+	Divider,
+	Typography,
+	Button,
+	Box,
+	Grid
+} from '@material-ui/core';
 import TimelineStep from './TimelineStep';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import ExpandLessIcon from '@material-ui/icons/ExpandLess';

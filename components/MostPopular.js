@@ -60,9 +60,8 @@ export default function MostPopular() {
 					>
 						here
 					</a>
-					. I promise to send newsletters only once every two weeks
-					(at most). Up Next: "Why I Turned Down Big Tech Out Of
-					College."
+					. I promise to send you newsletters at most once every two
+					weeks. Up Next: "Why I Turned Down Big Tech Out Of College."
 				</b>
 			</Typography>
 		</Grid>

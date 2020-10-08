@@ -38,6 +38,14 @@ export default function ButtonAppBar() {
 							</Typography>
 						</Button>
 					</NextLink>
+
+					<Button style={{ textTransform: 'none' }} size="large">
+						<Typography variant="body1" color="textSecondary">
+							<a href="https://buttondown.email/wesleytian">
+								Subscribe
+							</a>
+						</Typography>
+					</Button>
 				</Toolbar>
 			</Grid>
 		</AppBar>
