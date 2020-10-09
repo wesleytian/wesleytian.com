@@ -25,8 +25,21 @@ export default function BlogPage() {
 						color="textSecondary"
 						className={styles.description}
 					>
-						Visit my previous blog{' '}
-						<a href={'https://wesleytian.github.io/'}>here</a>.
+						Visit my previous blogs{' '}
+						<a
+							href={'https://wesleytian.github.io/'}
+							target="_blank"
+						>
+							here
+						</a>{' '}
+						and{' '}
+						<a
+							href={'https://wesleytian.wordpress.com'}
+							target="_blank"
+						>
+							here
+						</a>
+						.
 					</Typography>
 				</Grid>
 			</main>
