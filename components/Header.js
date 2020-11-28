@@ -16,5 +16,5 @@ export default function Header() {
 				<a href="https://tryvirtually.com/">Virtually.</a>
 			</Typography>
 		</Grid>
-	);,
+	);
 }
