@@ -1,7 +1,7 @@
-import styles from '../styles/Home.module.css';
-import React from 'react';
-import Grid from '@material-ui/core/Grid';
-import AboutMe from '../components/AboutMe';
+import styles from "../styles/Home.module.css";
+import React from "react";
+import Grid from "@material-ui/core/Grid";
+import AboutMe from "../components/AboutMe";
 
 export default function AboutPage() {
 	return (

@@ -1,5 +1,5 @@
-import React from 'react';
-import { ListItemText, Typography, Grid, Box } from '@material-ui/core';
+import React from "react";
+import { ListItemText, Typography, Grid, Box } from "@material-ui/core";
 
 export default function PostSnippet({ title, link, snippet, views }) {
 	const primary = (
@@ -22,8 +22,8 @@ export default function PostSnippet({ title, link, snippet, views }) {
 		<a href={link}>
 			<ListItemText
 				secondaryTypographyProps={{
-					variant: 'body1',
-					color: 'textSecondary'
+					variant: "body1",
+					color: "textSecondary"
 				}}
 				primary={primary}
 				secondary={snippet}

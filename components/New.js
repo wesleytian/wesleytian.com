@@ -1,7 +1,7 @@
-import React from 'react';
-import Grid from '@material-ui/core/Grid';
-import { List, Typography, Box } from '@material-ui/core';
-import PostSnippet from './PostSnippet';
+import React from "react";
+import Grid from "@material-ui/core/Grid";
+import { List, Typography, Box } from "@material-ui/core";
+import PostSnippet from "./PostSnippet";
 
 export default function New() {
 	return (
@@ -13,8 +13,8 @@ export default function New() {
 					</Typography>
 					<List>
 						<PostSnippet
-							title={'I Nearly Failed High School'}
-							link={'https://wesleytian.github.io/2019/gpa/'}
+							title={"I Nearly Failed High School"}
+							link={"https://wesleytian.github.io/2019/gpa/"}
 							snippet={
 								"Though I ended up receiving a full-time offer at Microsoft and finishing both University of Michigan's computer science and data science programs within 2.5 years while achieving University Honors, I nearly failed high school due to abysmal grades."
 							}

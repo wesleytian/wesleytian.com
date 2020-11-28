@@ -1,20 +1,20 @@
-import styles from '../styles/Home.module.css';
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
-import React, { useEffect } from 'react';
-import Head from 'next/head';
-import { Grid, Box } from '@material-ui/core';
-import Timeline from '../components/Timeline';
-import { incrementViews } from '../lib/firebase';
-import MostPopular from '../components/MostPopular';
-import Header from '../components/Header';
+import styles from "../styles/Home.module.css";
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import React, { useEffect } from "react";
+import Head from "next/head";
+import { Grid, Box } from "@material-ui/core";
+import Timeline from "../components/Timeline";
+import { incrementViews } from "../lib/firebase";
+import MostPopular from "../components/MostPopular";
+import Header from "../components/Header";
 
 const root = process.cwd();
 
 export default function IndexPage() {
 	useEffect(() => {
-		incrementViews('home');
+		incrementViews("home");
 	}, []);
 
 	return (
@@ -38,11 +38,11 @@ export default function IndexPage() {
 	);
 }
 export async function getStaticProps() {
-	const contentRoot = path.join(root, 'content');
+	const contentRoot = path.join(root, "content");
 	const postData = fs.readdirSync(contentRoot).map((p) => {
-		const content = fs.readFileSync(path.join(contentRoot, p), 'utf8');
+		const content = fs.readFileSync(path.join(contentRoot, p), "utf8");
 		return {
-			slug: p.replace(/\.mdx/, ''),
+			slug: p.replace(/\.mdx/, ""),
 			content,
 			frontMatter: matter(content).data
 		};

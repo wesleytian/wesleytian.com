@@ -1,12 +1,12 @@
-import styles from '../styles/Home.module.css';
-import React from 'react';
+import styles from "../styles/Home.module.css";
+import React from "react";
 import {
 	Typography,
 	Grid,
 	List,
 	ListItem,
 	ListItemText
-} from '@material-ui/core';
+} from "@material-ui/core";
 
 function ListItemLink(props) {
 	return <ListItem button component="a" {...props} />;
@@ -24,30 +24,24 @@ export default function LibraryPage() {
 						variant="body1"
 						color="textSecondary"
 						paragraph
-						className={styles.description}
-					>
-						There's so much reading material out there these days.
-						The hard part isn't finding stuff to read; it's
-						filtering it down. Thus, I've tried very hard to curate
-						this list to include only the information that I have
-						found most insightful or inspiring. I find{' '}
-						<a
-							href="https://patrickcollison.com/bookshelf"
-							target="_blank"
-						>
+						className={styles.description}>
+						There's so much reading material out there these days. The hard part
+						isn't finding stuff to read; it's filtering it down. Thus, I've
+						tried very hard to curate this list to include only the information
+						that I have found most insightful or inspiring. I find{" "}
+						<a href="https://patrickcollison.com/bookshelf" target="_blank">
 							lists like these
-						</a>{' '}
-						to be flat-out overwhelming bordering on unhelpful when
-						looking for reading recommendations.
+						</a>{" "}
+						to be flat-out overwhelming bordering on unhelpful when looking for
+						reading recommendations.
 					</Typography>
 					<Typography
 						variant="body1"
 						color="textSecondary"
 						paragraph
-						className={styles.description}
-					>
-						Have you recently read/seen something that you think I
-						might like? If so, drop me an email at{' '}
+						className={styles.description}>
+						Have you recently read/seen something that you think I might like?
+						If so, drop me an email at{" "}
 						<a href="mailto:tian.wesley@gmail.com" target="_blank">
 							tian.wesley@gmail.com
 						</a>
@@ -59,8 +53,7 @@ export default function LibraryPage() {
 							<ListItem divider disableGutters>
 								<ListItemLink
 									href="https://digitalnative.substack.com/p/the-startups-transforming-education"
-									target="_blank"
-								>
+									target="_blank">
 									<ListItemText
 										className={styles.description}
 										primary={`The Startups Transforming Education: How Technology is Improving Quality and Lowering Costs`}
@@ -71,8 +64,7 @@ export default function LibraryPage() {
 							<ListItem divider disableGutters>
 								<ListItemLink
 									href="https://www.navalmanack.com/almanack-of-naval-ravikant/be-patient"
-									target="_blank"
-								>
+									target="_blank">
 									<ListItemText
 										className={styles.description}
 										primary={`Be Patient`}
@@ -83,8 +75,7 @@ export default function LibraryPage() {
 							<ListItem divider disableGutters>
 								<ListItemLink
 									href="https://blog.samaltman.com/how-to-be-successful"
-									target="_blank"
-								>
+									target="_blank">
 									<ListItemText
 										className={styles.description}
 										primary={`How To Be Successful`}
@@ -100,8 +91,7 @@ export default function LibraryPage() {
 							<ListItem divider disableGutters>
 								<ListItemLink
 									href="https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?crid=2G4HN36NSV6PB&dchild=1&keywords=zero+to+one&qid=1601970992&s=books&sprefix=zero+to+o%2Cstripbooks%2C239&sr=1-1"
-									target="_blank"
-								>
+									target="_blank">
 									<ListItemText
 										className={styles.description}
 										primary={`Zero to One: Notes on Startups, or How to Build the Future`}
@@ -112,8 +102,7 @@ export default function LibraryPage() {
 							<ListItem divider disableGutters>
 								<ListItemLink
 									href="https://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful-ebook/dp/B00GEEB960/ref=sr_1_1?crid=12QL8HWVVUIVA&dchild=1&keywords=excellent+sheep&qid=1601970961&s=books&sprefix=excellent%2Cstripbooks%2C250&sr=1-1"
-									target="_blank"
-								>
+									target="_blank">
 									<ListItemText
 										className={styles.description}
 										primary={`Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life`}
@@ -124,8 +113,7 @@ export default function LibraryPage() {
 							<ListItem divider disableGutters>
 								<ListItemLink
 									href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_2?crid=330KK0BNZD03H&dchild=1&keywords=sapiens+a+brief+history+of+humankind&qid=1601971005&s=books&sprefix=sapiens%2Cstripbooks%2C257&sr=1-2"
-									target="_blank"
-								>
+									target="_blank">
 									<ListItemText
 										className={styles.description}
 										primary={`Sapiens: A Brief History of Humankind`}
@@ -159,8 +147,7 @@ export default function LibraryPage() {
 							<ListItem divider disableGutters>
 								<ListItemLink
 									href="https://www.amazon.com/Interstellar-Matthew-McConaughey/dp/B00TU9UFTS"
-									target="_blank"
-								>
+									target="_blank">
 									<ListItemText
 										className={styles.description}
 										primary={`Interstellar`}

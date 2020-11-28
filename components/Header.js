@@ -1,6 +1,6 @@
-import styles from '../styles/Home.module.css';
-import React from 'react';
-import { Typography, Grid } from '@material-ui/core';
+import styles from "../styles/Home.module.css";
+import React from "react";
+import { Typography, Grid } from "@material-ui/core";
 
 export default function Header() {
 	return (
@@ -11,11 +11,10 @@ export default function Header() {
 			<Typography
 				variant="h5"
 				color="textSecondary"
-				className={styles.description}
-			>
-				I live in Reno, Nevada, and work virtually at{' '}
+				className={styles.description}>
+				I live in Reno, Nevada, and work virtually at{" "}
 				<a href="https://tryvirtually.com/">Virtually.</a>
 			</Typography>
 		</Grid>
-	);
+	);,
 }
