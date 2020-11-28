@@ -18,8 +18,7 @@ export default function AboutMe() {
 				<a href="https://tryvirtually.com/">Virtually</a>, the "Shopify
 				for Online Schools". As Virtually's first hire, I help out in
 				multiple domains, but my forte is software engineering. We
-				recently went through Y Combinator's Summer 2020 batch and
-				raised a{' '}
+				went through Y Combinator's startup accelerator program this past summer which culminated in a 1.8M{' '}
 				<a
 					href="https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global"
 					target="_blank"
@@ -33,12 +32,10 @@ export default function AboutMe() {
 				my preadult years in Milpitas, California; 15% in West Linn,
 				Oregon; 10% in Taiwan, Taipei; and 45% in Shanghai, China. Since
 				then, I've also resided in Amherst, Massachusetts; and Ann
-				Arbor, Michigan.
+				Arbor, Michigan for my undegraduate studies.
 			</Typography>
 			<Typography variant="body1" color="textSecondary" paragraph>
-				I enjoy learning, writing, building side projects, visiting
-				friends in San Francisco, hiking, and working on my handstand in
-				my free time.
+				I enjoy reading, writing, hanging out with friends, and hiking in my free time. I'm also training for an IronmanTriathlon.
 			</Typography>
 		</>
 	);
