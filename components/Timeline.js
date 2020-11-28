@@ -173,6 +173,8 @@ export default function Timeline() {
 					secondary={
 						"What began as a cold call for startup advice turned into a job offer as Virtually's first employee."
 					}
+					link={"http://localhost:1313/2020/dream-job/"}
+					linkName={"Read more here."}
 				/>
 				<TimelineStep
 					primary={"Rejected by Ding Tea 🥤"}

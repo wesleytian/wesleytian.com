@@ -14,7 +14,7 @@ export default function BlogPage() {
 						Work in Progress
 					</Typography>
 					<Typography variant="body1" color="textSecondary" paragraph>
-						I'm migrating everything from my previous site to this one built
+						I'm migrating everything from my previous blogs to this one built
 						using more modern and customizable software libraries. Specifically,
 						I've chosen to use TypeScript, React, Material-UI, MDX, Next.js, SWR
 						Hooks, Vercel, and Google Firebase.

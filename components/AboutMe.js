@@ -35,7 +35,7 @@ export default function AboutMe() {
 			</Typography>
 			<Typography variant="body1" color="textSecondary" paragraph>
 				I enjoy reading, writing, hanging out with friends, and hiking in my
-				free time. I'm also training for an IronmanTriathlon.
+				free time. I'm also training for an Ironman Triathlon.
 			</Typography>
 		</>
 	);
