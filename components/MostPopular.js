@@ -63,6 +63,13 @@ export default function MostPopular() {
 					. I promise to send you newsletters at most once every two
 					weeks. Up Next: "Why I Turned Down Big Tech Out Of College."
 				</b>
+				
+			</Typography>
+			<Typography variant="body1"
+				color="textSecondary"
+				className={styles.description}
+				paragraph>
+				<i>View counts last updated on Nov 27th, 2020.</i>
 			</Typography>
 		</Grid>
 	);
