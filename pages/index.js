@@ -9,6 +9,7 @@ import Timeline from "../components/Timeline";
 import { incrementViews } from "../lib/firebase";
 import MostPopular from "../components/MostPopular";
 import Header from "../components/Header";
+import New from "../components/New";
 
 const root = process.cwd();
 
@@ -26,10 +27,13 @@ export default function IndexPage() {
 			<main className={styles.main}>
 				<Grid item container xs={11} md={8}>
 					<Header />
-					<Box mt={5} mb={2}>
+					<Box mt={5}>
+						<New />
+					</Box>
+					<Box mt={3}>
 						<MostPopular />
 					</Box>
-					<Box mt={5}>
+					<Box mt={3}>
 						<Timeline />
 					</Box>
 				</Grid>

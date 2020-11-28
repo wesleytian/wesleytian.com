@@ -10,11 +10,13 @@ export default function PostSnippet({ title, link, snippet, views }) {
 				</Typography>
 			</Grid>
 
-			<Grid item xs={4}>
-				<Typography variant="body1" color="textSecondary" align="right">
-					{views.toLocaleString()} views
-				</Typography>
-			</Grid>
+			{views && (
+				<Grid item xs={4}>
+					<Typography variant="body1" color="textSecondary" align="right">
+						{views.toLocaleString()} views
+					</Typography>
+				</Grid>
+			)}
 		</Grid>
 	);
 
