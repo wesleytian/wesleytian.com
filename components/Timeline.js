@@ -1,13 +1,5 @@
-import styles from "../styles/Home.module.css";
 import React, { useState } from "react";
-import {
-	List,
-	Divider,
-	Typography,
-	Button,
-	Box,
-	Grid
-} from "@material-ui/core";
+import { List, Divider, Typography, Button, Grid } from "@material-ui/core";
 import TimelineStep from "./TimelineStep";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import ExpandLessIcon from "@material-ui/icons/ExpandLess";
@@ -138,7 +130,7 @@ export default function Timeline() {
 	return (
 		<Grid item container justify="flex-start" direction="column">
 			<Typography variant="h4" gutterBottom>
-				<b>Timeline</b>
+				<b>🗓️ Timeline</b>
 			</Typography>
 			<Typography variant="h5">
 				<b>2020</b>

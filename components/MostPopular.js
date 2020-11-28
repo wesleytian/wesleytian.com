@@ -7,8 +7,8 @@ import PostSnippet from "./PostSnippet";
 export default function MostPopular() {
 	return (
 		<Grid item container justify="flex-start" direction="column">
-			<Typography variant="h4" gutterBottom>
-				<b>Most Popular</b>
+			<Typography variant="h4">
+				<b>🔥 Most Popular</b>
 			</Typography>
 
 			<List>
