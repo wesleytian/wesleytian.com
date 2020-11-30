@@ -111,7 +111,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"Born 👶🏻"}
 						secondary={
-							"Born on Earth Day in Mountain View, CA, the heart of Silicon Valley."
+							"Born in Mountain View, CA, the heart of Silicon Valley."
 						}
 					/>
 				</List>
