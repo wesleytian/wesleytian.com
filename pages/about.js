@@ -7,7 +7,13 @@ export default function AboutPage() {
 	return (
 		<div className={styles.container}>
 			<main className={styles.main}>
-				<Grid item container xs={11} md={8}>
+				<Grid
+					item
+					container
+					xs={11}
+					md={8}
+					direction="column"
+					className={styles.description}>
 					<AboutMe />
 				</Grid>
 			</main>
