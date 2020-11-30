@@ -1,7 +1,7 @@
 import styles from "../styles/Home.module.css";
 import React from "react";
 import Grid from "@material-ui/core/Grid";
-import AboutMe from "../components/AboutMe";
+import About from "../components/About";
 
 export default function AboutPage() {
 	return (
@@ -14,7 +14,7 @@ export default function AboutPage() {
 					md={8}
 					direction="column"
 					className={styles.description}>
-					<AboutMe />
+					<About />
 				</Grid>
 			</main>
 		</div>

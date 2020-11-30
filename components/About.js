@@ -2,7 +2,7 @@ import styles from "../styles/Home.module.css";
 import React from "react";
 import { Box, Divider, Typography } from "@material-ui/core";
 
-export default function AboutMe() {
+export default function About() {
 	return (
 		<>
 			<Typography variant="h4" gutterBottom>
@@ -104,7 +104,7 @@ export default function AboutMe() {
 				. Contributors: Kiernan Roche, Your Name Here
 			</Typography>
 			<Typography color="textSecondary" paragraph>
-				Total views: 13,080* <i>Last updated at Nov 27, 2020 17:22 PT.</i>
+				Total views: 13,080* <i>Last updated on November 29th, 2020.</i>
 			</Typography>
 			<Typography color="textSecondary" paragraph>
 				*This view count is according to Google Analytics. So, it's going to be
