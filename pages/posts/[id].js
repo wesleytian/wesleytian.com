@@ -2,13 +2,14 @@ import { getAllPostIds, getPostData } from "../../lib/posts";
 import styles from "../../styles/Home.module.css";
 import React, { useEffect } from "react";
 import { Typography, Grid } from "@material-ui/core";
-import { useRouter } from "next/router";
 import { incrementViews } from "../../lib/firebase";
+import { format } from "date-fns";
 
 export default function Post({ postData }) {
 	useEffect(() => {
 		incrementViews(postData.id);
 	}, []);
+	const { title, date, contentHtml } = postData;
 
 	return (
 		<div className={styles.container}>
@@ -20,14 +21,16 @@ export default function Post({ postData }) {
 					xs={11}
 					md={8}
 					className={styles.description}>
-					<Typography variant="h4">{postData.title}</Typography>
+					<Typography variant="h4">{title}</Typography>
 					<br />
-					<Typography variant="body1">{postData.date}</Typography>
+					<Typography variant="body1">
+						{format(new Date(date), "PPP")}
+					</Typography>
 					<br />
 					<Typography variant="body1" color="textSecondary" paragraph>
 						<div
 							dangerouslySetInnerHTML={{
-								__html: postData.contentHtml
+								__html: contentHtml
 							}}></div>
 					</Typography>
 				</Grid>

@@ -19,6 +19,7 @@
 		"babel-plugin-styled-components": "^1.11.1",
 		"babel-polyfill": "^6.26.0",
 		"core-js": "3",
+		"date-fns": "^2.16.1",
 		"firebase": "^7.21.0",
 		"gray-matter": "^4.0.2",
 		"jss": "^10.4.0",

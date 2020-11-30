@@ -9,6 +9,7 @@ import {
 import React from "react";
 import styles from "../../styles/Home.module.css";
 import Link from "next/link";
+import { format } from "date-fns";
 
 export default function Home({ allPostsData }) {
 	return (
@@ -33,12 +34,12 @@ export default function Home({ allPostsData }) {
 						<List>
 							{allPostsData.map(({ id, date, title }) => {
 								return (
-									<Link href={`/posts/${id}`} target="_blank" key={id} passHref>
+									<Link href={`/posts/${id}`} key={id} passHref>
 										<ListItem divider disableGutters button component="a">
 											<ListItemText
 												className={styles.description}
 												primary={title}
-												secondary={date}
+												secondary={format(new Date(date), "PPP")}
 											/>
 										</ListItem>
 									</Link>
