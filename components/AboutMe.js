@@ -104,7 +104,7 @@ export default function AboutMe() {
 				. Contributors: Kiernan Roche, Your Name Here
 			</Typography>
 			<Typography color="textSecondary" paragraph>
-				Total views: 12,139* <i>Last updated at Nov 27, 2020 17:22 PT.</i>
+				Total views: 13,080* <i>Last updated at Nov 27, 2020 17:22 PT.</i>
 			</Typography>
 			<Typography color="textSecondary" paragraph>
 				*This view count is according to Google Analytics. So, it's going to be
