@@ -13,7 +13,7 @@ export default function New() {
 			<List>
 				<PostSnippet
 					title={"How I Found My Dream Job and 3 Tips On How You Can, Too"}
-					link={"https://wesleytian.github.io/2020/dream-job/"}
+					link={"/posts/dream-job"}
 					snippet={
 						"In this post, I tell the story of how I became the first employee and engineer at Virtually and what you can take away from my experience to find your dream job, too."
 					}
