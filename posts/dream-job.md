@@ -1,5 +1,5 @@
 ---
-title: "How I Found My Dream Job and 3 Tips On How You Can, Too"
+title: "🔥 How I Found My Dream Job and 3 Tips On How You Can, Too"
 date: "2020-11-27"
 ---
 

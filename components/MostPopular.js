@@ -18,7 +18,7 @@ export default function MostPopular() {
 					snippet={
 						"Read about how I went from nearly failing high school to receiving a full-time offer at Microsoft and finishing both University of Michigan's computer science and data science programs in 2.5 years while achieving University Honors."
 					}
-					views={2218}
+					views={2283}
 				/>
 				<Box my={2}>
 					<PostSnippet
@@ -27,14 +27,14 @@ export default function MostPopular() {
 						snippet={
 							"With my job and my girlfriend's schooling being completely remote, we chose to move to Reno out of all of the places in the world. Why?"
 						}
-						views={807}
+						views={863}
 					/>
 				</Box>
 				<PostSnippet
 					title={"I Climbed the Tallest Mountain in the Contiguous USA"}
 					link={"https://wesleytian.github.io/2019/whitney/"}
 					snippet="Last year, I convinced a few friends to climb Mt. Whitney (14,505 ft.) with me. This is a story of friendship, altitude sickness, and piss-drinking (out of necessity and not for fun, obviously...)"
-					views={623}
+					views={626}
 				/>
 			</List>
 			<Typography
@@ -61,7 +61,7 @@ export default function MostPopular() {
 				color="textSecondary"
 				className={styles.description}
 				paragraph>
-				<i>View counts last updated on Nov 27th, 2020.</i>
+				<i>View counts last updated on Nov 29th, 2020.</i>
 			</Typography>
 		</Grid>
 	);

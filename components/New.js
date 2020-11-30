@@ -17,6 +17,7 @@ export default function New() {
 					snippet={
 						"In this post, I tell the story of how I became the first employee and engineer at Virtually and what you can take away from my experience to find your dream job, too."
 					}
+					views={717}
 				/>
 			</List>
 		</Grid>
