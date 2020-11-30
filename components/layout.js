@@ -1,8 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
+import { initGA, logPageView } from "../utils/analytics";
 
-import { initGA, logPageView } from "./googleAnalytics.js";
-
-export default class Layout extends Component {
+export default class Layout extends React.Component {
 	componentDidMount() {
 		if (!window.GA_INITIALIZED) {
 			initGA();
@@ -10,7 +9,6 @@ export default class Layout extends Component {
 		}
 		logPageView();
 	}
-
 	render() {
 		return <div>{this.props.children}</div>;
 	}
