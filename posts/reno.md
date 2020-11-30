@@ -1,5 +1,5 @@
 ---
-title: "I'm Moving to Reno, Nevada. Why?"
+title: "🔥 3 Reasons Why You Should Move To Reno"
 date: "2020-07-25"
 ---
 

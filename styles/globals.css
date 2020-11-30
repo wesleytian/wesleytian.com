@@ -18,4 +18,4 @@ a {
 	box-sizing: border-box;
 }
 
-img[alt=img] { width: 100%; }
+img[alt=img] { width: 100%; border-radius: 16px;}

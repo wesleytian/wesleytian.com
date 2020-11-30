@@ -31,7 +31,7 @@ export default function MostPopular() {
 					/>
 				</Box>
 				<PostSnippet
-					title={"I Climbed the Tallest Mountain in the Contiguous USA"}
+					title={"Surviving the Tallest Mountain in the Contiguous US"}
 					link={"https://wesleytian.github.io/2019/whitney/"}
 					snippet="Last year, I convinced a few friends to climb Mt. Whitney (14,505 ft.) with me. This is a story of friendship, altitude sickness, and piss-drinking (out of necessity and not for fun, obviously...)"
 					views={626}
