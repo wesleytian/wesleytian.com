@@ -108,7 +108,7 @@ I didn't expect them to take me seriously, but Newton was actually like, "Sure."
 
 And so, Newton, being the next to piss, pissed into one of our filter bottles. 
 
-![img](/posts/piss.png)
+![img](/posts/newton-filtering-piss-on-mt-whitney.png)
 <center> *"Iconic, dude."* </center>
 
 Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the piss-filtered water. Newton, being a true friend, offered the rest of the water from his bottle to Doug and drank the filtered piss himself.
@@ -152,7 +152,7 @@ Confronting the altitude sickness, harsh winds, and the near-zero temperatures, 
 
 We had finally made it to the summit. To celebrate, Doug and I had some refreshing beers. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO.
 
-![img](/posts/beer.jpg)
+![img](/posts/drinking-beer-at-mt-whitney-summit.jpg)
 <center> *Enjoying a well-deserved drink* </center>
 
 A few pictures in, Nori mentioned to us, "I don't feel good."

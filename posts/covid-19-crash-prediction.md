@@ -9,15 +9,15 @@ On February 15th, 2020, I predicted that COVID-19, which was wrecking havoc in C
 
 On February 15th, 2020, I sold 85% percent of all my stocks.
 
-![img](/posts/2:15:2020-1.png)
-![img](/posts/2:15:2020-3.png)
-![img](/posts/2:15:2020-4.png)
-![img](/posts/2:15:2020-5.png)
+![img](/posts/coronavirus-crash-prediction-fb-messenger-screenshot-1.png)
+![img](/posts/coronavirus-crash-prediction-fb-messenger-screenshot-2.png)
+![img](/posts/coronavirus-crash-prediction-fb-messenger-screenshot-3.png)
+![img](/posts/coronavirus-crash-prediction-fb-messenger-screenshot-4.png)
 ![img](/posts/stocksellproof.png)
 
 On February 18th, 2020, the S&P 500 reached an all time high, despite the known deaths in China.
 
-![img](/posts/2:18:2020-1.png)
+![img](/posts/coronavirus-crash-prediction-fb-messenger-screenshot-5.png)
 
 On February 21th, 2020, the S&P 500 crashed.
 

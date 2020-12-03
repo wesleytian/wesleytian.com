@@ -26,7 +26,7 @@ It was around that point when I decided that I would stop at nothing to become o
 
 Of the 25 million players, I was stuck at the bottom 3% of them for two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
 
-![img](/posts/hell.png)
+![img](/posts/league-of-legends-elo-hell.png)
 <center>The lowest possible Elo was around 500. The highest was 2500. </center>
 
 I began to spend more and more time on improving my game mechanics.
@@ -41,7 +41,7 @@ Nearly two years later, I finally ended up in the top 2% of players in the world
 
 The reason why my GPA was so bad in high school is simple. I spent all my time trying to become better than my peers at League of Legends. (And I finally did it.)
 
-![img](/posts/d5.PNG)
+![img](/posts/league-of-legends-diamond-5-cn-server.PNG)
 
 ### Dream Big and Never Stop Believing in Yourself
 
@@ -61,10 +61,10 @@ I quit gaming cold turkey and started studying because I had a new goal in mind.
 
 It wasn't easy, but during my first semester at UMass Amherst, I took 18 credits (18 credits is the most you can take without having to pay extra tuition) and got a 4.00 GPA.
 
-![img](/posts/5.png)
+![img](/posts/umass-amherst-freshman-transcript.png)
 <center>*My first semester of college at UMass Amherst*</center>
 
-![img](/posts/6.png)
+![img](/posts/umich-senior-transcript.png)
 <center>*My most recent semester at UMich*</center>
 
 After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018 by doing LeetCode questions all summer long on top of a full-time job.
