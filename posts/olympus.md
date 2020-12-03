@@ -1,5 +1,5 @@
 ---
-title: The Happiest Moment of My Life
+title: "Hiking Mt. Olympus in Greece: The Happiest Time of My Life"
 date: "2016-09-02"
 ---
 
@@ -9,7 +9,7 @@ date: "2016-09-02"
 
 I always like to plan things out before I do them. Especially with hiking mountains in a country of which language I did not know, it was especially crucial for me to plan things out before hand. I searched online and found close to nothing that would help me prepare for Mt. Olympus. I basically went to Greece with no knowledge of Mt. Olympus so I had to figure everything out on the way. So, hopefully, this blog post will help guide those who wish to hike one of the most beautiful mountains on Earth.
 
-
+<!-- 
 ## Table of Contents
 
 - [Getting There](#getting_there)<br>
@@ -17,7 +17,7 @@ I always like to plan things out before I do them. Especially with hiking mount
 - [Routes](#routes)<br>
 - [FAQ](#faq)<br>
 - [Pictures](#pictures)<br>
-- [Final Verdict](#final_verdict)<br>
+- [Final Verdict](#final_verdict)<br> -->
 
 Location: Litochoro, Greece
 
