@@ -1,5 +1,5 @@
 ---
-title: "A Simple Brain Hack To Accomplish More"
+title: A Simple Brain Hack To Accomplish More
 date: "2015-07-27"
 ---
 

@@ -1,16 +1,22 @@
 ---
-title: "Climbing The North Face"
+title: Hiking the Half Dome
 date: "2015-09-01"
 ---
 
 It's been nearly a whole year since I summited the half dome in Yosemite Valley National Park. One of my favorite hiking adventures of all time, below is the journal entry that I wrote after the hike.<br>
 
-![img](https://images.unsplash.com/photo-1429516387459-9891b7b96c78?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+<!-- ## Table of Contents
+
+- [The Ascent](#the_ascent)
+- [The Descent](#the_descent)
+- [Review](#review)
+- [Afterword](#afterword) -->
+
+![img](/posts/yosemite-half-dome.jpeg)
 
 *Half Dome, Yosemite National Park, California. Look familiar? That's because it's a default desktop wallpaper for Apple computers and it was the inspiration for the North Face logo.*
 
-![img](http://stevec.smugmug.com/Hiking/Half-Dome-hike-July-9-2006/1005379/80937752_ZJ44q-O.jpg)
-
+[![img](http://stevec.smugmug.com/Hiking/Half-Dome-hike-July-9-2006/1005379/80937752_ZJ44q-O.jpg)](https://youtu.be/DhZQlaqzddg?t=445)
 *Yes, I would say it was quite steep. Click on the picture above to see a video of somebody climbing the cables.*
 
 9/1/2015
@@ -24,8 +30,8 @@ It's currently 3:28AM and I want to record my thoughts and experiences before I 
 
 My alarm went off at 5:30AM. The sounds of my neighbors woke me up many times throughout the night. When I finally fell into a deep sleep at 2 AM, I had to leave for the hike. During the night I had many dreams that I wish I could've written down.
 
-![img](/posts/half-dome-hike-packing.jpg)
-![img](/posts/half-dome-hike-packing-2.jpg)
+![img](/posts/half-dome-hike-packing-list.jpg)
+![img](/posts/half-dome-hike-packing-list-2.jpg)
 
 I dressed and set out with my parents at 6AM, eating my cold turkey sandwich on the way.
 
@@ -39,7 +45,7 @@ I remember having many interesting thoughts.
 
 What was especially interesting was how during the hike I began to remember so many things from my past. Recalling specific moments, such as waking up in the morning before dawn every day during military camp, and hiking Mirror Lake in Oregon as a child. It felt euphoric. It was like a rollercoaster of emotions.
 
-![img](/posts/top-of-half-dome-panorama.jpg)
+![img](/posts/half-dome-summit-panorama.jpg)
 
 <a name="the_descent"></a>
 # The Descent
@@ -50,9 +56,9 @@ We traveled fast. There weren't that many people on the trail, yet we were still
 
 On the way back, I chose the John Muir Trail instead of the Mist Trail in an attempt for some change in scenery. That was when I split up with my travel friend. It was the right choice. I got a surplus of more splendid sights and even got the chance to rest and wash my feet near a stream. It was chill. With 4 miles left, I ran out of water. That meant no food either because my energy snacks actually dehydrate you. Some nice travelers saved me though by throwing me a water bottle.
 
-![img](/posts/half-dome-hike-creek.jpg)
+![img](/posts/half-dome-hike-descent-creek.jpg)
 
-By the time I got down, I wasn't even that ecstatic to have made it to the top of the Half Dome and to have completed the adventure. I was too exhausted. Looking at the pictures I took seemed unnaturally serene to me. It felt like the Mt. Fuji hike. It's like life. After trekking so far and persevering so much, you make it to the top. But then, you don't even feel accomplished because after a while it becomes who you are. If you spend 20 years of your life becoming rich (no matter much money that is), and you finally become rich, you may hurrah one time, but then after that, that feeling of accomplishment fades and you label yourself as "rich" and move onto other things.
+By the time I got down, I wasn't even that ecstatic to have made it to the top of the Half Dome and to have completed the adventure. I was too exhausted. Looking at the pictures I took seemed unnaturally serene to me. It felt the Mt. Fuji hike. It's like life. After trekking so far and persevering so much, you make it to the top. But then, you don't even feel accomplished because after a while it becomes who you are. If you spend 20 years of your life becoming rich (no matter much money that is), and you finally become rich, you may hurrah one time, but then after that, that feeling of accomplishment fades and you label yourself as "rich" and move onto other things.
 
 Anyways, after hiking I was soo tired. My dad congratulated me, yet I ignored him. Too tired. On the way down I even stopped saying hi to people. Anyways, I took a shower, ate and immediately went to sleep. Didn't even move my stuff off of my bed.
 
