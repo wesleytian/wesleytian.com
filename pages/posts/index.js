@@ -19,17 +19,6 @@ export default function Home({ allPostsData }) {
 					<Typography variant="h4" color="textPrimary" gutterBottom>
 						<b>Blog</b>
 					</Typography>
-					<Typography color="textSecondary" className={styles.description}>
-						Migration from old blogs{" "}
-						<a href={"https://wesleytian.github.io/"} target="_blank">
-							here
-						</a>{" "}
-						and{" "}
-						<a href={"https://wesleytian.wordpress.com"} target="_blank">
-							here
-						</a>{" "}
-						in progress.
-					</Typography>
 					<Grid container>
 						<List>
 							{allPostsData.map(({ id, date, title }) => {
