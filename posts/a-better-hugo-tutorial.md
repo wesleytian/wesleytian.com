@@ -1,13 +1,13 @@
 ---
-title: "Hosting Hugo Using GitHub"
+title: "🛠️ Hosting Hugo Using GitHub"
 date: "2018-07-15"
 ---
 
-In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called `public` and will be inside of your source repository. This will be done by using a `git submodule`.
+In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files necessary to view your website. The website repo is called `public` and will be inside of your source repository. This will be done by using a `git submodule`.
 
-This guide requires you to have git installed, a Hugo website that you can easily clone from it's github repo, and a GitHub account.
+This guide requires you to have git installed, a Hugo website that you can easily clone from its Github repo, and a GitHub account.
 
-1. Create a GitHub repository for your website. Name it `<USERNAME>.github.io`. All your files neccessary for your website will be stored here.
+1. Create a GitHub repository for your website. Name it `<USERNAME>.github.io`. All your files necessary for your website will be stored here.
 	Ex: wesleytian.github.io
 
 2. Create a Github repository for all of your Hugo source code. Name it anything you like _except_ for `<USERNAME>.github.io`.
