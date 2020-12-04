@@ -1,5 +1,5 @@
 ---
-title: Hacking an Inadequate Air Conditioner – Part 2
+title: "🛠️ Hacking an Inadequate Air Conditioner – Part 2"
 date: "2017-05-29"
 ---
 

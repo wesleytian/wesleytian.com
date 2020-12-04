@@ -1,5 +1,5 @@
 ---
-title: Building My Own Headphone Amp
+title: "🛠️ Building My Own Headphone Amp"
 date: "2016-07-23"
 ---
 

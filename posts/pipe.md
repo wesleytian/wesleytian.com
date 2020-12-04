@@ -1,5 +1,5 @@
 ---
-title: "Super Linux Warp Pipe"
+title: "🛠️ Super Linux Warp Pipe"
 date: "2018-07-24T00:14:49-04:00"
 ---
 

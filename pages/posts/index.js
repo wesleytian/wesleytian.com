@@ -19,6 +19,10 @@ export default function Home({ allPostsData }) {
 					<Typography variant="h4" color="textPrimary" gutterBottom>
 						<b>Blog</b>
 					</Typography>
+					<Typography variant="body1" color="textSecondary">
+						🔥: Popular&nbsp;&nbsp;&nbsp;&nbsp;🛠️:
+						Technical&nbsp;&nbsp;&nbsp;&nbsp;⛰️: Hiking
+					</Typography>
 					<Grid container>
 						<List>
 							{allPostsData.map(({ id, date, title }) => {
