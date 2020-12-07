@@ -1,5 +1,5 @@
 ---
-title: "⛰️ Surviving the Tallest Mountain in the Contiguous US: A Tale of Friendship, Altitude Sickness, and Piss"
+title: "🔥 ⛰️ Surviving the Tallest Mountain in the Contiguous US: A Tale of Friendship, Altitude Sickness, and Piss"
 date: "2019-08-11"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "10 Things That I'm Thankful For, 2020 Edition"
+title: "10 Things That I'm Most Thankful For, 2020 Edition"
 date: "2020-11-30"
 ---
 
@@ -20,7 +20,7 @@ I'm...
 
 4. thankful for Carol. She continually brings joy into my life and keeps me from being lonely.
 
-5. thankful for friends. [Tarun](https://twitter.com/tszzl), [Letao](https://lokto.me/#/), Helena, Andrew, [Henry](https://baturdigital.com/), Edward are a few people I've recently enjoyed spending time with.
+5. thankful for friends. [Tarun](https://twitter.com/tszzl), [Letao](https://lokto.me/#/), Helena, Andrew, [Henry](https://baturdigital.com/), [Edward](https://www.linkedin.com/in/edwardwliu/) are a few people I've recently enjoyed spending time with.
 
 6. thankful for Olga (my landlord) and for her condo. I finally have a reliable, thermostat-controlled HVAC system, hardwood floors, and homely furnishings.
 
