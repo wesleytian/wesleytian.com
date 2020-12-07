@@ -1,23 +1,19 @@
 import React from "react";
 import Grid from "@material-ui/core/Grid";
-import { List, Typography, Box } from "@material-ui/core";
+import { List, Typography } from "@material-ui/core";
 import PostSnippet from "./PostSnippet";
 
-export default function New() {
+export default function New({ newestPost }) {
 	return (
 		<Grid item container justify="flex-start" direction="column">
-			<Typography variant="h4">
+			<Typography variant="h5" gutterBottom>
 				<b>❗New</b>
 			</Typography>
 
 			<List>
 				<PostSnippet
-					title={"How I Found My Dream Job and 3 Tips On How You Can, Too"}
-					link={"/posts/dream-job"}
-					snippet={
-						"In this post, I tell the story of how I became the first employee and engineer at Virtually and what you can take away from my experience to find your dream job, too."
-					}
-					views={717}
+					title={newestPost.title}
+					link={`/posts/${newestPost.id}`}
 				/>
 			</List>
 		</Grid>

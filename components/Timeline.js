@@ -129,7 +129,7 @@ export default function Timeline() {
 
 	return (
 		<Grid item container justify="flex-start" direction="column">
-			<Typography variant="h4" gutterBottom>
+			<Typography variant="h5" gutterBottom>
 				<b>🗓️ Timeline</b>
 			</Typography>
 			<Typography variant="h5">
@@ -173,7 +173,7 @@ export default function Timeline() {
 					secondary={
 						"What began as a cold call for startup advice turned into a job offer as Virtually's first employee."
 					}
-					link={"http://localhost:1313/2020/dream-job/"}
+					link={"/posts/dream-job/"}
 					linkName={"Read more here."}
 				/>
 				<TimelineStep
@@ -202,7 +202,7 @@ export default function Timeline() {
 					secondary={
 						"Climbed the tallest mountain in the contiguous US with a couple of friends!"
 					}
-					link={"https://wesleytian.github.io/2019/whitney/"}
+					link={"posts/whitney/"}
 					linkName={"Read more here."}
 				/>
 				<TimelineStep

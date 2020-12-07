@@ -18,11 +18,11 @@ export default function About() {
 				Online Schools". As Virtually's first hire, I help out in multiple
 				domains, but my forte is software engineering. We went through Y
 				Combinator's startup accelerator program this past summer which
-				culminated in a 1.8M{" "}
+				culminated in a{" "}
 				<a
 					href="https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global"
 					target="_blank">
-					seed round
+					1.75M seed round led by Tiger Global
 				</a>
 				.
 			</Typography>
@@ -35,7 +35,8 @@ export default function About() {
 			</Typography>
 			<Typography variant="body1" color="textSecondary" paragraph>
 				I enjoy reading, writing, hanging out with friends, and hiking in my
-				free time. I'm also training for an Ironman Triathlon.
+				free time. I'm also currently training for{" "}
+				<a href="https://www.ironman.com/im-california">Ironman California</a>.
 			</Typography>
 			<Box my={3}>
 				<Divider />
@@ -43,10 +44,15 @@ export default function About() {
 			<Typography variant="h4" gutterBottom>
 				<b>About This Site</b>
 			</Typography>
+			<blockquote>
+				<Typography color="textSecondary" paragraph>
+					All views expressed on this site are my own and do not represent the
+					opinions of any entity whatsoever with which I have been, am now, or
+					will be affiliated.
+				</Typography>
+			</blockquote>
 			<Typography color="textSecondary" paragraph>
-				This site has gone through multiple iterations, from a JavaScript-free
-				pure HTML and CSS page to one hosted on Wordpress, Jekyll, Hugo, and now
-				a completely custom site built using modern frameworks such as{" "}
+				Built using{" "}
 				<a href="https://reactjs.org/" target="_blank">
 					React
 				</a>
@@ -54,68 +60,60 @@ export default function About() {
 				<a href="https://material-ui.com/" target="_blank">
 					Material-UI
 				</a>
-				, JavaScript,{" "}
+				,{" "}
+				<a href="https://www.javascript.com/" target="_blank">
+					JavaScript
+				</a>
+				,{" "}
 				<a href="https://firebase.google.com/docs/database" target="_blank">
-					Google Firebase's Realtime Database
+					Google Firebase Realtime Database
 				</a>
 				,{" "}
 				<a href="https://nextjs.org/" target="_blank">
 					Next.js
-				</a>{" "}
-				for server-side rendering,{" "}
+				</a>
+				,{" "}
 				<a href="https://vercel.com/" target="_blank">
 					Vercel
-				</a>{" "}
-				for hosting and deployment, and{" "}
-				<a href="https://remark.js.org/" target="_blank">
-					remark
-				</a>{" "}
-				for Markdown processing. This iteration has taken the longest to build
-				by far, but has also been the most rewarding, both from a technical
-				learning viewpoint, but also from a customizability and design
-				perspective. I've been using what I've learned from my day-to-day job on
-				this site, and using what I'm learning from this site in my day-to-day
-				job. Some things that I'm still working on are integrating{" "}
-				<a href="https://swr.vercel.app/" target="_blank">
-					SWR hooks
-				</a>{" "}
-				for faster data fetching,{" "}
-				<a href="https://www.typescriptlang.org/" target="_blank">
-					TypeScript
+				</a>
+				,{" "}
+				<a href="http://github.com/" target="_blank">
+					GitHub
 				</a>
 				, and{" "}
-				<a href="https://mdxjs.com/" target="_blank">
-					MDX
-				</a>{" "}
-				for supporting JSX in Markdown docs to this site.
+				<a href="https://remark.js.org/" target="_blank">
+					remark
+				</a>
+				.
 			</Typography>
-
 			<Typography color="textSecondary" paragraph>
-				All views expressed on this site are my own and do not represent the
-				opinions of any entity whatsoever with which I have been, am now, or
-				will be affiliated.
+				Previous iterations of this site were built using{" "}
+				<a href="https://wordpress.com/" target="_blank">
+					WordPress
+				</a>
+				,{" "}
+				<a href="http://github.com/" target="_blank">
+					GitHub
+				</a>
+				,{" "}
+				<a href="https://jekyllrb.com/" target="_blank">
+					Jekyll
+				</a>
+				, and{" "}
+				<a href="https://gohugo.io/" target="_blank">
+					Hugo
+				</a>{" "}
+				.
 			</Typography>
-
+			<Typography color="textSecondary" paragraph>
+				Views: 13,080 and counting.
+			</Typography>
 			<Typography color="textSecondary" paragraph>
 				Find a typo on my site? Fork my site and make a pull request{" "}
 				<a href={"https://github.com/wesleytian/nextjs"} target="_blank">
 					here
 				</a>
 				. Contributors: Kiernan Roche, Your Name Here
-			</Typography>
-			<Typography color="textSecondary" paragraph>
-				Total views: 13,080* <i>Last updated on November 29th, 2020.</i>
-			</Typography>
-			<Typography color="textSecondary" paragraph>
-				*This view count is according to Google Analytics. So, it's going to be
-				an underestimate,{" "}
-				<a
-					href={
-						"https://pando.com/2020/07/14/13-my-website-visitors-block-google-analytics/#:~:text=TL%3BDR%3A%20Blocking%20rate%20ranges,website%20you're%20on)."
-					}
-					target="_blank">
-					by roughly 15%.
-				</a>
 			</Typography>
 		</>
 	);

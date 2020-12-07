@@ -25,8 +25,8 @@ export default function LibraryPage() {
 						color="textSecondary"
 						paragraph
 						className={styles.description}>
-						There's so much reading material out there these days. The hard part
-						isn't finding stuff to read; it's filtering it down. Thus, I've
+						There's so much information out there these days. The hard part
+						isn't finding stuff to consume; it's filtering it down. Thus, I've
 						tried very hard to curate this list to include only the information
 						that I have found most insightful or inspiring. I find{" "}
 						<a href="https://patrickcollison.com/bookshelf" target="_blank">
@@ -52,12 +52,23 @@ export default function LibraryPage() {
 						<List>
 							<ListItem divider disableGutters>
 								<ListItemLink
-									href="https://digitalnative.substack.com/p/the-startups-transforming-education"
+									href="https://breakoutlist.com/career-planning/"
 									target="_blank">
 									<ListItemText
 										className={styles.description}
-										primary={`The Startups Transforming Education: How Technology is Improving Quality and Lowering Costs`}
-										secondary={`Rex Woodbury`}
+										primary={`Career Planning Guide for People in the Technology Industry`}
+										secondary={`Multiple Contributors `}
+									/>
+								</ListItemLink>
+							</ListItem>
+							<ListItem divider disableGutters>
+								<ListItemLink
+									href="https://blog.samaltman.com/how-to-be-successful"
+									target="_blank">
+									<ListItemText
+										className={styles.description}
+										primary={`How To Be Successful`}
+										secondary={`Sam Altman`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -74,12 +85,12 @@ export default function LibraryPage() {
 							</ListItem>
 							<ListItem divider disableGutters>
 								<ListItemLink
-									href="https://blog.samaltman.com/how-to-be-successful"
+									href="https://digitalnative.substack.com/p/the-startups-transforming-education"
 									target="_blank">
 									<ListItemText
 										className={styles.description}
-										primary={`How To Be Successful`}
-										secondary={`Sam Altman`}
+										primary={`The Startups Transforming Education: How Technology is Improving Quality and Lowering Costs`}
+										secondary={`Rex Woodbury`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -90,12 +101,12 @@ export default function LibraryPage() {
 						<List>
 							<ListItem divider disableGutters>
 								<ListItemLink
-									href="https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?crid=2G4HN36NSV6PB&dchild=1&keywords=zero+to+one&qid=1601970992&s=books&sprefix=zero+to+o%2Cstripbooks%2C239&sr=1-1"
+									href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_2?crid=330KK0BNZD03H&dchild=1&keywords=sapiens+a+brief+history+of+humankind&qid=1601971005&s=books&sprefix=sapiens%2Cstripbooks%2C257&sr=1-2"
 									target="_blank">
 									<ListItemText
 										className={styles.description}
-										primary={`Zero to One: Notes on Startups, or How to Build the Future`}
-										secondary={`Peter Thiel, Blake Masters [Genres: Business, Nonfiction]`}
+										primary={`Sapiens: A Brief History of Humankind`}
+										secondary={`Yuval Noah Harari [Genres: Nonfiction, History]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -112,12 +123,12 @@ export default function LibraryPage() {
 							</ListItem>
 							<ListItem divider disableGutters>
 								<ListItemLink
-									href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/ref=sr_1_2?crid=330KK0BNZD03H&dchild=1&keywords=sapiens+a+brief+history+of+humankind&qid=1601971005&s=books&sprefix=sapiens%2Cstripbooks%2C257&sr=1-2"
+									href="https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?crid=2G4HN36NSV6PB&dchild=1&keywords=zero+to+one&qid=1601970992&s=books&sprefix=zero+to+o%2Cstripbooks%2C239&sr=1-1"
 									target="_blank">
 									<ListItemText
 										className={styles.description}
-										primary={`Sapiens: A Brief History of Humankind`}
-										secondary={`Yuval Noah Harari [Genres: Nonfiction, History]`}
+										primary={`Zero to One: Notes on Startups, or How to Build the Future`}
+										secondary={`Peter Thiel, Blake Masters [Genres: Business, Nonfiction]`}
 									/>
 								</ListItemLink>
 							</ListItem>
@@ -126,6 +137,24 @@ export default function LibraryPage() {
 					<Typography variant="h5">Passive</Typography>
 					<Grid container>
 						<List>
+							<ListItem divider>
+								<ListItemText
+									className={styles.description}
+									primary={`Breaking Bad (TV Series)`}
+									secondary={`Vince Gilligan [Genres: Crime, Drama, Thriller]`}
+								/>
+							</ListItem>
+							<ListItem divider disableGutters>
+								<ListItemLink
+									href="https://www.amazon.com/Interstellar-Matthew-McConaughey/dp/B00TU9UFTS"
+									target="_blank">
+									<ListItemText
+										className={styles.description}
+										primary={`Interstellar`}
+										secondary={`Christopher Nolan [Genres: Science Fiction, Action]`}
+									/>
+								</ListItemLink>
+							</ListItem>
 							<ListItem divider disableGutters>
 								<ListItemLink href="https://films.nationalgeographic.com/free-solo">
 									<ListItemText
@@ -143,24 +172,6 @@ export default function LibraryPage() {
 										secondary={`Joe Penhall [Genres: Crime, Drama, Thriller]`}
 									/>
 								</ListItemLink>
-							</ListItem>
-							<ListItem divider disableGutters>
-								<ListItemLink
-									href="https://www.amazon.com/Interstellar-Matthew-McConaughey/dp/B00TU9UFTS"
-									target="_blank">
-									<ListItemText
-										className={styles.description}
-										primary={`Interstellar`}
-										secondary={`Christopher Nolan [Genres: Science Fiction, Action]`}
-									/>
-								</ListItemLink>
-							</ListItem>
-							<ListItem divider>
-								<ListItemText
-									className={styles.description}
-									primary={`Breaking Bad (TV Series)`}
-									secondary={`Vince Gilligan [Genres: Crime, Drama, Thriller]`}
-								/>
 							</ListItem>
 						</List>
 					</Grid>

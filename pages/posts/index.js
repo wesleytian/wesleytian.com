@@ -4,7 +4,10 @@ import {
 	Grid,
 	List,
 	ListItem,
-	ListItemText
+	ListItemText,
+	Button,
+	Box,
+	Divider
 } from "@material-ui/core";
 import React from "react";
 import styles from "../../styles/Home.module.css";
@@ -17,8 +20,18 @@ export default function Home({ allPostsData }) {
 			<main className={styles.main}>
 				<Grid item container xs={11} md={8} direction="column">
 					<Typography variant="h4" color="textPrimary" gutterBottom>
-						<b>Blog</b>
+						<b>Writing</b>
 					</Typography>
+
+					<blockquote>
+						<Typography variant="body1" color="textSecondary" paragraph>
+							“The first draft of anything is shit.” ― Ernest Hemingway
+						</Typography>
+						<Typography variant="body1" color="textSecondary" paragraph>
+							And yes, some of these are first drafts.
+						</Typography>
+					</blockquote>
+
 					<Typography variant="body1" color="textSecondary">
 						🔥: Popular&nbsp;&nbsp;&nbsp;&nbsp;🛠️:
 						Technical&nbsp;&nbsp;&nbsp;&nbsp;⛰️: Hiking
@@ -39,6 +52,18 @@ export default function Home({ allPostsData }) {
 								);
 							})}
 						</List>
+					</Grid>
+					<Grid container justify="center">
+						<Button
+							style={{ textTransform: "none" }}
+							size="large"
+							variant="contained"
+							disableElevation
+							color="primary">
+							<Typography variant="body1" color="white">
+								<a href="https://buttondown.email/wesleytian">Subscribe</a>
+							</Typography>
+						</Button>
 					</Grid>
 				</Grid>
 			</main>

@@ -20,7 +20,7 @@ export default function ButtonAppBar() {
 					<NextLink href="/posts" passHref>
 						<Button style={{ textTransform: "none" }} size="large">
 							<Typography variant="body1" color="textSecondary">
-								Blog
+								Writing
 							</Typography>
 						</Button>
 					</NextLink>
@@ -31,6 +31,13 @@ export default function ButtonAppBar() {
 							</Typography>
 						</Button>
 					</NextLink>
+					<NextLink href="/projects" passHref>
+						<Button style={{ textTransform: "none" }} size="large">
+							<Typography variant="body1" color="textSecondary">
+								Projects
+							</Typography>
+						</Button>
+					</NextLink>
 					<NextLink href="/about" passHref>
 						<Button style={{ textTransform: "none" }} size="large">
 							<Typography variant="body1" color="textSecondary">
@@ -38,12 +45,6 @@ export default function ButtonAppBar() {
 							</Typography>
 						</Button>
 					</NextLink>
-
-					<Button style={{ textTransform: "none" }} size="large">
-						<Typography variant="body1" color="textSecondary">
-							<a href="https://buttondown.email/wesleytian">Subscribe</a>
-						</Typography>
-					</Button>
 				</Toolbar>
 			</Grid>
 		</AppBar>
