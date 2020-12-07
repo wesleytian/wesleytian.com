@@ -6,9 +6,7 @@ export default function PostSnippet({ title, link, snippet, views }) {
 		<a href={link}>
 			<Grid container direction="row" justify="space-between">
 				<Grid item xs={views ? 8 : 12}>
-					<Typography variant="h6">
-						<b>{title}</b>
-					</Typography>
+					<Typography variant="h6">{title}</Typography>
 				</Grid>
 
 				{views && (

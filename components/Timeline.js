@@ -129,7 +129,7 @@ export default function Timeline() {
 
 	return (
 		<Grid item container justify="flex-start" direction="column">
-			<Typography variant="h5" gutterBottom>
+			<Typography variant="h4" gutterBottom>
 				<b>🗓️ Timeline</b>
 			</Typography>
 			<Typography variant="h5">

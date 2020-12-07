@@ -52,7 +52,7 @@ export default function About() {
 				</Typography>
 			</blockquote>
 			<Typography color="textSecondary" paragraph>
-				Built using{" "}
+				This site was built using{" "}
 				<a href="https://reactjs.org/" target="_blank">
 					React
 				</a>
@@ -84,10 +84,7 @@ export default function About() {
 				<a href="https://remark.js.org/" target="_blank">
 					remark
 				</a>
-				.
-			</Typography>
-			<Typography color="textSecondary" paragraph>
-				Previous iterations of this site were built using{" "}
+				. Previous iterations of this site were built using{" "}
 				<a href="https://wordpress.com/" target="_blank">
 					WordPress
 				</a>
@@ -106,14 +103,14 @@ export default function About() {
 				.
 			</Typography>
 			<Typography color="textSecondary" paragraph>
-				Views: 13,080 and counting.
-			</Typography>
-			<Typography color="textSecondary" paragraph>
 				Find a typo on my site? Fork my site and make a pull request{" "}
 				<a href={"https://github.com/wesleytian/nextjs"} target="_blank">
 					here
 				</a>
 				. Contributors: Kiernan Roche, Your Name Here
+			</Typography>
+			<Typography color="textSecondary" paragraph>
+				Views: 13,080 and counting
 			</Typography>
 		</>
 	);

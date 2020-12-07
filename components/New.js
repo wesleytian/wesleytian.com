@@ -6,7 +6,7 @@ import PostSnippet from "./PostSnippet";
 export default function New({ newestPost }) {
 	return (
 		<Grid item container justify="flex-start" direction="column">
-			<Typography variant="h5" gutterBottom>
+			<Typography variant="h5">
 				<b>❗New</b>
 			</Typography>
 
