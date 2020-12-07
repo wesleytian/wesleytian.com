@@ -1,5 +1,5 @@
 ---
-title: "10 Things That I'm Most Thankful For, 2020 Edition"
+title: "10 Things I'm Thankful For, 2020 Edition"
 date: "2020-11-30"
 ---
 
