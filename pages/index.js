@@ -19,7 +19,6 @@ export default function IndexPage({ allPostsData }) {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Home of Wesley Tian</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<main className={styles.main}>

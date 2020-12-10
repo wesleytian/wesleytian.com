@@ -13,7 +13,7 @@ export default function About() {
 				color="textSecondary"
 				paragraph
 				className={styles.description}>
-				Hey, my name is Wesley Tian. I'm a founding member of{" "}
+				Hey, my name is Wesley Y. Tian. I'm a founding member of{" "}
 				<a href="https://tryvirtually.com/">Virtually</a>, the "Shopify for
 				Online Schools". As Virtually's first hire, I help out in multiple
 				domains, but my forte is software engineering. We went through Y
