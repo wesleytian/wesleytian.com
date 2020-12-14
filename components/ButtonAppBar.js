@@ -3,7 +3,7 @@ import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import NextLink from "next/link";
 import "styled-components";
-import { Grid, Box, Button, Typography } from "@material-ui/core";
+import { Grid, Button, Typography } from "@material-ui/core";
 
 export default function ButtonAppBar() {
 	return (

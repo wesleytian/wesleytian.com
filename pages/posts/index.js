@@ -5,9 +5,7 @@ import {
 	List,
 	ListItem,
 	ListItemText,
-	Button,
-	Box,
-	Divider
+	Button
 } from "@material-ui/core";
 import React from "react";
 import styles from "../../styles/Home.module.css";
@@ -26,9 +24,6 @@ export default function Home({ allPostsData }) {
 					<blockquote>
 						<Typography variant="body1" color="textSecondary" paragraph>
 							“The first draft of anything is shit.” ― Ernest Hemingway
-						</Typography>
-						<Typography variant="body1" color="textSecondary" paragraph>
-							And yes, some of these are first drafts.
 						</Typography>
 					</blockquote>
 
@@ -60,7 +55,7 @@ export default function Home({ allPostsData }) {
 							variant="contained"
 							disableElevation
 							color="primary">
-							<Typography variant="body1" color="white">
+							<Typography variant="body1">
 								<a href="https://buttondown.email/wesleytian">Subscribe</a>
 							</Typography>
 						</Button>

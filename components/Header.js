@@ -6,7 +6,14 @@ export default function Header() {
 	return (
 		<Grid container direction="column">
 			<Typography variant="h4" gutterBottom>
-				<b>Hey, I'm Wesley!</b>
+				<b>Hey, I'm Wesley.</b>
+			</Typography>
+			<Typography
+				variant="h5"
+				color="textSecondary"
+				className={styles.description}
+				gutterBottom>
+				Welcome to my personal website! 😁
 			</Typography>
 			<Typography
 				variant="h5"
@@ -14,14 +21,6 @@ export default function Header() {
 				className={styles.description}>
 				I live in Reno, Nevada, and work virtually at{" "}
 				<a href="https://tryvirtually.com/">Virtually.</a>
-			</Typography>
-			<Typography
-				variant="h5"
-				color="textSecondary"
-				className={styles.description}
-				gutterBottom>
-				{" "}
-				Welcome to my personal website. 😁
 			</Typography>
 		</Grid>
 	);
