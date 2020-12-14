@@ -9,9 +9,9 @@ This is a select collection of projects that I've enjoyed working on. Each secti
 ---
 ## Machine Learning
  
-### Intro to Machine Learning (FA 18) Final Project Competition
-Placed 1st out of 205 students  
-We were assigned to design, implement, and train a deep neural network of our own design to classify dog breeds. I played around with many many different designs before settling on some data augmentation (label-preserving transformations) to create more data, `TorchVision.model's` ResNet18 model for transferring weights, and Adam optimization.
+### ResNet-18 Dog Breed Classifier
+Placed 1st out of 205 students @ University of Michigan's FA18 Intro to Machine Learning (EECS 445) Final Project Competition  
+We were assigned to design, implement, and train a deep neural network of our design to classify dog breeds. I played around with many many different designs before settling on some data augmentation (label-preserving transformations) to create more data, `TorchVision.model's` ResNet18 model for transferring weights, and Adam optimization.
 - Will upload source code soon.
 
 ![img](/projects/project-2-graph.png)
@@ -83,11 +83,9 @@ Being obsessed with sound quality at the time, I wanted to obtain a high-quality
 ---
 ## Other
 
-### Succeeding at Failing Pitch Competition (FA 19)
-Placed 1st out of 36 teams  
+### The Perfect Pill Bottle
+Placed 1st out of 36 teams @ University of Michigan's FA 19 Succeeding at Failing (SI 360) Pitch Competition 
 4 min pitch on "The Perfect Pill Bottle" as a low-tech solution for helping curb the opioid crisis. I used a powerful anecdote from my summer living in Manchester, New Hampshire and seeing the opioid crisis problem firsthand.
-- I wish somebody recorded this presentation. I thought it was beautiful.
-- We won by class majority vote.
 
 ![img](/projects/pill-bottle.png)
 Presenters: Me and [Ben Welleck](https://www.linkedin.com/in/benwellek/)  
