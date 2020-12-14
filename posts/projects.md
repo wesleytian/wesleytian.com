@@ -4,14 +4,15 @@ date: "2020-12-12"
 draft: true
 ---
 
-This is a select collection of projects that I've worked on. Each section is sorted by reverse chronological order.
+This is a select collection of projects that I've enjoyed working on. Each section is sorted by reverse chronological order.
 
 ---
 ## Machine Learning
  
-### [Intro to Machine Learning (FA 18) Final Project Competition]()
+### Intro to Machine Learning (FA 18) Final Project Competition
 Placed 1st out of 205 students  
 We were assigned to design, implement, and train a deep neural network of our own design to classify dog breeds. I played around with many many different designs before settling on some data augmentation (label-preserving transformations) to create more data, `TorchVision.model's` ResNet18 model for transferring weights, and Adam optimization.
+- Will upload source code soon.
 
 ![img](/projects/project-2-graph.png)
 
@@ -21,6 +22,7 @@ Placed 3rd out of 74 teams
 - [A summary of how we arrived at our final submission.](/projects/assistments-report.pdf)  
 - Invited to present at Educational Data Mining 2018.  
 - Ultimate findings from the competition are published [here in the Journal of Educational Data Mining](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/486).  
+- Will upload source code soon.
 
 Teammates: [Sam Tenka](https://bohrium.github.io/) and the [Michigan Data Science Team](http://mdst.club/)
 
@@ -30,6 +32,7 @@ Teammates: [Sam Tenka](https://bohrium.github.io/) and the [Michigan Data Scienc
 ### [wesleytian.com](/)  
 Built the current site that you're on using React, JavaScript, Google Firebase Realtime Database, Next.js, and remark. I don't usually care for the choice of web technologies or programming languages used, but these libraries allow for quicker rendering and more customizability versus Hugo or WordPress.
 - 13,000 views	
+- [GitHub](https://github.com/wesleytian/nextjs)
 
 ### [White Cane](https://devpost.com/software/unblind)
 MHacks 11 Submission  
