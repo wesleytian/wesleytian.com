@@ -3,8 +3,6 @@ title: "🛠️ Hacking an Inadequate Air Conditioner – Part 1"
 date: "2016-09-08"
 ---
 
-GitHub Repository: https://github.com/wesleytian/thermostat-pro
-
 It was scorching hot this summer in Amherst, Massachusetts. Especially because my room was on the second floor, the room temperature would often rise to over 100° F during midday. The house I stayed in didn't have a central HVAC (heat-ventilation-air-conditioning) system built into the house so we opted for a window AC that could be inserted into the frame of the window and be plugged into the wall outlet for power. The problem with this AC was that not only did it not have a specific temperature setting, but also that once turned on, you could not turn it off with having to manually turn the dial on the AC. During the day this was not a problem as I could just turn around from my desk and turn the dial. At night, however, there was a problem.
 
 No one enjoys waking up in the middle of the night. What is less enjoyable is being woken up in the middle of the night from the sweating from the heat or shivering from the cold. Suddenly, I realized that a simple solution would be to create a device that could not only sense the temperature but also automate the turning on and off of the air conditioner. Since the air conditioner was plugged into the wall outlet, all I had to do was find a way to control that switch.
@@ -32,3 +30,5 @@ The AC:
 A few weeks after I created this, Rui found a few other similar gadgets that people made to try and regulate their room temperature. One of them decided to use a breadboard and flimsy wires to control the surge. (Very dangerous!) [Arduino Replaces Bad AC Thermostat, Hacker Stays Cool](http://hackaday.com/2016/08/05/arduino-replaces-bad-ac-thermostat-hacker-stays-cool/) which also bears resemblance to this [Arduino Controlled Air Conditioner](http://hackaday.com/2015/06/11/arduino-controlled-air-conditioner). Both of which requires the person to set the desired temperature by walking up to the AC and turning a knob. I also would not recommend tampering with the AC itself because 120v can kill you! All in all, I think that the best solutions to some things require a well-balanced incorporation of both hardware and software. Stay tuned for newer versions of the WiFi Remote Outlet Thermostat!
 
 [See part 2 here](/posts/ac_hack_2/)
+
+[GitHub Repo](https://github.com/wesleytian/thermostat-pro)

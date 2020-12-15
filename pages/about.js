@@ -1,9 +1,9 @@
 import styles from "../styles/Home.module.css";
 import React from "react";
-import Grid from "@material-ui/core/Grid";
-import About from "../components/About";
+import { Typography, Grid } from "@material-ui/core";
+import { getPostData } from "../lib/posts";
 
-export default function AboutPage() {
+export default function AboutPage({ postData }) {
 	return (
 		<div className={styles.container}>
 			<main className={styles.main}>
@@ -14,9 +14,27 @@ export default function AboutPage() {
 					md={8}
 					direction="column"
 					className={styles.description}>
-					<About />
+					<Typography variant="h4" color="textPrimary" gutterBottom>
+						<b>About</b>
+					</Typography>
+					<Typography variant="body1" color="textSecondary">
+						<div
+							dangerouslySetInnerHTML={{
+								__html: postData.contentHtml
+							}}
+						/>
+					</Typography>
 				</Grid>
 			</main>
 		</div>
 	);
+}
+
+export async function getStaticProps() {
+	const postData = await getPostData("about");
+	return {
+		props: {
+			postData
+		}
+	};
 }

@@ -17,6 +17,35 @@ export default function Timeline() {
 		return (
 			<>
 				<Divider />
+				<Typography variant="h5">
+					<b>2019</b>
+				</Typography>
+				<List>
+					<TimelineStep
+						primary={"Graduated From the University of Michigan! 🎊"}
+					/>
+					<TimelineStep
+						primary={"Climbed Mt. Whitney ⛰"}
+						secondary={
+							"Climbed the tallest mountain in the contiguous US with a couple of friends!"
+						}
+						link={"posts/whitney/"}
+						linkName={"Read more here."}
+					/>
+					<TimelineStep
+						primary={"Worked at Microsoft👨🏻‍💻"}
+						secondary={
+							"Moved to Bellevue, Washington, and finally got the Big Tech experience that I had always dreamt of."
+						}
+					/>
+					<TimelineStep
+						primary={"Trained for a Marathon 🏃🏻‍♂️"}
+						secondary={
+							"I trained for 4 months before injuring my hip after a 22-mile long run–right before the race. By trying to be extra prepared for the race, I overtrained myself. It was unfortunate, but I grew mentally and learned a lot about training for endurance sports."
+						}
+					/>
+				</List>
+				<Divider />
 				<Typography variant="h5">2018</Typography>
 				<List>
 					<TimelineStep
@@ -64,13 +93,6 @@ export default function Timeline() {
 						primary={
 							"Matriculated at the University of Massachusetts, Amherst 🥘"
 						}
-						secondary={
-							"Besides the people, the next best thing was the food. Fun fact–UMass Amherst is consistently ranked 1st in the US for its campus dining, and they serve all-you-can-eat lobster on Halloween."
-						}
-						link={
-							"https://dailycollegian.com/2016/10/why-does-umass-serve-lobster-on-halloween-an-investigative-report-into-the-annual-halloween-dinner/"
-						}
-						linkName={"Check it out."}
 					/>
 					<TimelineStep
 						primary={"Climbed Mt. Fuji 🗻🇯🇵"}
@@ -137,9 +159,13 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={"Moved to Nevada 🏜 "}
+					primary={"Began Training for Ironman California 🏃‍♂️"}
+					secondary={""}
+				/>
+				<TimelineStep
+					primary={"Moved to Nevada 🏜"}
 					secondary={
-						"My girlfriend and I packed up all of our physical belongings into my 2006 Honda Pilot and drove across the US to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona."
+						"My girlfriend and I packed up all of our physical belongings into my 06' Honda Pilot and drove across the US to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona."
 					}
 					link={
 						"https://www.instagram.com/stories/highlights/18153325603070911/"
@@ -156,7 +182,7 @@ export default function Timeline() {
 				/>
 				<TimelineStep
 					primary={"Funding Secured 💰"}
-					secondary="Even before Y Combinator's demo day, we raised a 1.75M seed round led by Tiger Global. Those 80+ hour weeks sure paid off."
+					secondary="Even before Y Combinator's demo day, we raised a 1.75M seed round led by Tiger Global. Those 80 hour weeks sure paid off."
 					link={
 						"https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global"
 					}
@@ -165,56 +191,27 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Went Through Y Combinator 🥳"}
 					secondary={
-						"Went through Y Combinator's famed startup accelerator program! Other companies that have gone through this program include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
+						"Got into and Went through Y Combinator's famed startup accelerator program! Other companies that have gone through this program include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
 					}
 				/>
 				<TimelineStep
 					primary={"Joined Virtually 💡"}
 					secondary={
-						"What began as a cold call for startup advice turned into a job offer as Virtually's first employee."
+						"What began as a cold call for startup advice somehow turned into a job offer as Virtually's second founding member and first official employee."
 					}
 					link={"/posts/dream-job/"}
 					linkName={"Read more here."}
 				/>
 				<TimelineStep
-					primary={"Rejected by Ding Tea 🥤"}
+					primary={"Ghosted by Ding Tea 🥤"}
 					secondary={
 						"Apparently, landing a job at a boba shop is harder than landing one at Microsoft."
 					}
 				/>
 				<TimelineStep
-					primary={"Rejected by Stanford 🎒"}
+					primary={"Rejected by Stanford Graduate School🎒"}
 					secondary={
 						"In hindsight, I'm actually kinda glad I didn't get in because instead of going through Zoom schooling to prepare me to pursue my startup dream, I'm pursuing my dream right now."
-					}
-				/>
-			</List>
-			<Divider />
-			<Typography variant="h5">
-				<b>2019</b>
-			</Typography>
-			<List>
-				<TimelineStep
-					primary={"Graduated From the University of Michigan! 🎊"}
-				/>
-				<TimelineStep
-					primary={"Climbed Mt. Whitney ⛰"}
-					secondary={
-						"Climbed the tallest mountain in the contiguous US with a couple of friends!"
-					}
-					link={"posts/whitney/"}
-					linkName={"Read more here."}
-				/>
-				<TimelineStep
-					primary={"Worked at Microsoft👨🏻‍💻"}
-					secondary={
-						"Moved to Bellevue, Washington, and finally got the big tech FAAMG experience that I always dreamt of."
-					}
-				/>
-				<TimelineStep
-					primary={"Trained for a Marathon 🏃🏻‍♂️"}
-					secondary={
-						"I trained for 4 months before injuring my hip after a 22-mile long run–right before the race. By trying to be extra prepared for the race, I overtrained myself. It was unfortunate, but I grew mentally and learned a lot about training for endurance sports."
 					}
 				/>
 			</List>
