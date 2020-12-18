@@ -1,7 +1,18 @@
-import React from "react";
-import { ListItemText, Typography, Grid } from "@material-ui/core";
+import React, { useEffect, useState } from "react";
+import { Typography, Grid } from "@material-ui/core";
+import { getViews } from "../lib/firebase";
 
-export default function PostSnippet({ title, link, snippet, views }) {
+export default function PostSnippet({ title, link }) {
+	const [views, setViews] = useState(0);
+	useEffect(() => {
+		fetchViews();
+	}, []);
+
+	const fetchViews = async () => {
+		const views = await getViews(link.substring(7));
+		setViews(views);
+	};
+
 	return (
 		<a href={link}>
 			<Grid container direction="row" justify="space-between">
