@@ -1,6 +1,7 @@
 ---
 title: "title"
 date: "12-05-2020"
+draft: true
 ---
 
 
@@ -18,8 +19,8 @@ I enjoy reading, writing, hanging out with friends, and hiking in my
 free time. I'm also currently training for [Ironman California](https://www.ironman.com/im-california).
 
 Other (fun) facts about me:
-- I'm cadet private in the United States Army Cadet Corps (USAC). I graduated at the 
-Millersburg Military Institute in Kentucky in 2013. At one point in my life I wanted to join the US military. Potential careers included astronaut, pilot, and Navy SEAL. Didn't we all?
+- I'm a cadet private in the United States Army Cadet Corps (USAC). I graduated at the 
+Millersburg Military Institute in Kentucky in 2013. At one point in my life, I wanted to join the US military. Potential careers included astronaut, pilot, and Navy SEAL. Didn't we all?
 - I didn't know I had an older sister until I was 12-13.
 - I can roll my tongue into a [cloverleaf](https://en.wikipedia.org/wiki/Tongue_rolling) shape (3 folds) 😛.
 
