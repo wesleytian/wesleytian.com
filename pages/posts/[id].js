@@ -1,14 +1,10 @@
 import { getAllPostIds, getPostData } from "../../lib/posts";
 import styles from "../../styles/Home.module.css";
-import React, { useEffect } from "react";
+import React from "react";
 import { Typography, Grid } from "@material-ui/core";
-import { incrementViews } from "../../lib/firebase";
 import { format } from "date-fns";
 
 export default function Post({ postData }) {
-	useEffect(() => {
-		incrementViews(postData.id);
-	}, []);
 	const { title, date, contentHtml } = postData;
 
 	return (

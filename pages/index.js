@@ -1,9 +1,8 @@
 import styles from "../styles/Home.module.css";
-import React, { useEffect } from "react";
+import React from "react";
 import Head from "next/head";
 import { Grid, Typography } from "@material-ui/core";
 import Timeline from "../components/Timeline";
-import { incrementViews } from "../lib/firebase";
 import MostPopular from "../components/MostPopular";
 import Header from "../components/Header";
 import New from "../components/New";
@@ -12,10 +11,6 @@ import { getSortedPostsData } from "../lib/posts";
 const root = process.cwd();
 
 export default function IndexPage({ allPostsData }) {
-	useEffect(() => {
-		incrementViews("home");
-	}, []);
-
 	return (
 		<div className={styles.container}>
 			<Head>
