@@ -1,6 +1,7 @@
 ---
 title: "🛠️ Startup Series: Data Migrations"
 date: "2020-12-09"
+draft: true
 ---
 
 data migrations common at startups

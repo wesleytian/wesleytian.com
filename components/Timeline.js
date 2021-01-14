@@ -16,6 +16,32 @@ export default function Timeline() {
 	const FullTimeline = () => {
 		return (
 			<>
+				<TimelineStep
+					primary={"Accepted by Y Combinator 🥳"}
+					secondary={
+						"Got into Y Combinator's famed startup accelerator program! Other companies that have gone through this program include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
+					}
+				/>
+				<TimelineStep
+					primary={"Joined Virtually 💡"}
+					secondary={
+						"What began as a cold call for startup advice somehow turned into a job offer as Virtually's second founding member and first official employee."
+					}
+					link={"/posts/dream-job/"}
+					linkName={"Read more here."}
+				/>
+				<TimelineStep
+					primary={"Ghosted by Ding Tea 🥤"}
+					secondary={
+						"Apparently, landing a job at a boba shop is harder than landing one at Microsoft."
+					}
+				/>
+				<TimelineStep
+					primary={"Rejected by Stanford Graduate School🎒"}
+					secondary={
+						"In hindsight, I'm actually kinda glad I didn't get in because instead of going through Zoom schooling to prepare me to pursue my startup dream, I'm pursuing my dream right now."
+					}
+				/>
 				<Divider />
 				<Typography variant="h5">
 					<b>2019</b>
@@ -155,17 +181,26 @@ export default function Timeline() {
 				<b>🗓️ Timeline</b>
 			</Typography>
 			<Typography variant="h5">
+				<b>2021</b>
+			</Typography>
+			<List></List>
+			<Divider />
+			<Typography variant="h5">
 				<b>2020</b>
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={"Began Training for Ironman California 🏃‍♂️"}
-					secondary={""}
+					primary={"Began Training for an Ironman 🏊🚴🏃‍♂️"}
+					secondary={
+						"The first 6 months will be running base training using the MAF method (100% aerobic training in a specific heartrate zone). The actual 6-month Ironman training program will start in late March."
+					}
+					link={"http://strava.com/athletes/wesleytian"}
+					linkName={"Follow me on Strava!"}
 				/>
 				<TimelineStep
 					primary={"Moved to Nevada 🏜"}
 					secondary={
-						"My girlfriend and I packed up all of our physical belongings into my 06' Honda Pilot and drove across the US to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona."
+						"My girlfriend and I packed up all of our physical belongings into my 06' Honda Pilot and drove from Michigan to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona."
 					}
 					link={
 						"https://www.instagram.com/stories/highlights/18153325603070911/"
@@ -174,45 +209,18 @@ export default function Timeline() {
 				/>
 				<TimelineStep
 					primary={"Front Page of TechCrunch! 📰"}
-					secondary={`Noting that press coverage has no correlation with startup success, it was still pretty cool to see us selected as one of the top 23 of 197 companies from the YC S20 batch.`}
 					link={
 						"https://techcrunch.com/2020/08/25/our-12-favorite-startups-from-y-combinators-s20-demo-day-part-2/"
 					}
-					linkName={"Read more here."}
+					linkName={"See article here."}
 				/>
 				<TimelineStep
 					primary={"Funding Secured 💰"}
-					secondary="Even before Y Combinator's demo day, we raised a 1.75M seed round led by Tiger Global. Those 80 hour weeks sure paid off."
+					secondary="We successfully raised a $1.8M seed round led by Tiger Global! Those 80 hour weeks sure paid off."
 					link={
 						"https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global"
 					}
-					linkName={"Read more here."}
-				/>
-				<TimelineStep
-					primary={"Went Through Y Combinator 🥳"}
-					secondary={
-						"Got into and Went through Y Combinator's famed startup accelerator program! Other companies that have gone through this program include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
-					}
-				/>
-				<TimelineStep
-					primary={"Joined Virtually 💡"}
-					secondary={
-						"What began as a cold call for startup advice somehow turned into a job offer as Virtually's second founding member and first official employee."
-					}
-					link={"/posts/dream-job/"}
-					linkName={"Read more here."}
-				/>
-				<TimelineStep
-					primary={"Ghosted by Ding Tea 🥤"}
-					secondary={
-						"Apparently, landing a job at a boba shop is harder than landing one at Microsoft."
-					}
-				/>
-				<TimelineStep
-					primary={"Rejected by Stanford Graduate School🎒"}
-					secondary={
-						"In hindsight, I'm actually kinda glad I didn't get in because instead of going through Zoom schooling to prepare me to pursue my startup dream, I'm pursuing my dream right now."
-					}
+					linkName={"Press release here."}
 				/>
 			</List>
 

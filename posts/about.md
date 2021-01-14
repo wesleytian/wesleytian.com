@@ -12,11 +12,10 @@ Hey, my name is Wesley Y. Tian. I'm a founding member of [Virtually](https://try
 I was born in Mountain View, California, and spent around 30% of my
 preadult years in Milpitas, California; 15% in West Linn, Oregon; 10% in
 Taiwan, Taipei; and 45% in Shanghai, China. Since then, I've also
-resided in Amherst, Massachusetts; and Ann Arbor, Michigan for my
-undergraduate studies.
+resided in Amherst, Massachusetts (2 years); and Ann Arbor, Michigan (3 years)–primarily for my undergraduate studies.
 
-I enjoy reading, writing, hanging out with friends, and hiking in my
-free time. I'm also currently training for [Ironman California](https://www.ironman.com/im-california).
+I enjoy reading, studying physics, writing, and hiking in my
+free time. I'm also currently preparing myself for [Ironman California](https://www.ironman.com/im-california) by running a lot.
 
 Other (fun) facts about me:
 - I'm a cadet private in the United States Army Cadet Corps (USAC). I graduated at the 
@@ -35,7 +34,7 @@ This snippet below pretty much sums up the reasons why I continue to maintain th
 building. 
 
 > I think this is a great point. If you occasionally blog about
-what you've been learning, or open source a small module, great things
+what you've been learning, or open-source a small module, great things
 happen. 
 
 > You become a more interesting person (at least in the context
@@ -47,9 +46,11 @@ years down the track when you are thinking about your next move.
 
 This site was built using React, JavaScript, Google Firebase Realtime Database, Next.js, Vercel, GitHub, and remark. Previous iterations of this site were built using WordPress, GitHub, Jekyll, and Hugo.
 
+Credit for the initial inspiration of starting a blog goes to one of my childhood best friends, [Douglas Qian](http://douglasqian.com/).
+
 Find a typo on my site? Fork my site and [make a pull request](https://github.com/wesleytian/nextjs). Contributors: Kiernan Roche, Your Name Here
 
-Views: 13,080 and counting
+Views: 16,000 and counting
 
 > All views expressed on this site are my own and do not represent the
 opinions of any entity whatsoever with which I have been, am now, or

@@ -14,17 +14,14 @@ export default function MostPopular() {
 				<PostSnippet
 					title={"I Nearly Failed High School"}
 					link={"/posts/gpa"}
-					views={2310}
 				/>
 				<PostSnippet
 					title={"How I Found My Dream Job and 3 Tips On How You Can, Too"}
 					link={"/posts/dream-job"}
-					views={956}
 				/>
 				<PostSnippet
 					title={"3 Reasons Why You Should Move to Reno"}
 					link={"/posts/reno"}
-					views={926}
 				/>
 			</List>
 		</Grid>
