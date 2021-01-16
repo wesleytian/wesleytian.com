@@ -42,9 +42,9 @@ export default function LibraryPage() {
 					<Grid container>
 						<List dense>
 							<LibraryItem
-								href={"https://breakoutlist.com/career-planning/"}
-								primary={`Career Planning Guide for People in the Technology Industry`}
-								secondary={`Multiple Contributors`}
+								href={"https://nav.al/rich"}
+								primary={`How to Get Rich`}
+								secondary={`Naval Ravikant`}
 							/>
 							<LibraryItem
 								href={"https://blog.samaltman.com/how-to-be-successful"}
@@ -167,6 +167,14 @@ export default function LibraryPage() {
 							/>
 						</List>
 					</Grid>
+					<Typography color="textSecondary" className={styles.description}>
+						Various recommendations thanks to Walt Borland, the{" "}
+						<a href="https://www.morningbrew.com/daily/stories/2020/03/16/morning-brews-guide-living-best-quarantined-life?utm_source=morning_brew">
+							Morning Brew
+						</a>
+						, <a href="https://www.gatesnotes.com/Books">Bill Gates</a>, and
+						Solomon Demmessie.
+					</Typography>
 				</Grid>
 			</main>
 		</div>
