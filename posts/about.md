@@ -7,21 +7,21 @@ draft: true
 
 ## Me
 
-Hey, my name is Wesley Y. Tian. I'm a founding member of [Virtually](https://tryvirtually.com/) the "Shopify for Online Schools". As Virtually's first hire, I help out in multiple domains, but my forte is software engineering. We went through Y Combinator's startup accelerator program this past summer which culminated in a [1.75M seed round led by Tiger Global](https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global).
+Hi, my name is Wesley Y. Tian. I'm a founding member of [Virtually](https://tryvirtually.com/), the "Shopify" for Online Schools. As Virtually's first hire, I've helped out in multiple domains, but my forte is software engineering. We are currently a team of 6 and are backed by [Afore Capital](https://afore.vc/), [Y Combinator](https://www.ycombinator.com/), [Tiger Global](https://www.tigerglobal.com/home), and talented angels such as [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries), [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)), and [Avlok Kohli](https://angel.co/p/avlok-kohli).
 
-I was born in Mountain View, California, and spent around 30% of my
-preadult years in Milpitas, California; 15% in West Linn, Oregon; 10% in
-Taiwan, Taipei; and 45% in Shanghai, China. Since then, I've also
-resided in Amherst, Massachusetts (2 years); and Ann Arbor, Michigan (3 years)–primarily for my undergraduate studies.
+Growing up around the world in the following places has inexplicably shaped my worldview:
+- Mountain View, CA (age 0)
+- San Jose metro area, CA (ages 1-4)
+- Portland metro area, OR (5-6)
+- Taipei, Taiwan (7-8)
+- Portland metro area, OR (8-9)
+- Shanghai, China (10-17)
+- Amherst, MA (19-20)
+- Ann Arbor, MI (21-23)
+- Reno, NV (24)
+- San Jose metro area, CA (soon!)
 
-I enjoy reading, studying physics, writing, and hiking in my
-free time. I'm also currently preparing myself for [Ironman California](https://www.ironman.com/im-california) by running a lot.
-
-Other (fun) facts about me:
-- I'm a cadet private in the United States Army Cadet Corps (USAC). I graduated at the 
-Millersburg Military Institute in Kentucky in 2013. At one point in my life, I wanted to join the US military. Potential careers included astronaut, pilot, and Navy SEAL. Didn't we all?
-- I didn't know I had an older sister until I was 12-13.
-- I can roll my tongue into a [cloverleaf](https://en.wikipedia.org/wiki/Tongue_rolling) shape (3 folds) 😛.
+I enjoy reading, exercising, hanging out with friends and family, and writing in my free time.
 
 ---
 ## This Site

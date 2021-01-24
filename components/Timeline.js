@@ -17,7 +17,7 @@ export default function Timeline() {
 		return (
 			<>
 				<TimelineStep
-					primary={"Accepted by Y Combinator 🥳"}
+					primary={"Accepted into Y Combinator! 🥳"}
 					secondary={
 						"Got into Y Combinator's famed startup accelerator program! Other companies that have gone through this program include Airbnb, Dropbox, Stripe, Instacart, Reddit, DoorDash, and Cruise. You might have heard of them."
 					}
@@ -149,7 +149,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"Moved 4 times in 5 years 🛫🛬 x 4"}
 						secondary={
-							"Moved to West Linn, Oregon; Taipei, Taiwan; back to West Linn, Oregon; and then to Shanghai, China. Why? Because of my dad's job. What does he do? Well, he's always worked in the semiconductor industry–first as an engineer and now as an executive–but let's just say he didn't let geography limit his career path."
+							"Moved to the Portland metro area, Oregon; Taipei, Taiwan; back to the Portland metro area, Oregon; and then to Shanghai, China."
 						}
 					/>
 				</List>
@@ -183,7 +183,14 @@ export default function Timeline() {
 			<Typography variant="h5">
 				<b>2021</b>
 			</Typography>
-			<List></List>
+			<List>
+				<TimelineStep
+					primary={"Moving to the San Jose metro area this summer! 😁"}
+					secondary={
+						"After moving 8 times around the world, I'm ecstatic to be moving back to my childhood home in the San Jose metro area soon! Blog post and more details coming soon."
+					}
+				/>
+			</List>
 			<Divider />
 			<Typography variant="h5">
 				<b>2020</b>
@@ -192,7 +199,7 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Began Training for an Ironman 🏊🚴🏃‍♂️"}
 					secondary={
-						"The first 6 months will be running base training using the MAF method (100% aerobic training in a specific heartrate zone). The actual 6-month Ironman training program will start in late March."
+						"The first 6 months will be running base training using the MAF method (100% aerobic training in a specific heartrate zone). The actual 6-month Ironman training program will start in late March of 2021."
 					}
 					link={"http://strava.com/athletes/wesleytian"}
 					linkName={"Follow me on Strava!"}
@@ -200,7 +207,7 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Moved to Nevada 🏜"}
 					secondary={
-						"My girlfriend and I packed up all of our physical belongings into my 06' Honda Pilot and drove from Michigan to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona."
+						"My girlfriend and I packed up all of our physical belongings into our SUV and drove from Michigan to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona."
 					}
 					link={
 						"https://www.instagram.com/stories/highlights/18153325603070911/"
@@ -208,7 +215,7 @@ export default function Timeline() {
 					linkName={"See my Instagram story here."}
 				/>
 				<TimelineStep
-					primary={"Front Page of TechCrunch! 📰"}
+					primary={"TechCrunch Front Page! 📰"}
 					link={
 						"https://techcrunch.com/2020/08/25/our-12-favorite-startups-from-y-combinators-s20-demo-day-part-2/"
 					}

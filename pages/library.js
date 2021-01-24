@@ -42,23 +42,6 @@ export default function LibraryPage() {
 					<Grid container>
 						<List dense>
 							<LibraryItem
-								href={"https://nav.al/rich"}
-								primary={`How to Get Rich`}
-								secondary={`Naval Ravikant`}
-							/>
-							<LibraryItem
-								href={"https://blog.samaltman.com/how-to-be-successful"}
-								primary={`How To Be Successful`}
-								secondary={`Sam Altman`}
-							/>
-							<LibraryItem
-								href={
-									"https://www.navalmanack.com/almanack-of-naval-ravikant/be-patient"
-								}
-								primary={`Be Patient`}
-								secondary={`Naval Ravikant`}
-							/>
-							<LibraryItem
 								href={
 									"https://digitalnative.substack.com/p/the-startups-transforming-education"
 								}
@@ -78,6 +61,23 @@ export default function LibraryPage() {
 								}
 								primary={`What to look for in a code review`}
 								secondary={`Google`}
+							/>
+							<LibraryItem
+								href={"https://blog.samaltman.com/how-to-be-successful"}
+								primary={`How To Be Successful`}
+								secondary={`Sam Altman`}
+							/>
+							<LibraryItem
+								href={
+									"https://www.navalmanack.com/almanack-of-naval-ravikant/be-patient"
+								}
+								primary={`Be Patient`}
+								secondary={`Naval Ravikant`}
+							/>
+							<LibraryItem
+								href={"https://nav.al/rich"}
+								primary={`How to Get Rich`}
+								secondary={`Naval Ravikant`}
 							/>
 						</List>
 					</Grid>
