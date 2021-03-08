@@ -102,11 +102,11 @@ So instead of trying to get promoted to L4 or E5, if you want to grow your caree
 <a name="reasonnotto"></a>
 ### One reason not to join a startup
 
-You don't believe in the team/the product/the mission enough to think it'll be an outlier.
+You don't believe in the company (you/the team/the product/the mission) enough to think it'll be an outlier.
 
-**As Steve Jobs said best, "the people who are crazy enough to think that they can change the world, are the ones who do." Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Some people think they can change the world and if you believe in yourself enough, the world will conspire to make it happen. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team.**
+**As Steve Jobs said best, "the people who are crazy enough to think that they can change the world, are the ones who do." Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought like this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. When you truly believe you can change the world, the world will conspire to make it happen. And this is why optimists will always rule the world.**
 
-Do you believe in your founder/team/mission/yourself enough to join the startup? 
+Do you believe in your founder(s)/the team/the mission/yourself enough to join the startup? 
 
 Do you think you're joining the next [_insert big tech company name here_]?
 
