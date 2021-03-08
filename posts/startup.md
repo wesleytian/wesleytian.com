@@ -4,7 +4,7 @@ date: "2021-03-07"
 draft: true
 ---
 
-This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons not to join a startup and 1 reason to](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html#why_join_a_startup).
+This is the other side of the coin to Chip Huyen's recent blog post, [7 reasons not to join a startup and 1 reason to](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html#why_join_a_startup).
 
 *Note to the reader:* I haven't made a direct response to every one of Chip's sentences as my goal here isn't to negate everything that she said, but rather to offer a different perspective–albeit one that is perhaps rarer and more optimistic than is the norm in the startup world. The reason why I haven't responded directly to everything that Chip said is that I do, in fact, think most of what Chip said is incredibly valid.
 
@@ -22,7 +22,7 @@ This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons 
 <a name="reason1"></a>
 ### Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company
 
-Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at Big Tech who work 80 hours a week, year-round. However, it is also unheard of to people on different teams at those same Big Tech companies. Not only is it company-dependent, but it's also team-dependent at big companies. 
+Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at Big Tech who work 80 hours a week, year-round. Surprisingly, this also comes as news to other people at those same Big Tech companies. Not only is work-life balance company-dependent, but it also seems to be largely team-dependent.
 
 During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the division of labor and the more efficient things get (thanks capitalism). Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have, which is why most companies hustle so much during YC. 
 
@@ -53,7 +53,7 @@ Sometimes, code quality does take a spot on the backburner because of higher pri
 <a name="reason3"></a>
 ### Reason 3. <strike>Less mentorship</strike> Great mentorship
 
-Because I've never worked at a Big Tech full-time, and I might never, I won't exactly know what it means to have a "mentor." Like what Chip said in her post, though, I did have the opportunity to ping any person while I was at Microsoft for a coffee chat or lunch. This was great, except that I soon realized that too few of the people I asked advice from had my dream career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these coffee chats were usually pretty surface-level. 
+Because I've never worked at a Big Tech full-time, and I might never, I won't exactly know what it means to have a "mentor." Like what Chip said in her post, though, I did have the opportunity to ping anyone while I was at Microsoft for a coffee chat or lunch. This was great, except that I soon realized that too few of the people I asked advice from had my dream career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these coffee chats were usually pretty surface-level. 
 
 At Virtually, however, since some of our "mentors" are contractors that we hired or investors with a shared interest in our success, they're able to offer advice that is more customized to my personality and work habits. Sure, I don't technically refer to them as mentors, but I have and can schedule calls with any of them to seek advice. 
 
@@ -86,7 +86,7 @@ It doesn't even matter what the expected financial outcome of your company is. J
 <a name="reason5"></a>
 ### Reason 5. <strike>Bad management</strike> You are management
 
-This depends a lot on the company, but in my experience, if you join a company early enough and build up trust with your managers/founder(s), then you will have a large say in how you are managed. You can provide feedback that they value and take to heart. Because they understand that if they don't, you'll leave.
+This depends a lot on the company, but in my experience, if you join a company early enough and build up trust with your managers/founder(s), then you will have a large say in how you are managed. You can provide feedback that they value and take to heart. Because they understand that if they don't, you'll leave, and the company will die.
 
 Additionally, as Chip mentioned, there is a good chance that your own management skills will come into play if the company continues growing. If you think your company has bad management and you're a manager, even if it's of 1 or 2 people, then it's on you. Listen to your employees, value them, treat them fairly, and have their interests at heart. If they're unsatisfied, then it will ultimately affect the company's culture and growth. These are things that any communicative and empathetic person can learn, even if they are a recent grad or new to management. 
 
