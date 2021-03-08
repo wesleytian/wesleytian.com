@@ -50,7 +50,7 @@ It's true that sometimes code quality takes a spot on the backburner because of 
 
 Takeaway: Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers who can put in place good engineering practices themselves or value the engineering expertise and find it worth the money to pay for a service such as pullrequest.com. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass later.
 
-* *Another thing that I want to point out is that big tech companies usually have good practices through trial-and-error, but they're most likely stuck in a local optima of practices, processes, and culture. Being at a startup means that you can help create a new set of practices and processes previously unknown to the world that could actually be better than those used at big tech companies. Every new successful company with different practices and culture than existing ones is proof of this.*
+* *Another thing that I want to point out is that big tech companies usually have good practices through trial-and-error, but they're most likely stuck in local optimas of practices, processes, and culture. Being at a startup means that you can help create a new set of practices and processes previously unknown to the world that could actually be better than those used at big tech companies. Every new successful company with different practices and culture than existing ones is proof of this.*
 
 <a name="reason3"></a>
 ### Reason 3. <strike>Less mentorship</strike> Great mentorship
