@@ -22,6 +22,8 @@ This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons 
 <a name="reason1"></a>
 ### Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company
 
+This isn't technically a reason to join a startup. It's just a commentary on work-life balance at startups.
+
 Since we graduated from Y Combinator and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at big tech companies who work 80 hours a week, year-round. However, it is unheard of to people on different teams at those same big tech companies. Not only is it company dependent, but it's entirely team dependent at big companies. 
 
 During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the distribution of labor. Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have which is why most companies hustle so much during YC. 
