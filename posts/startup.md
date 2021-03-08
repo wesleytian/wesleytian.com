@@ -44,9 +44,9 @@ Recently, we also discovered and started using [pullrequest.com](pullrequest.com
 
 With phenomenal and experienced talent like these working alongside us (some of which have spent dedicated time reviewing our code as their job), it is only natural that we pick up some great engineering practices.
 
-Takeaway: Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers who can put in place good engineering practices themselves or value the engineering expertise and find it worth the money to pay for a service such as pullrequest.com. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass later.
-
 It's true that sometimes code quality takes a spot on the backburner because of higher priority tasks (which often happened during YC). However, there's a difference in knowing what to do and not doing it due to business priorities and not knowing what to do. The key is becoming more apparent what the right things are to do, even if there isn't time to do them then and now. And as things become more stable, we focus on making sure that our code is up to high standard of quality.
+
+Takeaway: Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers who can put in place good engineering practices themselves or value the engineering expertise and find it worth the money to pay for a service such as pullrequest.com. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass later.
 
 
 <a name="reason3"></a>
