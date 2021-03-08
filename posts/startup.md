@@ -53,7 +53,7 @@ Sometimes, code quality does take a spot on the backburner because of higher pri
 <a name="reason3"></a>
 ### Reason 3. <strike>Less mentorship</strike> Great mentorship
 
-Because I've never worked at a Big Tech full-time, and I might never, I won't exactly know what it means to have a "mentor." Like what Chip said in her post, though, I did have the opportunity to ping anyone while I was at Microsoft for a coffee chat or lunch. This was great, except that I soon realized that too few of the people I asked advice from had my dream career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these coffee chats were usually pretty surface-level. 
+Because I've never worked at a Big Tech full-time, and I might never, I won't exactly know what it means to have a "mentor." Like Chip's experience at NVIDIA, I did have the opportunity to ping anyone while I was at Microsoft for coffee or lunch. This was great, except that I soon realized that too few of the people I asked advice from had my dream career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these coffee chats were usually pretty surface-level. 
 
 At Virtually, however, since some of our "mentors" are contractors that we hired or investors with a shared interest in our success, they're able to offer advice that is more customized to my personality and work habits. Sure, I don't technically refer to them as mentors, but I have and can schedule calls with any of them to seek advice. 
 
