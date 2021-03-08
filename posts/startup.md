@@ -8,6 +8,16 @@ This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons 
 
 *Note to the reader:* I haven't made a direct response to every of Chip's sentences as my goal here isn't to negate everything that she said, but rather to offer a different perspective, albeit one that is perhaps rarer and more optimistic than is the norm in the startup world. In fact, the reason why I haven't responded directly to everything that Chip said is that I do in fact think most of what Chip said is incredibly valid.
 
+#### Table of contents:
+- Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company
+- Reason 2. <strike>You'll pick up bad engineering practices</strike> You might pick up some great engineering practices
+- Reason 3. <strike>Less mentorship</strike> Tailored mentorship
+- Reason 4. <strike>You won't get rich</strike> You believe you'll get rich
+- Reason 5. <strike>Bad management</strike> You are management
+- Reason 6. <strike>You might have to do a lot of things you don't want to do</strike> You get to do a lot of things that founders get to do
+- Reason 7. <strike>No clear career growth trajectory</strike> You grow your career by growing the company
+- One reason not to join a startup
+
 ### Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company
 
 Since we graduated from Y Combinator and hired a customer success lead, product designer, and another engineer, I work an average of 40-50 hours a week. Yet, I know people at big tech companies who work 80 hours a week, year round. However to other people at those big tech companies it is unheard of. Not only is it company dependent, but it's entirely team dependent at big companies. 
@@ -18,7 +28,7 @@ Though I have to concede, that yes, in general, startups have less work-life bal
 
 At Virtually, I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of it comes from an external source, whether that is management or company culture. It's all because we want to make our customers happy, create a better product, and make the company more valuable as a whole.
 
-### Reason 2. <strike>You'll pick up bad engineering practices</strike> You'll pick up the not-so-bad engineering practices
+### Reason 2. <strike>You'll pick up bad engineering practices</strike> You might pick up some great engineering practices
 
 Again, this is dependent on the company. In my experience, I've been fortunate to pick up great engineering practices. The reasons for this are as follows.
 
@@ -42,15 +52,13 @@ At Virtually however, since some of our "mentors" are contractors that we hired 
 
 Some of these co-workers or investors that I've sought advice from include Michael Kelly, employee #1 at Plaid, Li Fan, Snir Kodesh, Dhanajoy, Sauros,  my founder, Ish and my co-workers who have worked in industry in their respective fields much longer than I have. As a bonus to being in YC, I've also gotten to know other first engineers such as Nathan Leung, as well as the current director of Work at a YC Startup, Ryan Choi (also 7th engineer at Salesforce). Besides the investors, the great thing about these people is that they either know me or have experienced the career that I aspire to have.
 
-### Reason 4. <strike>You won't get rich</strike> You think you'll get rich
+### Reason 4. <strike>You won't get rich</strike> You believe you'll get rich
 
 What is the probability that you will become a decamillionaire by working at a big tech company as an engineer? 0% Not even 0.00000001%. Literally zero. Not even the non-founding CEOs of Google, Microsoft or Amazon are billionaires. Why? It's simply because they don't have nearly as much equity as the founders. In fact, early employees at successful companies have made more than the executives that came on later.
 
 It is true that the chance of joining one of these companies, probability-wise, is incredibly slim. And the financial outcome of joining a startup, risk-adjusted, is probably lower than joining big tech or a late-stage startup.  However, there is an intangible value to pursuing your dream than to give up because of some probabilities.
 
-It doesn't even matter what the expected financial outcome of your company is. You start a company or join an early-stage company because you believe in the company and believe in yourself to turn teh company into a billion dollar business. If your mindset is that most startups fail and your starutp will just be another one to fail and that the expected return is less than joining big tech, then yeah, don't join a startup.
-
-
+Takeaway: It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believes you're an outlier and your company will become a billion dollar business. If your mindset is that most startups fail and your starutp will just be another one to fail and that the expected return is less than joining big tech, then yeah, don't join a startup.
 
 ### Reason 5. <strike>Bad management</strike> You are management
 
@@ -78,4 +86,8 @@ So instead of trying to get promoted to L4 or E5, if you want to grow your caree
 
 You don't believe in yourself/the team/the startup enough to think it'll be an outlier.
 
-As Steve Jobs said best, only the crazy ones who think they can change the future do. Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Some people think they can change the world and if you believe in yourself enough, the world will conspire to make it happen. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team. Do you believe in your founder/team/mission/yourself to join the startup? Do you think you're joining the next [insert big tech company name here]?
+**As Steve Jobs said best, only the crazy ones who think they can change the future do. Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Some people think they can change the world and if you believe in yourself enough, the world will conspire to make it happen. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team.**
+
+Do you believe in your founder/team/mission/yourself to join the startup? 
+
+Do you think you're joining the next [insert big tech company name here]?

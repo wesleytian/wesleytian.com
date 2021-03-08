@@ -19,7 +19,8 @@ export default function Post({ postData }) {
 					item
 					direction="column"
 					xs={11}
-					md={8}
+					sm={10}
+					md={7}
 					className={styles.description}>
 					<Typography variant="h4">{title}</Typography>
 					<br />
