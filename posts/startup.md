@@ -58,7 +58,7 @@ At Virtually, however, since some of our "mentors" are contractors that we hired
 
 Some of these co-workers or investors that I've sought advice from include Michael Kelly, employee #1 at Plaid, Li Fan, Snir Kodesh, Dhanajoy, Sauros,  my founder, Ish and my co-workers who have worked in industry in their respective fields much longer than I have. As a bonus to being in YC, I've also gotten to know other first engineers such as Nathan Leung, as well as the current director of Work at a YC Startup, Ryan Choi (also 7th engineer at Salesforce). Besides the investors, the great thing about these people is that they either know me or have experienced the career I aspire to have.
 
-Ultimately, I think it comes down to what you want. Do you want to learn from other founders and early employees or ones that are accomplished at bigger companies? If you want the former, they'll be hard to find at big tech.
+Ultimately, I think it comes down to what you want. Do you want to learn from other founders and early employees or ones that are accomplished at bigger companies? If you want the former, they'll be hard to find at big tech. (Probably because they've been spoiled by the autonomy of a smaller company.)
 
 
 <a name="reason4"></a>
@@ -66,9 +66,9 @@ Ultimately, I think it comes down to what you want. Do you want to learn from ot
 
 What is the probability that you will become a decamillionaire by working at a big tech company as an engineer? 0% Not even 0.00000001%. Literally zero. Not even the non-founding CEOs of Google, Microsoft, or Amazon are billionaires. Why? It's simply because they don't have nearly as much equity as the founders. In fact, early employees at successful companies have made more than the executives that came on later.
 
-It is true that the chance of joining one of these companies, probability-wise, is incredibly slim. And the financial outcome of joining a startup, risk-adjusted, is probably lower than joining big tech or a late-stage startup.  However, there is an intangible value to pursuing your dream than to give up because of some probabilities.
+It is true that the chance of joining one of these companies, probability-wise, is incredibly slim. And the financial outcome of joining a startup, risk-adjusted, is probably lower than joining big tech or a late-stage startup. 
 
-Takeaway: It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining big tech, then yeah, don't join a startup.
+It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining big tech, then yeah, don't join a startup.
 
 
 <a name="reason5"></a>
