@@ -36,7 +36,7 @@ At [Virtually](https://tryvirtually.com/), I think we all feel the pressure to w
 
 Again, this is dependent on the company. In my experience, I've been fortunate to pick up great engineering practices, perhaps better ones than if I were working at most companies in the world. The reasons for this are as follows.
 
-I began my time at Virtually by working on the codebase with Ish, who spent close to 2 years total as an software engineer at Facebook and worked under one of the [React](https://brainhub.eu/blog/10-famous-apps-using-reactjs-nowadays/) library creators. Though Ish wasn't titled a senior engineer, I learned from somebody who learned from one of the best.
+I began my time at Virtually by working on the codebase with Ish, who spent close to 2 years total as a software engineer at Facebook and worked under a core [React](https://brainhub.eu/blog/10-famous-apps-using-reactjs-nowadays/) library creator. Though Ish wasn't titled a senior engineer, I learned from somebody who learned from one of the best.
 
 Later, I worked with other full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 2x ACM ICPC world finalist, who was also the chief architect at the largest e-commerce company in Bangladesh. 
 
@@ -62,7 +62,7 @@ Some of these people that I've gotten to know and seek advice from include:
 - Sakib Sauro (Co-Founder and CTO of [Backpack–YC S14](https://www.crunchbase.com/organization/backpack))
 - Michael Kelly (Employee #1 at [Plaid](https://en.wikipedia.org/wiki/Plaid_(company)))
 - Dhanajoy Biswas (Employee #1 and Lead Software Architect at Backpack (YC S14), SWE at Google)
-- My other teammates who have years of experience in their respective fields (e.g., product managament, sales)
+- My other teammates who have years of experience in their respective fields (e.g., product management, sales)
 - [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)) (CTO of [Lime](https://en.wikipedia.org/wiki/Lime_(transportation_company)), SVP/Head of Eng. at Pinterest, Sr. Dir. of Eng. at Google)
 - Snir Kodesh (Dir. of Eng. at Lyft ([LYFT](https://www.google.com/finance/quote/LYFT:NASDAQ?sa=X&ved=2ahUKEwjt55WV7p_vAhWTvZ4KHQ1zB80Q3ecFMAB6BAgREBo)), Co-Founder at Hitch–acq. by Lyft)
 
@@ -78,7 +78,7 @@ What is the probability that you will become a decamillionaire by working at FAA
 
 0%. Not even 0.00000001%. Literally zero. Not even the non-founding CEOs of Google, Microsoft, or Amazon are billionaires. Why? It's because they don't have nearly as much equity as the founders.
 
-It's true that the chance of joining one of these rocketships early on is incredibly slim. And the risk-adjusted financial outcome of joining a startup is probably lower than joining FAANG or a late-stage startup. 
+The chance of joining one of these rocketships early on is indeed incredibly slim. And the risk-adjusted financial outcome of joining a startup is probably lower than joining FAANG or a late-stage startup. 
 
 It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier, and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining FAANG, then yeah, don't join a startup.
 
@@ -86,7 +86,9 @@ It doesn't even matter what the expected financial outcome of your company is. J
 <a name="reason5"></a>
 ### Reason 5. <strike>Bad management</strike> You are management
 
-This depends a lot on the company, but in my experience, if you join a company early enough and build up trust with your managers/founder(s), then you will have a large say in how you are managed. You can provide feedback that they value and take to heart. Because they understand that if they don't, you'll leave, and the company will die.
+This depends a lot on the company, but in my experience, if you join as an early employee and build up some trust with your managers/founder(s), then you will have a large say in how you are managed. In fact, I believe that management at early-stage startups is up to you in more ways than one. 
+
+First, because first-time managers at startups are common, you should tell them if they do something you don't like or want them to do something more. Founders/managers will often take your feedback to heart because they understand that if they don't, you'll leave, and if people start leaving because of a toxic culture, the company will die. Unfortunately, they may not already be a great manager, but the aligned incentives part does make it better. Whereas if you have a bad manager at a larger company, your only hope is to switch teams or leave the company.
 
 Additionally, as Chip mentioned, there is a good chance that your own management skills will come into play if the company continues growing. If you think your company has bad management and you're a manager, even if it's of 1 or 2 people, then it's on you. Listen to your employees, value them, treat them fairly, and have their interests at heart. If they're unsatisfied, then it will ultimately affect the company's culture and growth. These are things that any communicative and empathetic person can learn, even if they are a recent grad or new to management. 
 
