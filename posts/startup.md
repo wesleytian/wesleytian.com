@@ -18,7 +18,7 @@ Though I have to concede, that yes, in general, startups have less work-life bal
 
 At Virtually, I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of it comes from an external source, whether that is management or company culture. It's all because we want to make our customers happy, create a better product, and make the company more valuable as a whole.
 
-### Reason 2. <strike>You'll pick up bad engineering practices</strike> You'll pick up the best engineering practices
+### Reason 2. <strike>You'll pick up bad engineering practices</strike> You'll pick up the not-so-bad engineering practices
 
 Again, this is dependent on the company. In my experience, I've been fortunate to pick up great engineering practices. The reasons for this are as follows.
 
@@ -34,7 +34,7 @@ Takeaway: Thus, if you are a junior engineer looking to join a startup, I would 
 
 It's true that sometimes code quality takes a spot on the backburner because of higher priority tasks (which happened often during YC), however there's a difference in knowing what to do and not doing it due to business priorities and not knowing what to do. The key is becoming more apparent what are the right things to do, even if there isn't time to do them then and now. And as things become more stable, we focus on making sure that our code is up to high standard of quality.
 
-### Reason 3. <strike>Less mentorship</strike> Great mentorship
+### Reason 3. <strike>Less mentorship</strike> Tailored mentorship
 
 Because I've never worked at a big tech company full-time, and I might never, I won't exactly know what it means to have a "mentor". Similar to what Chip said in her post, I did have the opportunity to ping any person while I was at Microsoft for a coffee chat or lunch though. This was great except that I soon realized that extremely few of the people I was asking advice from had my dream career. These people also didn't really know much about me as I didn't work with them so the insights I got from these coffee chats were usually pretty surface-level. 
 
@@ -42,7 +42,7 @@ At Virtually however, since some of our "mentors" are contractors that we hired 
 
 Some of these co-workers or investors that I've sought advice from include Michael Kelly, employee #1 at Plaid, Li Fan, Snir Kodesh, Dhanajoy, Sauros,  my founder, Ish and my co-workers who have worked in industry in their respective fields much longer than I have. As a bonus to being in YC, I've also gotten to know other first engineers such as Nathan Leung, as well as the current director of Work at a YC Startup, Ryan Choi (also 7th engineer at Salesforce). Besides the investors, the great thing about these people is that they either know me or have experienced the career that I aspire to have.
 
-### Reason 4. <strike>You won't get rich</strike> It's the easiest way to become very rich
+### Reason 4. <strike>You won't get rich</strike> You think you'll get rich
 
 What is the probability that you will become a decamillionaire by working at a big tech company as an engineer? 0% Not even 0.00000001%. Literally zero. Not even the non-founding CEOs of Google, Microsoft or Amazon are billionaires. Why? It's simply because they don't have nearly as much equity as the founders. In fact, early employees at successful companies have made more than the executives that came on later.
 
@@ -52,7 +52,7 @@ It doesn't even matter what the expected financial outcome of your company is. Y
 
 
 
-### Reason 5. <strike>Bad management</strike> Management listens to you/you are management
+### Reason 5. <strike>Bad management</strike> You are management
 
 This depends a lot on the company, but in my experience, if you join a company early enough and build up trust with your managers/founder(s), then you will have a large say in how you are managed. You are able to provide feedback that they value and take to heart. 
 
@@ -60,7 +60,7 @@ Additionally, like Chip mentioned, there is a good chance that your own manageme
 
 I will agree that they may not have the best advice for how you can grow your career/what skills you're lacking due to a lack of personal experience though.
 
-### Reason 6. <strike>You might have to do a lot of things you don't want to do</strike> It's the best way to learn to be a founder
+### Reason 6. <strike>You might have to do a lot of things you don't want to do</strike> You get to do a lot of things that founders get to do
 
 Do you know who else has to do a lot of things that they don't want to do? Founders. When you're working at an early-stage startup, it is true that you might have to do things that you don't want to. But, if you want to be successful at anything in life, you have to get used to doing things that you don't want to. 
 
@@ -72,10 +72,10 @@ The best way to learn how to be a founder is by by being one. The next best way 
 
 It is true that there is no clear career growth trajectory at early-stage startups like at big companies. There aren't bi-annual performance reviews that you try to pass in order to get promoted to E4/L4 or E5/L5. However, you can grow your career exponentially faster than at a larger company by growing the company. Of course, this is much harder said than done, but not only is there potential for your growth to be much faster, but it's inherently tied to the success of your company. There are engineers who are able to land senior engineering jobs at a big company after a year of engineering at a startup. Or product managers who land senior management or director positions in just a few years at a startup.
 
-So instead of trying to get promoted to L4 or E5, if you want to grow your career, grow the company by increasing revenue and achieving scale. It is quite clear if you look at it in terms of KPIs. If the company achieves this much MRR or this much GMV, then they will be this closer to raise a Series A or B. When you interview for your next position, you'll be able to describe exactly how and what you learned in order to scale your company. Join a startup if you want to gain skills related to entrepreneurship, don't join a startup if your goal is to climb neatly placed titles.
+So instead of trying to get promoted to L4 or E5, if you want to grow your career, grow the company by increasing revenue and achieving scale. It is quite clear if you look at it in terms of KPIs. If the company achieves this much MRR (e.g. 80K) or this much GMV, then they will be this closer to raise a Series A or B. When you interview for your next position, you'll be able to describe exactly how and what you learned in order to scale your company. Join a startup if you want to gain skills related to entrepreneurship, don't join a startup if your goal is to climb neatly placed titles.
 
 ### One reason not to join a startup
 
 You don't believe in yourself/the team/the startup enough to think it'll be an outlier.
 
-As Steve Jobs said best, only the crazy ones who think they can change the future do. Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team. Do you believe in your founder/team/mission/yourself to join the startup? Do you think you're joining the next [insert big tech company name here]?
+As Steve Jobs said best, only the crazy ones who think they can change the future do. Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Some people think they can change the world and if you believe in yourself enough, the world will conspire to make it happen. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team. Do you believe in your founder/team/mission/yourself to join the startup? Do you think you're joining the next [insert big tech company name here]?
