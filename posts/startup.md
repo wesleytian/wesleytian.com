@@ -74,11 +74,11 @@ It doesn't even matter what the expected financial outcome of your company is. J
 <a name="reason5"></a>
 ### Reason 5. <strike>Bad management</strike> You are management
 
-This depends a lot on the company, but in my experience, if you join a company early enough and build up trust with your managers/founder(s), then you will have a large say in how you are managed. You are able to provide feedback that they value and take to heart. 
+This depends a lot on the company, but in my experience, if you join a company early enough and build up trust with your managers/founder(s), then you will have a large say in how you are managed. You are able to provide feedback that they value and take to heart. Because they understand that if they don't, you'll leave.
 
-Additionally, like Chip mentioned, there is a good chance that your own management skills will come into play if the company continues growing. If you think your company has bad management and you're a manager, even if it's of 1 or 2 people, then it's on you. Listen to your employees, value them, treat them fairly, and have their interests at heart. If they're unsatisfied, then it will ultimately affect the company culture and growth. These are things that any communicative and empathetic person can learn, even if they are a recent grad or new to management. 
+Additionally, like Chip mentioned, there is a good chance that your own management skills will come into play if the company continues growing. If you think your company has bad management and you're a manager, even if it's of 1 or 2 people, then it's on you. Listen to your employees, value them, treat them fairly, and have their interests at heart. If they're unsatisfied, then it will ultimately affect the company's culture and growth. These are things that any communicative and empathetic person can learn, even if they are a recent grad or new to management. 
 
-I will agree that they may not have the best advice for how you can grow your career/what skills you're lacking due to a lack of personal experience, though.
+I will agree that they may not have the best advice for how you can grow your career/what skills you're lacking due to a lack of personal experience.
 
 
 <a name="reason6"></a>
@@ -88,7 +88,7 @@ Do you know who else has to do a lot of things that they don't want to do? Found
 
 The best way to learn how to be a founder is by being one. The next best way is to join an early-stage startup. At the end of the day, you guys will be working super close together and your incentives will all be aligned (increasing revenue, reducing burn, hiring well), unlike at bigger companies (passing performance reviews, forming alliances). 
 
-**Takeaways:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you want to only work on the glamourable bits. The bigger the company you join, the fewer hats you will wear.
+**Takeaways:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you want to only work on the glamorous bits. The bigger the company you join, the fewer hats you will wear.
 
 
 <a name="reason7"></a>
