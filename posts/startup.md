@@ -94,9 +94,11 @@ The best way to learn how to be a founder is by being one. The next best way is 
 <a name="reason7"></a>
 ### Reason 7. <strike>No clear career growth trajectory</strike> You grow your career by growing the company
 
-It is true that there is no clear career growth trajectory at early-stage startups like at big companies. There aren't bi-annual performance reviews that you try to pass in order to get promoted to E4/L4 or E5/L5. However, you can grow your career exponentially faster than at a larger company by growing the company. Of course, this is much harder said than done, but not only is there potential for your growth to be much faster, but it's inherently tied to the success of your company. There are engineers who are able to land senior engineering jobs at a big company after a year of engineering at a startup. Or product managers who land senior management or director positions in just a few years at a startup.
+It is true that there is no clear career growth trajectory at early-stage startups like at big companies. There aren't bi-annual performance reviews that you try to pass (or game in some cases) in order to get promoted to E4/L4 or E5/L5. 
 
-So instead of trying to get promoted to L4 or E5, if you want to grow your career, grow the company by increasing revenue and achieving scale. It is quite clear if you look at it in terms of KPIs. If the company achieves this much MRR (e.g. 80K) or this much GMV, then they will be this closer to raise a Series A or B. When you interview for your next position, you'll be able to describe exactly how and what you learned in order to scale your company. Join a startup if you want to gain skills related to entrepreneurship, don't join a startup if your goal is to climb neatly placed titles.
+However, you can grow your career exponentially faster than at a larger company by growing the company. If you help create engineering processes that reduce the number of outages and in effect increase revenue, you'll have developed much more skills to talk about during an interview than if you had worked at a bigger company.
+
+So if you want to grow your career, instead of trying to get promoted to L4 or E5, grow the company by increasing revenue and achieving scale. It is quite clear if you look at it in terms of KPIs. If the company achieves this much MRR (e.g. 80K) or this much GMV, then they will be this closer to raise a Series A or B. When you interview for your next position, you'll be able to describe exactly how and what you learned in order to scale your company. Join a startup if you want to gain skills related to entrepreneurship, don't join a startup if your goal is to climb neatly placed titles.
 
 
 <a name="reasonnotto"></a>
