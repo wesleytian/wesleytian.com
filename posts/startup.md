@@ -122,7 +122,7 @@ You don't believe in the company (you/the team/the product/the mission) enough t
 
 *As Steve Jobs said best, "the people who are crazy enough to think that they can change the world, are the ones who do."*
 
-**Successful entrepreneurs don't sit around on their asses analyzing their probability of success and expected financial return. If they all thought like this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Why start a company if you think you're going to fail? Only when you genuinely believe you can change the world will the world conspire to make it happen. And this is why I think optimists will rule the world.**
+**Successful entrepreneurs don't sit around on their asses analyzing their probability of success and expected financial return. If they all thought like this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Why start a company if you think you're going to fail? Only when you genuinely believe you can change the world will the world conspire to make it happen. And this is why I think optimists will always rule the world.**
 
 Do you believe in your founder(s)/the team/the mission/yourself enough to join the startup?  Do you think you're joining the next [_insert big tech company name here_]?
 
