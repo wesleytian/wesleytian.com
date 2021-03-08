@@ -42,7 +42,7 @@ Later, I worked with full-time employees and contractors well-versed in engineer
 
 Recently, we also discovered and started using [pullrequest.com](pullrequest.com), which offers Code Review as a Service. They employ people like [Elifaz Filho](https://www.linkedin.com/in/elifaz/), a senior software engineer at Facebook, and [Dylan Drop](https://www.pullrequest.com/blog/code-reviewer-spotlight-dylan-drop/), a director of software engineering at GruhHub to review my code.
 
-With phenomenal and experienced talent like these working alongside us (some of which have spent dedicated time reviewing our code as their job), it is only natural that we pick up some great engineering practices.
+With phenomenal and experienced talent like these working alongside us (some of whom spend dedicated time reviewing our code as their job), it is only natural that we pick up some great engineering practices.
 
 It's true that sometimes code quality takes a spot on the backburner because of higher priority tasks (which often happened during YC). However, there's a difference in knowing what to do and not doing it due to business priorities and not knowing what to do. The key is becoming more apparent what the right things are to do, even if there isn't time to do them then and now. And as things become more stable, we focus on making sure that our code is up to high standard of quality.
 
