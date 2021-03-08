@@ -48,7 +48,9 @@ What is the probability that you will become a decamillionaire by working at a b
 
 It is true that the chance of joining one of these companies, probability-wise, is incredibly slim. And the financial outcome of joining a startup, risk-adjusted, is probably lower than joining big tech or a late-stage startup.  However, there is an intangible value to pursuing your dream than to give up because of some probabilities.
 
-It doesn't even matter what the financial outcome of your company is. If you didn't believe that your company could succeed, why would you start it in the first place? I believe that the first step to success is to believing that if you work hard enough, you/your team/your company **will** be successful.
+It doesn't even matter what the expected financial outcome of your company is. You start a company or join an early-stage company because you believe in the company and believe in yourself to turn teh company into a billion dollar business. If your mindset is that most startups fail and your starutp will just be another one to fail and that the expected return is less than joining big tech, then yeah, don't join a startup.
+
+
 
 ### Reason 5. <strike>Bad management</strike> Management listens to you/you are management
 
@@ -74,5 +76,6 @@ So instead of trying to get promoted to L4 or E5, if you want to grow your caree
 
 ### One reason not to join a startup
 
-You don't believe in yourself/the team/the startup.
+You don't believe in yourself/the team/the startup enough to think it'll be an outlier.
 
+As Steve Jobs said best, only the crazy ones who think they can change the future do. Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team. Do you believe in your founder/team/mission/yourself to join the startup? Do you think you're joining the next [insert big tech company name here]?
