@@ -57,7 +57,16 @@ Because I've never worked at a big tech company full-time, and I might never, I 
 
 At Virtually, however, since some of our "mentors" are contractors that we hired or investors with a shared interest in our success, they're able to offer advice that is more customized to my personality and work habits. Sure, I don't technically refer to them as mentors, but I have and can schedule calls with any of them to seek advice. 
 
-Some of these people that I've gotten to know and seek advice from include Michael Kelly (employee #1 at Plaid), Li Fan, Snir Kodesh, Dhanajoy, Sakib Sauro, Ish (founder and CEO of Virtually), and my co-workers who have plenty of years of experience in their respective fields. As a bonus to partially being in the YC network (partially because I'm not a founder), I've also gotten to know other first engineers such as Nathan Leung (employee #1 at Jupiter (YC S19)) and Ryan Choi (director of Work at a YC Startup and 7th engineer at Salesforce). Besides the investors, the great thing about these people is that they either know me or have experienced the career I aspire to have.
+Some of these people that I've gotten to know and seek advice from include: 
+- Ish Baid (Founder and CEO of Virtually)
+- Sakib Sauro (Co-Founder and CTO of [Backpack–YC S14](https://www.crunchbase.com/organization/backpack))
+- Michael Kelly (Employee #1 at [Plaid](https://en.wikipedia.org/wiki/Plaid_(company)))
+- Dhanajoy Biswas (Employee #1 and Lead Software Architect at Backpack (YC S14), SWE at Google)
+- My other teammates who have years of experience in their respective fields (e.g., product managament, sales)
+- [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)) (CTO of [Lime](https://en.wikipedia.org/wiki/Lime_(transportation_company)), SVP/Head of Eng. at Pinterest, Sr. Dir. of Eng. at Google)
+- Snir Kodesh (Dir. of Eng. at Lyft ([LYFT](https://www.google.com/finance/quote/LYFT:NASDAQ?sa=X&ved=2ahUKEwjt55WV7p_vAhWTvZ4KHQ1zB80Q3ecFMAB6BAgREBo)), Co-Founder at Hitch–acq. by Lyft)
+
+As a bonus to partially being in the YC network, I've also gotten to know other early engineers such as Nathan Leung (Employee #1 at [Jupiter–YC S19](https://www.ycombinator.com/companies/12574)) and Ryan Choi (Dir. of [Work at a YC Startup](https://www.workatastartup.com/) and Employee #7 at Salesforce–[CRM](https://www.google.com/finance/quote/CRM:NYSE?sa=X&ved=2ahUKEwi_rZvH7Z_vAhVXrp4KHd9kAl0Q3ecFMAB6BAgOEBo)). Besides the investors, the great thing about these people is that they either know me or have experienced the career I aspire to have.
 
 Ultimately, I think it comes down to what you want. Do you want to learn from people who helped build a company from scratch or employees who are accomplished at bigger companies? If you want the former, they'll be harder to find at big tech. (Probably because they've been spoiled by the autonomy of a smaller company.)
 
@@ -65,9 +74,11 @@ Ultimately, I think it comes down to what you want. Do you want to learn from pe
 <a name="reason4"></a>
 ### Reason 4. <strike>You won't get rich</strike> You believe you'll get rich
 
-What is the probability that you will become a decamillionaire by working at a big tech company as an engineer? 0% Not even 0.00000001%. Literally zero. Not even the non-founding CEOs of Google, Microsoft, or Amazon are billionaires. Why? It's because they don't have nearly as much equity as the founders. In fact, early employees at successful companies have made more than the executives that came on later.
+What is the probability that you will become a decamillionaire by working at a big tech company as an engineer? 
 
-It is true that the chance of joining one of these companies, probability-wise, is incredibly slim. And the financial outcome of joining a startup, risk-adjusted, is probably lower than joining big tech or a late-stage startup. 
+0%. Not even 0.00000001%. Literally zero. Not even the non-founding CEOs of Google, Microsoft, or Amazon are billionaires. Why? It's because they don't have nearly as much equity as the founders.
+
+It's true that the chance of joining one of these rocketships early on, is incredibly slim. And the financial outcome of joining a startup, risk-adjusted, is probably lower than joining big tech or a late-stage startup. 
 
 It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier, and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining big tech, then yeah, don't join a startup.
 
