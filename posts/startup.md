@@ -22,7 +22,7 @@ This is the other side of the coin to Chip Huyen's recent blog post, [7 reasons 
 <a name="reason1"></a>
 ### Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company
 
-Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at Big Tech who work 80 hours a week, year-round. Surprisingly, this also comes as news to other people at those same Big Tech companies. Not only is work-life balance company-dependent, but it also seems to be largely team-dependent.
+Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at Big Tech who work 80 hours a week, year-round. Surprisingly, this also comes as news to other people at those same Big Tech companies. Not only is work-life balance company-dependent, but it also seems to be team-dependent.
 
 During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the division of labor and the more efficient things get (thanks capitalism). Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have, which is why most companies hustle so much during YC. 
 
