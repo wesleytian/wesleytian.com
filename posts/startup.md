@@ -28,7 +28,7 @@ During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 
 
 Though I do have to concede that–yes, in general, startups have less of a work-life balance. I heard from the head of engineering at another YC company (S20) that they work 6 days a week, 15 hours a day. 
 
-At Virtually, I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of it comes from an external source, whether that is management or company culture. It's because we want to make our customers happy, build a better product, and make the company more valuable.
+At Virtually, I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of that comes from management or the company culture. It's because we want to make our customers happy, build a better product, and make the company more valuable.
 
 
 <a name="reason2"></a>
