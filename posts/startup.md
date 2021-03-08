@@ -80,7 +80,7 @@ What is the probability that you will become a decamillionaire by working at FAA
 
 The chance of joining one of these rocketships early on is indeed incredibly slim. And the risk-adjusted financial outcome of joining a startup is probably lower than joining FAANG or a late-stage startup. 
 
-It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier, and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining FAANG, then yeah, don't join a startup.
+However, it doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier, and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining FAANG, then yeah, don't join a startup. Also, see [my reason not to join a startup](#reasonnotto).
 
 
 <a name="reason5"></a>
