@@ -22,7 +22,7 @@ This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons 
 
 Since we graduated from Y Combinator and hired a customer success lead, product designer, and another engineer, I work an average of 40-50 hours a week. Yet, I know people at big tech companies who work 80 hours a week, year round. However to other people at those big tech companies it is unheard of. Not only is it company dependent, but it's entirely team dependent at big companies. 
 
-During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and I at that point. The more people you have, the greater the distribution of labor.  Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have which is why most companies hustle so much during YC. 
+During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the distribution of labor. Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have which is why most companies hustle so much during YC. 
 
 Though I have to concede, that yes, in general, startups have less work-life balance. I heard from the head of engineering at another YC company (S20) that they work 6 days a week, 15 hours a day. 
 
@@ -91,3 +91,7 @@ You don't believe in yourself/the team/the startup enough to think it'll be an o
 Do you believe in your founder/team/mission/yourself enough to join the startup? 
 
 Do you think you're joining the next [_insert big tech company name here_]?
+
+### Acknowledgement
+
+Thanks to _your name here_... for reading versions of this.
