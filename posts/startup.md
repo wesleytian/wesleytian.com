@@ -22,7 +22,7 @@ This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons 
 <a name="reason1"></a>
 ### Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company
 
-Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at big tech companies who work 80 hours a week, year-round. However, it is unheard of to people on different teams at those same big tech companies. Not only is it company-dependent, but it's also team-dependent at big companies. 
+Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at Big Tech who work 80 hours a week, year-round. However, it is also unheard of to people on different teams at those same Big Tech companies. Not only is it company-dependent, but it's also team-dependent at big companies. 
 
 During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the division of labor and the more efficient things get (thanks capitalism). Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have, which is why most companies hustle so much during YC. 
 
@@ -48,12 +48,12 @@ Sometimes, code quality does take a spot on the backburner because of higher pri
 
 **Takeaway:** Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers who can put in place good engineering practices themselves or value the engineering expertise and find it worth the money to pay for a service such as pullrequest.com. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass later.
 
-* *Another thing that I want to point out is that big tech companies usually have good practices through trial-and-error, but they're most likely stuck in local optima of practices, processes, and culture. Being at a startup means that you can help create a new set of practices and processes previously unknown to the world that could be better than those used at big tech companies. Every new successful company with different practices and culture than existing ones is proof of this.*
+* *Another thing that I want to point out is that the Tech Giants usually have good practices through trial-and-error, but they're most likely stuck in local optima of practices, processes, and culture. Being at a startup means that you can help create a new set of practices and processes previously unknown to the world that could be better than those used at a Big Tech. Every new successful company with different practices and culture than existing ones is proof of this.*
 
 <a name="reason3"></a>
 ### Reason 3. <strike>Less mentorship</strike> Great mentorship
 
-Because I've never worked at a big tech company full-time, and I might never, I won't exactly know what it means to have a "mentor." Like what Chip said in her post, though, I did have the opportunity to ping any person while I was at Microsoft for a coffee chat or lunch. This was great, except that I soon realized that too few of the people I asked advice from had my dream career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these coffee chats were usually pretty surface-level. 
+Because I've never worked at a Big Tech full-time, and I might never, I won't exactly know what it means to have a "mentor." Like what Chip said in her post, though, I did have the opportunity to ping any person while I was at Microsoft for a coffee chat or lunch. This was great, except that I soon realized that too few of the people I asked advice from had my dream career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these coffee chats were usually pretty surface-level. 
 
 At Virtually, however, since some of our "mentors" are contractors that we hired or investors with a shared interest in our success, they're able to offer advice that is more customized to my personality and work habits. Sure, I don't technically refer to them as mentors, but I have and can schedule calls with any of them to seek advice. 
 
@@ -68,19 +68,19 @@ Some of these people that I've gotten to know and seek advice from include:
 
 As a bonus to partially being in the YC network, I've also gotten to know other early engineers such as Nathan Leung (Employee #1 at [Jupiter–YC S19](https://www.ycombinator.com/companies/12574)) and Ryan Choi (Dir. of [Work at a YC Startup](https://www.workatastartup.com/) and Employee #7 at Salesforce–[CRM](https://www.google.com/finance/quote/CRM:NYSE?sa=X&ved=2ahUKEwi_rZvH7Z_vAhVXrp4KHd9kAl0Q3ecFMAB6BAgOEBo)). Besides the investors, the great thing about these people is that they either know me or have experienced the career I aspire to have.
 
-Ultimately, I think it comes down to what you want. Do you want to learn from people who helped build a company from scratch or employees who are accomplished at bigger companies? If you want the former, they'll be harder to find at big tech. (Probably because they've been spoiled by the autonomy of a smaller company.)
+Ultimately, I think it comes down to what you want. Do you want to learn from people who helped build a company from scratch or employees who are accomplished at bigger companies? If you want the former, they'll be harder to find at a Big Tech. (Probably because they've been spoiled by the autonomy of a smaller company.)
 
 
 <a name="reason4"></a>
 ### Reason 4. <strike>You won't get rich</strike> You believe you'll get rich
 
-What is the probability that you will become a decamillionaire by working at a big tech company as an engineer? 
+What is the probability that you will become a decamillionaire by working at FAANG as an engineer? 
 
 0%. Not even 0.00000001%. Literally zero. Not even the non-founding CEOs of Google, Microsoft, or Amazon are billionaires. Why? It's because they don't have nearly as much equity as the founders.
 
-It's true that the chance of joining one of these rocketships early on, is incredibly slim. And the financial outcome of joining a startup, risk-adjusted, is probably lower than joining big tech or a late-stage startup. 
+It's true that the chance of joining one of these rocketships early on is incredibly slim. And the risk-adjusted financial outcome of joining a startup is probably lower than joining FAANG or a late-stage startup. 
 
-It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier, and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining big tech, then yeah, don't join a startup.
+It doesn't even matter what the expected financial outcome of your company is. Join a startup/start a company if you believe you're an outlier, and your company will become a billion-dollar business. If your mindset is that most startups fail and your startup will just be another one to fail and that the expected return is less than joining FAANG, then yeah, don't join a startup.
 
 
 <a name="reason5"></a>
