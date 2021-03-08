@@ -102,7 +102,7 @@ So instead of trying to get promoted to L4 or E5, if you want to grow your caree
 
 You don't believe in yourself/the team/the startup enough to think it'll be an outlier.
 
-**As Steve Jobs said best, only the crazy ones who think they can change the future do. Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Some people think they can change the world and if you believe in yourself enough, the world will conspire to make it happen. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team.**
+**As Steve Jobs said best, "the people who are crazy enough to think that they can change the world, are the ones who do." Successful entrepreneurs don't go around sitting on their asses analyzing what the probability of success is for them is and the expected amount of money they're going to make. If everybody thought this, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Some people think they can change the world and if you believe in yourself enough, the world will conspire to make it happen. And this is why optimists will always rule the world. They do it because they believe in themselves/their idea/their team.**
 
 Do you believe in your founder/team/mission/yourself enough to join the startup? 
 
