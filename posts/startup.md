@@ -28,19 +28,19 @@ Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a
 
 During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the division of labor and the more efficient things get (thanks capitalism). Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have, which is why most companies hustle so much during YC. 
 
-Though I have to concede that yes, in general, startups have less work-life balance. I heard from the head of engineering at another YC company (S20) that they work 6 days a week, 15 hours a day. 
+Though I do have to concede that–yes, in general, startups have less of a work-life balance. I heard from the head of engineering at another YC company (S20) that they work 6 days a week, 15 hours a day. 
 
-At Virtually, I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of it comes from an external source, whether that is management or company culture. It's all because we want to make our customers happy, create a better product, and make the company more valuable as a whole.
+At Virtually, I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of it comes from an external source, whether that is management or company culture. It's completed intrinsically motivated because we want to make our customers happy, build a better product, and make the company more valuable.
 
 
 <a name="reason2"></a>
 ### Reason 2. <strike>You'll pick up bad engineering practices</strike> You can pick up some great engineering practices
 
-Again, this is dependent on the company. In my experience, I've been fortunate to pick up great engineering practices. The reasons for this are as follows.
+Again, this is dependent on the company. In my experience, I've been fortunate to pick up great engineering practices, perhaps better ones than if I were working at most companies in the world. The reasons for this are as follows.
 
-I began my time at Virtually by working on the code with Ish, who spent nearly 2 years as an engineer at Facebook and worked under one of the creators of the React framework. Though he's not a senior engineer by any means, I was able to learn from somebody who learned from one of the best.
+I began my time at Virtually by working on the codebase with Ish, who spent nearly 2 years as an engineer at Facebook and worked under one of the creators of the popular React framework. Though he's not a senior engineer by any means, I was able to learn from somebody who learned from one of the best.
 
-Later, I worked with full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 3x ACM world finalist, who was also the chief architect at the largest e-commerce company in Bangladesh. 
+Later, I worked with other full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 3x ACM world finalist, who was also the chief architect at the largest e-commerce company in Bangladesh. 
 
 Recently, we also discovered and started using [pullrequest.com](pullrequest.com), which offers Code Review as a Service. They employ people like [Elifaz Filho](https://www.linkedin.com/in/elifaz/), a senior software engineer at Facebook, and [Dylan Drop](https://www.pullrequest.com/blog/code-reviewer-spotlight-dylan-drop/), a director of software engineering at GruhHub to review my code.
 
@@ -50,6 +50,7 @@ It's true that sometimes code quality takes a spot on the backburner because of 
 
 Takeaway: Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers who can put in place good engineering practices themselves or value the engineering expertise and find it worth the money to pay for a service such as pullrequest.com. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass later.
 
+* *Another thing that I want to point out is that big tech companies usually have good practices through trial-and-error, but they're most likely stuck in a local optima of practices, processes, and culture. Being at a startup means that you can help create a new set of practices and processes previously unknown to the world that could actually be better than those used at big tech companies. Every new successful company with different practices and culture than existing ones is proof of this.*
 
 <a name="reason3"></a>
 ### Reason 3. <strike>Less mentorship</strike> Great mentorship
