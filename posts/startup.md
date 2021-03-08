@@ -88,7 +88,7 @@ Do you know who else has to do a lot of things that they don't want to do? Found
 
 The best way to learn how to be a founder is by being one. The next best way is to join an early-stage startup. At the end of the day, you guys will be working super close together and your incentives will all be aligned (increasing revenue, reducing burn, hiring well), unlike at bigger companies (passing performance reviews, forming alliances). 
 
-**Takeaways:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you want to only work on the glamorous bits. The bigger the company you join, the fewer hats you will wear.
+**Takeaway:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you want to only work on the glamorous bits. The bigger the company you join, the fewer hats you will wear.
 
 
 <a name="reason7"></a>
