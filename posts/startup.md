@@ -22,8 +22,6 @@ This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons 
 <a name="reason1"></a>
 ### Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company
 
-_This isn't technically a reason to join a startup. It's just a commentary on work-life balance at startups._
-
 Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I work an average of 40-50 hours a week. Yet, I know people at big tech companies who work 80 hours a week, year-round. However, it is unheard of to people on different teams at those same big tech companies. Not only is it company-dependent, but it's also team-dependent at big companies. 
 
 During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the division of labor and the more efficient things get (thanks capitalism). Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leverage we would ever have, which is why most companies hustle so much during YC. 
@@ -40,9 +38,9 @@ Again, this is dependent on the company. In my experience, I've been fortunate t
 
 I began my time at Virtually by working on the codebase with Ish, who spent nearly 2 years as an engineer at Facebook and worked under one of the React framework creators. Though Ish isn't a senior engineer, I learned from somebody who learned from one of the best.
 
-Later, I worked with other full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 3x ACM world finalist, who was also the chief architect at the largest e-commerce company in Bangladesh. 
+Later, I worked with other full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 2x ACM ICPC world finalist, who was also the chief architect at the largest e-commerce company in Bangladesh. 
 
-We also discovered and started using [pullrequest.com](pullrequest.com), which offers Code Review as a Service. They employ people like [Elifaz Filho](https://www.linkedin.com/in/elifaz/), a senior software engineer at Facebook, and [Dylan Drop](https://www.pullrequest.com/blog/code-reviewer-spotlight-dylan-drop/), a director of software engineering at GruhHub to review my code.
+We also discovered and started using [pullrequest.com](https://pullrequest.com), which offers Code Review as a Service. They employ people like [Elifaz Filho](https://www.linkedin.com/in/elifaz/), a senior software engineer at Facebook, and [Dylan Drop](https://www.pullrequest.com/blog/code-reviewer-spotlight-dylan-drop/), a director of software engineering at GruhHub to review my code.
 
 With phenomenal and experienced talent like these working alongside us (some of whom spend dedicated time reviewing our code as their job), it is only natural that we pick up some great engineering practices.
 
