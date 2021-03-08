@@ -11,7 +11,7 @@ This is the other side of the coin of Chip Huyen's recent blog post, [7 reasons 
 #### Table of contents:
 - [Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends on the company you work at, not the stage of the company](#reason1)
 - [Reason 2. <strike>You'll pick up bad engineering practices</strike> You can pick up some great engineering practices](#reason2)
-- [Reason 3. <strike>Less mentorship</strike> Tailored mentorship](#reason3)
+- [Reason 3. <strike>Less mentorship</strike> Great mentorship](#reason3)
 - [Reason 4. <strike>You won't get rich</strike> You believe you'll get rich](#reason4)
 - [Reason 5. <strike>Bad management</strike> You are management](#reason5)
 - [Reason 6. <strike>You might have to do a lot of things you don't want to do</strike> You get to do a lot of things that founders get to do](#reason6)
@@ -50,13 +50,15 @@ It's true that sometimes code quality takes a spot on the backburner because of 
 
 
 <a name="reason3"></a>
-### Reason 3. <strike>Less mentorship</strike> Tailored mentorship
+### Reason 3. <strike>Less mentorship</strike> Great mentorship
 
 Because I've never worked at a big tech company full-time, and I might never, I won't exactly know what it means to have a "mentor." Similar to what Chip said in her post, I did have the opportunity to ping any person while I was at Microsoft for a coffee chat or lunch, though. This was great, except that I soon realized that extremely few of the people I was asking advice from had my dream career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these coffee chats were usually pretty surface-level. 
 
 At Virtually, however, since some of our "mentors" are contractors that we hired with or investors that have a shared interest in our success, they're able to offer advice that is more customized to my personality and work. Sure, I don't refer to them as mentors, but I have and am able to schedule calls with any of them to seek advice. 
 
 Some of these co-workers or investors that I've sought advice from include Michael Kelly, employee #1 at Plaid, Li Fan, Snir Kodesh, Dhanajoy, Sauros,  my founder, Ish and my co-workers who have worked in industry in their respective fields much longer than I have. As a bonus to being in YC, I've also gotten to know other first engineers such as Nathan Leung, as well as the current director of Work at a YC Startup, Ryan Choi (also 7th engineer at Salesforce). Besides the investors, the great thing about these people is that they either know me or have experienced the career I aspire to have.
+
+Ultimately, I think it comes down to what you want. Do you want to learn from other founders and early employees or ones that are accomplished at bigger companies? If you want the former, they'll be hard to find at big tech.
 
 
 <a name="reason4"></a>
