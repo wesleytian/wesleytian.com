@@ -27,7 +27,7 @@ export default function Post({ postData }) {
 						{format(new Date(date), "PPP")}
 					</Typography>
 					<br />
-					<Typography variant="body1" color="textSecondary" paragraph>
+					<Typography variant="body1" paragraph>
 						<div
 							dangerouslySetInnerHTML={{
 								__html: contentHtml

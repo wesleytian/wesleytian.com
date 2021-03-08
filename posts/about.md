@@ -7,7 +7,7 @@ draft: true
 
 ## Me
 
-Hi, my name is Wesley Y. Tian. I'm a founding member of [Virtually](https://tryvirtually.com/), the "Shopify" for Online Schools. As Virtually's first hire, I've helped out in multiple domains, but my forte is software engineering. We are currently a team of 6 and are backed by [Afore Capital](https://afore.vc/), [Y Combinator](https://www.ycombinator.com/), [Tiger Global](https://www.tigerglobal.com/home), and talented angels such as [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries), [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)), and [Avlok Kohli](https://angel.co/p/avlok-kohli).
+Hi, my name is Wesley Y. Tian. I'm a founding member of [Virtually](https://tryvirtually.com/), the "Shopify" for Online Schools. As Virtually's first hire, I've helped out in multiple domains, but my forte is software engineering. We are currently a team of 11 (5 full-time) and are backed by [Afore Capital](https://afore.vc/), [Y Combinator](https://www.ycombinator.com/), [Tiger Global](https://www.tigerglobal.com/home), and talented angels such as [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries), [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)), and [Avlok Kohli](https://angel.co/p/avlok-kohli). We've raised over $2M to date.
 
 Growing up around the world in the following places has inexplicably shaped my worldview:
 - Mountain View, CA (age 0)
@@ -21,7 +21,7 @@ Growing up around the world in the following places has inexplicably shaped my w
 - Reno, NV (24)
 - San Jose metro area, CA (soon!)
 
-I enjoy reading, exercising, hanging out with friends and family, and writing in my free time.
+I like learning, exercising (triathlon, hiking, calisthenics), calling friends and family, and writing in my free time.
 
 ---
 ## This Site
