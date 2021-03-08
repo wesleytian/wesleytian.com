@@ -40,7 +40,7 @@ I began my time at Virtually by working on the code with Ish, who spent nearly 2
 
 Later, I worked with full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 3x ACM world finalist, who was also the chief architect at the largest e-commerce company in Bangladesh. 
 
-Recently, we also discovered and started using [pullrequest.com](pullrequest.com) which offers Code Review as a Service and they employ people like [Elifaz Filho](https://www.linkedin.com/in/elifaz/), a senior software engineer at Facebook and [Dylan Drop](https://www.pullrequest.com/blog/code-reviewer-spotlight-dylan-drop/), a director of software engineering at GruhHub to review my code.
+Recently, we also discovered and started using [pullrequest.com](pullrequest.com), which offers Code Review as a Service. They employ people like [Elifaz Filho](https://www.linkedin.com/in/elifaz/), a senior software engineer at Facebook, and [Dylan Drop](https://www.pullrequest.com/blog/code-reviewer-spotlight-dylan-drop/), a director of software engineering at GruhHub to review my code.
 
 With phenomenal and experienced talent like these working alongside us (some of which have spent dedicated time reviewing our code as their job), it is only natural that we pick up some great engineering practices.
 
