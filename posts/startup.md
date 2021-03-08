@@ -26,9 +26,9 @@ Since we graduated from [Y Combinator](https://www.ycombinator.com/) and hired a
 
 During Y Combinator, I occasionally worked 80-90 hours a week, averaging around 60-70, but it was just the founder and me at that point. The more people you have, the greater the division of labor and the more efficient things get (thanks capitalism). Additionally, the more money you have, the less leverage you need to gain by hustling. The three months going through YC was probably the most leveraged time we would ever have, which is why most companies hustle so much during YC. 
 
-Though I do have to concede that–yes, in general, startups have less of a work-life balance. I heard from the head of engineering at another YC company (S20) that they work 6 days a week, 15 hours a day. 
+Though I do have to concede that–yes, in general, startups have less of a work-life balance. I heard from the Head of Eng. at another YC company (S20) that they work 6 days a week, 15 hours a day. 
 
-At Virtually, I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of that comes from management. It's because we all want to make our customers happy, build a better product, and be proud of the company we're building.
+At [Virtually](https://tryvirtually.com/), I think we all feel the pressure to work nights and weekends (and we sometimes do), but none of that comes from management. It's because we all want to make our customers happy, make the company more valuable, and be proud of the product we're building.
 
 
 <a name="reason2"></a>
@@ -36,7 +36,7 @@ At Virtually, I think we all feel the pressure to work nights and weekends (and 
 
 Again, this is dependent on the company. In my experience, I've been fortunate to pick up great engineering practices, perhaps better ones than if I were working at most companies in the world. The reasons for this are as follows.
 
-I began my time at Virtually by working on the codebase with Ish, who spent nearly 2 years as an engineer at Facebook and worked under one of the React framework creators. Though Ish isn't a senior engineer, I learned from somebody who learned from one of the best.
+I began my time at Virtually by working on the codebase with Ish, who spent close to 2 years total as an software engineer at Facebook and worked under one of the [React](https://brainhub.eu/blog/10-famous-apps-using-reactjs-nowadays/) library creators. Though Ish wasn't titled a senior engineer, I learned from somebody who learned from one of the best.
 
 Later, I worked with other full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 2x ACM ICPC world finalist, who was also the chief architect at the largest e-commerce company in Bangladesh. 
 
