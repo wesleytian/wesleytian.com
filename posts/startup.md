@@ -65,9 +65,9 @@ To me, I'm happy that I've received advice from "mentors" who have helped me gro
 
 The chance of joining one of these rocketships early on is indeed incredibly slim. And the risk-adjusted financial outcome of joining a startup is probably lower than joining FAANG or a late-stage startup. But, what is the probability that you will become a decamillionaire by working at a Big Tech company as an engineer? 0%. Not even 0.00000001%. Literally zero. Though there is a significant variance in startup outcomes, you still have a shot at incredible wealth by joining a startup. Whereas if you join a Big Tech company, you won't have any shot at all.
 
-Additionally, not all startups are created equal. It's silly to say that all startups have an equal chance of failing. For example, if Elon Musk tried to start another company, do you think it would have the same chance of failing as if a freshman in college did? Obviously not. As another example, the average startup fails with a 50% chance in 5 years. However, only 20% of the startups that graduated from the YC batch in winter 2016 have ceased operations.
+Additionally, not all startups are created equal. It's silly to say that all startups have an equal chance of failing. For example, do you think Elon Musk would have the same chance of successfully a company as a high schooler? Obviously not. Likewise, research concludes that the average startup fails with a [50% chance in their 5th year](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp), but for YC companies, [the probability is only 20%.](https://www.ycdb.co/batch/w16)
 
-**Takeaway:** Startups are the only shot you have at becoming very rich. Not all startups are created equal. Look for startups that you think are going to break the curve.
+**Takeaway:** Startups is the only shot you have at becoming very rich (> $10M). Not all startups are created equal. Look for startups that you think are going to break the curve.
 
 <a name="reason5"></a>
 ### Reason 5. <strike>Bad management</strike> You are management
@@ -83,7 +83,7 @@ Finally, Chip is correct in saying that the business's needs are often prioritiz
 
 Do you know who else has to do a lot of things that they don't want to do? Founders. When you're working at an early-stage startup, you might indeed have to do things that you don't want to. But, if you want to be successful at anything in life, you have to get used to doing things you don't want.
 
-The best way to learn how to be a founder is by being one. The next best way is to join an early-stage startup. At the end of the day, you guys will be working super close together, and your incentives will all be aligned (increasing revenue, reducing burn, hiring well), unlike at bigger companies (passing performance reviews, forming alliances). Bigger companies are so big that to stay somewhat efficient, they've devised metrics for every company level. It's not the job of a junior-level engineer to care about company revenue. Salespeople do well by increasing conversions. Because you live and die by revenue at a smaller company, it's in your complete interest to care about the company's income.
+The best way to learn how to be a founder is by being one. The next best way is to join an early-stage startup. At the end of the day, you guys will be working super close together, and your incentives will all be aligned (increasing revenue, reducing burn, hiring well), unlike at bigger companies (passing performance reviews, forming alliances). Bigger companies are so bureaucratic that they've devised different metrics at every company level to maintain some semblance of efficiency. It's not the job of a junior-level engineer to care about company revenue. Salespeople do well by increasing conversions. Because you live and die by revenue at a smaller company, it's in your complete interest to care about the company's income.
 
 **Takeaway:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you want to only work on the glamorous bits. The bigger the company you join, the fewer hats you will wear.
 
