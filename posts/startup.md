@@ -4,6 +4,8 @@ date: "2021-03-07"
 draft: true
 ---
 
+This is the other side of the coin to Chip Huyen's recent blog post, *7 reasons **not to** join a startup and 1 reason **to***. My goal here isn't to negate everything that she said but instead offer a balance of perspective–one more optimistic than the norm in the startup world. The reason why I haven't responded directly to everything that Chip said is that I do, in fact, think most of what Chip said is quite valid. You can read her post [here](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html).
+
 ### Table of Contents
 7 reasons to join a startup
 1. [<strike>Goodbye work-life balance</strike> Work-life balance depends more on the company you work at than on the stage of the company](#reason1)  
@@ -20,7 +22,7 @@ draft: true
 <a name="reason1"></a>
 ### Reason 1. <strike>Goodbye work-life balance</strike> Work-life balance depends more on the company you work at than on the stage of the company
 
-Since we graduated from [Y Combinator](https://www.ycombinator.com/)'s startup accelerator program and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I've bee working around 40-50 hours a week. Yet, I know people at Big Tech companies who work 80 hours a week, year-round Interestingly, this also comes as news to other people at those same Big Tech companies. Not only is work-life balance company-dependent, but it also seems to be invariably team-dependent.
+Since we graduated from [Y Combinator](https://www.ycombinator.com/)'s startup accelerator program and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I've been working around 40-50 hours a week. Yet, I know people at Big Tech companies who work 80 hours a week, year-round. Interestingly, this also comes as news to other people at those same Big Tech companies. Not only is work-life balance company-dependent, but it also seems to be invariably team-dependent.
 
 During Y Combinator, I did occasionally work 80-90 hours a week. But that was because we were trying to maximize our fundraising potential during YC's demo day, and the company consisted of just the founder and me. And the more people you have, the greater the division of labor and the more efficient things become due to less time wasted from context switching (thanks capitalism). 
 
@@ -42,20 +44,20 @@ With experienced talent like these working alongside us (some of who spend dedic
 
 Sometimes, code quality does take a spot on the backburner because of higher priority tasks (which often happened during YC).  However, there's a difference between knowing what to do and not doing it due to business priorities and not knowing what to do. The key is learning what the right thing is to do, even if there isn't time to do them at that moment in time.
 
-**Takeaway:** Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers. Not only can they put in place good engineering practices themselves, they are also more likely to value good engineering  practices and pay for services such as PullRequest. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass.
+**Takeaway:** Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers. Not only can they put in place good engineering practices themselves, but they are also more likely to value good engineering practices and pay for services such as PullRequest. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass.
 
 * *Just because Big Tech companies usually have good practices through trial-and-error, it doesn't mean they aren't stuck in a local optimum. Startups often create new practices and processes better than those used at a Big Tech. Every new successful company with different practices than existing ones is proof of this.*
 
 <a name="reason3"></a>
 ### Reason 3. <strike>Less mentorship</strike> Great mentorship?
 
-Because I haven't worked at a normal company where you aren't fighting to stay alive, I probably have a different definition of "mentorship." However, I do know that my mentorship at Microsoft was less than ideal for me. I took advantage of Microsoft's internal directory to ask people out for lunch each week, but I soon realized that too few of the people I talked to had my target career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these chats were usually pretty shallow. I  had a mentor assigned to me, but I also didn't work closely with him–in either physical proximity or code.
+Because I haven't worked at a normal company where you aren't fighting to stay alive, I probably have a different definition of "mentorship." However, I do know that my mentorship at Microsoft was less than ideal for me. I took advantage of Microsoft's internal directory to ask people out for lunch each week, but I soon realized that too few of the people I talked to had my target career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these chats were usually pretty shallow. I  had a mentor assigned to me, but I also didn't work closely with him–either in physical proximity or code.
 
 At Virtually, however, since some of my "mentors" are my co-workers and investors with shared interests in our success, they're able to offer advice that is more customized to my personality and work habits.
 
 Though Ish (Virtually's founder and CEO) never stayed at Facebook long enough to officially become a senior engineer, he's taught me subtle React optimizations that even our senior engineer didn't know. He's also drilled into me the values of building trust and moving fast. Michael Kelly, who was the first employee at [Plaid](https://en.wikipedia.org/wiki/Plaid_(company)) ([valued at $15B](https://www.fintechfutures.com/2021/01/plaid-raising-at-15bn-as-employees-pitched-1200-per-share/#:~:text=Plaid%20is%20currently%20in%20the,it%20before%20the%20failed%20merger.&text=And%20such%20a%20share%20price%20tag%20pushes%20Plaid's%20valuation%20to%20%2420%20billion.)), taught me a lot about ego and what it means to be a founding member of a company that you aren't technically a founder of. Dhanajoy Biswas, the first employee and Lead Software Architect at Backpack (YC S14) and a previous software engineer at Google, taught me how he dealt with imposter syndrome and served as an invaluable advisor as I took on a massive data migration project. I'm also excited for one of the first engineers of Brex to join us soon so I can seek guidance from him as well.
 
-To me, this is what mentorship means and I'm content that I've received advice from these "mentors" who have helped and watched me grow. Perhaps there is a side to mentorship that I haven't experienced, and I'm missing out. But until then, the grass will be green enough on my side.
+These are examples of what mentorship means to me, and I'm content that I've received advice from these people who have helped and watched me grow. Perhaps there is a side to mentorship that I haven't experienced, and I'm missing out. But until then, the grass will be green enough on my side.
 
 **Takeaway:** Ultimately, it comes down to what kind of mentors you want. Do you want to learn from people who helped build a company from scratch or employees tenured at larger companies? If you want the former, they'll be harder to find at a Big Tech.
 
@@ -63,27 +65,29 @@ To me, this is what mentorship means and I'm content that I've received advice f
 <a name="reason4"></a>
 ### Reason 4. <strike>You won't get rich</strike> You won't get very rich at a big company
 
-The chance of joining a rocketship like Plaid is indeed incredibly slim, and the risk-adjusted financial outcome of joining a the average startup is probably lower than joining FAANG or a late-stage startup. However, not all startups are created equal. It's silly to say that all startups have an equal chance of failing. For example, do you think Elon Musk would have the same chance of successfully a company as a high schooler? Obviously not. Likewise, research concludes that the average startup fails with a [50% chance in their 5th year](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp), but for YC companies, [the probability is only 20%.](https://www.ycdb.co/batch/w16)
+The chance of joining a rocketship like Plaid is indeed incredibly slim, and the risk-adjusted financial outcome of joining the average startup is probably lower than joining FAANG or a late-stage startup. However, not all startups are created equal. It's silly to say that all startups have an equal chance of failing. For example, do you think Elon Musk would have the same chance of successfully building a company as a high schooler? Obviously not. Likewise, research concludes that the average startup fails with a [50% chance in their 5th year](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp), but for YC companies, [the probability is only 20%.](https://www.ycdb.co/batch/w16)
 
 Furthermore, what is the probability that you will become a decamillionaire by working at a Big Tech company as an engineer? 0%. Not even 0.00000001%. Literally zero. Though there is a significant variance in startup outcomes, you still have a shot at incredible wealth by joining a startup. Michael joined Plaid right out of college 7 years and ago and assuming he received somewhere around 50K shares (0.5% of 10M shares usually issued at incorporation), [he'd be worth $60M now](https://www.fintechfutures.com/2021/01/plaid-raising-at-15bn-as-employees-pitched-1200-per-share/#:~:text=Plaid%20is%20currently%20in%20the,it%20before%20the%20failed%20merger.&text=And%20such%20a%20share%20price%20tag%20pushes%20Plaid's%20valuation%20to%20%2420%20billion.). Whereas if you join a Big Tech company, you won't have any shot at that kind of wealth at all.
 
-**Takeaway:** Starting a company or joining an early-stage startup the only shot you have at becoming very rich (> $10M). Not all startups are created equal. Look for startups that you think are going to break the curve. But also work with people and on a mission that you're passionate about so that even if it does fail, you won't have lost it all.
+**Takeaway:** Starting a company or joining an early-stage startup is the only shot you have to become very rich (> $10M). Not all startups are created equal. Look for startups that you think are going to break the curve. 
+
+* *Your first priority should still be to work with people and on a mission that you're passionate about so that even if the company does fail, you'll still have had the time of your life.*
 
 <a name="reason5"></a>
 ### Reason 5. <strike>Bad management</strike> You are management
 
 I haven't spent very long at companies of sizes greater than 2 digits, so what I'm saying may not apply to bigger companies. In my experience, if you're able to build up trust with your managers/founder(s), you will have a large say in how you are managed.
 
-Founders/managers will often take your feedback to heart because they understand that if they don't, you'll leave, and if people start quitting because of a toxic culture, the company will die. Unfortunately, they may not already be a great manager, but the aligned incentives do make it better. Since first-time managers at startups are common, it's even more important to tell them what you want (if you know what that is). Whereas if you have a terrible manager at a larger company, your only hope is to switch teams or leave the company.
+Founders/managers will often take your feedback to heart because they understand that if they don't, you'll leave, and if people start quitting because of a toxic culture, the company will die. Whereas if you have a terrible manager at a larger company, your only hope is to switch teams or leave the company. Although first-time managers at startups are common, having aligned incentives makes it better.
 
-**Takeaway:** Chip is correct in saying that the business's needs are often prioritized over individual needs at startups. Because without a thriving business, you won't have your job for long. Put simply, if your needs aren't aligned with the needs of growing the business, don't join a startup. 	
+**Takeaway:** Chip is correct in saying that business needs are often prioritized over individual needs at startups. Without a thriving business, the company wouldn't even be able to pay you. Thus, if your needs aren't aligned with growing the business, don't join a startup.
 
 <a name="reason6"></a>
 ### Reason 6. <strike>You might have to do a lot of things you don't want to do</strike> You get to do a lot of things that founders get to do
 
 Do you know who else has to do a lot of things that they don't want to do? Founders. When you're working at an early-stage startup, you might indeed have to do things that you don't want to. But, if you want to be successful at anything in life, you have to get used to doing things you don't want.
 
-The best way to learn how to be a founder is by being one. The next best way is to join an early-stage startup. At the end of the day, you guys will be working super close together, and your incentives will all be aligned (increasing revenue, reducing burn, hiring well), unlike at bigger companies (passing performance reviews, forming alliances). Bigger companies are so bureaucratic that they've devised different metrics at every company level to maintain some semblance of efficiency. It's not the job of a junior-level engineer to care about company revenue–they do well by focusing on performance reviews. Salespeople do well by increasing conversions.  At a smaller company you live and die by how much money your company has, so it becomes less about you and more about doing what needs to get done for the company.
+The best way to learn how to be a founder is by being one. The next best way is to join an early-stage startup. At the end of the day, you guys will be working super close together, and your incentives will all be aligned (increasing revenue, reducing burn, hiring well), unlike at bigger companies (passing performance reviews, forming alliances). Bigger companies are so bureaucratic that they've devised different metrics at every company level to maintain some semblance of efficiency. It's not the job of a junior-level engineer to care about company revenue–they do well by focusing on performance reviews. Salespeople do well by increasing conversions.  At a smaller company, you live and die by how much money your company has, so it becomes less about you and more about doing what needs to get done as a company.
 
 **Takeaway:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you want to only work on the glamorous bits. The bigger the company you join, the fewer hats you will wear. 
 
@@ -91,11 +95,9 @@ The best way to learn how to be a founder is by being one. The next best way is 
 <a name="reason7"></a>
 ### Reason 7. <strike>No clear career growth trajectory</strike> You grow your career by growing the company
 
-There is indeed no clear career growth trajectory at early-stage startups like at big companies. There aren't bi-annual performance reviews that you try to pass (I've heard of people that even try to game these through playing politics) to get promoted to E4 or L5. 
+There is indeed no clear career growth trajectory at early-stage startups like at big companies. There aren't bi-annual performance reviews that you try to pass to get promoted to E4 or L5. I've heard of people that even try to game these through playing politics. 
 
-However, you can grow your career exponentially faster than at a larger company by growing the company. Suppose you help create engineering processes that reduce the number of outages and, in effect, increase revenue. In that case, you'll have developed more skills to talk about during an interview than if you had worked at a bigger company.
-
-Thus, instead of growing your career by being promoted to L4/E5, grow the company by increasing revenue and achieving scale. It becomes more straightforward if you look at it in terms of KPIs. For example, a goal for you could be to raise a Series A by achieving 80K MRR. You can do this by improving processes or building a bug-free feature. When you interview for your next position, you'll be able to describe precisely how and what you learned to scale your company. 
+However, you can grow your career exponentially faster than at a larger company by growing the company at a similar rate. Thus, instead of growing your career by being promoted to L4/E5, grow the company by increasing revenue and outperforming KPIs. For example, a goal for you could be to raise a Series A by achieving 80K MRR. By improving processes or building a bug-free feature, you can help retain a customer or bring on a new one. When you interview for your next position, you'll be able to describe precisely how and what you learned to scale your company. As we move towards a more [skill-based and not title-based labor market](https://www.weforum.org/agenda/2019/07/skills-not-job-titles-are-the-new-metric-for-the-labour-market/), these skills that you pick up will come in handy, especially if you're interested in startups.
 
 **Takeaway:** Join a startup if you want to gain skills related to entrepreneurship, don't join a startup if your goal is to climb neatly placed titles.
 
@@ -105,12 +107,10 @@ Thus, instead of growing your career by being promoted to L4/E5, grow the compan
 
 Don't join a startup if you don't believe in the company (you/the team/the product/the mission) enough to think it'll be an outlier.
 
-**Founders and early-stage startup employees don't sit on their asses all day long analyzing their company's probability of success and expected financial return. If all of these people expected their result of their startups to be failures, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Only when you genuinely believe you can change the world will the world conspire to make it happen. As Steve Jobs said best, *"the people who are crazy enough to think that they can change the world, are the ones who do."* And this is why I think optimists will always rule the world.**
+**Founders and early-stage startup employees don't sit on their asses all day analyzing their company's probability of success and expected financial return. If all of these people expected the result of their startups to be failures, then Y Combinator wouldn't exist. Silicon Valley wouldn't exist. Only when you genuinely believe you can change the world will the world conspire to make it happen. As Steve Jobs said best, *"the people who are crazy enough to think that they can change the world, are the ones who do."* And this is why I think optimists will always rule the world.**
 
-Do you believe in your founder(s)/the team/the mission/yourself enough to join the startup? Do you think you're joining the next [_insert Big Tech company name here_]?
+Do you believe in your founder(s)/the team/the mission/yourself enough to make the startup a success? Do you think you're joining the next [_insert Big Tech company name here_]?
 
 ### Acknowledgement
 
-This is the other side of the coin to Chip Huyen's recent blog post, *7 reasons **not to** join a startup and 1 reason **to***. My goal here isn't to negate everything that she said but rather to offer a different perspective–one perhaps rarer and more optimistic than the norm in the startup world. The reason why I haven't responded directly to everything that Chip said is that I do, in fact, think most of what Chip said is quite valid. You can read her post [here](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html).
-
-Thanks to Douglas Qian and _your name here_ for your thoughts and making sure everything makes sense to somebody who isn't me.
+Thanks to Douglas Qian and _your name here_ for your thoughts and for making sure everything makes sense to somebody who isn't me.
