@@ -9,7 +9,7 @@ export default function ButtonAppBar() {
 	return (
 		<AppBar position="fixed" color="transparent" elevation={0}>
 			<Grid item container justify="flex-end" xs={11}>
-				<Toolbar>
+				<Toolbar disableGutters>
 					<NextLink href="/" passHref>
 						<Button style={{ textTransform: "none" }} size="large">
 							<Typography variant="body1" color="textSecondary">
