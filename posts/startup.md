@@ -4,7 +4,7 @@ date: "2021-03-07"
 draft: true
 ---
 
-This is the other side of the coin to Chip Huyen's recent blog post, *7 reasons **not to** join a startup and 1 reason **to***. The goal of my post isn't to negate everything that she's said but instead offer a balance to her perspective–one more optimistic than the norm in the startup world. You'll notice that I haven't responded directly to everything that Chip because I do, in fact, think most of what Chip said is valid. It's just a bit one-sided. Hopefully by reading both of our posts, you'll get a more complete sense of what working at a startup is like. You can find her post [here](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html).
+This is the other side of the coin to Chip Huyen's recent blog post, *7 reasons **not to** join a startup and 1 reason **to***. My goal isn't to negate everything that she's said but instead offer a balance to her perspective–one more optimistic than the norm in the startup world. You'll notice that I haven't responded directly to everything that Chip because I do, in fact, think most of what Chip said is valid. It's just a bit one-sided. Hopefully, by reading both of our posts, you'll get a more complete sense of what working at a startup is like. You can find her post [here](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html).
 
 ### Table of Contents
 7 reasons to join a startup
@@ -34,7 +34,7 @@ During YC, I did occasionally work 80-90 hours a week. But that was because we w
 
 Again, this is dependent on the company. In my experience, I've been fortunate to pick up decent engineering practices, perhaps better ones than if I were working at most companies in the world. The reasons for this are as follows.
 
-1. I began my time at Virtually by working on the codebase with Ish, who spent close to 2 years as a software engineer at Facebook and worked under a core [React](https://brainhub.eu/blog/10-famous-apps-using-reactjs-nowadays/) library developer.
+1. I began my time at Virtually by working on the codebase with Ish, who spent close to 2 years as a software engineer at Facebook and programmed with a famous [React](https://brainhub.eu/blog/10-famous-apps-using-reactjs-nowadays/) library contributor.
 
 2. Later, I worked with other employees and contractors well-versed in engineering– from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 2x ACM ICPC world finalist, and lead software architect at the largest e-commerce company in Bangladesh.
 
@@ -42,7 +42,7 @@ Again, this is dependent on the company. In my experience, I've been fortunate t
 
 Occasionally, code quality does take a spot on the backburner because of higher priority tasks (which often happened during YC). However, there's a difference between knowing what to do and not doing it due to business priorities and not knowing what to do. The key is learning what the right thing to do is, even if there isn't time to do them at that moment in time. 
 
-Though our engineering practices haven't always been the best at Virtually, we've quickly realized the importance of them and how they can reduce technical debt and reduce bugs. With this in mind, we maintain and seek good practices only if they will help us in the long-run and not do it for the sake of learning good practices.
+Though our engineering practices haven't always been the best at Virtually, we've quickly realized their importance and how they can reduce technical debt and bugs. With this in mind, we maintain and seek good practices only if they will help us in the long-run and not do it for the sake of learning good practices.
 
 **Takeaway:** Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers. Not only can they put in place good engineering practices themselves, but they are also more likely to value good engineering practices and pay for services such as PullRequest. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass.
 
@@ -51,7 +51,7 @@ Though our engineering practices haven't always been the best at Virtually, we'v
 <a name="reason3"></a>
 ### Reason 3. <strike>Less mentorship</strike> Great mentorship?
 
-Because I haven't worked at a normal company where you aren't fighting to stay alive, I probably have a different definition of "mentorship." However, I do know that my mentorship at Microsoft was less than ideal for me. I took advantage of Microsoft's internal directory to ask people out for lunch each week, but I soon realized that too few of the people I talked to had my target career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these chats were usually pretty shallow. I  had a mentor assigned to me, but I also didn't work closely with him–either in physical proximity or code.
+Because I haven't worked at a typical company where you aren't fighting to stay alive, I probably have a different definition of "mentorship." However, I do know that my mentorship at Microsoft was less than ideal for me. I took advantage of Microsoft's internal directory to ask people out for lunch each week, but I soon realized that too few of the people I talked to had my target career. These people also didn't really know much about me as I didn't work with them, so the insights I got from these chats were usually pretty shallow. I  had a mentor assigned to me, but I also didn't work closely with him–either in physical proximity or code.
 
 At Virtually, however, since some of my "mentors" are my co-workers and investors with shared interests in our success, they're able to offer advice that is more customized to my personality and work habits.
 
@@ -59,7 +59,7 @@ Though Ish (Virtually's founder and CEO) never stayed at Facebook long enough to
 
 These are some examples of what mentorship means to me, and I'm content that I've received advice from these people who have helped and watched me grow. Perhaps there is a side to mentorship that I haven't experienced, and I'm missing out. But until then, the grass will be green enough on my side.
 
-**Takeaway:** Ultimately, it comes down to what kind of mentors you want. Do you want to mentors who work alongside you and have experience building companies from scratch? Or employees skilled at working within large organizations? 
+**Takeaway:** Ultimately, it comes down to what kind of mentors you want. Do you want mentors who have experience building companies from scratch and might work alongside you? Or do you want mentors who are likely specialists in their fields and might not know you as well? 
 
 
 <a name="reason4"></a>
@@ -85,7 +85,7 @@ Although first-time managers/founders are common at startups, having aligned inc
 <a name="reason6"></a>
 ### Reason 6. <strike>You might have to do a lot of things you don't want to do</strike> You get to do a lot of things that founders get to do
 
-Do you know who else has to do a lot of things that they don't want to do? Founders. When you're working at an early-stage startup, you might indeed have to do things that you don't want to. But, if you want to be successful at anything in life, you have to get used to doing things you don't want.
+Do you know who else has to do a lot of things that they don't want to do? Founders. When you're working at an early-stage startup, you might indeed have to do things that you don't want to. But, if you hope to be successful at anything in life, you have to get used to doing things you don't want.
 
 The best way to learn how to be a founder is by being one. The next best way is to join an early-stage startup. At the end of the day, you guys will be working super close together, and your incentives will all be aligned (increasing revenue, reducing burn, hiring well), unlike at bigger companies (passing performance reviews, forming alliances). Bigger companies are so bureaucratic that they've devised different metrics at every company level to maintain some semblance of efficiency. It's not the job of a junior-level engineer to care about company revenue–they do well by focusing on performance reviews. Salespeople do well by increasing conversions.  At a smaller company, you live and die by how much money your company has, so it becomes less about you and more about doing what needs to get done as a company.
 
