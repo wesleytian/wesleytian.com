@@ -4,7 +4,7 @@ date: "2021-03-07"
 draft: true
 ---
 
-This is the other side of the coin to Chip Huyen's recent blog post, *7 reasons **not to** join a startup and 1 reason **to***. My goal here isn't to negate everything that she said but instead offer a balance of perspective–one more optimistic than the norm in the startup world. The reason why I haven't responded directly to everything that Chip said is that I do, in fact, think most of what Chip said is quite valid. You can read her post [here](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html).
+This is the other side of the coin to Chip Huyen's recent blog post, *7 reasons **not to** join a startup and 1 reason **to***. My goal here isn't to negate everything that she's said but instead offer a balance to her perspective–one more optimistic than the norm in the startup world. You'll notice that I haven't responded directly to everything that Chip because I do, in fact, think most of what Chip said is valid. You can read her post [here](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html).
 
 ### Table of Contents
 7 reasons to join a startup
@@ -24,7 +24,7 @@ This is the other side of the coin to Chip Huyen's recent blog post, *7 reasons 
 
 Since we graduated from [Y Combinator](https://www.ycombinator.com/)'s startup accelerator program and hired a full-time customer success lead, product designer, another engineer, and a handful of interns, I've been working around 40-50 hours a week. Yet, I know people at Big Tech companies who work 80 hours a week, year-round. Interestingly, this also comes as news to other people at those same Big Tech companies. Not only is work-life balance company-dependent, but it also seems to be invariably team-dependent.
 
-During Y Combinator, I did occasionally work 80-90 hours a week. But that was because we were trying to maximize our fundraising potential during YC's demo day, and the company consisted of just the founder and me. And the more people you have, the greater the division of labor and the more efficient things become due to less time wasted from context switching (thanks capitalism). 
+During YC, I did occasionally work 80-90 hours a week. But that was because we were trying to maximize our fundraising potential during Demo Day, and the company consisted of just the founder and me. The more people you have, the greater the division of labor, and the more efficient things become due to less time wasted from context switching (thanks capitalism). 
 
 **Takeaway:** On average, startups probably do have less work-life balance than bigger companies. I've never heard of engineers at Big Tech companies working 6 days a week, 15 hours a day like engineers at another YC company in our batch did. However, it really comes down to the company and team.
 
@@ -34,15 +34,15 @@ During Y Combinator, I did occasionally work 80-90 hours a week. But that was be
 
 Again, this is dependent on the company. In my experience, I've been fortunate to pick up decent engineering practices, perhaps better ones than if I were working at most companies in the world. The reasons for this are as follows.
 
-1. I began my time at Virtually by working on the codebase with Ish, who spent close to 2 years total as a software engineer at Facebook and worked under a core [React](https://brainhub.eu/blog/10-famous-apps-using-reactjs-nowadays/) library creator. Though Ish wasn't titled a senior engineer, I learned from somebody who learned from one of the best.
+1. I began my time at Virtually by working on the codebase with Ish, who spent close to 2 years as a software engineer at Facebook and worked under a core [React](https://brainhub.eu/blog/10-famous-apps-using-reactjs-nowadays/) library developer.
 
-2. Later, I worked with other full-time employees and contractors well-versed in engineering, from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 2x ACM ICPC world finalist, and lead software architect at the largest e-commerce company in Bangladesh. 
+2. Later, I worked with other employees and contractors well-versed in engineering– from a senior engineer with years of experience at PayPal and Coinbase to an ex-Google, 2x ACM ICPC world finalist, and lead software architect at the largest e-commerce company in Bangladesh.
 
 3. We also recently started using [pullrequest.com](https://pullrequest.com), which offers Code Review as a Service. They employ people like [Elifaz Filho](https://www.linkedin.com/in/elifaz/), a senior software engineer at Facebook, and [Dylan Drop](https://www.pullrequest.com/blog/code-reviewer-spotlight-dylan-drop/), a director of software engineering at GruhHub to review my code.
 
-With experienced talent like these working alongside us (some of who spend dedicated time reviewing our code as their job), it's only natural that we pick up some decent engineering practices.
+Occasionally, code quality does take a spot on the backburner because of higher priority tasks (which often happened during YC). However, there's a difference between knowing what to do and not doing it due to business priorities and not knowing what to do. The key is learning what the right thing to do is, even if there isn't time to do them at that moment in time. 
 
-Sometimes, code quality does take a spot on the backburner because of higher priority tasks (which often happened during YC).  However, there's a difference between knowing what to do and not doing it due to business priorities and not knowing what to do. The key is learning what the right thing is to do, even if there isn't time to do them at that moment in time.
+Though our engineering practices haven't always been the best at Virtually, we've quickly realized the importance of them and how they can reduce technical debt and reduce bugs. With this in mind, we maintain and seek good practices only if they will help us in the long-run and not do it for the sake of learning good practices.
 
 **Takeaway:** Thus, if you are a junior engineer looking to join a startup, I would suggest joining one with technical founders or senior engineers. Not only can they put in place good engineering practices themselves, but they are also more likely to value good engineering practices and pay for services such as PullRequest. Startups without technical management may sometimes feel that it is unnecessary to develop good engineering practices until it comes back and bites them in the ass.
 
@@ -55,19 +55,19 @@ Because I haven't worked at a normal company where you aren't fighting to stay a
 
 At Virtually, however, since some of my "mentors" are my co-workers and investors with shared interests in our success, they're able to offer advice that is more customized to my personality and work habits.
 
-Though Ish (Virtually's founder and CEO) never stayed at Facebook long enough to officially become a senior engineer, he's taught me subtle React optimizations that even our senior engineer didn't know. He's also drilled into me the values of building trust and moving fast. Michael Kelly, who was the first employee at [Plaid](https://en.wikipedia.org/wiki/Plaid_(company)) ([valued at $15B](https://www.fintechfutures.com/2021/01/plaid-raising-at-15bn-as-employees-pitched-1200-per-share/#:~:text=Plaid%20is%20currently%20in%20the,it%20before%20the%20failed%20merger.&text=And%20such%20a%20share%20price%20tag%20pushes%20Plaid's%20valuation%20to%20%2420%20billion.)), taught me a lot about ego and what it means to be a founding member of a company that you aren't technically a founder of. Dhanajoy Biswas, the first employee and Lead Software Architect at Backpack (YC S14) and a previous software engineer at Google, taught me how he dealt with imposter syndrome and served as an invaluable advisor as I took on a massive data migration project. I'm also excited for one of the first engineers of Brex to join us soon so I can seek guidance from him as well.
+Though Ish (Virtually's founder and CEO) never stayed at Facebook long enough to officially become a senior engineer, he's taught me subtle React optimizations that even our senior engineer didn't know. He's also drilled into me the values of building trust and moving fast. Michael Kelly, who was the first employee at [Plaid](https://en.wikipedia.org/wiki/Plaid_(company)) ([valued at $15B](https://www.fintechfutures.com/2021/01/plaid-raising-at-15bn-as-employees-pitched-1200-per-share/#:~:text=Plaid%20is%20currently%20in%20the,it%20before%20the%20failed%20merger.&text=And%20such%20a%20share%20price%20tag%20pushes%20Plaid's%20valuation%20to%20%2420%20billion.)), taught me a lot about ego and what it means to be a founding member of a company that you aren't technically a founder of. Dhanajoy Biswas, the first employee and Lead Software Architect at [Backpack](https://backpackbang.com/) (YC S14) and a previous software engineer at Google, taught me how he dealt with imposter syndrome and served as an invaluable advisor as I took on a massive data migration project. I'm also excited for one of the first engineers of Brex (YC W17 and [currently valued at ~$8B](https://www.theinformation.com/articles/brex-valuation-could-reach-8-billion-in-new-funding-round)) to join us soon so I can seek guidance from him as well.
 
 These are examples of what mentorship means to me, and I'm content that I've received advice from these people who have helped and watched me grow. Perhaps there is a side to mentorship that I haven't experienced, and I'm missing out. But until then, the grass will be green enough on my side.
 
-**Takeaway:** Ultimately, it comes down to what kind of mentors you want. Do you want to learn from people who helped build a company from scratch or employees tenured at larger companies? If you want the former, they'll be harder to find at a Big Tech.
+**Takeaway:** Ultimately, it comes down to what kind of mentors you want. Do you want to mentors who work alongside you and have experience building companies from scratch? Or employees skilled at working within large organizations? 
 
 
 <a name="reason4"></a>
 ### Reason 4. <strike>You won't get rich</strike> You won't get very rich at a big company
 
-The chance of joining a rocketship like Plaid is indeed incredibly slim, and the risk-adjusted financial outcome of joining the average startup is probably lower than joining FAANG or a late-stage startup. However, not all startups are created equal. It's silly to say that all startups have an equal chance of failing. For example, do you think Elon Musk would have the same chance of successfully building a company as a high schooler? Obviously not. Likewise, research concludes that the average startup fails with a [50% chance in their 5th year](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp), but for YC companies, [the probability is only 20%.](https://www.ycdb.co/batch/w16)
+The chance of joining a rocketship like Plaid is indeed incredibly slim, and the risk-adjusted financial outcome of joining the average startup is lower than joining FAANG or a late-stage startup. However, not all startups are created equal. It's silly to say that all startups have an equal chance of failing. For example, do you think Elon Musk would have the same chance of successfully building a company as a high schooler? Obviously not. Likewise, research concludes that the average startup fails with a [50% chance in their 5th year](https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp), but for YC companies, [the probability is only 20%.](https://www.ycdb.co/batch/w16)
 
-Furthermore, what is the probability that you will become a decamillionaire by working at a Big Tech company as an engineer? 0%. Not even 0.00000001%. Literally zero. Though there is a significant variance in startup outcomes, you still have a shot at incredible wealth by joining a startup. Michael joined Plaid right out of college 7 years and ago and assuming he received somewhere around 50K shares (0.5% of 10M shares usually issued at incorporation), [he'd be worth $60M now](https://www.fintechfutures.com/2021/01/plaid-raising-at-15bn-as-employees-pitched-1200-per-share/#:~:text=Plaid%20is%20currently%20in%20the,it%20before%20the%20failed%20merger.&text=And%20such%20a%20share%20price%20tag%20pushes%20Plaid's%20valuation%20to%20%2420%20billion.). Whereas if you join a Big Tech company, you won't have any shot at that kind of wealth at all.
+Furthermore, what is the probability that you will become a decamillionaire by working at a Big Tech company as an engineer? 0%. Not even 0.00000001%. Literally zero. Though there is a significant variance in startup outcomes, you still have a shot at incredible wealth by joining a startup. Michael joined Plaid right out of college 7 years and ago and assuming he received somewhere around 50K shares (0.5% of the 10M shares usually issued at incorporation), [he'd be worth $60M now](https://www.fintechfutures.com/2021/01/plaid-raising-at-15bn-as-employees-pitched-1200-per-share/#:~:text=Plaid%20is%20currently%20in%20the,it%20before%20the%20failed%20merger.&text=And%20such%20a%20share%20price%20tag%20pushes%20Plaid's%20valuation%20to%20%2420%20billion.). Whereas if you join a Big Tech company, you won't have any shot at that kind of wealth at all. Plus, you get taxed much less on long-term capital gains than on ordinary income tax.
 
 **Takeaway:** Starting a company or joining an early-stage startup is the only shot you have to become very rich (> $10M). Not all startups are created equal. Look for startups that you think are going to break the curve. 
 
@@ -76,9 +76,9 @@ Furthermore, what is the probability that you will become a decamillionaire by w
 <a name="reason5"></a>
 ### Reason 5. <strike>Bad management</strike> You are management
 
-I haven't spent very long at companies of sizes greater than 2 digits, so what I'm saying may not apply to bigger companies. In my experience, if you're able to build up trust with your managers/founder(s), you will have a large say in how you are managed.
+I haven't spent very long at companies of sizes greater than 1 digit, so what I'm saying may not apply to most companies. In my experience, if you're able to build up trust with your managers/founder(s), you will have a large say in how you are managed.
 
-Founders/managers will often take your feedback to heart because they understand that if they don't, you'll leave, and if people start quitting because of a toxic culture, the company will die. Whereas if you have a terrible manager at a larger company, your only hope is to switch teams or leave the company. Although first-time managers at startups are common, having aligned incentives makes it better.
+Although first-time managers/founders are common at startups, having aligned incentives can make it better. If you and your founder/manager have the same goal of building a healthy culture and scaling the company, they will often take your feedback to heart because they understand that if they don't, people will start leaving, and the company will die. Whereas if you have a terrible manager at a larger company, your only hope is to switch teams or leave the company.
 
 **Takeaway:** Chip is correct in saying that business needs are often prioritized over individual needs at startups. Without a thriving business, the company wouldn't even be able to pay you. Thus, if your needs aren't aligned with growing the business, don't join a startup.
 
@@ -113,4 +113,4 @@ Do you believe in your founder(s)/the team/the mission/yourself enough to make t
 
 ### Acknowledgement
 
-Thanks to Douglas Qian and _your name here_ for your thoughts and for making sure everything makes sense to somebody who isn't me.
+Thanks to Douglas Qian and _your name here_ for your thoughts and for making sure everything makes sense to people who aren't me.
