@@ -7,7 +7,7 @@ import { Grid, Button, Typography } from "@material-ui/core";
 
 export default function ButtonAppBar() {
 	return (
-		<AppBar position="fixed" color="transparent" elevation={0}>
+		<AppBar position="fixed" color="inherit" elevation={0}>
 			<Grid item container justify="flex-end" xs={11}>
 				<Toolbar disableGutters>
 					<NextLink href="/" passHref>
