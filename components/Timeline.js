@@ -25,10 +25,10 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Joined Virtually 💡"}
 					secondary={
-						"What began as a cold call for startup advice somehow turned into a job offer as Virtually's second founding member and first official employee."
+						"What began as a cold call for startup advice somehow turned into a job offer as Virtually's first founding member and software engineer."
 					}
 					link={"/posts/dream-job/"}
-					linkName={"Read more here."}
+					linkName={"Read about how I landed the job here."}
 				/>
 				<TimelineStep
 					primary={"Ghosted by Ding Tea 🥤"}
@@ -56,7 +56,7 @@ export default function Timeline() {
 							"Climbed the tallest mountain in the contiguous US with a couple of friends!"
 						}
 						link={"posts/whitney/"}
-						linkName={"Read more here."}
+						linkName={"Read about it here."}
 					/>
 					<TimelineStep
 						primary={"Worked at Microsoft👨🏻‍💻"}
@@ -67,7 +67,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"Trained for a Marathon 🏃🏻‍♂️"}
 						secondary={
-							"I trained for 4 months before injuring my hip after a 22-mile long run–right before the race. By trying to be extra prepared for the race, I overtrained myself. It was unfortunate, but I grew mentally and learned a lot about training for endurance sports."
+							"I trained for 4 months before injuring my hip after a 22-mile long run–right before the race. By trying to be extra prepared for the race, I overtrained myself. It was dissapointing, but I grew mentally and learned a lot about training for endurance sports."
 						}
 					/>
 				</List>
@@ -79,7 +79,7 @@ export default function Timeline() {
 							"Received My First Full-Time Job Offer Ever From Microsoft 🎉"
 						}
 						secondary={
-							"I interviewed for an internship position, but to my pleasant surprise, I received a full-time offer. I wanted to graduate first, though, so I turned it down and asked for my internship back. (I still had 3 semesters left until graduation at the time.)"
+							"I interviewed for an internship position, but to my pleasant surprise, I received a full-time offer. I wanted to graduate first, though, so I turned it down and asked for an internship. (I still had 3 semesters left until graduation at the time.)"
 						}
 					/>
 				</List>
@@ -98,7 +98,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"Built a Google Nest for Window ACs 🤓"}
 						secondary={
-							"Developed a smart thermostat that works with window ACs instead of central HVAC systems. I built everything myself–including the hardware and the software. As a result, Google reached out to interview me."
+							"Developed a smart thermostat that works with window ACs instead of central HVAC systems. I built everything myself–including the hardware and the software. As a result, Google reached out to interview me. –I didn't end up getting the offer."
 						}
 						link={"https://wesleytian.github.io/2016/ac_hack/"}
 						linkName={"Read more here."}
@@ -106,7 +106,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"First Job + Became Housemates With A Professor 😎"}
 						secondary={
-							"My UMass Amherst computer science professor let me stay at his house over the summer while working for his IoT startup. Without his close mentorship, I probably wouldn't be where I am today. For that, I am eternally grateful."
+							"My UMass Amherst computer science professor let me live at his house over the summer while working for his IoT startup. Without his close mentorship, I probably wouldn't be where I am today. For that, I am forever grateful."
 						}
 						link={"https://wesleytian.github.io/2016/independence/"}
 						linkName={"Read more here."}
@@ -139,7 +139,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"Lived in Shanghai 🇨🇳"}
 						secondary={
-							"Made some amazing friends, had a great time,	 and learned a great deal about modern Chinese culture."
+							"Made some amazing friends, had a great time, and experienced China's explosive growth first-hand."
 						}
 					/>
 				</List>
@@ -149,7 +149,7 @@ export default function Timeline() {
 					<TimelineStep
 						primary={"Moved 4 times in 5 years 🛫🛬 x 4"}
 						secondary={
-							"Moved to the Portland metro area, Oregon; Taipei, Taiwan; back to the Portland metro area, Oregon; and then to Shanghai, China."
+							"Moved to Oregon, Taiwan, back to Oregon, and then finally to Shanghai, China."
 						}
 					/>
 				</List>
@@ -158,9 +158,7 @@ export default function Timeline() {
 				<List>
 					<TimelineStep
 						primary={"Born 👶🏻"}
-						secondary={
-							"Born in Mountain View, CA, the heart of Silicon Valley."
-						}
+						secondary={"Born in Mountain View, the heart of Silicon Valley."}
 					/>
 				</List>
 				<Grid container justify="center">
@@ -185,9 +183,9 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={"Moving to the San Jose metro area this summer! 😁"}
+					primary={"Moving to the Bay Area this summer! 😁"}
 					secondary={
-						"After moving 8 times around the world, I'm ecstatic to be moving back to my childhood home in the San Jose metro area soon! Blog post and more details coming soon."
+						"After moving 8 times around the world, I'm ecstatic to be moving back to my childhood home in the South Bay soon!"
 					}
 				/>
 			</List>
@@ -197,32 +195,30 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={"Began Training for an Ironman 🏊🚴🏃‍♂️"}
+					primary={"Signed up for My First Ironman 🏊🚴🏃‍♂️"}
 					secondary={
-						"The first 6 months will be running base training using the MAF method (100% aerobic training in a specific heartrate zone). The actual 6-month Ironman training program will start in late March of 2021."
+						"The first 4 months will be running base training using the MAF method (training in an 100% aerobic heartrate zone). The actual 7-month Ironman training program will begin in late March, 2021."
 					}
 					link={"http://strava.com/athletes/wesleytian"}
 					linkName={"Follow me on Strava!"}
 				/>
 				<TimelineStep
-					primary={"Moved to Nevada 🏜"}
+					primary={"Moved to Reno 🏜"}
 					secondary={
-						"My girlfriend and I packed up all of our physical belongings into our SUV and drove from Michigan to our new home. The trip took 4 days and around 40 hours on the road. Thankfully, we did not catch Rona."
+						"My girlfriend and I packed all of our physical belongings into my car and drove from Michigan to our new home in Nevada. The trip took 4 days and about 40 hours on the road. Thankfully, we didn't catch Rona."
 					}
-					link={
-						"https://www.instagram.com/stories/highlights/18153325603070911/"
-					}
-					linkName={"See my Instagram story here."}
 				/>
 				<TimelineStep
-					primary={"TechCrunch Front Page! 📰"}
+					primary={"We Made It To the Front Page of TechCrunch! 📰"}
 					link={
 						"https://techcrunch.com/2020/08/25/our-12-favorite-startups-from-y-combinators-s20-demo-day-part-2/"
 					}
-					linkName={"See article here."}
+					linkName={
+						"Read about us here. (Unfortunately, you'll need a subscription.)"
+					}
 				/>
 				<TimelineStep
-					primary={"Funding Secured 💰"}
+					primary={"Funding Secured 😉"}
 					secondary="We successfully raised a $1.8M seed round led by Tiger Global! Those 80 hour weeks sure paid off."
 					link={
 						"https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global"
