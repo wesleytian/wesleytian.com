@@ -139,4 +139,4 @@ Do you believe in your founder(s), the team, the mission, or yourself enough to 
 
 ### Acknowledgement
 
-Thanks to Douglas Qian, Helena Gregg, and Nathan Leung for their feedback on this piece.
+Thanks to [Douglas Qian](http://douglasqian.com/), Helena Gregg, and [Nathan Leung](https://www.natecation.com/) for their feedback on this piece and Chip Huyen and Nathan for inspiring me to write this with their startup experience blog posts.
