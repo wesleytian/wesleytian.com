@@ -96,7 +96,7 @@ This is simply untrue. Even if you had joined Snowflake last year as the 1000th 
 
 In my experience, if you're able to build trust with your managers/founder(s), you will have significant control over how you are managed.
 
-Although first-time managers/founders are often commonplace at startups, having aligned incentives makes it better. If you and your founder/manager have the same goal of building a healthy culture and scaling the company, they will often take your feedback to heart because they understand that if they don't, people will start leaving, and the company will die. Whereas if you have a terrible manager at a larger company, your only hope is to switch teams or leave the company. You're just a cog in the machine and are easily replaceable.
+Although first-time managers/founders are commonplace at startups, having aligned incentives makes the management better. If you and your founder/manager have the same goals of building a healthy culture and scaling the company, they will often take your feedback to heart because they understand that if they don't, people will start leaving, and the company will die. Whereas if you have a terrible manager at a larger company, your only hope is to switch teams or leave the company. Facebook isn't going to fall apart if a few engineers leave because of bad management. You're just a cog in the machine and are easily replaceable. At an early-stage startup, a few people quitting can mean the difference between startup success and failure.
 
 **Takeaway:** Chip is correct in saying that business needs are often prioritized over individual needs at startups. Without a thriving business, the company wouldn't even be able to pay you. Thus, if your needs aren't aligned with growing the business, don't join a startup.
 
@@ -111,9 +111,9 @@ The best way to learn how to be a successful founder is by being one. The next b
 
 > *"There are things that you don't want to do because it contradicts your sense of morality. A friend of mine left a startup because she couldn't lie about the company's product any longer."* - Chip
 
-This is not the norm (at least among YC startups), and if everyone is lying about the product, you should definitely leave.
+This is not the norm ([at least not among YC companies](https://www.ycombinator.com/ethics/)), and if everyone is lying about the product, you should definitely leave.
 
-**Takeaway:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you only want to work on the glamorous bits. The bigger the company you join, the fewer hats you will <strike>have to</strike> get to wear. 
+**Takeaway:** Join an early-stage startup if you want to get your hands dirty and grow the company, not if you only want to work on the glamorous bits. The smaller the company you join, the more hats you will <strike>have to</strike> get to wear. 
 
 
 <a name="reason7"></a>
