@@ -4,6 +4,9 @@ date: "2021-03-20"
 draft: false
 ---
 
+![img](sv-hbo.jpeg)
+*<center>It's not quite like what you see on TV. It's not that far from it either, though.</center>*
+
 This is the other side of the coin to [Chip Huyen](https://huyenchip.com/) 's recent blog post, *7 reasons **not to** join a startup and 1 reason **to***. My goal isn't to negate everything that she's said but instead offer a balance to her perspective by providing a more optimistic one. Some of what Chip said is valid; it's just a bit one-sided. Hopefully, by reading both of our posts (or just mine), you'll get a completer sense of what working at a startup is like. Her reasons for not joining a startup are in strikethroughs or block quotes. You can find her whole post [here](https://huyenchip.com/2021/02/27/why-not-join-a-startup.html).
 
 ### Table of Contents
