@@ -4,7 +4,7 @@ date: "2021-04-10"
 draft: false
 ---
 
-Not even 9 months since I made the bold decision to move to Reno, Nevada, I'm deciding to leave. I wrote about my reasons for moving here last August, and it boiled down to three primary reasons: 
+Not even 9 months since I made the bold decision to move to Reno, Nevada, I've decided to leave. I wrote about my reasons for moving here last August, and it boiled down to three primary reasons: 
 
 1. I wanted to be closer to nature (Lake Tahoe, the Sierra Nevada mountain range, and National Parks) during the pandemic as bustling cities lost their value. 
 2. I was working at a very early-stage startup and wanted to be more frugal while still enjoying a high quality of life.
@@ -23,7 +23,7 @@ After making multiple day trips to the Bay Area during the weekends to visit fri
 
 > In response to the Reddit question, [Adults of reddit, what is something that sucks about being an adult that most teenagers don’t realize?](https://www.reddit.com/r/AskReddit/comments/j3774n/adults_of_reddit_what_is_something_that_sucks/g7a43fn?utm_source=share&utm_medium=web2x&context=3) HilariousDisaster responded: *"Being lonely. Making friends as an adult is difficult, sometimes verging on impossible."*
 
-Even if the cost of living is going to a bit more expensive in the Bay Area and I'd be farther from Lake Tahoe, the sole reason of being closer to friends was enough to make me leave.
+Even if the cost of living is going to a bit more expensive in the Bay Area and I'd be farther from Lake Tahoe, the sole reason of being closer to friends was enough to make me leave and move to the Bay.
 
 Obviously, this is quite a personal reason, so besides the fact that my friends live pretty far from Reno, how has it been living here?
 
@@ -91,5 +91,5 @@ Due to COVID restrictions, I haven't interacted with many people besides the occ
 
 <a name="summary"></a>
 ### Summary
-Overall, Reno has excellent weather and nature, and I would consider moving back here one day if some friends or family also lived in the area. I didn't really get to meet that many people, but the ones that I did meet were amiable. And the city seemed fine, even if it was a bit small and lacked quality Asian food. I hope to be back again one day and explore the Reno area a bit more. 
+Overall, Reno has excellent weather and nature, and I would consider moving back here one day if some friends or family also lived in the area. I didn't really get to meet that many people, but the ones that I did meet were amiable. And the city seemed fine, even if it was a bit small and lacked quality Asian food. I hope to be back again one day and explore the Reno area a bit more. Starting in late May, you'll be able to catch me in Milpitas, California!
 
