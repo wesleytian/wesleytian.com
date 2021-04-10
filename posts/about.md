@@ -23,7 +23,7 @@ Growing up around the world in the following places has inexplicably shaped my w
 - Reno, NV (24) 🇺🇸
 - San Jose metro area, CA (soon!) 🇺🇸
 
-I like learning, exercising (triathlon, hiking, calisthenics), calling friends and family, and writing in my free time.
+When I'm not working, I'm reading, training for my Ironman, calling friends and family, and writing.
 
 I've previously worked at Microsoft as a Software Engineer, [Clinc](https://clinc.com/) as a Machine Learning Engineer, and studied Computer Science, Data Science, and Entrepreneurship at the University of Michigan. Go Blue! 〽️
 

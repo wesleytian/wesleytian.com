@@ -189,7 +189,7 @@ export default function Timeline() {
 					}
 				/>
 				<TimelineStep
-					primary={"Started Training for the Ironman 😅"}
+					primary={"Started Training For the Ironman 😅"}
 					secondary={
 						"After 3-4 months of base training using the MAF method (training in an 100% aerobic heartrate zone) and a month-long break, I've officially started my 7-month Ironman training program. I got this!"
 					}
