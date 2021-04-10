@@ -14,6 +14,9 @@ export default function New({ newestPost }) {
 				<PostSnippet
 					title={newestPost.title}
 					link={`/posts/${newestPost.id}`}
+					snippet={
+						"I was pretty convinced that Reno was the best place to be, yet I'm leaving already. What happened?"
+					}
 				/>
 			</List>
 		</Grid>

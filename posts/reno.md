@@ -3,6 +3,8 @@ title: "🔥 3 Reasons Why You Should Move To Reno"
 date: "2020-07-25"
 ---
 
+3/22/2021: 👀 This post is also featured on the front page of [remotelyrenotahoe.com](https://remotelyrenotahoe.com)!
+
 ![img](/posts/reno-beach.jpg)
 
 <center> Besides being a 1-hour drive to this beautiful beach, that is. </center>

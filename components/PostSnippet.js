@@ -2,8 +2,9 @@ import React, { useEffect, useState } from "react";
 import { Typography, Grid } from "@material-ui/core";
 import { getViews } from "../lib/firebase";
 
-export default function PostSnippet({ title, link }) {
+export default function PostSnippet({ title, link, snippet }) {
 	const [views, setViews] = useState(0);
+
 	useEffect(() => {
 		fetchViews();
 	}, []);
@@ -27,6 +28,7 @@ export default function PostSnippet({ title, link }) {
 						</Typography>
 					</Grid>
 				)}
+				{snippet && <Typography color="textSecondary">{snippet}</Typography>}
 			</Grid>
 		</a>
 	);
