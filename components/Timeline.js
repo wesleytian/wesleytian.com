@@ -183,7 +183,7 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={"Moving to the Bay Area this summer! 😁"}
+					primary={"Moving to the Bay Area this summer! ☀️"}
 					secondary={
 						"After moving 8 times around the world, I'm ecstatic to be moving back to my childhood home in the South Bay soon!"
 					}
@@ -205,10 +205,8 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Signed Up for an Ironman 🏊🚴🏃‍♂️"}
 					secondary={
-						"After being inspired by my college roommate who did both an Ironman and an ultramarathon recently, I decided to sign up for Ironman California. After all, it is one of my life goals."
+						"After being inspired by my college roommate who did both an Ironman and an ultramarathon recently, I decided to sign up for Ironman California. It is one of my life goals, after all."
 					}
-					link={"http://strava.com/athletes/wesleytian"}
-					linkName={"Follow me on Strava."}
 				/>
 				<TimelineStep
 					primary={"Moved to Reno 🏜"}
@@ -227,7 +225,7 @@ export default function Timeline() {
 				/>
 				<TimelineStep
 					primary={"Funding Secured 😉"}
-					secondary="We successfully raised a $1.8M seed round led by Tiger Global! Those 80 hour weeks sure paid off."
+					secondary="We successfully raised a $1.8M seed round led by Tiger Global! Those 80-90 hour weeks sure paid off."
 					link={
 						"https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global"
 					}
