@@ -65,12 +65,12 @@ export default function Post({ postData }) {
 					</Typography>
 				</Grid>
 			</main>
-			<div className={classes.root}>
+			{/* <div className={classes.root}>
 				<Disqus.DiscussionEmbed
 					shortname={disqusShortname}
 					config={disqusConfig}
 				/>
-			</div>
+			</div> */}
 		</div>
 	);
 }

@@ -1,19 +1,27 @@
 ---
 title: "A Review of Reno, Nevada"
 date: "2021-03-20"
-draft: true
+draft: false
 ---
 
-Not even 9 months since I made the bold decision to move to Reno, Nevada, I've decided to leave. I wrote about my reasons for moving here last August, and it boiled down to three primary reasons: 
+Not even 9 months since I made the bold decision to move to Reno, Nevada, I'm deciding to leave. I wrote about my reasons for moving here last August, and it boiled down to three primary reasons: 
 
 1. I wanted to be closer to nature (Lake Tahoe, the Sierra Nevada mountain range, and National Parks) during the pandemic as bustling cities lost their value. 
-2. I was working on a startup and wanted to be more frugal while still enjoying a high quality of life.
-3. I wanted to be somewhat close to my friends and family, most of whom live in the San Francisco Bay Area.
+2. I was working at a very early-stage startup and wanted to be more frugal while still enjoying a high quality of life.
+3. I wanted to be somewhat close to my friends, most of whom live in the San Francisco Bay Area.
 
 You can find the original post [here](http://wesleytian.com/posts/reno).
 
 What's changed?
-After making multiple day trips to the Bay Area during the weekends to visit friends, I started to realize that it wasn't sustainable. Pairing that with the fact that it becomes much harder to make friends as you grow older, I wanted to be closer to my existing friends and hang out with them more often. <sup>[[1]](https://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html) [[2]](https://www.reddit.com/r/AskReddit/comments/j3774n/adults_of_reddit_what_is_something_that_sucks/g7a43fn?utm_source=share&utm_medium=web2x&context=3) [[3]](https://www.reddit.com/r/AskReddit/comments/j3774n/adults_of_reddit_what_is_something_that_sucks/g7a53qj?utm_source=share&utm_medium=web2x&context=3)</sup>
+After making multiple day trips to the Bay Area during the weekends to visit friends, I started to realize that it wasn't sustainable. Pairing that with the fact that it becomes much harder to make friends as you grow older, I wanted to be closer to my existing friends and hang out with them more often.
+
+> "*...when one day, usually around your mid or late 20s, it hits you:*
+
+> *It’s not that easy to make friends anymore.*
+
+> *Sure, you’ll make new friends in the future—at work, through your spouse, through your kids—but you won’t get to that Tier 1 brothers level, or even to Tier 2, with very many of them, because people who meet as adults don’t tend to get through the 100+ long, lazy hangouts needed to reach a bond of that strength."* - Tim Urban <sup>[[1]](https://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html)</sup>
+
+> In response to the Reddit question, [Adults of reddit, what is something that sucks about being an adult that most teenagers don’t realize?](https://www.reddit.com/r/AskReddit/comments/j3774n/adults_of_reddit_what_is_something_that_sucks/g7a43fn?utm_source=share&utm_medium=web2x&context=3) HilariousDisaster responded: *"Being lonely. Making friends as an adult is difficult, sometimes verging on impossible."*
 
 Even if the cost of living is going to a bit more expensive in the Bay Area and I'd be farther from Lake Tahoe, the sole reason of being closer to friends was enough to make me leave.
 
@@ -36,7 +44,7 @@ The scenery within a 30-minute drive from Reno is genuinely breathtaking. Lake T
 ![img](/posts/tahoe-1.jpeg)
 *<center>Actual pictures that I took. #nofilter</center>*
 
-I also had the chance to visit a couple of other scenic spots near Reno: a few friends and I rented a cabin in Yosemite National Park for Thanksgiving, my girlfriend and I saw the Milky Way while car camping at Great Basin National Park, and I climbed some nearby mountains, such as Mt. Rose.
+I also had the chance to visit a couple of other scenic spots near Reno: a few friends and I rented a cabin in Yosemite National Park for Thanksgiving, my girlfriend and I saw the Milky Way while car camping at Great Basin National Park, and I climbed Mt. Rose with a random dude that I met in a Reno Facebook Group.
 
 Would I consider buying a home on the Lake Tahoe shore one day? Absolutely. (If I win the lottery, that is 😂. The houses there are mad expensive.)
 
@@ -67,7 +75,7 @@ Our flooring uses laminate wood; we have an in-unit washer and dryer, a new quie
 
 <a name="thecity"></a>
 ### The City
-I didn't really get to explore the city cause of the pandemic. My initial reason for moving to Reno wasn't for the city, but for its close proximity to Mothe Nature, anyway. In a typical year, I would've gone to flight shows, went gambling, and attended the Buring Man festival. However, this past year, I only went to downtown Reno to pick up takeout, get my car fixed/washed, and visit the bike shop. Did the city seem nice on the few occasions when I dropped by? Besides there being a few homeless people near the river, yeah, it was pretty nice. The city is definitely on the smaller side, though, which implies a smaller selection of restaurants and services.
+I didn't really get to explore the city cause of the pandemic. My initial reason for moving to Reno wasn't for the city, but for its close proximity to Mother Nature, anyway. In a typical year, I would've gone to flight shows, went gambling, and attended the Buring Man festival. However, this past year, I only went to downtown Reno to pick up takeout, get my car fixed/washed, and visit the bike shop. Did the city seem nice on the few occasions when I dropped by? Besides there being a few homeless people near the river, yeah, it was pretty nice. The city is definitely on the smaller side, though, which implies a smaller selection of restaurants and services.
 
 ![img](/posts/burning-man.jpeg)
 <center>Burning Man, Black Rock City (2 hours from Reno)</center>
@@ -83,5 +91,5 @@ Due to COVID restrictions, I haven't interacted with many people besides the occ
 
 <a name="summary"></a>
 ### Summary
-Overall, Reno has excellent weather and nature, and I would consider moving back here one day if some friends or family also lived in the area. I didn't really get to meet that many people, but the ones that I did meet were amiable. And the city seemed fine, even if it was a bit small and lacked a variety of Asian food. I hope to be back again one day and explore the Reno area a bit more. 
+Overall, Reno has excellent weather and nature, and I would consider moving back here one day if some friends or family also lived in the area. I didn't really get to meet that many people, but the ones that I did meet were amiable. And the city seemed fine, even if it was a bit small and lacked quality Asian food. I hope to be back again one day and explore the Reno area a bit more. 
 
