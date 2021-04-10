@@ -91,5 +91,5 @@ Due to COVID restrictions, I haven't interacted with many people besides the occ
 
 <a name="summary"></a>
 ### Summary
-Overall, Reno has excellent weather and nature, and I would consider moving back here one day if some friends or family also lived in the area. I didn't really get to meet that many people, but the ones that I did meet were amiable. And the city seemed fine, even if it was a bit small and lacked quality Asian food. I hope to be back again one day and explore the Reno area a bit more. Starting in late May, you'll be able to catch me in Milpitas, California!
+Overall, Reno has excellent weather and nature, and I would consider moving back here one day if some friends or family also lived in the area. I didn't really get to meet that many people, but the ones that I did meet were amiable. And the city seemed fine, even if it was a bit small and lacked quality Asian food. I hope to be back again one day and explore the Reno area a bit more. Starting in about a month, you'll be able to catch me in Milpitas, California!
 
