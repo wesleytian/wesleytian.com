@@ -17,7 +17,7 @@ export default function AboutPage({ postData }) {
 					<Typography variant="h4" color="textPrimary" gutterBottom>
 						<b>About</b>
 					</Typography>
-					<Typography variant="body1" color="textSecondary">
+					<Typography variant="body1">
 						<div
 							dangerouslySetInnerHTML={{
 								__html: postData.contentHtml
