@@ -188,6 +188,14 @@ export default function Timeline() {
 						"After moving 8 times around the world, I'm ecstatic to be moving back to my childhood home in the South Bay soon!"
 					}
 				/>
+				<TimelineStep
+					primary={"Started Training for the Ironman 😅"}
+					secondary={
+						"After 3-4 months of base training using the MAF method (training in an 100% aerobic heartrate zone) and a month-long break, I've officially started my 7-month Ironman training program. I got this!"
+					}
+					link={"http://strava.com/athletes/wesleytian"}
+					linkName={"Follow me on Strava."}
+				/>
 			</List>
 			<Divider />
 			<Typography variant="h5">
@@ -195,12 +203,12 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={"Signed up for My First Ironman 🏊🚴🏃‍♂️"}
+					primary={"Signed Up for an Ironman 🏊🚴🏃‍♂️"}
 					secondary={
-						"The first 4 months will be running base training using the MAF method (training in an 100% aerobic heartrate zone). The actual 7-month Ironman training program will begin in late March, 2021."
+						"After being inspired by my college roommate who did both an Ironman and an ultramarathon recently, I decided to sign up for Ironman California. After all, it is one of my life goals."
 					}
 					link={"http://strava.com/athletes/wesleytian"}
-					linkName={"Follow me on Strava!"}
+					linkName={"Follow me on Strava."}
 				/>
 				<TimelineStep
 					primary={"Moved to Reno 🏜"}
