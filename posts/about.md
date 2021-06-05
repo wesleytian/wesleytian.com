@@ -13,17 +13,17 @@ As Virtually's first hire, I've helped out in multiple domains, but my forte is 
 
 Growing up around the world in the following places has inexplicably shaped my worldview:
 - Mountain View, CA (age 0) 👶🏻
-- San Jose metro area, CA (ages 1-4) 🇺🇸
-- Portland metro area, OR (5-6) 🇺🇸
-- Taipei, Taiwan (7-8) 🇹🇼
-- Portland metro area, OR (8-9) 🇺🇸
-- Shanghai, China (10-17) 🇨🇳
-- Amherst, MA (19-20) 🇺🇸
-- Ann Arbor, MI (21-23) 🇺🇸
-- Reno, NV (24) 🇺🇸
-- San Jose metro area, CA (soon!) 🇺🇸
+- Milpitas (_San Jose metro area_), CA (age 1) 🇺🇸
+- West Linn (_Portland metro area_), OR (age 5) 🇺🇸
+- Taipei, Taiwan (age 7) 🇹🇼
+- West Linn (_Portland metro area_), OR (age 8) 🇺🇸
+- Shanghai, China (age 10) 🇨🇳
+- Amherst, MA (age 18) 🇺🇸
+- Ann Arbor, MI (age 20) 🇺🇸
+- Reno, NV (23) 🇺🇸
+- Milpitas (_San Jose metro area_), CA (age 24) 🇺🇸
 
-When I'm not working, I'm reading, training for my Ironman, calling friends and family, and writing.
+When I'm not working, I'm reading, training for my Ironman, hanging out with friends and family, and writing.
 
 I've previously worked at Microsoft as a Software Engineer, [Clinc](https://clinc.com/) as a Machine Learning Engineer, and studied Computer Science, Data Science, and Entrepreneurship at the University of Michigan. Go Blue! 〽️
 

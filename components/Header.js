@@ -19,7 +19,11 @@ export default function Header() {
 				variant="h5"
 				color="textSecondary"
 				className={styles.description}>
-				I live in Reno, Nevada, and work virtually at{" "}
+				I live near{" "}
+				<a href="https://en.wikipedia.org/wiki/San_Jose,_California">
+					San Jose, California
+				</a>
+				, and work virtually for{" "}
 				<a href="https://tryvirtually.com/">Virtually.</a>
 			</Typography>
 		</Grid>
