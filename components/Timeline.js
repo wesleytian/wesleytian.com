@@ -183,9 +183,9 @@ export default function Timeline() {
 			</Typography>
 			<List>
 				<TimelineStep
-					primary={"Moving to the Bay Area this summer! ☀️"}
+					primary={"Moved to Silicon Valley! ☀️"}
 					secondary={
-						"After moving 8 times around the world, I'm ecstatic to be moving back to my childhood home in the South Bay soon!"
+						"After moving nearly 10 times around the world in the past 20 years, I'm ecstatic to have moved back into my childhood home in the South Bay."
 					}
 				/>
 				<TimelineStep
