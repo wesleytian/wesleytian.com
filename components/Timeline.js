@@ -205,7 +205,7 @@ export default function Timeline() {
 				<TimelineStep
 					primary={"Signed Up for an Ironman 🏊🚴🏃‍♂️"}
 					secondary={
-						"After being inspired by my college roommate who did both an Ironman and an ultramarathon recently, I decided to sign up for Ironman California. It is one of my life goals, after all."
+						"After being inspired by a college roommate who did both an Ironman and an ultramarathon recently, I decided to sign up for Ironman California on a whim. Doing an Ironman is one of my life goals, after all."
 					}
 				/>
 				<TimelineStep
