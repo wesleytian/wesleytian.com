@@ -19,9 +19,9 @@ export default function Header() {
 				variant="h5"
 				color="textSecondary"
 				className={styles.description}>
-				I live near{" "}
-				<a href="https://en.wikipedia.org/wiki/San_Jose,_California">
-					San Jose, California
+				I live in the{" "}
+				<a href="https://en.wikipedia.org/wiki/Santa_Clara_Valley#San_Francisco_South_Bay">
+					San Francisco Bay Area, California
 				</a>
 				, and work virtually for{" "}
 				<a href="https://tryvirtually.com/">Virtually.</a>

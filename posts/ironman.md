@@ -15,8 +15,9 @@ In this multi-part series, I'll go over my first-hand experience of training for
 
 
 # How Much Does it Cost?
-I'm sure some of you have heard how expensive of a sport triathlon is. You have no idea. Let's break down how much I've spent for Ironman training thus far, by sport.
+I'm sure some of you have heard how expensive of a sport triathlon is. You have no idea. Let's break down how much I've spent for Ironman training thus far, by sport. 
 
+_Note: The below prices are the prices that I bought these items for. Many of these items were used or heavily discounted at the time of purchase. Also, I had some of these items prior to signing up for my Ironman (such as my Garmin watch and some of the swimming equipment)._
 ## Swimming
 - [$39] Swimming Briefs [Speedo Men's Swimsuit Brief](https://www.amazon.com/gp/product/B082G6GGB1/-ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [$29] Swim Paddle [FINIS Strapless Technique Agility Paddles](https://www.amazon.com/gp/product/B07NQ9K2C2/-ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
@@ -44,13 +45,13 @@ Okay... This isn't too bad...
 - [$130] Saddle [ISM PR 1.0 Saddle](https://www.amazon.com/gp/product/B00PHVTEY0/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
   - One of the more comfortable and ergonomic name brand saddles.
 - [$85] Bike Helmet [Giro Syntax MIPS Helmet](https://www.amazon.com/gp/product/B07VCGWG1T/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-  - A low to mid-end helmet with MIPS technology (safer).
+  - A low to mid-end helmet with MIPS technology (provides more safety).
 - [$80] Aero Bars [Profile Designs Legacy II Clip-On Bar Aluminium Black 2018](https://www.amazon.com/gp/product/B0185OKVRY/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - Low-end name brand aero bar for speed and comfort (so I can rest my upper body while biking).
+  - Low-end name brand aero bar for speed and comfort, so I can rest my upper body while biking.
 - [$45] Cadence Sensor [Wahoo RPM Cycling Sensor](https://www.amazon.com/gp/product/B00L9XNFPY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
   - Essential for tracking cadence, which is essential for training.
 - [$15] Fan [Amazon Basics 3 Speed Small Room Air Circulator Fan, 7-Inch](https://www.amazon.com/gp/product/B082MY2MX3/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - Essential for indoor biking because there is no wind.
+  - To prevent overheating while biking inside.
 - Water bottles
 - Pump
 - Flat kit
@@ -60,40 +61,48 @@ __Subtotal: ~$2600__
 Holy crap. Do you need all those items? Yes and no. You'll need all of the above, but you might be able to get slightly cheaper versions of everything. You'll still probably come out to around $1500-$2000, though. Everything I bought was on the low-end already.
 
 ## Running
-- $250 2x Running Shoes [ASICS Men's NOVABLAST](https://www.amazon.com/gp/product/B08PKD27KG/-ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [$250] 2x Running Shoes [ASICS Men's NOVABLAST](https://www.amazon.com/gp/product/B08PKD27KG/-ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
   - I'll probably need another pair by the time the race is over. A pair of running shoes usually lasts me 200-250 miles.
-- $10 Sunscreen [Neutrogena Sunscreen Lotion with Broad Spectrum SPF 100+](https://www.amazon.com/gp/product/B002JAYMEE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- $10 2x Lip Balm [Burt's Bees All-Weather SPF15 Lip Balm](https://www.amazon.com/gp/product/B07C9KZTXS/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+- [$10] Sunscreen [Neutrogena Sunscreen Lotion with Broad Spectrum SPF 100+](https://www.amazon.com/gp/product/B002JAYMEE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [$10] 2x Lip Balm [Burt's Bees All-Weather SPF15 Lip Balm](https://www.amazon.com/gp/product/B07C9KZTXS/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
   - To prevent skin cancer.
+- [$25] Running Hat [Nathan Quick Stash Run Hat](https://www.nathansports.com/products/quick-stash-run-hat-black-mosstone)
+  - Breathable hat that can also store items such as my house key. (Not all of my shorts have pockets.)
+- [$60] Running Shorts [Nathan Front Runner Shorts](https://www.nathansports.com/products/mens-front-runner-shorts-blackd)
+  - So I don't need to hold my phone while running. (I've recently started listening to music while running and my watch isn't advanced enoughto load/stream music.)
 
-__Subtotal: ~$300__
+__Subtotal: ~$385__
 
 ...Reasonable.
 
 ## Triathlon/Ironman
 - [$1490] Race Entry Fee [Ironman California Community Fund Entry](https://www.ironman.com/im-california-register)
 - [$565] Prescription Photochromic Sunglasses [SportRx Rudy Project Rydan + RX Dock](https://www.sportrx.com/rudy-project-rydon-rx-dock.html)
-  - Prescription so I don't have to put on contacts before every workout. Photochromic so I can workout from before sunrise and to after sunset.
+  - Prescription so I don't have to put on contacts before every workout. Photochromic so I can workout from before sunrise and to after sunset. I honestly probably could've just worn contacts, but the convenience, yo.
 - [$474] Watch [Garmin Forerunner 935](https://www.amazon.com/gp/product/B06XGD6CS4/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
   - Essential for tracking heart rate, running speed, swimming speed, biking speed, etc.
-- [$???] Tri top and shorts
+- [$75] Tri Top[Roka Comp Sleeveless Tri Top](https://www.roka.com/products/mens-comp-sleeveless-tri-top-white-grey)
+- [$100] Tri shorts [Gen II Elite Aero Tri Short](https://www.roka.com/products/mens-gen-ii-elite-aero-tri-short)
+  - I'm planning on using these both training and the race.
 - [$135] Heartrate Monitor Strap [Garmin HRM-Pro, Premium Heart Rate Strap, Real-Time Heart Rate Data and Running Dynamics](https://www.-amazon.com/gp/product/B085JKM9DR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  - Because wrist-based heart rate monitors are [notoriously inaccurate](https://forums.garmin.com/sports-fitness/running-multisport/f/forerunner-935/152877/wrist-heart-rate-very-inaccurate-in-cold-weather).
 - [$90] 36x Energy Gels [Maurten GEL 100 Box](https://www.maurten.com/products/gel-100-box-us)
    - Nutrition during 2 hour+ rides and runs. I'll probably need more at some point since you should consume 2-4 per hour and I still have ~20 weeks of training left.
 - [$15] Training Plan [Be IronFit: Time-Efficient Training Secrets for Ultimate Fitness](https://www.amazon.com/gp/product/1493017829/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+  - The book that started it all. If you're even slightly interested in doing an Ironman, read this first.
 - [$5] Electrode Gel [Spectra Parker Laboratories 360 Electrode Gel, 2 Oz](https://www.amazon.com/gp/product/B00AMGUZ70/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
   - To improve heart rate tracking accuracy, especially during those dry winter days when conductivity is low.
 - [$???] Hotel
 - [$???] Wetsuit
   - May not be necessary depending on the race day water temperature.
 
-__Subtotal: ~$2800__
+__Subtotal: ~$2975__
 
-### Total: ~$5700
+### Total: ~$5960
 
-To put that in comparison, my car only costed me $4500.
+To put that in comparison, my car costed me $less than that.
 
-No wonder why only 1% (50 of 4500) of the participants in Ironman California are in my age group (between the ages of 18-24). Without a decent wage (or sacrificing other luxuries), forking over $6K for a sport is incomprehensible. (Even if in my mind, a triathlon is four sports in one.) 
+No wonder why only 1% (50 of 4500) of the participants in Ironman California are in my age group (between the ages of 18-24). Without a decent wage (or sacrificing other luxuries), forking over $6-7K for a sport is incomprehensible. (Even if in my mind, a triathlon is four sports in one.) 
 
 Fortunately, most of these are one time costs, and I'll be able to reuse most of this equipment for their individual sports or for future triathlon races.
 
