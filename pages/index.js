@@ -5,12 +5,10 @@ import { Grid, Typography } from "@material-ui/core";
 import Timeline from "../components/Timeline";
 import MostPopular from "../components/MostPopular";
 import Header from "../components/Header";
-import New from "../components/New";
+// import New from "../components/New";
 import { getSortedPostsData } from "../lib/posts";
 
-const root = process.cwd();
-
-export default function IndexPage({ allPostsData }) {
+export default function IndexPage() {
 	return (
 		<div className={styles.container}>
 			<Head>
@@ -22,7 +20,7 @@ export default function IndexPage({ allPostsData }) {
 					<Typography variant="h4" gutterBottom style={{ marginTop: "24px" }}>
 						<b>✍️ Writing</b>
 					</Typography>
-					<New newestPost={allPostsData[0]} />
+					{/* <New newestPost={allPostsData[0]} /> */}
 					<MostPopular />
 					<Timeline />
 				</Grid>
