@@ -7,25 +7,15 @@ draft: true
 
 ## Me
 
-Hi, my name is Wesley Y. Tian. I'm a founding member of [Virtually](https://tryvirtually.com/), the "Shopify" for Online Schools. Our mission is to make education more accessible and more affordable. 
+Hi, my name is Wesley Tian. I'm a founding member of [Virtually](https://tryvirtually.com/), the "Shopify" for Online Schools. Our mission is to make education more accessible and more affordable. 
 
-As Virtually's first hire, I've helped out in multiple domains, but my forte is software engineering. We are currently a team of 12 (6 full-time) and are backed by [Afore Capital](https://afore.vc/), [Y Combinator](https://www.ycombinator.com/), [Tiger Global](https://www.tigerglobal.com/home), and talented angels such as [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries), [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)), and [Avlok Kohli](https://angel.co/p/avlok-kohli). We've raised over $2M to date.
+ angels such as [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries), [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)), and [Avlok Kohli](https://angel.co/p/avlok-kohli). We've raised over $2M to date.
 
-Growing up around the world in the following places has inexplicably shaped my worldview:
-- Mountain View, CA (age 0) 👶🏻
-- Milpitas (_San Jose metro area_), CA (age 1) 🇺🇸
-- West Linn (_Portland metro area_), OR (age 5) 🇺🇸
-- Taipei, Taiwan (age 7) 🇹🇼
-- West Linn (_Portland metro area_), OR (age 8) 🇺🇸
-- Shanghai, China (age 10) 🇨🇳
-- Amherst, MA (age 18) 🇺🇸
-- Ann Arbor, MI (age 20) 🇺🇸
-- Reno, NV (23) 🇺🇸
-- Milpitas (_San Jose metro area_), CA (age 24) 🇺🇸
+I grew up in California, Oregon, Taiwan, China, Massachusetts, Michigan, and Nevada (in that order).
 
 When I'm not working, I'm reading, training for my Ironman, hanging out with friends and family, and writing.
 
-I've previously worked at Microsoft as a Software Engineer, [Clinc](https://clinc.com/) as a Machine Learning Engineer, and studied Computer Science, Data Science, and Entrepreneurship at the University of Michigan. Go Blue! 〽️
+I've previously worked on Microsoft's back end', [Clinc](https://clinc.com/)'s machine learning models, and studied computer science, data science, and entrepreneurship at the University of Michigan 〽️.
 
 ---
 ## This Site

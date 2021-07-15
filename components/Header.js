@@ -13,7 +13,7 @@ export default function Header() {
 				color="textSecondary"
 				className={styles.description}
 				gutterBottom>
-				Welcome to my personal website! 😁
+				Welcome to my personal website 👋
 			</Typography>
 			<Typography
 				variant="h5"
@@ -25,6 +25,12 @@ export default function Header() {
 				</a>
 				, and work virtually for{" "}
 				<a href="https://tryvirtually.com/">Virtually.</a>
+			</Typography>
+			<Typography
+				variant="h5"
+				color="textSecondary"
+				className={styles.description}>
+				I'm a software engineer, triathlete, and mountaineer.
 			</Typography>
 		</Grid>
 	);
