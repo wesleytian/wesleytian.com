@@ -19,11 +19,11 @@ export default function Header() {
 				variant="h5"
 				color="textSecondary"
 				className={styles.description}>
-				I live in
+				I live in{" "}
 				<a href="https://en.wikipedia.org/wiki/Silicon_Valley">
-					Silicon Valley
+					Silicon Valley{" "}
 				</a>
-				, and work virtually for{" "}
+				and work virtually for{" "}
 				<a href="https://tryvirtually.com/">Virtually.</a>
 			</Typography>
 			<Typography
