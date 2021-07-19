@@ -9,7 +9,7 @@ draft: true
 
 Hi, my name is Wesley Tian. I'm a founding member of [Virtually](https://tryvirtually.com/), the "Shopify" for Online Schools. Our mission is to make education more accessible and more affordable. 
 
- angels such as [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries), [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)), and [Avlok Kohli](https://angel.co/p/avlok-kohli). We've raised over $2M to date.
+As Virtually's first hire, I've helped out in multiple domains, but my forte is software engineering. We are currently a team of 12 (6 full-time) and are backed by [Afore Capital](https://afore.vc/), [Y Combinator](https://www.ycombinator.com/), [Tiger Global](https://www.tigerglobal.com/home), and talented angels such as [Eric Ries](https://en.wikipedia.org/wiki/Eric_Ries), [Li Fan](https://en.wikipedia.org/wiki/Li_Fan_(engineer)), and [Avlok Kohli](https://angel.co/p/avlok-kohli). We've raised over $2M to date.
 
 I grew up in California, Oregon, Taiwan, China, Massachusetts, Michigan, and Nevada (in that order).
 
