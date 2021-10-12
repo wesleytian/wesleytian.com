@@ -29,7 +29,7 @@ export default function IndexPage() {
 
             Prior to that, I worked at Microsoft and double majored in computer science and data science at the University of Michigan 〽️.
 
-            I'm currently focused on becoming a better engineer and entrepreneur by learning and building things. In the relatively short-term, I'd like to either bootstrap a company to $1M ARR or found a unicorn (or both).
+            I'm currently focused on becoming a better engineer and entrepreneur by learning and building things. In the relatively short-term, I'd like to either bootstrap a company to $100K ARR or help found a unicorn (or both).
             
             I've moved a lot growing up. So far, I've lived in
             • Milpitas, California (5 years)
@@ -45,15 +45,13 @@ export default function IndexPage() {
 
 					<Typography style={{ whiteSpace: "pre-line" }}>
 						{`
-            Sports has been a big part of my life. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. Recreationally, I've enjoyed powerlifting, calisthenics, and Brazilian jiu-jitsu. I still enjoy hiking and mountain climbing.
+            Sports has been a big part of my life. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. Recreationally, I've also enjoyed powerlifting, calisthenics, and Brazilian jiu-jitsu. I still enjoy hiking and mountaineering.
             
-            For the past year, I've been training for an Ironman (a 2.4-mile swim, followed by a 112-mile bike ride and a 26.2-mile full marathon). I'd like to climb the Seven Summits and run an ultramarathon one day.
+           After finishing Ironman California (a 2.4-mile swim, follewed by a 112-mile bike ride and then a 26.2 mile marathon), I'd like to get back into hiking and mountaineering. I'd plan to climb the Seven Summits and run an ultramarathon one day.
             
-            In the past, I've also been a pianist, a violinist, and an environmental science major.
+            In the past, I've also been a pianist and a violinist.
 
-            My life philosophy can pretty much be reduced to the following:
-            • You only live once.
-            • Go big or go home.
+            My life philosophy can pretty much be reduced to "You only live once" and "Go big or go home".
             `}
 					</Typography>
 					<Typography
