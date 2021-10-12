@@ -29,7 +29,7 @@ export default function IndexPage() {
 
             Prior to that, I worked at Microsoft and double majored in computer science and data science at the University of Michigan 〽️.
 
-            I'm currently focused on becoming a better engineer and entrepreneur by learning and building things. In the relatively short-term, I'd like to either bootstrap a company to $100K ARR or help found a unicorn (or both).
+            I'm currently focused on becoming a better engineer and entrepreneur by learning and building things. In the relatively short-term, I'd like to either bootstrap a business to $100K ARR or help found a unicorn (or both).
             
             I've moved a lot growing up. So far, I've lived in
             • Milpitas, California (5 years)
@@ -45,9 +45,9 @@ export default function IndexPage() {
 
 					<Typography style={{ whiteSpace: "pre-line" }}>
 						{`
-            Sports has been a big part of my life. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. Recreationally, I've also enjoyed powerlifting, calisthenics, and Brazilian jiu-jitsu. I still enjoy hiking and mountaineering.
+            Physical activities have been a big part of my life. As a kid, my parents often took me swimming and hiking. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. I've also spent considerable time in powerlifting, calisthenics, Brazilian jiu-jitsu, hiking, and mountaineering.
             
-           After finishing Ironman California (a 2.4-mile swim, follewed by a 112-mile bike ride and then a 26.2 mile marathon), I'd like to get back into hiking and mountaineering. I'd plan to climb the Seven Summits and run an ultramarathon one day.
+            After finishing my first Ironman (a 2.4-mile swim, follewed by a 112-mile bike ride and then a 26.2 mile marathon) in a few weeks, I'd like to get back into hiking and mountaineering. I plan to climb the Seven Summits and run an ultramarathon one day.
             
             In the past, I've also been a pianist and a violinist.
 
