@@ -31,7 +31,7 @@ export default function IndexPage() {
 
             I'm currently focused on becoming a better engineer and entrepreneur by learning and building things. In the relatively short-term, I'd like to either bootstrap a business to $100K ARR or help found a unicorn (or both).
             
-            I've moved a lot growing up. So far, I've lived in
+            🌎 I've moved a lot growing up. So far, I've lived in
             • Milpitas, California (5 years)
             • West Linn, Oregon (3 years)
             • Taipei, Taiwan (2 years)
