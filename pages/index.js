@@ -1,7 +1,7 @@
 import styles from "../styles/Home.module.css";
 import React from "react";
 import Head from "next/head";
-import { Grid, Typography, Divider } from "@material-ui/core";
+import { Grid, Typography } from "@material-ui/core";
 import MostPopular from "../components/MostPopular";
 import Header from "../components/Header";
 import { getSortedPostsData } from "../lib/posts";

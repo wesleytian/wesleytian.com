@@ -24,13 +24,6 @@ export default function ButtonAppBar() {
 							</Typography>
 						</Button>
 					</NextLink>
-					{/* <NextLink href="/library" passHref>
-						<Button style={{ textTransform: "none" }} size="large">
-							<Typography variant="body1" color="textSecondary">
-								Library
-							</Typography>
-						</Button>
-					</NextLink> */}
 					<NextLink href="/projects" passHref>
 						<Button style={{ textTransform: "none" }} size="large">
 							<Typography variant="body1" color="textSecondary">
@@ -38,13 +31,6 @@ export default function ButtonAppBar() {
 							</Typography>
 						</Button>
 					</NextLink>
-					{/* <NextLink href="/about" passHref>
-						<Button style={{ textTransform: "none" }} size="large">
-							<Typography variant="body1" color="textSecondary">
-								About
-							</Typography>
-						</Button>
-					</NextLink> */}
 				</Toolbar>
 			</Grid>
 		</AppBar>
