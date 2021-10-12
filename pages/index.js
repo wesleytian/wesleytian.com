@@ -45,9 +45,9 @@ export default function IndexPage() {
 
 					<Typography style={{ whiteSpace: "pre-line" }}>
 						{`
-            Physical activities have been a big part of my life. As a kid, my parents often took me swimming and hiking. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. I've also spent considerable time powerlifting, hiking, and mountaineering.
+            Physical activities have been a big part of my life. As a kid, my parents often took me swimming and hiking. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. I've also spent considerable time powerlifting, hiking, and mountain climbing.
             
-            After finishing my first Ironman (a 2.4-mile swim, follewed by a 112-mile bike ride and then a 26.2 mile marathon) in a few weeks, I'd like to get back into hiking and mountaineering. I plan to climb the Seven Summits and run an ultramarathon one day.
+            After finishing my first Ironman in a few weeks (a 2.4-mile swim, follewed by a 112-mile bike ride and then a 26.2 mile marathon), I'd like to get back into hiking and mountain climbing. I plan to climb the Seven Summits and run an ultramarathon one day.
             
             In the past, I've also been a pianist and a violinist.
 
