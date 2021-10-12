@@ -6,10 +6,6 @@ import PostSnippet from "./PostSnippet";
 export default function MostPopular() {
 	return (
 		<Grid item container direction="column" xs={12}>
-			{/* <Typography variant="h5">
-				<b>🔥 Popular</b>
-			</Typography> */}
-
 			<List>
 				<PostSnippet
 					title={"I Nearly Failed High School"}

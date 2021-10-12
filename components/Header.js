@@ -10,7 +10,7 @@ export default function Header() {
 				style={{ width: "100px", borderRadius: "50px" }}
 			/>
 			<Typography variant="h4" gutterBottom style={{ paddingTop: "24px" }}>
-				<b>Hey! I'm Wesley.</b>
+				<b>👋 Hey! I'm Wesley.</b>
 			</Typography>
 			<Typography
 				variant="h5"
