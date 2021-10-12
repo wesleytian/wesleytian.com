@@ -13,12 +13,12 @@ export default function IndexPage() {
 				<link rel="icon" href="/favicon.ico" />
 				<meta property="og:url" content="wesleytian.com" />
 				<meta property="og:type" content="website" />
-				<meta property="og:title" content="Hey, I'm Wesley." />
+				<meta property="og:title" content="👋 Hey! I'm Wesley." />
 				<meta
 					property="og:description"
-					content="Welcome to my personal site!"
+					content="Welcome to my personal site."
 				/>
-				<meta property="og:image" content={"/posts/test3.jpeg"} />
+				<meta property="og:image" content={"/posts/ogimage.jpeg"} />
 			</Head>
 			<main className={styles.main}>
 				<Grid item container xs={11} md={8}>
