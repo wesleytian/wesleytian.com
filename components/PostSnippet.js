@@ -16,7 +16,18 @@ export default function PostSnippet({ title, link, snippet }) {
 
 	return (
 		<a href={link}>
-			<Grid container direction="row" justify="space-between">
+			<Grid
+				container
+				direction="row"
+				justify="space-between"
+				style={{
+					marginTop: "12px",
+					borderStyle: "solid",
+					borderWidth: "1px",
+					borderRadius: "12px",
+					borderColor: "lightgray",
+					padding: "12px"
+				}}>
 				<Grid item xs={views ? 8 : 12}>
 					<Typography variant="h6">{title}</Typography>
 				</Grid>
