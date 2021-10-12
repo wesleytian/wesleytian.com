@@ -17,7 +17,7 @@ export default function Header() {
 				color="textSecondary"
 				className={styles.description}
 				gutterBottom>
-				Welcome to my personal website.
+				Welcome to my personal site.
 			</Typography>
 		</Grid>
 	);
