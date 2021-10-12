@@ -102,7 +102,7 @@ This also marked the beginning of the infamous "97-switchbacks".
 
 Still more than a half-hour from the summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. 
 
-My summer at CEO Satya Nadella's Microsoft taught me a great deal about "growth mindset" and trying new things, so I half-jokingly suggested, "Hey guys, let's just drink our piss!" We had filters anyways. 
+My summer at Microsoft taught me a great deal about "growth mindset" and trying new things, so I half-jokingly suggested, "Hey guys, let's just drink our piss!" We had filters anyways. 
 
 I didn't expect them to take me seriously, but Newton was actually like, "Sure."
 
@@ -132,11 +132,11 @@ Step.  <br> <br>
 Throb. <br> <br>
 
 Step.  <br>
-On the outside, I had my usual deadpan face, but internally I was screaming.
+On the outside, my face was deadpan, but internally I was screaming.
 
 If it had gotten much worse for us, we would've turned back for safety reasons, but since the swelling of blood of my head would reside after a few minutes at a certain altitude, and it was tolerable for Newton and Nori we continued onwards.
 
-While we were all suffering, Doug, on the otherhand, luckily experienced no symptoms whatsoever. Apparently 40% of mountaineers don't experience AMS symptoms at 14,000 feet. Why? Nobody knows.
+While we were all suffering, Doug, on the other hand, luckily experienced no symptoms whatsoever. Apparently 40% of mountaineers don't experience AMS symptoms at 14,000 feet. Why? Nobody knows.
 
 ![img](/posts/snowfield.png)
 <center> *10:22 a.m. – The snowfield before the summit* </center>

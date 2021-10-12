@@ -11,13 +11,21 @@ export default function IndexPage() {
 		<div className={styles.container}>
 			<Head>
 				<link rel="icon" href="/favicon.ico" />
+				<meta property="og:url" content="wesleytian.com" />
+				<meta property="og:type" content="website" />
+				<meta property="og:title" content="Hey, I'm Wesley." />
+				<meta
+					property="og:description"
+					content="Welcome to my personal site!"
+				/>
+				<meta property="og:image" content={"/posts/test3.jpeg"} />
 			</Head>
 			<main className={styles.main}>
 				<Grid item container xs={11} md={8}>
 					<Header />
 					<Typography style={{ whiteSpace: "pre-line" }}>
 						{`
-						I was the first employee at Virtually (YC S20), an edtech SaaS startup. While there, I shipped over 200,000 lines of code, built a product with 0 users into one with over 10,000, and led an engineering team of 4. 
+						I was the first employee at Virtually (YC S20), an edtech SaaS startup. While there, I shipped over 200,000 lines of code, helped grow a product from 0 to over 10,000 paying users, and led an engineering team of 4. 
 
             Prior to that, I worked at Microsoft and double majored in computer science and data science at the University of Michigan 〽️.
 
@@ -41,14 +49,17 @@ export default function IndexPage() {
             
             For the past year, I've been training for an Ironman (a 2.4-mile swim, followed by a 112-mile bike ride and a 26.2-mile full marathon). I'd like to climb the Seven Summits and run an ultramarathon one day.
             
-            I've also been a pianist, a violinist, and an environmental science major.
+            In the past, I've also been a pianist, a violinist, and an environmental science major.
 
             My life philosophy can pretty much be reduced to the following:
             • You only live once.
             • Go big or go home.
             `}
 					</Typography>
-					<Typography variant="h4" gutterBottom style={{ marginTop: "24px" }}>
+					<Typography
+						variant="h5"
+						gutterBottom
+						style={{ marginTop: "32px", marginBottom: "-8px" }}>
 						<b>✍️ Writing</b>
 					</Typography>
 					<MostPopular />
