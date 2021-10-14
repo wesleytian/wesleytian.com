@@ -29,7 +29,7 @@ export default function IndexPage() {
 
             Prior to that, I worked at Microsoft and double majored in computer science and data science at the University of Michigan 〽️.
 
-            I'm currently focused on becoming a better engineer and entrepreneur by learning and building things. In the relatively short-term, I'd like to either bootstrap a business to $100K ARR or help found a unicorn (or both).
+            I'm currently focused on becoming a better engineer and entrepreneur by learning and building things. In the relatively short-term, my goal is to either bootstrap a business to $100K ARR or help found a unicorn (or both).
             
             🌎 I've moved a lot growing up. So far, I've lived in
             • Milpitas, California (5 years)
@@ -45,9 +45,9 @@ export default function IndexPage() {
 
 					<Typography style={{ whiteSpace: "pre-line" }}>
 						{`
-            Physical activities have been a big part of my life. As a kid, my parents often took me swimming and hiking. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. I've also spent considerable time powerlifting, hiking, and mountain climbing.
+            Physical activities have been a big part of my life. As a kid, my parents often took me swimming and hiking. In high school, I competed in track, cross country, swimming, tennis, table tennis, and basketball. I've also spent a considerable amount of time powerlifting, hiking, and mountain climbing.
             
-            After finishing my first Ironman in a few weeks (a 2.4-mile swim, follewed by a 112-mile bike ride and then a 26.2 mile marathon), I'd like to get back into hiking and mountain climbing. I plan to climb the Seven Summits and run an ultramarathon one day.
+            After finishing my first Ironman in a few weeks (a 2.4-mile swim, followed by a 112-mile bike ride and then a 26.2 mile marathon), I'd like to get back into hiking and mountain climbing. I plan to climb the Seven Summits and run an ultramarathon one day.
             
             In the past, I've also been a pianist and a violinist.
 

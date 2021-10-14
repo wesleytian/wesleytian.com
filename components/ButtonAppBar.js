@@ -31,6 +31,13 @@ export default function ButtonAppBar() {
 							</Typography>
 						</Button>
 					</NextLink>
+					{/* <NextLink href="/acknowledgements" passHref>
+						<Button style={{ textTransform: "none" }} size="large">
+							<Typography variant="body1" color="textSecondary">
+								Acknowledgements
+							</Typography>
+						</Button>
+					</NextLink> */}
 				</Toolbar>
 			</Grid>
 		</AppBar>
