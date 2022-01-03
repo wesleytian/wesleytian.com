@@ -51,7 +51,7 @@ export default function IndexPage() {
 							🏔️ Outside of work, I enjoy reading, writing, and challenging
 							myself from time to time. My proudest accomplishment to date has
 							been finishing an Ironman Triathlon (a 2.4-mile swim, 112-mile
-							bicycle ride and a marathon 26.2-mile run, raced in that order)
+							bicycle ride and a marathon 26.2-mile run, raced in that order).
 						</div>
 
 						<div>
