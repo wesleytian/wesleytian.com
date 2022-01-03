@@ -67,7 +67,6 @@ export default function IndexPage() {
 								<li>Amherst, Massachusetts (2 years)</li>
 								<li>Ann Arbor, Michigan (3 years)</li>
 								<li>Reno, Nevada (1 year)</li>
-								<li>?</li>
 							</ul>
 						</div>
 					</div>
