@@ -63,7 +63,7 @@ export default function IndexPage() {
 
 						<div>
 							<p>
-								🌎 My many moves growing up has shaped who I am today. So far,
+								🌎 My many moves growing up have shaped who I am today. So far,
 								I've lived in:
 							</p>
 							<ul>
