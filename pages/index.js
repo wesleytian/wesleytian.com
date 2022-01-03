@@ -49,22 +49,15 @@ export default function IndexPage() {
 						</div>
 						<div>
 							🏔️ Outside of work, I enjoy reading, writing, and challenging
-							myself from time to time. Some of my proudest accomplishments
-							include:
-							<ul>
-								<li>
-									Finishing an Ironman Triathlon (a 2.4-mile swim, 112-mile
-									bicycle ride and a marathon 26.2-mile run, raced in that
-									order)
-								</li>
-								<li>Climbing the highest mountain in the contiguous US</li>
-							</ul>
+							myself from time to time. My proudest accomplishment to date has
+							been finishing an Ironman Triathlon (a 2.4-mile swim, 112-mile
+							bicycle ride and a marathon 26.2-mile run, raced in that order)
 						</div>
 
 						<div>
 							<p>
-								🌎 My many moves growing up have shaped who I am today. So far,
-								I've lived in:
+								🌎 My many moves growing up have shaped who I am today. In
+								chronological order, 've lived in:
 							</p>
 							<ul>
 								<li>Milpitas, California (5 years)</li>
@@ -76,10 +69,6 @@ export default function IndexPage() {
 								<li>Reno, Nevada (1 year)</li>
 								<li>?</li>
 							</ul>
-							{/* <p>
-								I've since moved back to Milpitas. But I'm getting bored
-								already, so I'm hoping to move to San Francisco soon.
-							</p> */}
 						</div>
 					</div>
 				</Grid>
