@@ -27,30 +27,30 @@ export default function IndexPage() {
 						<div>
 							{/* <h3>Work</h3> */}
 							<p>
-								I'm a product engineer at{" "}
+								🧑🏻‍💻 I'm a product engineer at{" "}
 								<a className="" href="https://www.fractional.app/">
 									Fractional
 								</a>
 								, a fintech startup.
 							</p>
 							<p>
-								Previously, I was a founding member of an edtech SaaS startup
-								called{" "}
+								Previously, I was a founding member of an edtech startup called{" "}
 								<a className="" href="https://www.tryvirtually.com/">
 									Virtually
 								</a>
-								, where I shipped 200,000+ lines of code, helped grow a product
-								from 0 to 10,000+ users, and led an engineering team of 4.
+								, where I went through Y Combinator, helped scale the product
+								from 0 to 10K+ users, and raised ~$2M in funding.
 							</p>
 							<p>
-								Prior to that, I worked at Microsoft as a software engineer and
-								studied computer science, data science at the University of
+								Before that, I worked at Microsoft as a software engineer and
+								studied computer science and data science at the University of
 								Michigan 〽️. Go Blue!
 							</p>
 						</div>
 						<div>
-							Outside of work, I enjoy challenging myself from time to time.
-							Some of my proudest accomplishments include:
+							🏔️ Outside of work, I enjoy reading, writing, and challenging
+							myself from time to time. Some of my proudest accomplishments
+							include:
 							<ul>
 								<li>
 									Finishing an Ironman Triathlon (a 2.4-mile swim, 112-mile
@@ -63,8 +63,8 @@ export default function IndexPage() {
 
 						<div>
 							<p>
-								Much of who I am today was shaped by my moves growing up 🌎. So
-								far, I've lived in:
+								🌎 My many moves growing up has shaped who I am today. So far,
+								I've lived in:
 							</p>
 							<ul>
 								<li>Milpitas, California (5 years)</li>
@@ -74,17 +74,19 @@ export default function IndexPage() {
 								<li>Amherst, Massachusetts (2 years)</li>
 								<li>Ann Arbor, Michigan (3 years)</li>
 								<li>Reno, Nevada (1 year)</li>
+								<li>?</li>
 							</ul>
-							<p>
+							{/* <p>
 								I've since moved back to Milpitas. But I'm getting bored
 								already, so I'm hoping to move to San Francisco soon.
-							</p>
+							</p> */}
 						</div>
 					</div>
 				</Grid>
 			</main>
 		</div>
 	);
+
 }
 
 export async function getStaticProps() {
