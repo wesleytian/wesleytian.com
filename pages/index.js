@@ -38,8 +38,9 @@ export default function IndexPage() {
 								<a className="" href="https://www.tryvirtually.com/">
 									Virtually
 								</a>
-								, where I helped scale the product from 0 to 10K+ users. We went
-								through Y Combinator and raised ~$2M in funding.
+								, where I wrote a ton of code and helped scale the product from
+								0 to 10K+ users. We went through Y Combinator and raised ~$2M in
+								funding.
 							</p>
 							<p>
 								Before that, I was a software engineer at Microsoft and studied
