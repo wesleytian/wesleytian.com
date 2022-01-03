@@ -31,15 +31,15 @@ export default function IndexPage() {
 								<a className="" href="https://www.fractional.app/">
 									Fractional
 								</a>
-								, a fintech startup.
+								, a fintech startup backed b CRV, Y Combinator, and Will Smith.
 							</p>
 							<p>
 								Previously, I was a founding member of an edtech startup called{" "}
 								<a className="" href="https://www.tryvirtually.com/">
 									Virtually
 								</a>
-								, where I went through Y Combinator, helped scale the product
-								from 0 to 10K+ users, and raised ~$2M in funding.
+								, where I helped scale the product from 0 to 10K+ users. We went
+								through Y Combinator and raised ~$2M in funding.
 							</p>
 							<p>
 								Before that, I was a software engineer at Microsoft and studied
