@@ -42,9 +42,9 @@ export default function IndexPage() {
 								from 0 to 10K+ users, and raised ~$2M in funding.
 							</p>
 							<p>
-								Before that, I worked at Microsoft as a software engineer and
-								studied computer science and data science at the University of
-								Michigan 〽️. Go Blue!
+								Before that, I was a software engineer at Microsoft and studied
+								computer science and data science at the University of Michigan
+								〽️. Go Blue!
 							</p>
 						</div>
 						<div>
