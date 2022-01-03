@@ -17,11 +17,11 @@ export default function MostPopular() {
 					link={"/posts/whitney"}
 					snippet={"A Tale of Friendship, Altitude Sickness, and Piss"}
 				/>
-				<PostSnippet
+				{/* <PostSnippet
 					title={"How I Found My Dream Job and 3 Tips On How You Can, Too"}
 					link={"/posts/dream-job"}
 					snippet={""}
-				/>
+				/> */}
 			</List>
 		</Grid>
 	);

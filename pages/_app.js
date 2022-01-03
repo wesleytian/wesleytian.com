@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }) {
 		<Layout>
 			<JssProvider>
 				<ThemeProvider theme={theme}>
-					<ButtonAppBar />
+					{/* <ButtonAppBar /> */}
 					<Component {...pageProps} />
 					<Footer />
 				</ThemeProvider>

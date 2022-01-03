@@ -17,7 +17,7 @@ export default function ButtonAppBar() {
 							</Typography>
 						</Button>
 					</NextLink>
-					<NextLink href="/posts" passHref>
+					{/* <NextLink href="/posts" passHref>
 						<Button style={{ textTransform: "none" }} size="large">
 							<Typography variant="body1" color="textSecondary">
 								Writing
@@ -30,7 +30,7 @@ export default function ButtonAppBar() {
 								Projects
 							</Typography>
 						</Button>
-					</NextLink>
+					</NextLink> */}
 					{/* <NextLink href="/acknowledgements" passHref>
 						<Button style={{ textTransform: "none" }} size="large">
 							<Typography variant="body1" color="textSecondary">

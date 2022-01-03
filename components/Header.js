@@ -9,16 +9,17 @@ export default function Header() {
 				src="/posts/me.jpeg"
 				style={{ width: "100px", borderRadius: "50px" }}
 			/>
-			<Typography variant="h4" gutterBottom style={{ paddingTop: "24px" }}>
-				<b>👋 Hey! I'm Wesley.</b>
-			</Typography>
-			<Typography
+			{/* <Typography variant="h4" gutterBottom style={{ paddingTop: "24px" }}>
+				<b></b>
+			</Typography> */}
+			<h1>👋🏼 Hey! I'm Wesley.</h1>
+			{/* <Typography
 				variant="h5"
 				color="textSecondary"
 				className={styles.description}
 				gutterBottom>
 				Welcome to my personal site.
-			</Typography>
+			</Typography> */}
 		</Grid>
 	);
 }

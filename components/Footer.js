@@ -12,22 +12,22 @@ import FilterHdrIcon from "@material-ui/icons/FilterHdr";
 export default function Footer() {
 	return (
 		<footer className={styles.footer}>
-			<IconButton href="https://facebook.com/wesleytian" target="_blank">
+			{/* <IconButton href="https://facebook.com/wesleytian" target="_blank">
 				<FacebookIcon fontSize="large" />
-			</IconButton>
+			</IconButton> */}
 			<IconButton href="https://twitter.com/wesleyytian" target="_blank">
-				<TwitterIcon fontSize="large" />
+				<TwitterIcon fontSize="medium" />
 			</IconButton>
 			<IconButton href="https://instagram.com/wesleyclimbs" target="_blank">
-				<InstagramIcon fontSize="large" />
+				<InstagramIcon fontSize="medium" />
 			</IconButton>
 			<IconButton href="https://linkedin.com/in/wesleytian" target="_blank">
-				<LinkedInIcon fontSize="large" />
+				<LinkedInIcon fontSize="medium" />
 			</IconButton>
 			<IconButton href="https://github.com/wesleytian" target="_blank">
-				<GitHubIcon fontSize="large" />
+				<GitHubIcon fontSize="medium" />
 			</IconButton>
-			<IconButton href="https://strava.com/athletes/wesleytian" target="_blank">
+			{/* <IconButton href="https://strava.com/athletes/wesleytian" target="_blank">
 				<img
 					src="strava.png"
 					style={{
@@ -36,14 +36,14 @@ export default function Footer() {
 						marginLeft: "0px"
 					}}
 				/>
-			</IconButton>
+			</IconButton>*/}
 			<IconButton
 				href="https://www.peakbagger.com/climber/climber.aspx?cid=36250"
 				target="_blank">
-				<FilterHdrIcon fontSize="large" />
+				<FilterHdrIcon fontSize="medium" />
 			</IconButton>
 			<IconButton href="mailto:tian.wesley@gmail.com" target="_blank">
-				<MailIcon fontSize="large" />
+				<MailIcon fontSize="medium" />
 			</IconButton>
 		</footer>
 	);
