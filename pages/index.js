@@ -57,7 +57,7 @@ export default function IndexPage() {
 						<div>
 							<p>
 								🌎 My many moves growing up have shaped who I am today. In
-								chronological order, 've lived in:
+								chronological order, I've lived in:
 							</p>
 							<ul>
 								<li>Milpitas, California (5 years)</li>
