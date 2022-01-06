@@ -41,7 +41,7 @@ function MyApp({ Component, pageProps }) {
 					{/* <ButtonAppBar /> */}
 					{/* <> */}
 					<Component {...pageProps} />
-					<Footer />
+					{/* <Footer /> */}
 					{/* </> */}
 				</ThemeProvider>
 			</JssProvider>

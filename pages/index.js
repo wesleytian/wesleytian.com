@@ -25,7 +25,6 @@ export default function IndexPage() {
 					<Header />
 					<div>
 						<div>
-							{/* <h3>Work</h3> */}
 							<p>
 								🧑🏻‍💻 I'm a product engineer at{" "}
 								<a className="" href="https://www.fractional.app/">
@@ -39,20 +38,18 @@ export default function IndexPage() {
 									Virtually
 								</a>
 								, where I wrote a ton of code and helped scale the product from
-								0 to 10K+ users. We went through Y Combinator and raised ~$2M in
+								0 to 10K+ users. I went through <b /*style={{color: "#ff4000"}}*/>Y Combinator</b> with the founder and we raised ~$2M in
 								funding.
 							</p>
 							<p>
-								Before that, I was a software engineer at Microsoft and studied
-								computer science and data science at the University of Michigan
-								〽️. Go Blue!
+								Before that, I was a software engineer at <b /*style={{color: "#7FBC00"}}*/>Microsoft</b> and studied
+								computer science and data science at the <b /*style={{color: "#FFCB05"}}*/>University of Michigan</b>{" "} 
+								 〽️. Go Blue!
 							</p>
 						</div>
 						<div>
-							🏔️ Outside of work, I enjoy reading, writing, and challenging
-							myself from time to time. My proudest accomplishment to date has
-							been finishing an Ironman Triathlon (a 2.4-mile swim, 112-mile
-							bicycle ride and a marathon 26.2-mile run, raced in that order).
+							🏔️ Outside of work, I enjoy reading, writing, and staying active. My proudest personal accomplishment to date has
+							been finishing an <b /*style={{color: "rgb(227,24,55)"}}*/>Ironman</b> Triathlon.
 						</div>
 
 						<div>
@@ -71,6 +68,9 @@ export default function IndexPage() {
 							</ul>
 						</div>
 					</div>
+          <div>
+            <p>You can reach me at <a href="mailto:tian.wesley@gmail.com">tian.wesley@gmail.com</a>.</p>
+          </div>
 				</Grid>
 			</main>
 		</div>

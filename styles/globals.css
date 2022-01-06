@@ -6,19 +6,25 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: "Titillium Web";
+  background-color: rgb(32,33,36);
+  color: rgb(188,192,195)
 }
 
 /* .link {
   color: blue;
 } */
 
-/* a {
-	color: inherit;
-	text-decoration: none;
-} */
+a {
+	color: rgb(139,180,247);
+	/* text-decoration: none; */
+}
 
 * {
 	box-sizing: border-box;
 }
 
 img[alt=img] { width: 80%; border-radius: 16px; margin-left: auto; margin-right: auto; display: block;}
+
+b {
+  font-weight: bolder;
+}
