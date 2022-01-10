@@ -33,12 +33,12 @@ export default function IndexPage() {
 								, a fintech startup backed by CRV, <a href="https://www.ycombinator.com/">Y Combinator</a>, and Will Smith.
 							</p>
 							<p>
-								Previously, I was a founding member of an edtech startup called{" "}
+								Previously, I was a founding member of a SaaS startup called{" "}
 								<a className="" href="https://www.tryvirtually.com/">
 									Virtually
 								</a>
 								, where I wrote a ton of code and helped scale the product from
-								0 to 10K+ users. I went through Y Combinator with the founder and we raised $2M in
+								0 to 10K+ users. I went through Y Combinator's summer 2020 batch with the founder and we raised $2M in
 								funding.
 							</p>
 							<p>
@@ -48,19 +48,19 @@ export default function IndexPage() {
 							</p>
 						</div>
 						<div>
-							🏔️ Outside of work, I enjoy reading, writing, and staying active. My proudest personal accomplishment to date has
+							🏔️ I currently spend my personal time reading and going to the gym. My proudest personal accomplishment to date has
 							been training for and finishing an <a href="https://en.wikipedia.org/wiki/Ironman_Triathlon">Ironman Triathlon</a>, a 140.6-mile race.
 						</div>
 
 						<div>
 							<p>
-								🌎 I was born in California, but I also grew up in Oregon, Taiwan, and China. Since then, I've also lived in Massachusetts, Michigan, and Nevada. I've recently moved back to California. Please don't ask me where I'm from. 
+								🌎 I was born in California and grew up in California, Oregon, Taiwan, and China. Since then, I've also lived in Massachusetts, Michigan, and Nevada. Recently, I've moved back to California. Please don't ask me where I'm from. 😅
 							</p>
 						
 						</div>
 					</div>
           <div>
-            <p>You can reach me at <a href="mailto:tian.wesley@gmail.com">tian.wesley@gmail.com</a>.</p>
+            <p>You can connect with me on LinkedIn <a href="https://linkedin.com/in/wesleytian">here</a>, follow me on Twitter <a href="https://twitter.com/wesleyytian">here</a>, or email me <a href="mailto:tian.wesley@gmail.com">here</a>!</p>
           </div>
 				</Grid>
 			</main>
