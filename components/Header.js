@@ -6,8 +6,8 @@ export default function Header() {
 	return (
 		<Grid container direction="column">
 			<img
-				src="/posts/me.jpeg"
-				style={{ width: "100px", borderRadius: "50px" }}
+				src="/posts/me2.png"
+				style={{ width: "100px", height: "100px", borderRadius: "50px", objectFit: "cover" }}
 			/>
 			<h1>👋🏼 Hey! I'm Wesley.</h1>
 		</Grid>
