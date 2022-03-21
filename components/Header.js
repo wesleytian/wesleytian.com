@@ -9,7 +9,7 @@ export default function Header() {
 				src="/posts/me2.png"
 				style={{ width: "100px", height: "100px", borderRadius: "50px", objectFit: "cover" }}
 			/>
-			<h1>👋🏼 Hey! I'm Wesley.</h1>
+			<h1>👋🏼 Hey! I'm Wesley Tian.</h1>
 		</Grid>
 	);
 }

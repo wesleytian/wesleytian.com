@@ -13,7 +13,7 @@ export default function IndexPage() {
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:url" content="wesleytian.com" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="👋🏼 Hey! I'm Wesley." />
+        <meta property="og:title" content="👋🏼 Hey! I'm Wesley Tian." />
         <meta
           property="og:description"
           content="Welcome to my personal site."
