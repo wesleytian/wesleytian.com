@@ -24,37 +24,58 @@ export default function IndexPage() {
         <Grid item container xs={11} md={8}>
           <Header />
           <div>
-            <div>
-              <p>
-                🌎 I was born in Mountain View, CA and grew up in Milpitas, CA; West Linn, Oregon; Taipei, Taiwan; and Shanghai, China. Since then, I've also lived in Amherst, MA; Ann Arbor; MI; and Reno, NV. Last year, I moved back to Milpitas. I'm currently living in San Francisco.
-              </p>
-            </div>
+            
             <div>
               <p>
                 🧑🏻‍💻 I'm a software engineer at{" "}
                 <a className="" href="https://techcrunch.com/2021/11/22/fractional-lands-5-5-million-to-let-friends-and-strangers-invest-in-real-estate-together/">
                   Fractional
                 </a>
-                , a seed-stage fintech startup.
+                , a seed-stage fintech startup. We're building the first social platform for co-investing in real estate.
               </p>
+              <div>
+              <p>
+                🌎 I'm currently living in a <a href="https://twitter.com/aurorahaus">hacker house</a> in San Francisco. But for one reason or another, I've also lived in:
+                <ul>
+                  <li>Milpitas, CA (5.5 yrs)</li>
+                  <li>West Linn, OR (1.5 yrs)</li>
+                  <li>Taipei, Taiwan (1.5yrs)</li>
+                  <li>West Linn, OR (1.5 yrs)</li>
+                  <li>Shanghai, China (8 yrs)</li>
+                  <li>Amherst, MA (2 yrs)</li>
+                  <li>Ann Arbor, MI (3 yrs)</li>
+                  <li>Reno, NV (9 months)</li>
+                  <li>Milpitas, CA (9 months)</li>
+                </ul>
+                I've also had brief stints in Merrimack, NH and Bellevue, WA.
+              </p>
+            </div>
               <p>
                 Previously, I helped found {" "}
                 <a className="" href="https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global">
                   Virtually
                 </a>
-                , where I wrote a ton of code and helped scale the product from
-                0 to 10K+ users. I went through Y Combinator's summer 2020 batch with the founder and we raised $2M in
-                funding.
-              </p>
-              <p>
-                Before that, I was a software engineer at Microsoft and I studied
+                , where I wrote over 200K lines of code and helped scale the product from
+                0 to more than 10K users. I went through Y Combinator's summer 2020 batch with the founder and we raised $1.7M in
+                funding. I also did software engineering at Microsoft and double majored in
                 computer science and data science at the University of Michigan.
               </p>
             </div>
             <div>
-              🏔️ I currently spend my free time exploring San Francisco. Last year, I spent most of my time training for and finishing an <a href="https://en.wikipedia.org/wiki/Ironman_Triathlon">Ironman Triathlon</a>, a 140.6-mile race.
+              🏔️ One of my proudest accomplishments to date has been completing an <a href="https://en.wikipedia.org/wiki/Ironman_Triathlon">Ironman Triathlon</a>, a 140.6-mile race, which I spent all of 2021 training for.
             </div>
+            
           </div>
+          <div><p>Other interesting things about me:</p>
+            <ul>
+              <li>I nearly failed high school because I had a 2.5 GPA and a D one semester.</li>
+              <li>I turned down a full-time offer from Microsoft while in college.</li>
+              <li>For most of college, my life goal was to get a Ph.D. in ML and do research.</li>
+              <li>In 2019, I convinced 3 friends to climb the tallest mountain in the contiguous US with me. We started at 2 AM and we finished around 6 PM.</li>
+              <li>I was a competitive swimmer, runner, tennis player, table tennis player, and basketball player in high school.</li>
+            </ul>
+          </div>
+          
           <div>
             <p>You can connect with me on LinkedIn <a href="https://linkedin.com/in/wesleytian">here</a> or email me <a href="mailto:tian.wesley@gmail.com">here</a>!</p>
           </div>
