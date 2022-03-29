@@ -47,7 +47,7 @@ export default function IndexPage() {
                   <li>Reno, NV (9 months)</li>
                   <li>Milpitas, CA (9 months)</li>
                 </ul>
-                I've also had brief stints in Merrimack, NH and Bellevue, WA.
+                I've also had brief stints in Manchester, NH and Bellevue, WA.
               </p>
             </div>
               <p>
@@ -75,9 +75,24 @@ export default function IndexPage() {
               <li>I was a competitive swimmer, runner, tennis player, table tennis player, and basketball player in high school.</li>
             </ul>
           </div>
+
+          <div>
+            <p>What I've recently read and am currently thinking about:</p>
+            <ul>
+              <li>
+                <a href="https://www.amazon.com/Star-Builders-Nuclear-Fusion-Planet/dp/1982130660">The Star Builders: Nuclear Fusion and the Race to Power the Planet</a>
+              </li>
+              <li>
+                <a href="https://www.amazon.com/Molecule-More-Chemical-Creativity_and-Determine/dp/1946885118">The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and Will Determine the Fate of the Human Race</a>
+              </li>
+              <li>
+                <a href="https://www.amazon.com/Changing-World-Order-Nations-Succeed/dp/1982160276">Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail</a>
+              </li>
+            </ul>
+          </div>
           
           <div>
-            <p>You can connect with me on LinkedIn <a href="https://linkedin.com/in/wesleytian">here</a> or email me <a href="mailto:tian.wesley@gmail.com">here</a>!</p>
+            <p>Connect with me on LinkedIn <a href="https://linkedin.com/in/wesleytian">here</a> and email me <a href="mailto:tian.wesley@gmail.com">here</a>!</p>
           </div>
         </Grid>
       </main>
