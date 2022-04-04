@@ -34,7 +34,7 @@ export default function IndexPage() {
                 , a seed-stage fintech startup. We're building the first social platform for co-investing in real estate.
               </p>
               <div>
-              <p>
+              {/* <p>
                 🌎 I'm currently living in a <a href="https://twitter.com/aurorahaus">hacker house</a> in San Francisco. But for one reason or another, I've also lived in:
                 <ul>
                   <li>Milpitas, CA (5.5 yrs)</li>
@@ -48,7 +48,7 @@ export default function IndexPage() {
                   <li>Milpitas, CA (9 months)</li>
                 </ul>
                 I've also had brief stints in Manchester, NH and Bellevue, WA.
-              </p>
+              </p> */}
             </div>
               <p>
                 Previously, I helped found {" "}
@@ -66,7 +66,7 @@ export default function IndexPage() {
             </div>
             
           </div>
-          <div><p>Other interesting things about me:</p>
+          {/* <div><p>Other interesting things about me:</p>
             <ul>
               <li>I nearly failed high school because I had a 2.5 GPA and a D one semester.</li>
               <li>I turned down a full-time offer from Microsoft while in college.</li>
@@ -74,7 +74,7 @@ export default function IndexPage() {
               <li>In 2019, I convinced 3 friends to climb the tallest mountain in the contiguous US with me. We started at 2 AM and we finished around 6 PM.</li>
               <li>I was a competitive swimmer, runner, tennis player, table tennis player, and basketball player in high school.</li>
             </ul>
-          </div>
+          </div> */}
 
           <div>
             <p>What I've recently read and am currently thinking about:</p>
