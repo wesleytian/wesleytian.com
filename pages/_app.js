@@ -18,7 +18,7 @@ import { incrementViews } from "../lib/firebase";
 
 function MyApp({ Component, pageProps }) {
 	const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)");
-	console.log(prefersDarkMode);
+	// console.log(prefersDarkMode);
 	const router = useRouter();
 
 	useEffect(() => {

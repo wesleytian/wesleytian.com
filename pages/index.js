@@ -85,11 +85,11 @@ export default function IndexPage() {
           <div><p>Interesting things about me that I've written about:</p>
             <ul>
               <li>
-                <a href="/posts/gpa">I nearly failed high school because I had a 1.9 GPA and a D for two semesters.</a> (views: {views})</li>
+                <a href="/posts/gpa">I nearly failed high school.</a> (views: {views})</li>
               {/* <li>I turned down a full-time offer from Microsoft while in college.</li> */}
               {/* <li>For most of college, my life goal was to get a Ph.D. in ML and do research.</li> */}
-              <li><a href="/posts/whitney">I convinced 3 friends to climb the tallest mountain in the contiguous US with me. We started at 2 AM and it took us 17 hours. One of us had to drink piss to survive.</a></li>
-              <li>🆕 <a href="/posts/ironman">I did an Ironman.</a></li>
+              <li><a href="/posts/whitney">I convinced 3 friends to climb the tallest mountain in the contiguous US with me and we had to drink piss to survive.</a></li>
+              <li>🆕 <a href="/posts/ironman">I did an Ironman (a 140.6-mile race).</a></li>
               {/* <li>I was a competitive swimmer, runner, tennis player, table tennis player, and basketball player in high school.</li> */}
             </ul>
           </div>
@@ -108,7 +108,19 @@ export default function IndexPage() {
               </li>
             </ul>
           </div>
-          
+
+          {/* <div>
+            <p>How I describe myself:</p>
+            <ul>
+                <li>Dreamer</li>
+              <li>
+                Well-rounded
+              </li>
+              <li>
+                Strong opinions, weakly held
+              </li>
+            </ul>
+          </div> */}
           <div>
             <p>Connect with me on LinkedIn <a href="https://linkedin.com/in/wesleytian">here</a> or email me <a href="mailto:tian.wesley@gmail.com">here</a>!</p>
           </div>
