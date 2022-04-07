@@ -1,10 +1,10 @@
 ---
-title: "🔥 ⛰️ Surviving the Tallest Mountain in the Contiguous US: A Tale of Friendship, Altitude Sickness, and Piss"
+title: "Surviving the Tallest Mountain in the Contiguous US: A Tale of Friendship, Altitude Sickness, and Piss"
 date: "2019-08-11"
 ---
 
 ![img](/posts/whitney_sunrise.jpg)
-<center> *Mount Whitney "The Big Daddy" (14,505 ft / 4,421 m)* </center>
+<center><i>Mount Whitney "The Big Daddy" (14,505 ft / 4,421 m)</i></center>
 
 #### Part 1: Introduction
 
@@ -27,7 +27,7 @@ Reading about [altitude sickness](https://en.wikipedia.org/wiki/Altitude_sicknes
 ![img](/posts/lone_pine_lake.jpg)
 
 ![img](/posts/lone_pine_group.jpg)
-<center> *Lone Pine Lake (10,050 ft / 3,063 m) (From left, Doug, Wes, Newton, Nori)* </center>
+<center><i>Lone Pine Lake (10,050 ft / 3,063 m) (From left, Doug, Wes, Newton, Nori)</i></center>
 
 So we hiked the 5.2-mile loop to the lake. We stayed at the lake for a couple of hours to help with the acclimatization.
 
@@ -35,7 +35,7 @@ During the ascent, we heard thunder and saw lightning from many directions. We w
 
 A few years ago, [this](https://www.latimes.com/archives/la-xpm-1990-07-16-mn-100-story.html) following story headlined the news,
 
-<blockquote>LONE PINE, Calif. —
+<blockquote><i>LONE PINE, Calif. —
 As lightning lacerated the darkening sky over Mt. Whitney and thunderclaps started a deafening roll, the 13 hikers saw the old stone hut with its corrugated metal roof as a welcome refuge from the drenching downpour.
 <br>
 <br>
@@ -49,7 +49,7 @@ The surging electrical charge threw Matthew Edward Nordbrock, who had been seate
 <br><br>
 As the hikers had sprinted for cover during the squall Saturday afternoon, Nordbrock, 26, of Huntington Beach, told one of his hiking buddies: “I’ve been hit by lightning before, so I won’t get struck.”
 <br><br>
-He died several hours later, after being removed from the 14,495-foot summit by helicopter.
+He died several hours later, after being removed from the 14,495-foot summit by helicopter.</i>
 </blockquote>
 
 We drove back to our Airbnb in Lone Pine shortly afterwards.
@@ -60,17 +60,17 @@ We drove back to our Airbnb in Lone Pine shortly afterwards.
 We went to bed around 8:00 p.m. that night and set our alarms for 2 a.m., but too anxious to start the climb, we naturally woke up around 1:00 a.m. We arrived at the Mount Whitney trailhead around 2:00 a.m.
 
 ![img](/posts/start.jpg)
-<center> *2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m) (From left, Doug, Wes, Nori, Newton)* </center>
+<center><i>2:15 a.m. – Mile 0: Mount Whitney trailhead (8,360 ft / 2,548 m) (From left, Doug, Wes, Nori, Newton)</i></center>
 
 For a few hours, we navigated the mountain trail by relying completely on our trusty headlamps. We strained our ears for signs of a thunderstorm which would've stopped our hike cold and saddened us deeply.
 
 ![img](/posts/night_crossing.jpg)
-<center> *Stream crossing* </center>
+<center><i>Stream crossing</i></center>
 
 There were a couple of streams that we had to cross, but they were quite manageable and my feet were never wet beyond my toes. We scheduled periodic snack breaks every 1.5 hours and took breaks and filtered water as needed.
 
 ![img](/posts/sunrise.jpg)
-<center> *5:42 a.m. – Sunrise* </center>
+<center><i>5:42 a.m. – Sunrise</i></center>
 
 After a few hours of hiking in complete darkness, we began to see the faint glow of the rising sun. Our hearts shrank as we saw the dark clouds in the distance. There were few people on the trail and was it felt unnaturally quiet as there was no wildlife. At that moment, I felt like we were the only living things alive in the world.
 
@@ -83,7 +83,7 @@ We continued to set our hopes high, but also kept our expectations low to avoid 
 We saw a lot more people as we neared the trail camp. Unlike us knuckleheads, most sane people take on this mountain in many days. We enviously watched as groups of well-rested, fully acclimated backpackers packed up their tents, prepared warm breakfasts, and readied themselves to tackle the summit.
 
 ![img](/posts/trail_camp.jpg)
-<center> *5:58 a.m. – Mile 6: Trail Camp (12,039 ft, 3,669 m)* </center>
+<center><i>5:58 a.m. – Mile 6: Trail Camp (12,039 ft, 3,669 m)</i></center>
 
 This was the last place to get water according to both online and local sources. One person told us that we only needed to bring 1.5L to 2L of water–which we realized didn't make sense only after it was too late.
 
@@ -92,13 +92,13 @@ This was the last place to get water according to both online and local sources.
 This also marked the beginning of the infamous "97-switchbacks".
 
 ![img](/posts/switchbacks.jpg)
-<center> *Some of the switchbacks* </center>
+<center><i>Some of the switchbacks</i></center>
 
 ![img](/posts/trail_crest.jpg)
-<center> *Mile 8.7: Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US* </center>
+<center><i>Mile 8.7: Start of the [Trail Crest](https://www.wikiwand.com/en/Trail_Crest) (13,645 ft / 4,159 m), the highest trail pass in the US</i></center>
 
 ![img](/posts/trail_crest_west.jpg)
-<center> *8:45 a.m – Looking west from the Trail Crest* </center>
+<center><i>8:45 a.m – Looking west from the Trail Crest</i></center>
 
 Still more than a half-hour from the summit and more than five miles to our next water source, Doug realized he was out of water. Hiking without water at such an altitude was a recipe for disaster. 
 
@@ -109,7 +109,7 @@ I didn't expect them to take me seriously, but Newton was actually like, "Sure."
 And so, Newton, being the next to piss, pissed into one of our filter bottles. 
 
 ![img](/posts/newton-filtering-piss-on-mt-whitney.png)
-<center> *"Iconic, dude."* </center>
+<center><i>"Iconic, dude."</i></center>
 
 Not yet ready to become Bear Grylls, Doug responded, "Hell no!" when offered the piss-filtered water. Newton, being a true friend, offered the rest of the water from his bottle to Doug and drank the filtered piss himself.
 
@@ -122,7 +122,7 @@ Who knew?
 Oh and Doug never ended up taking the water that Newton offered him, so Newton drank the filtered piss for no reason.
 
 ![img](/posts/towards_summit.jpg)
-<center> *9:37 a.m. – Mile 9: Looking east at the summit from the Trail Crest* </center>
+<center><i>9:37 a.m. – Mile 9: Looking east at the summit from the Trail Crest</i></center>
 
 It was around this point that acute mountain sickness began to seriously impact our performance. Even with the two previous days of acclimatization, Nori's heartrate remained a steady 180 BPM, Newton felt nauseous, and we all had the worst headaches of our entire lives. <br>
 Every few minutes, I felt my head throbbing and pulsating with blood.  <br>
@@ -139,21 +139,21 @@ If it had gotten much worse for us, we would've turned back for safety reasons, 
 While we were all suffering, Doug, on the other hand, luckily experienced no symptoms whatsoever. Apparently 40% of mountaineers don't experience AMS symptoms at 14,000 feet. Why? Nobody knows.
 
 ![img](/posts/snowfield.png)
-<center> *10:22 a.m. – The snowfield before the summit* </center>
+<center><i>10:22 a.m. – The snowfield before the summit</i></center>
 
 There was no way that we would come this far to turn back now. Giving up was not an option. Even though we were all in pain, Doug and I kept yelling words of encouragement such as "We got this!" and "We're almost there!"
 
 Confronting the altitude sickness, harsh winds, and the near-zero temperatures, we trudged onward and eventually made it to the summit.
 
 ![img](/posts/summit_group.jpg)
-<center> *11:09 a.m. – Mile 10.7: Mount Whitney summit (14,505 ft / 4,421 m) (From left, Nori, Doug, Wes, Newton)* </center>
+<center><i>11:09 a.m. – Mile 10.7: Mount Whitney summit (14,505 ft / 4,421 m) (From left, Nori, Doug, Wes, Newton)</i></center>
 
 "YEEEAAAAA" I yelled with the little energy I had left.
 
 We had finally made it to the summit. To celebrate, Doug and I had some refreshing beers. In hindsight, consuming alcohol at the summit might not have been the smartest idea as it slows down the acclimatization process and dehydrates you, but YOLO.
 
 ![img](/posts/drinking-beer-at-mt-whitney-summit.jpg)
-<center> *Enjoying a well-deserved drink* </center>
+<center><i>Enjoying a well-deserved drink</i></center>
 
 A few pictures in, Nori mentioned to us, "I don't feel good."
 
@@ -178,7 +178,7 @@ To get the burgers before the store closed, Netwon offered to stay with Doug whi
 What better motivation than food?
 
 ![img](/posts/burger.jpg)
-<center> *6:00 p.m. – Mile 22: The best burger ever* </center>
+<center><i>6:00 p.m. – Mile 22: The best burger ever</i></center>
 
 In total, the hike took just under 16 hours. What a day.
 

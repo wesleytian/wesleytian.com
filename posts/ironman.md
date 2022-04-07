@@ -1,109 +1,211 @@
 ---
-title: "Ironman Series, Part 1: How Much Does It Cost?"
-date: "2021-05-25"
+title: "The Hardest Year Of My Life: Training For and Finishing a 140.6-mile Ironman Race"
+date: "2021-04-05"
 draft: true
 ---
 
-> ### Ironman Triathlon
+*I was supposed to publish this piece 5 months ago, but perfectionism and procrastination got the best of me. So here it is, still unfinished, but better than nothing at all.*
 
-> From Wikipedia, the free encyclopedia
+On Sunday Nov 21st 11:08 PM in Cozumel Mexico, I finished an Ironman triathlon after 15 hours of non-stop swimming, biking and running. I had been planning for this day for nearly a year, training 6-days-a-week, some days dedicating more than 8 hours to training.
 
-> _An Ironman Triathlon is one of a series of long-distance triathlon races organized by the World Triathlon Corporation (WTC), consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.22-mile (42.20 km) run, raced in that order. It is widely considered one of the most difficult one-day sporting events in the world._
+Less than 10 minutes after I crossed the finish line, I collapsed and was taken to the infirmary and hooked up to an IV. Thoughts that I had irreversibly damaged my body raced through my head. At least I finished.
 
-# Introduction
-In this multi-part series, I'll go over my first-hand experience of training for an Ironman Triathlon and my reasons for doing so. In part one, I'll go over my monetary costs to date. In part two, I'll cover my day-to-day schedule and the overall time commitment required. In part three, I'll cover my reasons for attempting to complete an Ironman. Future parts such as my race experience and an overall reflection to be determined.
+This journey had plenty of ups and downs and that wasn't even the lowest low.
+
+This is my Ironman journey.
+
+### Table of Contents
+
+- [Part 1: The Why](#part1)
+- [Part 2: The Training](#part2)
+- [Part 3: The Race](#part3)
+- [Part 4: The Aftermath](#part4)
+ 
+<a name="part1"></a>
+# Part 1
+### It All Starts With a Dream
+
+The idea of doing an **Ironman Triathlon**, which is a 2.4-mile (3.9 km) swim, a 112-mile (180 km) bicycle ride and a marathon 26.2-mile (42.2 km) run began with YouTube. Watching people in motivational videos such as 
+[![IRONMAN -- Anything Is Possible](https://img.youtube.com/vi/qjxxYoL7nSU/0.jpg)](https://www.youtube.com/watch?v=qjxxYoL7nSU)
+
+do extraordinary feats of mankind such as climbing Mt Everest, imagining the human progress in Interstellar finishing an Ironman Triathlon, triumphing Navy SEAL BUDS training, and soloing half dome has always sent shivers down my spine and tears rolling down my face. I knew doing an Ironman would be the ultimate feat of self-improvement and taking on a challenge, but what I really wanted to do was be part of something extraordinary. It was a dream to not be like anybody else and a dream to see what we as humans and what I as an individual was capable of.
+
+Everyone enjoys a good challenge, but beyond that, I've always seen myself as a dreamer. Even when I nearly failed high school by having a 2.5 GPA, I never stopped dreaming about the one day that I would transfer to a top university, land a Big Tech company job, finish an Ironman, climb Mt. Everest, build a multi-billionaire dollar business.
+
+For as long as I learned what an Ironman was, I had wanted to do one. Little did I know that the day I became one would come much sooner that I had expected.
+
+## The Turning Point
+On October x? 2020,  one of my college housemates, Solomon Demmessie, told me that he had recently finished an Ironman triathlon race and a 50-mile ultramarathon. When we lived together, he couldn't even run more than a few miles at a single time.  Seeing somebody so close to me go from running a few miles to finishing an Ironman made me realize that I could finish one too. Thus, thanks to him, what had been a lifelong dream of mine entered the realm of possibilities for me.
+
+At the time, I was living in a Reno suburb during the ongoing COVID-19 pandemic with few distractions. My job as the first employee of a budding startup had also stabilized after raising money and hiring a few more employees so I didn't need to be working all the time. Finally, learning that training only takes 10 hours a week made me realize that I had the time to train for an Ironman.
+
+These things lining up made signing up really easy when Solomon said "I should sign up for Ironman California". On __ I signed up . The rest is history.
+
+Don't get me wrong, there were moments where I was doubting if I could finish the training.
+ 
+(Maybe just do 250 words for the training)
+Talk about sacrifices I made 
+The commitment and the sacrifice
+
+30
+Felt good
+Then hit a snag
+
+Explain mental conditioning, 
+
+<a name="part2"></a>
+# Part 2
+### The Plan
+
+Working backwards from the Ironman California race date which was October 24th, 2022, 30 week Be IronFit plan started,
+
+So I started with something called the Maffetone method. If I had more time, I would’ve preferred to complete an entire marathon training program before starting an Ironman one.
+
+Nov to late February - maffetone training method
+If you're here because you're seriously considering training for an Ironman yourself, I highly reccomend reading Be IronFit https://www.amazon.com/Be-IronFit-Time-Efficient-Training-Ultimate/dp/1493017829.
+
+For the intermediate plan, (in between the competitive and the "just finish" plan) Average 10.5 hours a week
+
+The amount of time spent in anaerobic increases from 6% to 11%Peak of 15 hours a week. The long ride increases to 5.5 hours and the long run peaks at 3 hours.
+
+If you're like me, when I first read this, I thought to myself... That doesn't seem too bad.  What I didn't realize when signing up is how much extra time is necessary to actually get the amount of moving time. For example, a 4 hour bike means 4 hours of moving time. I didn't include time stopped at a red light, or time taking a break. Not only that, but in order to make the biking experience better, I decided to drive to Los Gatos (20 minutes away from where I live) to bike there. Before long rides, it's recommended to eat 2 hours before. Then you add in time to prepare nutrition, time spent cleaning your bike, time spent maintaining and repairing it, showering, shopping for gear and nutrition, etc. I easily spent an extra 5 hours a week on Ironman stuff.
+
+Habit stacking and creating a consistent schedule for working out each day. This will make it easier to remain consistent with your workouts. In the first few weeks of training, I would put all of my workout clothes by my bedroom door and workout at 7:30 am every morning. (read Atomic Habits and Be IronFit)
+
+Workout: Half Ironman (1.2 mile swim, 56 mile bike, 13-mile run). 
+In fact, I during the second half of the build and during the peak phase, I dreaded each weekend, because I even though you might think I'm disciplined, let me tell you that I much would've preferred to sleep in and get dim sum instead of waking up at 5 am on a Saturday morning bike for 4 hours or run for 2 hours.
+
+I like to take advantage of social media to help keep me accountable, along with friends and family. It's also a great way to take advantage of people's innate desire for approval so you can create a positive feedback loop where you feel good when you workout but also feel good when you post about finishing a workout (see Strava).
+
+Workout: 100-mi ride saturday, 3 hour run sunday
+
+There were some tough Saturdays where I woke up at 5 am to eat, drove to Los Gatos to start riding at 7 am, finished the ride at 1 pm and then got back home around 2pm.
+All in all, I easily averaged 15-20 hours per week on Ironman-related activities during the 7 months leading up to Ironman California.
+
+Along the way, as I did, you'll learn to master clipping in and out of clip less pedals, swimming in open waters such as in an ocean, swimming with a wetsuit and a buoy, eating and drinking while riding a bike, becoming comfortable with aero bars, and most importantly, discipline, habit building, and conquering your doubts and worries!
+
+Sacramento
+The few days before the race included packing, checking in, all of which was pretty exciting leading up to the race. I constantly had a bit of pre-race Nerves.
+
+As Saturday evening approached and the weather was forecasted to have heavy rain and wind, I began to feel doubt, the first time that I had felt it so strongly in my life. Was I going to be able to finish the Ironman? Everyone who knew me believed in me and my training. I hadn’t just finished a training program that got you to the finish line, but one that was in between that and a competitive program. Yet, because I had never biked and ran in heavy rain, I had feelings of doubt.
+
+I told some friends this and soon decided to block my emotions out so I could get some well-needed rest and relaxation.
+
+Just as I was getting into bed, I received news that the length of the bike course had been cut in half due to dangerous weather. I didn’t quite know how to feel about it.
+
+After finally overcoming my self-doubts, I headed to bed.
+
+We woke up the next morning to heavy rain and winds. As we drove towards the stadium where shuttles would pick us up and take us the the start of the race, we encountered heavy traffic. Soon, we began seeing people walking home in the rain. Then, we got started. Hearing news that the race had gotten canceled.
+
+Bad Luck
+The race was canceled. I was devastated. I had trained for a year and 10 minutes before the race was supposed to begin, I received news that it had been canceled.
+
+Desperate to not let all of my training go to waste and not have to train for another 7 months, I signed up for Ironman Cozumel which was just a month away in the gulf of near Cancun, Mexico.
+Since I already had too many post-race travel plans made, I had to train while on vacation. Notably, in Austin
+
+2nd toughest moment
+
+<a name="part3"></a>
+# Part 3
+A Change of Plans
+
+Cozumel, Mexico
+Feel better than sacraments mainly because of the weather and probably because i already went through all of the emotions by preparing for sac until race morning. I did everything short of putting on wetsuit
+
+Tmrw I’m just going to try and block my emotions out and just execute. Emotions make me anxious nervous scared etc
+
+It’s 6:18 pm day before the race
+
+Did a bunch of prep these part few days including now I’m eating a pbj and banana
+
+Did a bunch of stuff lile buy eye drops sunscreen etc but gonna spare the details
+
+Feelings is what matters
+Some general thoughts
+Learned a lot of doing what I can and figuring out what I can’t control and trying to do ignore those
+Made myself uncomfortable over and over again  during the past year
+This will be the last of it
+
+T-0:00
+Start 7:50 am swim 2.4 (3.86km or approx. 80 laps (160-lengths) in a 25-yard/meter pool) miles 
+Rainy My heart was beating out of my chest the entire morning.
+
+Talking to Deepak and April and Lee while lining up at the carrols reduce my anxiety.
+
+Party cloudy | Temperature: 80 F (27°C) Humidity: 100%
+
+I started chafing pretty hard halfway into my swim and I first toyed around with using a wider stroke, but when that didn't I work, I decided to just take off my tri top. That kept the chafing from getting worse for the rest of the swim.
+
+Not gonna lie, it felt pretty good to pass so many people on the swim when I barely felt like I was trying. I did go off course a couple of times which added some distance to my swim so I could definitely improve on sighting.
+
+Relieved to just be done with the bike and be more than halfway done.
+Time: 1 hour
+[picture of me coming out of the swim]
+Bike 112 miles.
+[picture of me on the bike]
+Rain again
+
+Whatever lead I had in the swim, I quickly lost on the bike. Everybody with their $5,000-$10,000  tri bikes kept passing me as I was just focused on maintaining my heart rate steady at around 140 bpm.
+
+![img](/posts/ironman-bike-flood.png)
+
+The bike was largely uneventful, except for two parts with insane rain. There was also some lighting, but thankfully it never got too close to me.
+7 hours and 10 minutes later, I reached T2, where I racked my bike and changed into my running attire. Time for a full marathon.
+
+Time just flew by, at 30 looking for ward to 56, 
+got into a 30 minute routine of every 30 min standing up fo ra few seconds to give my bum a break
+chafed raw, emotionless 
+Run
+
+Pouring water on body every aid stationFeels like 85°F (29°C) | Humidity: 90% , steam room, no more light wind at least not raining
+
+I started off the run feeling pretty good. I definitely felt the 8-hour workout taking a toll on me as I knew I wouldn't be able to run faster than a 11-12 minute/mile pace. I kept my pace pretty steady for about the first 10 miles.
+
+My last 3 miles averaged 20 minutes/mile as it was excruciating to just put one foot in fronth of the other. I recalled somebody once telling me that all I need to do is to put one foot in front of the other and keep moving forward.
+
+### The Finish Line
+I crossed the finish line at 11:08 PM, 15 hours and 17 minutes since I had started the race
+What I had dreamt about for years since I was just a teenager turned from a vision into reality. I thought about how I would cry or smile at the camera or be filled with joy. In fact, I've already teared up from just thinking about that moment.
+
+However, when I crossed the finish line that day, all I could think about was pain and how inside my head I was trying to deal with it.
+
+Immediately after I picked up my medal, finisher t-shirt and some other goodies that they have prepared for people and met up with Deepak and Andrea, I knew something was wrong and went to the infirmary.I couldn't move my hands, and my upper body including my face were numb (imagine the feeling you get when you sit on the toilet too long, but in your arms and face as well).
+
+![img](/posts/ironman-finish.jpeg)
 
 
-# How Much Does it Cost?
-I'm sure some of you have heard how expensive of a sport triathlon is. You have no idea. Let's break down how much I've spent for Ironman training thus far, by sport. 
+### IV
+The doctors at the infirmary immediately hooked me up onto an IV. I had all sorts of thoughts going through my head at the time. I thought I had a stroke or that I had seriously fucked up my body. They said that if I didn't get better soon I would have to go to the hospital. I didn't have my phone and I still needed to pick up my bike and gear.
 
-_Note: The below prices are the prices that I bought these items for. Many of these items were used or heavily discounted at the time of purchase. Also, I had some of these items prior to signing up for my Ironman (such as my Garmin watch and some of the swimming equipment)._
-## Swimming
-- [$39] Swimming Briefs [Speedo Men's Swimsuit Brief](https://www.amazon.com/gp/product/B082G6GGB1/-ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-- [$29] Swim Paddle [FINIS Strapless Technique Agility Paddles](https://www.amazon.com/gp/product/B07NQ9K2C2/-ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-- [$20] Goggles [Speedo MDR 2.4 Goggle](https://www.speedousa.com/mdr-24-goggle-elastomeric-style-7500619)
-- [$18] 3x Pool Fee [Northwest Pool Adult Drop-In Price](https://www.reno.gov/government/departments/parks-recreation-community-services/aquatics/northwest-pool)
-- [$0] Cap
+I later learned that I didn't consume enough electrolytes during the race, starting sometime pretty early during the bike ride. This would also explain nthe numbness in my right arm during the bike and the numbness shooting up from my feet during the latter half of the run.
 
-__Subtotal: ~$110__
+Thankfully after receiving a liter of the saline solution and an hour later, I was able to walk again, met up with Deepak and Andrea who were graciously waiting for me outside and I went home, feeling much better. Andrea had even helped pick up my bike and gear and dropped off my bike at the bike transportation drop-off.
 
-Okay... This isn't too bad...
+![img](/posts/post-ironman.jpeg)
 
-## Biking
-- [$1400] Road Bike [Cannondale 2016 Synapse Disc 105](https://issuu.com/cannondale_usa/docs/16_c_bike_catalog_issuu_final/50)
-  - I drove 8 hours in a day to pick up this used bike, because all the bike shops were having pandemic-induced supply chain issues.
-- [$576] Indoor Trainer [Wahoo Fitness KICKR SNAP](https://www.wahoofitness.com/devices/bike-trainers/kickr-snap-bike-trainer)
-  - To be able to bike indoors. I attach my bike to it.
-- [$???] Bike Fit
-  - First bike fit to determine what brand/model of bike would fit me. Different brands/models have different geometric specifications.
-- [$???] Bike Fit 2
-  - Second bike fit after I bought my bike to fine tune my fit.
-- [$140] Bike Pedals [SHIMANO SPD-SL Pedal 105](https://www.amazon.com/gp/product/B07DLL2PYP/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - The bike came with a two-bolt pedal, but the three-bolt pedal is more comfortable for longer-distance riding.
-- [$131] Cycling Shoes [Fizik R4B Uomo BOA Carbon](https://www.amazon.com/gp/product/B01MXLRFFB/ref=ppx_od_dt_b_asin_title_s02?ie=UTF8&psc=1)
-  - A low-end name brand shoe that can clip into three-bolt pedals.
-- [$130] Saddle [ISM PR 1.0 Saddle](https://www.amazon.com/gp/product/B00PHVTEY0/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - One of the more comfortable and ergonomic name brand saddles.
-- [$85] Bike Helmet [Giro Syntax MIPS Helmet](https://www.amazon.com/gp/product/B07VCGWG1T/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-  - A low to mid-end helmet with MIPS technology (provides more safety).
-- [$80] Aero Bars [Profile Designs Legacy II Clip-On Bar Aluminium Black 2018](https://www.amazon.com/gp/product/B0185OKVRY/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - Low-end name brand aero bar for speed and comfort, so I can rest my upper body while biking.
-- [$45] Cadence Sensor [Wahoo RPM Cycling Sensor](https://www.amazon.com/gp/product/B00L9XNFPY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-  - Essential for tracking cadence, which is essential for training.
-- [$15] Fan [Amazon Basics 3 Speed Small Room Air Circulator Fan, 7-Inch](https://www.amazon.com/gp/product/B082MY2MX3/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - To prevent overheating while biking inside.
-- Water bottles
-- Pump
-- Flat kit
+<a name="part4"></a>
+# Part 4
+### The Next Day
 
-__Subtotal: ~$2600__
+Had I properly dialed in my nutrition, I'm sure I would've felt and performed much better. If I decide to do another Ironman, a lot of it will be because I want to see how fast I can get with some experience under my belt.
 
-Holy crap. Do you need all those items? Yes and no. You'll need all of the above, but you might be able to get slightly cheaper versions of everything. You'll still probably come out to around $1500-$2000, though. Everything I bought was on the low-end already.
+Ironmans come in all shapes and sizes and are all badasses. I never heard a single person mutter anything remotely negative during the entire race. Not even a "man, this hurts" or "I'm tired", when I knew that there were people who were definitely suffering more than me and I was already reaching my limit. I am incredibly humbled that I got to race with such strong people and know that there are so many strong people out there, many who are stronger than me. These people don't always look "stereotypically strong" like the Rock or bodybuilders, but many of them look fairly "normal", some were even fat based on societal standards, some literally disabled, and some old but are stronger than me who is young and fit. I'm sure there are people who haven't done an Ironman and are just as strong, but it just humbles me to know that there are so many people stronger than me and they are in any shape and form.
 
-## Running
-- [$250] 2x Running Shoes [ASICS Men's NOVABLAST](https://www.amazon.com/gp/product/B08PKD27KG/-ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-  - I'll probably need another pair by the time the race is over. A pair of running shoes usually lasts me 200-250 miles.
-- [$10] Sunscreen [Neutrogena Sunscreen Lotion with Broad Spectrum SPF 100+](https://www.amazon.com/gp/product/B002JAYMEE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [$10] 2x Lip Balm [Burt's Bees All-Weather SPF15 Lip Balm](https://www.amazon.com/gp/product/B07C9KZTXS/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - To prevent skin cancer.
-- [$25] Running Hat [Nathan Quick Stash Run Hat](https://www.nathansports.com/products/quick-stash-run-hat-black-mosstone)
-  - Breathable hat that can also store items such as my house key. (Not all of my shorts have pockets.)
-- [$60] Running Shorts [Nathan Front Runner Shorts](https://www.nathansports.com/products/mens-front-runner-shorts-blackd)
-  - So I don't need to hold my phone while running. (I've recently started listening to music while running and my watch isn't advanced enoughto load/stream music.)
+### What's Next
+Finally, I want to emphasize how much self-doubt I had during this entire journey. From before I started my 30-week training program, to during it and especially the days, hours, minutes, and seconds leading up to the race. Even with all the training that I put in and support from other triathletes, friends, and family, there was still this looming doubt as I knew I would be attempting something more challenging than I've ever done. Overcoming those doubts, managing my emotions, and pushing through all of the pain during the race has been my greatest triumph.
 
-__Subtotal: ~$385__
+- Increasing your capability for suffering and pain
 
-...Reasonable.
+[![CRAZY! What happens to the body during an ultra-endurance race? Courtney Dauwalter on JRE #1027](https://img.youtube.com/vi/M-y4eyjVZiE/0.jpg)](https://www.youtube.com/watch?v=M-y4eyjVZiE)
 
-## Triathlon/Ironman
-- [$1490] Race Entry Fee [Ironman California Community Fund Entry](https://www.ironman.com/im-california-register)
-- [$565] Prescription Photochromic Sunglasses [SportRx Rudy Project Rydan + RX Dock](https://www.sportrx.com/rudy-project-rydon-rx-dock.html)
-  - Prescription so I don't have to put on contacts before every workout. Photochromic so I can workout from before sunrise and to after sunset. I honestly probably could've just worn contacts, but the convenience, yo.
-- [$474] Watch [Garmin Forerunner 935](https://www.amazon.com/gp/product/B06XGD6CS4/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - Essential for tracking heart rate, running speed, swimming speed, biking speed, etc.
-- [$75] Tri Top[Roka Comp Sleeveless Tri Top](https://www.roka.com/products/mens-comp-sleeveless-tri-top-white-grey)
-- [$100] Tri shorts [Gen II Elite Aero Tri Short](https://www.roka.com/products/mens-gen-ii-elite-aero-tri-short)
-  - I'm planning on using these both training and the race.
-- [$135] Heartrate Monitor Strap [Garmin HRM-Pro, Premium Heart Rate Strap, Real-Time Heart Rate Data and Running Dynamics](https://www.-amazon.com/gp/product/B085JKM9DR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-  - Because wrist-based heart rate monitors are [notoriously inaccurate](https://forums.garmin.com/sports-fitness/running-multisport/f/forerunner-935/152877/wrist-heart-rate-very-inaccurate-in-cold-weather).
-- [$90] 36x Energy Gels [Maurten GEL 100 Box](https://www.maurten.com/products/gel-100-box-us)
-   - Nutrition during 2 hour+ rides and runs. I'll probably need more at some point since you should consume 2-4 per hour and I still have ~20 weeks of training left.
-- [$15] Training Plan [Be IronFit: Time-Efficient Training Secrets for Ultimate Fitness](https://www.amazon.com/gp/product/1493017829/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-  - The book that started it all. If you're even slightly interested in doing an Ironman, read this first.
-- [$5] Electrode Gel [Spectra Parker Laboratories 360 Electrode Gel, 2 Oz](https://www.amazon.com/gp/product/B00AMGUZ70/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
-  - To improve heart rate tracking accuracy, especially during those dry winter days when conductivity is low.
-- [$???] Hotel
-- [$???] Wetsuit
-  - May not be necessary depending on the race day water temperature.
+Since I finished the race, I wanted more and started asking myself what else do I think is could be possible for me to do such as swimmisng across the English channel, 32-miler runs, 50-milers, 100-milers and even  the MOAB 240, 238-mile run through the deserts and canyons of Utah, and Badwater 135, a run from Death Valley -100 ft to whitney portal at 8000 ft. However, after some needed reflection, I've decided that doing an Ironman is already quite extraordinary, especially at my age and that it's time for me to grind on other parts of my life. This quote from
 
-__Subtotal: ~$2975__
+[![Joe Rogan - What It Takes To Be An Ultra Marathon Runner](https://img.youtube.com/vi/Q1Kza-MfSNA&t/0.jpg)](https://www.youtube.com/watch?v=Q1Kza-MfSNA&t=272s)
 
-### Total: ~$5960
+was a good wake up call. 
+Dream bigger.
 
-To put that in comparison, my car costed me $less than that.
-
-No wonder why only 1% (50 of 4500) of the participants in Ironman California are in my age group (between the ages of 18-24). Without a decent wage (or sacrificing other luxuries), forking over $6-7K for a sport is incomprehensible. (Even if in my mind, a triathlon is four sports in one.) 
-
-Fortunately, most of these are one time costs, and I'll be able to reuse most of this equipment for their individual sports or for future triathlon races.
-
-Now that you know how much money I've already invested into this activity to achieve one of my life goals, stay tuned for __"How Much Time Does It Take? (Part 2)"__, where I talk about the biggest investment of all and perhaps the most important question, __"Why Am I Even Doing An Ironman? (Part 3)"__
+### Acknowledgements
+Solomon 
+For your continuous advice and unwavering support Brenna, Ravi, Deepak, Veronika, Viktor.
+Who knew nothing about triathlons and endurance sports, but never failed to believe in me : Carol, Henry, andrew, douglas , Solomon, Family, Mom Dad.

@@ -23,10 +23,10 @@ Since the founding of the team five years ago, the team has had problems with me
     According to a member who's been on the team since its foundation, this was the most successful thing that the organization has ever done.
 
     ![img](/posts/mdatahack.jpeg)
-    <center> *A team of Chemistry Ph.D. students presenting to a professor* </center>
+    <center><i>A team of Chemistry Ph.D. students presenting to a professor</i></center>
 
    ![img](/posts/mdatahack-winners.jpeg)
-    <center> *Excited winners* </center>
+    <center><i>Excited winners</i></center>
 
 2. Work Sessions
 

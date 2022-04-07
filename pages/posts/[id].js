@@ -1,6 +1,6 @@
 import { getAllPostIds, getPostData } from "../../lib/posts";
 import styles from "../../styles/Home.module.css";
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Typography, Grid } from "@material-ui/core";
 import { incrementViews, isTestEnvironment } from "../../lib/firebase";
 import { format } from "date-fns";
@@ -26,6 +26,8 @@ export async function getStaticProps({ params }) {
 
 export default function Post({ postData }) {
 	const classes = useStyles();
+  // const [width, setWidth] = useState(window.innerWidth);
+  // const isMobile = width <= 768;
 	const { title, date, contentHtml } = postData;
 	const disqusShortname = "www-wesleytian-com";
 	const disqusConfig = {
@@ -36,10 +38,22 @@ export default function Post({ postData }) {
 		title
 	};
 
+  // function handleWindowSizeChange() {
+  //   setWidth(window.innerWidth);
+  // }
+
+  // useEffect(() => {
+  //     window.addEventListener('resize', handleWindowSizeChange);
+  //     return () => {
+  //         window.removeEventListener('resize', handleWindowSizeChange);
+  //     }
+  // }, []);
+
+
 	useEffect(() => {
 		incrementViews(postData.id);
 	}, []);
-
+  
 	return (
 		<div className={styles.container}>
 			<main className={styles.main}>
@@ -51,17 +65,26 @@ export default function Post({ postData }) {
 					sm={10}
 					md={7}
 					className={styles.description}>
-					<Typography variant="h4">{title}</Typography>
+					<Typography style={{
+            fontFamily: "eczar", 
+            // fontFamily: "libre franklin",
+            // fontStyle: "italic",
+            fontSize:"2.4rem"}}>{title}</Typography>
 					<br />
-					<Typography variant="body1">
+					<Typography variant="body1" style={{fontFamily: "courier", fontSize: "1.2rem"}}>
 						{format(new Date(date), "PPP")}
 					</Typography>
 					<br />
 					<Typography variant="body1" paragraph>
 						<div
 							dangerouslySetInnerHTML={{
-								__html: contentHtml
-							}}></div>
+								__html: contentHtml,
+                
+							}} style={{
+                fontFamily: "gentium basic",
+                fontSize: "1.2rem"
+                // fontFamily: "libre baskerville"
+              }}></div>
 					</Typography>
 				</Grid>
 			</main>

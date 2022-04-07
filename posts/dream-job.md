@@ -1,15 +1,15 @@
 ---
-title: "🔥 How I Found My Dream Job and 3 Tips On How You Can, Too"
+title: "How I Found My Dream Job and 3 Tips On How You Can, Too"
 date: "2020-11-27"
 ---
 
-Last summer, in my [most popular and inspirational blog post](https://wesleytian.github.io/2019/gpa/) yet, I wrote about how believing in myself, dreaming big, and following my plans led me from nearly failing high school to landing offers at [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). Near the end of that post, I stated that my next goal was to find my "dream job." 
+Last summer, in my [most popular and inspirational blog post](posts/gpa) yet, I wrote about how believing in myself, dreaming big, and following my plans led me from nearly failing high school to landing offers at [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). Near the end of that post, I stated that my next goal was to find my "dream job." 
 
 I suspected I had found this "dream" job a few months after working at [Virtually](https://www.tryvirtually.com/). Now that my 6-month work anniversary at Virtually has just passed, I can say with certainty that I've found it—for now. Things move quickly at startups.
 
 In this post, I tell the story of how I became the first employee and engineer at Virtually and what you can take away from my experience to find your dream job, too. If you've already found your dream job, I feel your content and hopefully more people can find theirs!
 
-*Stay tuned and [subscribe here](https://buttondown.email/wesleytian) to read about things such as what I’ve learned as the lead engineer at a fast-growing startup, what I’ve learned about the education industry, and why I chose to join a startup over Big Tech.*
+<!-- *Stay tuned and [subscribe here](https://buttondown.email/wesleytian) to read about things such as what I’ve learned as the lead engineer at a fast-growing startup, what I’ve learned about the education industry, and why I chose to join a startup over Big Tech.* -->
 
 ## 1. Figure out your ideal work environment
 
