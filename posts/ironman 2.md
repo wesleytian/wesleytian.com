@@ -24,14 +24,14 @@ This is my Ironman journey.
 # Part 1: The Why
 ### It Starts With a Dream
 
-The idea of doing an **Ironman**, a triathlon race consisting of a 2.4-mile (3.9 km) swim, a 112-mile (180 km) bicycle ride and a full marathon 26.2-mile (42.2 km) began with nothing other than procrastinative YouTube binges. I've always been inspired by feats of human greatness, whether in the sciences, the arts, or the physical. I'm not sure what it is, but watching people climb Mt. Everest, complete Navy SEAL BUD/S training, free solo El Capitan, and finish an Ironman have always lit up something deep-seated within me. It was part deranged beauty, ego. But beyond all, it was a dream to see what I was really capable of.
+The idea of doing an **Ironman**, a triathlon race consisting of a 2.4-mile (3.9 km) swim, a 112-mile (180 km) bicycle ride and a full marathon 26.2-mile (42.2 km) began with nothing other than procrastinative YouTube binges. Inspired by feats of mankind such as climbing Mt Everest, imagining the human progress in Interstellar finishing an Ironman Triathlon, triumphing Navy SEAL BUDS training, and soloing half dome has always sent shivers down my spine and tears rolling down my face. I knew doing an Ironman would be the ultimate feat of self-improvement and taking on a challenge, but what I really wanted to do was be part of something extraordinary. It was a dream to not be like anybody else and a dream to see what we as humans and what I as an individual was capable of.
 
-Everyone enjoys a good challenge, but beyond that, I've always seen myself as a dreamer. Even when I nearly failed high school by having a 1.9 GPA*, I never stopped dreaming about the one day that I would transfer to a top university, land a Big Tech company job, finish an Ironman, climb Mt. Everest, and one day build a multi-billionaire dollar business.
+Everyone enjoys a good challenge, but beyond that, I've always seen myself as a dreamer. Even when I nearly failed high school by having a 2.5 GPA, I never stopped dreaming about the one day that I would transfer to a top university, land a Big Tech company job, finish an Ironman, climb Mt. Everest, build a multi-billionaire dollar business.
 
-For as long as I first learned what an Ironman was, I had wanted to do one. Little did I know that that day would come much sooner that I had expected.
+For as long as I learned what an Ironman was, I had wanted to do one. Little did I know that the day I became one would come much sooner that I had expected.
 
 ### The Turning Point
-In October, 2020, one of my college housemates, Solomon Demmessie, told me that he had recently finished an Ironman triathlon race and a 50-mile ultramarathon. When we lived together, he couldn't even run more than a few miles at a single time.  Seeing somebody so close to me go from running a few miles to finishing an Ironman made me realize that I could finish one too. 
+In October 2020, one of my college housemates, Solomon Demmessie, told me that he had recently finished an Ironman triathlon race and a 50-mile ultramarathon. When we lived together, he couldn't even run more than a few miles at a single time.  Seeing somebody so close to me go from running a few miles to finishing an Ironman made me realize that I could finish one too. 
 
 And so when he told me,  
 *"You should sign up for Ironman California".*
@@ -41,7 +41,7 @@ I said,
 
 The rest is history.
 
-*(I actually did some more research such as going over some training plans before saying "ok", but I'll spare you the boredom.)*
+*(I actually did some more research such as going over some training plans before saying "ok", but I'm sparing you the boring details.)*
 
 
 <a name="part2"></a>
@@ -81,13 +81,15 @@ We woke up the next morning to heavy rain and winds. As we drove towards the sta
 The race was canceled. I was devastated. I had trained for a year and 10 minutes before the race was supposed to begin, I received news that it had been canceled.
 
 Desperate to not let all of my training go to waste and not have to train for another 7 months, I signed up for Ironman Cozumel which was just a month away in the gulf of near Cancun, Mexico.
-Since I already had too many post-race travel plans made, I had to train while on vacation. Notably, in Austin 
+Since I already had too many post-race travel plans made, I had to train while on vacation. Notably, in Austin
+
+2nd toughest moment
 
 <a name="part3"></a>
 # Part 3: The Race
 ### Plan B: Cozumel, Mexico
 
-In the days leading up to the race in Mexico, I had much less anxiety than the days leading up to Ironman California. The weather forecast seemed slightly better and I had already gone through the rollercoaster of emotions leading up to Ironman California.
+In the days leading up to the race in Mexico, I felt much calmer than  mainly because of the weather and probably because I had already gone through the rollercoaster of emotions leading up to Ironman California.
 
 <!-- Tmrw I’m just going to try and block my emotions out and just execute. Emotions make me anxious nervous scared etc
 
@@ -102,29 +104,28 @@ I started chafing pretty hard halfway into my swim and I first toyed around with
 Not gonna lie, it felt pretty good to pass so many people on the swim when I barely felt like I was trying. I did go off course a couple of times which added some distance to my swim so I could definitely improve on sighting.
 
 ### The Bike (112 miles)
+![img](/posts/ironman-bike-rain.jpeg)
 
 ![img](/posts/ironman-bike.jpeg)
 
-Whatever lead I had in the swim, I quickly lost on the bike. Everyone and their $10,000 bikes kept passing me as I focused on keep my heart rate at a steady 140 BPM.
+Whatever lead I had in the swim, I quickly lost on the bike. Everybody with their $5,000-$10,000  tri bikes kept passing me as I was just focused on maintaining my heart rate steady at around 140 bpm.
 
-The bike was mostly uneventful, except for two sections with torrential, tropical rain.
-
-![img](/posts/ironman-bike-rain.jpeg)
 ![img](/posts/ironman-bike-flood.png)
-<center><i>Actual pictures from somebody's shitty phone</i></center> 
+<center><i>Actual picture from somebody's shitty phone</i></center>
 
-There was also some lighting, but thankfully it never got too close to me.
+The bike was largely uneventful, except for two parts with insane rain. There was also some lighting, but thankfully it never got too close to me.
+7 hours and 10 minutes later, I reached T2, where I racked my bike and changed into my running attire. Time for a full marathon.
 
-7 hours and 10 minutes later, I finally reached "T2", the transition area from bike to run. I racked my bike and changed into my running attire. Time for a full marathon I thought.
+Time just flew by, at 30 looking for ward to 56, 
+got into a 30 minute routine of every 30 min standing up fo ra few seconds to give my bum a break
+chafed raw, emotionless 
 
 ### The Run (26.2 miles)
 Weather conditions: 85°F (29°C) | Humidity: 90%
 
-I started the run feeling good, even though I had just been swimming and cycling for 9 hours. I tried to keep a routine 11-12 minute miles for the first 10 miles. To cool my body and prevent getting a heat stroke, I'd soak my visor in ice cold water and pour water down my body. 
+Pouring water on body every aid stationFeels like 8 , steam room, no more light wind at least not raining
 
-As I 
-
-My armpits were chafed raw and I was doing the best I could to ignore my body telling me to stop.
+I started off the run feeling pretty good. I definitely felt the 8-hour workout taking a toll on me as I knew I wouldn't be able to run faster than a 11-12 minute/mile pace. I kept my pace pretty steady for about the first 10 miles.
 
 My last 3 miles averaged 20 minutes/mile as it was excruciating to just put one foot in fronth of the other. I recalled somebody once telling me that all I need to do is to put one foot in front of the other and keep moving forward.
 
@@ -132,7 +133,6 @@ My last 3 miles averaged 20 minutes/mile as it was excruciating to just put one 
 ![img](/posts/ironman-finish.jpeg)
 
 I crossed the finish line at 11:08 PM, 15 hours and 17 minutes since I had started the race.
-
 What I had dreamt about for years since I was just a teenager turned from a vision into reality. I had pictured myself crossing the finish line numerous times in the past, starting in high school. I thought about how I would cry or grin broadly at the camera or be filled with joy. 
 
 Instead, when I crossed the finish line that day, all I could think about was my **excruciating pain** and trying not to break down.
@@ -143,16 +143,16 @@ The doctors at the infirmary immediately hooked me up onto an IV. I had all sort
 
 I later learned that I didn't consume enough electrolytes during the race, starting sometime pretty early during the bike ride. This would also explain nthe numbness in my right arm during the bike and the numbness shooting up from my feet during the latter half of the run.
 
-A liter of saline solution later, I began to walk again. I found Deepak and Andrea  graciously waiting for me outside the infirmary tent. They called me a cab and collected my bike and other belongings. I honestly don't know what I would've done without them. I wish I could say that I slept better than I ever had that night, but my body was still so amped up that I was finally able to fall asleep at 3 AM and naturally awoke at 9. 
+Thankfully after receiving a liter of the saline solution and an hour later, I was able to walk again, met up with Deepak and Andrea who were graciously waiting for me outside and I went home, feeling much better. Andrea had even helped pick up my bike and gear and dropped off my bike at the bike transportation drop-off.
 
 ![img](/posts/post-ironman.jpeg)
 
 <a name="part4"></a>
-# Part 4: Reflection
+# Part 4: Reflecting
 
 Not being experienced with Ironman nutrition and taking in enough salt impared my performance severely. If I decide to do another Ironman (likely), my goal will be to see how fast I can get. I'm pretty confident I could get my time to 12-13 hours.
 
-One thing I realized during the race is that regardless of what shape and size an Ironman athlete is, is that they're all badasses. I never heard a single person mutter anything remotely negative during the entire race. Not even a *"man, this hurts!"* or *"I'm tired"*, Even though I knew for certain that there were people who were suffering as much as me or more and I had already reached my threshold for suffering. Many Ironmen/women don't look stereotypically strong or fit, and some were even overweight or disabled, yet were mentally and physically just as strong as me if not stronger. It was such a humbling experience to be in the presence of these people.
+One thing I realized during the race is that regardless of what shape and size an Ironman athlete is, is that they're all badasses. I never heard a single person mutter anything remotely negative during the entire race. Not even a *"man, this hurts"* or *"I'm tired"*, Even though I knew for certain that there were people who were suffering as much as me or more and I had already reached my threshold for suffering. Many Ironmen/women don't look stereotypically strong or fit, and some were even overweight or disabled, yet were mentally and physically just as strong as me if not stronger. It was such a humbling experience to be in the presence of these people.
 
 I had so much self-doubt during this journey. From before I started my 30-week training program, to during it and especially the days, hours, minutes, and seconds leading up to the race. Even with all the training that I put in and support from other triathletes, friends, and family, there was still this looming doubt as I knew I would be attempting something more challenging than I've ever done. Overcoming those doubts, managing my emotions, and pushing through all of the pain during the race has been my greatest triumph.
 
