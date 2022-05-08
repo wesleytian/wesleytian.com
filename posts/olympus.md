@@ -1,5 +1,5 @@
 ---
-title: "⛰️ Hiking Mt. Olympus in Greece: The Happiest Time of My Life"
+title: "Hiking Mt. Olympus in Greece: The Happiest Time of My Life"
 date: "2016-09-02"
 ---
 

@@ -44,7 +44,7 @@ export default function IndexPage() {
               <p>
                 🧑🏻‍💻 During the day, I'm a software engineer at an early-stage {" "}
                 <a className="" href="https://techcrunch.com/2021/11/22/fractional-lands-5-5-million-to-let-friends-and-strangers-invest-in-real-estate-together/">
-             real estate startup
+             fintech startup
                 </a>. At night, I read and write about startups, nuclear fusion, space, and nutrition.
               </p>
               <div>
@@ -53,11 +53,11 @@ export default function IndexPage() {
               </p>
             </div>
               <p>
-                Previously, I helped found {" "}
+                Previously, I helped found an {" "}
                 <a className="" href="https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global">
-                  Virtually
+                  edtech startup
                 </a>
-                , where I wrote half the codebase and helped scale the product from
+                , where I wrote half the codebase, led an engineering team of 5, and scaled the product from
                 0 to over 10K users. I went through Y Combinator's summer 2020 batch with the founder and we raised $1.7M in
                 funding. 
                 
@@ -70,11 +70,11 @@ export default function IndexPage() {
           </div>
           <div><p>I enjoy writing and reflecting on my life:</p>
             <ul>
+              <li>November, 2021 <a href="/posts/ironman">I did an Ironman (a 140.6-mile race)</a></li>
+              <li>July, 2020 <a href="/posts/reno">Why I moved to Reno, NV</a></li>
+              <li>August, 2019 <a href="/posts/whitney">I convinced 3 friends to climb the tallest mountain in the contiguous US with me and we had to drink piss to survive</a></li>
               <li>
-                <a href="/posts/gpa">I nearly failed high school.</a> (views: {views})</li>
-              <li><a href="/posts/whitney">I convinced 3 friends to climb the tallest mountain in the contiguous US with me and we had to drink piss to survive.</a></li>
-              <li>🆕 <a href="/posts/ironman">I did an Ironman (a 140.6-mile race).</a></li>
-              <li><a href="/posts/reno">Why I moved to Reno, NV.</a></li>
+                June 2019 <a href="/posts/gpa">I nearly failed high school</a> <span style={{color: "gray"}}>(views: {views})</span></li>
               
             </ul>
             You can find some of my other less polished pieces <a href="/posts">here</a>.

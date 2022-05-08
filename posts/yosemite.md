@@ -1,5 +1,5 @@
 ---
-title: "⛰️ Hiking the Half Dome"
+title: "Hiking the Half Dome"
 date: "2015-09-01"
 ---
 

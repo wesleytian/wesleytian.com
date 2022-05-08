@@ -1,5 +1,5 @@
 ---
-title: "🔥 3 Reasons Why You Should Move To Reno"
+title: "3 Reasons Why You Should Move To Reno"
 date: "2020-07-25"
 ---
 

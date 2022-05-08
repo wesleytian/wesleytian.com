@@ -27,10 +27,10 @@ export default function Home({ allPostsData }) {
 						</Typography>
 					</blockquote>
 
-					<Typography variant="body1" color="textSecondary">
+					{/* <Typography variant="body1" color="textSecondary">
 						🔥: Popular&nbsp;&nbsp;&nbsp;&nbsp;🛠️:
 						Technical&nbsp;&nbsp;&nbsp;&nbsp;⛰️: Hiking
-					</Typography>
+					</Typography> */}
 					<Grid container>
 						<List>
 							{allPostsData.map(({ id, date, title }) => {
@@ -48,7 +48,7 @@ export default function Home({ allPostsData }) {
 							})}
 						</List>
 					</Grid>
-					<Grid container justify="center">
+					{/* <Grid container justify="center">
 						<Button
 							style={{ textTransform: "none" }}
 							size="large"
@@ -59,7 +59,7 @@ export default function Home({ allPostsData }) {
 								<a href="https://buttondown.email/wesleytian">Subscribe</a>
 							</Typography>
 						</Button>
-					</Grid>
+					</Grid> */}
 				</Grid>
 			</main>
 		</div>
