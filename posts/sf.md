@@ -40,4 +40,4 @@ Shoutout to Victor Maher for helping me find the co-living house and Hannah Jian
 
 *referring to everything being closed in SF for much longer than other cities due to COVID-19 pandemic restrictions.
 
-**for most people in my stage of life, a lifestyle of binge drinking and going out every weekend is pretty normal. However, to accomplish great things (which I want), you also need to work harder than most. Hard work is obviously not the only ingredient, but it is a necessary one.
+**for most people in my stage of life, a lifestyle of binge drinking and going out every weekend is pretty normal. However, to accomplish great things, I believe you also need to work harder than most. Hard work is obviously not the only ingredient, but it is a necessary one.
