@@ -3,7 +3,7 @@ title: "San Francisco"
 date: "2022-05-14"
 ---
 
-It's only been than three months since I've moved to San Francisco, yet I've met more people, made more friends, and attended more parties in these past three months than in the past two years.
+It's only been than three months since I've moved to San Francisco, yet I've met more people, made more friends, had more drinks, and attended more parties in these past three months than in the past two years.
 
 San Francisco is definitely back* and I'm so glad to have finally moved to the land of dreams.
 
