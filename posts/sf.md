@@ -3,7 +3,7 @@ title: "San Francisco"
 date: "2022-05-14"
 ---
 
-It's only been than three months since I've moved to San Francisco, yet I've met more people, made more friends, had more drinks, and attended more parties in these past three months than in the past two years.
+It's only been than three months since I've moved to San Francisco, yet I've met more people, made more friends, consumed more alcohol, and attended more parties in these past three months than in the past two years.
 
 San Francisco is definitely back* and I'm so glad to have finally moved to the land of dreams.
 
@@ -11,7 +11,7 @@ Finding Aurora house, my current co-living house, in February was a godsend. Liv
 
 We hosted a ton of parties and went out nearly every weekend. We danced at Arena, Temple, Butter, Halcyon, Monrose, and Westwood. We walked through Russian Hill, Hayes Valley, Nob Hill (Polk St), Little Italy (North Beach) Cow Hollow, Pac Heights, Japantown, Chinatown, Marina. We went to equally many 15 million dollar mansion parties as sweaty warehouse parties.
 
-Perhaps I'm still in my honeymoon phase with SF, but I'm in love. Sure, there are areas with homelessness and feces on sidewalks, but those are far and few between–virtually none if you avoid certain areas of the city like the Tenderloin. The beauty of the endless number of parks, the absence of the tall poppy syndrome, and likely the densest population of overachievers on Earth makes this a truly one of a kind place. In fact, excellent satire like [Every Bay Area House Party by Astral Codex Ten](https://astralcodexten.substack.com/p/every-bay-area-house-party?s=r) (highly highly recommend reading/skimming) may seem exaggerated to the uninitiated, but from personal experience, could absurdly be true.
+Perhaps I'm still in my honeymoon phase with SF, but I'm in love. Sure, there are areas with homelessness and feces on sidewalks, but those are far and few between–virtually none if you avoid certain areas of the city like the Tenderloin. The beauty of the endless number of parks, the absence of the tall poppy syndrome, and likely the densest population of overachievers on Earth makes this a truly one of a kind place. In fact, excellent satire like [Every Bay Area House Party by Astral Codex Ten](https://astralcodexten.substack.com/p/every-bay-area-house-party?s=r) (highly highly recommend reading/skimming) may seem exaggerated to the uninitiated, but from personal experience, could absurdly be true. Sometimes, it really seems like everyone and their moms are starting companies (literally in some cases).
 
 Sometimes my friends and I will be chatting about something and burst out laughing after realizing just how absurd we would sound to a non-SF-startup-web3-techie (normal person). Recently, I was explaining to some friends about a fusion (energy) DAO that I was working on. I explained that it was similar to VitaDao and that you can use tokens purchased using WETH on CowSwap to vote on proposals via Snapshot. Another recent conversation was explaining one of my friend's startups. He's working on a DAO to redirect validator yields on Celo to offset carbon by retiring on chain carbon credits using the Toucan protocol. These conversations that used to be a jumble of foreign words to me are now nothing but a part of mundane daily chatter. And it's not just intellectual conversations in the web3 space that have been so titilating, it's also the conversations about startups, SaaS, VC, philosophy, economics, finance, space, nuclear fusion, longevity, nootropics, nutrition, and of course AI. 
 
@@ -22,7 +22,7 @@ It's also incredible that everyone is one or two connections away from each othe
 
 --- 
 
-At the beginning of 2022, I had one new year's resolution: to have more fun. I had been grinding for the past two years–first on a startup then for an Ironman; I needed a break. I guess I can say I accomplished what I set out to do.
+At the beginning of 2022, I had one new year's resolution: to have more fun. I had been grinding for the past two years–first on a startup then for an Ironman; I needed a break. I guess I can say I finally accomplished what I set out to do.
 
 These past few months have been crazy fun, but now I've had my fill and it's time to get back on the grind**. It's perfect timing, as in a few days, I'll be moving from my current co-living house of seven other 21-26 year olds in the popping Victorian-style Polk St area to a high-rise closer to downtown SF with Victor. I'll meet other overachieving, hardworking yuppies in the building's lounge and library and continue working on projects on weekends until one of them brings enough value to people so that I can raise funding. Equally importantly, I'm looking forward to bring back a sense of routine and get my health back in check after these past months of heavy drinking and staying out late.
 
