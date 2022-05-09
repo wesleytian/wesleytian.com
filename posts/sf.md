@@ -1,6 +1,6 @@
 ---
 title: "San Francisco"
-date: "2022-05-14"
+date: "2022-05-08"
 ---
 
 It's only been than three months since I've moved to San Francisco, yet I've met more people, made more friends, consumed more alcohol, and attended more parties in these past three months than in the past two years.
