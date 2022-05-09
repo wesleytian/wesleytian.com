@@ -17,7 +17,7 @@ Sometimes my friends and I will be chatting about something and burst out laughi
 
 Growing up, I always felt like I had so much more knowledege about random subjects than my peers. But here, I'm just another poppy. In SF, you overhear conversations about HFT at the climbing gym and hear people insert phrases such as local optimas and binary search into their conversations. Nearly everyone you meet can code and dropouts are the norm. In fact there are entire communities built around college dropouts who have raised millions of dollars for their startups. Apparently there are also elite gay cabals (but that's a story for another time).
 
-I've never lived in a place with this many hardworking and smart people. And more often than not, these smart people aren't just academically smart with good pedigrees, but are also charismatic and have expertise and interests in multiple domains. It's so humbling and motivating at the same time.
+I've never lived in a place with this many hardworking and smart people before. Plus, these people aren't just academically smart with top pedigrees but are also charismatic and have expertise and interests in multiple domains. It's so humbling and motivating at the same time. We're all definitely living in a bubble here, but I'd choose this kind of a bubble over a non-innovative and boring bubble where people are set in their ways and unwilling to constantly challenge the status quo.
 It's also incredible that everyone is one or two connections away from each other, including high-status people like Sam Altman and my Hinge matches.
 
 --- 
@@ -30,10 +30,12 @@ I'll continue to meet people here and there but ideally in a much more intention
  
 If I were to name this ending phase of my life, I'd name it "SF degeneracy". Next up: "value creation". I can't wait.
 
+If you enjoyed reading this, please share with a friend or two!
+
 --- 
 
 Acknowledgements:
-Shoutout to Victor Maher for helping me find the co-living house and Hannah Jian and Alex George who organized it and for taking me in. Here are some people that have made these  past few months so much fun: Shrav Kasralikar, Iban Sadowski, Alexander Bricken, Joseph Yeh, Melody Lyu, Seth Saperstein, Allie Cell, Douglas Qian, Letao Chen, David Hu, Steven Phan, Luella Sun, Ethan Benjamin, Peggy Wang, Austin Wong, Mathurah Ravigulan, Newton Xie, Liam Hinzman, Yunji Jang, Allison Luan, Michael Phillips, Anthony Tan, Brando Vasquez, Johnny Yun, Richard Chen, Evan Rinder, and MANY others.
+Shoutout to Victor Maher for helping me find the co-living house and Hannah Jian and Alex George who organized it and for taking me in. Here are some people that have made these  past few months so much fun: Shrav Kasralikar, Iban Sadowski, Wayde Gilliam, Luella Sun, Anthony Tan, Alexander Bricken, Joseph Yeh, Melody Lyu, Seth Saperstein, Douglas Qian, Letao Chen, David Hu, Steven Phan, Ethan Benjamin, Peggy Wang, Austin Wong, Mathurah Ravigulan, Newton Xie, Liam Hinzman, Yunji Jang, Allison Luan, Michael Phillips, Brando Vasquez, Johnny Yun, Richard Chen, Evan Rinder, and MANY others.
 
 --- 
 
