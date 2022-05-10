@@ -84,7 +84,7 @@ export default function IndexPage() {
               
             </ul>
 
-            <p>You can find some of my other less polished pieces <a href="/posts">here</a>.</p>
+            <p>You can find some of my other pieces <a href="/posts">here</a>.</p>
           </div>
           <div>
             <p>Follow me on Twitter<a href="https://twitter.com/wesleyytian"> here</a> (I'll follow you back), connect with me on LinkedIn <a href="https://linkedin.com/in/wesleytian">here</a>, and email me <a href="mailto:tian.wesley@gmail.com">here</a>.</p>
