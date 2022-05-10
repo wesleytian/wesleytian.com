@@ -15,7 +15,7 @@ Perhaps I'm still in my honeymoon phase with SF, but I'm in love. Sure, there ar
 
 Sometimes my friends and I will be chatting about something and burst out laughing after realizing just how absurd we would sound to a non-SF-startup-web3-techie (normal person). Recently, I was explaining to some friends about a fusion (energy) DAO that I was working on. I explained that it was similar to VitaDao and that you can use tokens purchased using WETH on CowSwap to vote on proposals via Snapshot. Another recent conversation was explaining one of my friend's startups. He's working on a DAO to redirect validator yields on Celo to offset carbon by retiring on chain carbon credits using the Toucan protocol. These conversations that used to be a jumble of foreign words to me are now nothing but a part of mundane daily chatter. And it's not just intellectual conversations in the web3 space that have been so titilating, it's also the conversations about startups, SaaS, VC, philosophy, economics, finance, space, nuclear fusion, longevity, nootropics, nutrition, and of course AI. 
 
-Growing up, I always felt like I had so much more knowledege about random subjects than my peers. But here, I'm just another poppy. In SF, you overhear conversations about HFT at the climbing gym and hear people insert phrases such as local optimas and binary search into their conversations. Nearly everyone you meet can code and dropouts are the norm. In fact there are entire communities built around college dropouts who have raised millions of dollars for their startups. Apparently there are also elite gay cabals (but that's a story for another time).
+Growing up, I always felt like I had so much more knowledege about random subjects than my peers. But here, I'm just another poppy. In SF, you overhear conversations about HFT at the climbing gym and hear people insert phrases such as local optimas and binary search into their conversations. Nearly everyone you meet can code and dropouts are the norm. In fact there are entire communities built around college dropouts who have raised millions of dollars for their startups.
 
 I've never lived in a place with this many hardworking and smart people before. People aren't just academically smart with top pedigrees but are also charismatic and have expertise and interests in multiple domains. And a combination of SF's small population (< one million) and the tight-knit tech yuppie communities means that we're all two connections away from each other, including high-status people like Sam Altman and my Hinge matches. It's so humbling and motivating at the same time. We're all definitely living in a bubble in SF, where there's API companies on billboards and people are always striving for more. But I'd choose this over a non-innovative bubble where people are set in their ways anyday. 
 
@@ -29,7 +29,7 @@ I'll continue to meet people here and there but ideally in a much more intention
  
 If I were to name this ending phase of my life, I'd name it "SF degeneracy". Next up: "value creation". I can't wait.
 
-If you enjoyed reading this, please share with a friend or two!
+If you enjoyed reading this, please share with a friend or two! [Click here](/) to return home and [here](/posts) to see my other posts.
 
 --- 
 
