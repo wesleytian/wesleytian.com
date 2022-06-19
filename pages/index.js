@@ -41,15 +41,17 @@ export default function IndexPage() {
           <div>
             
             <div>
+              
+              
               <p>
-                🧑🏻‍💻 During the day, I'm a software engineer at an early-stage {" "}
-                <a className="" href="https://techcrunch.com/2021/11/22/fractional-lands-5-5-million-to-let-friends-and-strangers-invest-in-real-estate-together/">
-             fintech startup
-                </a>. At night, I read and write about startups, nuclear fusion, space, and nutrition.
+                🌎 I'm currently living in San Francisco, but I grew up in San Jose, CA; metro Portland, Oregon; Taipei, Taiwan; and Shanghai, China.
               </p>
               <div>
               <p>
-                🌎 I'm currently living in San Francisco, but I grew up in San Jose, CA; metro Portland, Oregon; Taipei, Taiwan; and Shanghai, China.
+                🧑🏻‍💻 I spend most of my time helping build a platform for purchasing fractional ownership of homes at an {" "}
+                <a className="" href="https://techcrunch.com/2021/11/22/fractional-lands-5-5-million-to-let-friends-and-strangers-invest-in-real-estate-together/">
+                early-stage startup
+                </a>.
               </p>
             </div>
               <p>
