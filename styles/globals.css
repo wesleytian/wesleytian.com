@@ -6,16 +6,21 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Eczar&family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville&family=Libre+Franklin&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;1,700&display=swap');
 
 html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Karla";
+	font-family: "Libre Franklin";
   font-weight: 400;
-  font-size: 1.125rem;
+  font-size: 1rem;
   /* background-color: rgb(32,33,36);
   color: rgb(188,192,195) */
+}
+
+h1 {
+	font-weight: 700;
 }
 
 /* .link {
