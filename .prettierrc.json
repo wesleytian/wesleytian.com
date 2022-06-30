@@ -1,7 +1,8 @@
 {
   "singleQuote": false,
-  "useTabs": true,
+  "useTabs": false,
   "trailingComma": "none",
 	"jsxBracketSameLine": true,
-	"parser": "typescript"
+  "tabWidth": 2
+
 }
