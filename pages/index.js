@@ -92,7 +92,7 @@ export default function IndexPage() {
           </div>
           <br></br>
           <div>
-            <p>✍️ I sometimes like to write:</p>
+            <p>✍️ Sometimes, I like to write:</p>
             <ul>
               <li>
                 05/2022 <a href="/posts/sf">I &lt;3 SF</a>
