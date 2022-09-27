@@ -61,44 +61,38 @@ export default function IndexPage() {
             <div>
               <div>
                 <p>
-                  🧑🏻‍💻 During the day I build software to help homies buy homes together via <a
+                  🧑🏻‍💻 I'm currently a software engineer at <a
                     className=""
                     href="https://techcrunch.com/2021/11/22/fractional-lands-5-5-million-to-let-friends-and-strangers-invest-in-real-estate-together/">
                     Fractional
-                  </a>
-                  .
+                  </a>, where we help people own fractions of homes.
                 </p>
-				<p>
-					In the evenings and weekends, I enjoy playing basketball, working on my handstand, reading about nuclear fusion, listening to new albums, and working on side projects.
-				</p>
               </div>
               <p>
-                Previously, I helped found an{" "}
+                Previously, I helped found {" "}
                 <a
                   className=""
-                  href="https://www.edsurge.com/news/2020-09-28-a-shopify-for-online-schools-raises-1-75m-led-by-tiger-global">
-                  edtech startup
+                  href="https://tryvirtually.com">
+                  Virtually
                 </a>
                 , where I wrote half the codebase, led an engineering team of 4,
-                and scaled the product from 0 to over 10K users. I went through
-                Y Combinator's summer 2020 batch with the founder and we raised
-                $1.7M in funding.
+                and scaled the product from 0 to over 10K users. I went through {" "}
+                <a href="https://www.ycombinator.com/">Y Combinator's</a> startup accelerator with the founder and we raised
+                $1.7M in funding from Tiger Global.
               </p>
               <p>
-                I was also briefly a software engineer at Microsoft and I studied computer
+                I've also worked at Microsoft, Clinc AI, and Fidelity Investments. I studied computer
                 science and data science at the University of Michigan.
               </p>
+              <br></br>
               <p>
-                📍 I'm currently based out of San Francisco, but I'm originally
-                from Mountain View, California and I grew up in Milpitas,
-                California; West Linn, Oregon; Taipei, Taiwan; Shanghai, China;
-                Amherst, Massachusetts; Ann Arbor, Michigan; and Reno, Nevada
-                (in that order 😆).
+                📍 I'm originally from California but I've also lived in Oregon, Taipei, Shanghai, Massachusetts, Michigan, and Nevada. I currently live in San Francisco.
               </p>
             </div>
           </div>
+          <br></br>
           <div>
-            <p>✍️ I sometimes write for fun:</p>
+            <p>✍️ I sometimes like to write:</p>
             <ul>
               <li>
                 05/2022 <a href="/posts/sf">I &lt;3 SF</a>
@@ -134,6 +128,7 @@ export default function IndexPage() {
               You can find some of my other pieces <a href="/posts">here</a>.
             </p>
           </div>
+
           <div>
             <p>
               You can also reach me on Twitter (<a href="https://twitter.com/wesleyytian">wesleyytian</a>),
