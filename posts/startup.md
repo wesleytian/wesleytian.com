@@ -1,6 +1,7 @@
 ---
 title: "Why I'm Starting a Company"
 date: "2022-07-03"
+draft: true
 ---
 
 <!-- ![img](/posts/developer.png) -->
