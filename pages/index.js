@@ -63,22 +63,22 @@ export default function IndexPage() {
                 <p>
                   🧑🏻‍💻 I'm currently a software engineer at <a
                     className=""
-                    href="https://techcrunch.com/2021/11/22/fractional-lands-5-5-million-to-let-friends-and-strangers-invest-in-real-estate-together/">
+                    href="https://www.fractional.app/">
                     Fractional
-                  </a>, where we help people own fractions of homes.
+                  </a>, where you can purchase fractions of real estate investments.
                 </p>
               </div>
               <p>
                 Previously, I helped found {" "}
                 <a
                   className=""
-                  href="https://tryvirtually.com">
+                  href="https://www.tryvirtually.com/">
                   Virtually
                 </a>
                 , where I wrote half the codebase, led an engineering team of 4,
-                and scaled the product from 0 to over 10K users. I went through {" "}
+                and scaled the product from 0 to over 10,000 users. I went through {" "}
                 <a href="https://www.ycombinator.com/">Y Combinator's</a> startup accelerator with the founder and we raised
-                $1.7M in funding from Tiger Global.
+                about $2M in funding from Tiger Global.
               </p>
               <p>
                 I've also worked at Microsoft, Clinc AI, and Fidelity Investments. I studied computer
