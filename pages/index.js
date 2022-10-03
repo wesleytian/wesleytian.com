@@ -131,10 +131,10 @@ export default function IndexPage() {
 
           <div>
             <p>
-              You can also reach me on Twitter (<a href="https://twitter.com/wesleyytian">wesleyytian</a>),
+              See my 
               LinkedIn (
-              <a href="https://linkedin.com/in/wesleytian">wesleytian</a>), or
-              via email (
+              <a href="https://linkedin.com/in/wesleytian">wesleytian</a>) or shoot me an
+              email (
               <a href="mailto:tian.wesley@gmail.com">tian.wesley@gmail.com</a>).
             </p>
           </div>
