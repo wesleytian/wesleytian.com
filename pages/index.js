@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 import Head from "next/head";
 import { getSortedPostsData } from "../lib/posts";
 import { getViews } from "../lib/firebase";
+import Script from "next/script";
 
 export default function IndexPage() {
   const [views, setViews] = useState(0);
@@ -30,6 +31,18 @@ export default function IndexPage() {
         />
         <meta property="og:image" content={"/posts/ogimage.jpeg"} />
       </Head>
+      <Script
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+      />
+      <Script id="googleAnalytics" strategy="lazyOnload">
+        {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}');          
+        `}
+      </Script>
       <main
         style={{
           marginTop: "auto",
@@ -61,32 +74,35 @@ export default function IndexPage() {
             <div>
               <div>
                 <p>
-                  🧑🏻‍💻 I'm currently a software engineer at <a
-                    className=""
-                    href="https://www.fractional.app/">
+                  🧑🏻‍💻 I'm currently a software engineer at{" "}
+                  <a className="" href="https://www.fractional.app/">
                     Fractional
-                  </a>, where you can purchase fractions of real estate investments.
+                  </a>
+                  , where you can purchase fractions of real estate investments.
                 </p>
               </div>
               <p>
-                Previously, I helped found {" "}
-                <a
-                  className=""
-                  href="https://www.tryvirtually.com/">
+                Previously, I helped found{" "}
+                <a className="" href="https://www.tryvirtually.com/">
                   Virtually
                 </a>
                 , where I wrote half the codebase, led an engineering team of 4,
-                and scaled the product from 0 to over 10,000 users. I went through {" "}
-                <a href="https://www.ycombinator.com/">Y Combinator's</a> startup accelerator with the founder and we raised
-                about $2M in funding from Tiger Global.
+                and scaled the product from 0 to over 10,000 users. I went
+                through{" "}
+                <a href="https://www.ycombinator.com/">Y Combinator's</a>{" "}
+                startup accelerator with the founder and we raised about $2M in
+                funding from Tiger Global.
               </p>
               <p>
-                I've also worked at Microsoft, Clinc AI, and Fidelity Investments. I studied computer
-                science and data science at the University of Michigan.
+                I've also worked at Microsoft, Clinc AI, and Fidelity
+                Investments. I studied computer science and data science at the
+                University of Michigan.
               </p>
               <br></br>
               <p>
-                📍 I'm originally from California but I've also lived in Oregon, Taipei, Shanghai, Massachusetts, Michigan, and Nevada. I currently live in San Francisco.
+                📍 I'm originally from California but I've also lived in Oregon,
+                Taipei, Shanghai, Massachusetts, Michigan, and Nevada. I
+                currently live in San Francisco.
               </p>
             </div>
           </div>
@@ -101,7 +117,8 @@ export default function IndexPage() {
               <li>
                 11/2021{" "}
                 <a href="/posts/ironman">
-                  The Hardest Thing I've Ever Done: Completing a 140.6-mile Ironman Triathlon Race
+                  The Hardest Thing I've Ever Done: Completing a 140.6-mile
+                  Ironman Triathlon Race
                 </a>
               </li>
 
@@ -112,9 +129,9 @@ export default function IndexPage() {
 
               <li>
                 08/2019{" "}
-                <a href="/posts/whitney">	
-                  We Climbed the Tallest Mountain in the 
-                  Contiguous US and Had To Drink Piss to Survive
+                <a href="/posts/whitney">
+                  We Climbed the Tallest Mountain in the Contiguous US and Had
+                  To Drink Piss to Survive
                 </a>
               </li>
 
@@ -131,10 +148,9 @@ export default function IndexPage() {
 
           <div>
             <p>
-              See my 
-              LinkedIn (
-              <a href="https://linkedin.com/in/wesleytian">wesleytian</a>) or shoot me an
-              email (
+              See my LinkedIn (
+              <a href="https://linkedin.com/in/wesleytian">wesleytian</a>) or
+              shoot me an email (
               <a href="mailto:tian.wesley@gmail.com">tian.wesley@gmail.com</a>).
             </p>
           </div>
