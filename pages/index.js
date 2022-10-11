@@ -144,16 +144,14 @@ export default function IndexPage() {
           <div>
             <a href="/projects">Here</a> are some fun projects that I've worked
             on.
-            {/* <ul>
-              <li></li>
-              <li></li>
-            </ul> */}
           </div>
 
           <div>
             <p>
               See my LinkedIn (
-              <a href="https://linkedin.com/in/wesleytian">wesleytian</a>) or
+              <a href="https://linkedin.com/in/wesleytian">wesleytian</a>),
+              Twitter (
+              <a href="https://twitter.com/wesleyytian">@wesleyytian</a>) or
               shoot me an email (
               <a href="mailto:tian.wesley@gmail.com">tian.wesley@gmail.com</a>).
             </p>
