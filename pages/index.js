@@ -62,24 +62,23 @@ export default function IndexPage() {
             <div>
               <div>
                 <p>
-                  🧑🏻‍💻 I'm currently a software engineer at{" "}
-                  <a className="" href="https://www.fractional.app/">
-                    Fractional
-                  </a>
-                  , where you can purchase fractions of real estate investments.
+                  I'm the CEO and co-founder of Aragon AI, an applied AI company
+                  currently in stealth.
                 </p>
               </div>
               <p>
-                Previously, I helped found{" "}
-                <a className="" href="https://www.tryvirtually.com/">
-                  Virtually
+                Previously, I was the 3rd engineer at{" "}
+                <a className="" href="https://www.fractional.app/">
+                  Fractional (YC W21)
                 </a>
-                , where I wrote half the codebase, led an engineering team of 4,
-                and scaled the product from 0 to over 10,000 users. I went
-                through{" "}
-                <a href="https://www.ycombinator.com/">Y Combinator's</a>{" "}
-                startup accelerator with the founder and we raised about $2M in
-                funding from Tiger Global.
+                , a proptech company which has raised over $20M. Before that, I
+                helped found{" "}
+                <a className="" href="https://www.tryvirtually.com/">
+                  Virtually (YC S20)
+                </a>{" "}
+                an edtech company as the 1st engineer. There, I wrote half the
+                codebase and scaled the product from 0 to over paying 10,000
+                students.
               </p>
               <p>
                 I've also worked at Microsoft, Clinc AI, and Fidelity
@@ -99,7 +98,7 @@ export default function IndexPage() {
             <p>✍️ Sometimes, I like to write:</p>
             <ul>
               <li>
-                05/2022 <a href="/posts/sf">I &lt;3 SF</a>
+                05/2022 <a href="/posts/sf">I ❤️ SF</a>
               </li>
 
               <li>
@@ -110,10 +109,10 @@ export default function IndexPage() {
                 </a>
               </li>
 
-              <li>
+              {/* <li>
                 07/2020{" "}
                 <a href="/posts/reno">Why You Should Move to Reno, Nevada</a>
-              </li>
+              </li> */}
 
               <li>
                 08/2019{" "}
@@ -127,11 +126,28 @@ export default function IndexPage() {
                 06/2019 <a href="/posts/gpa">How I Nearly Failed High School</a>{" "}
                 <span style={{ color: "gray" }}>(views: {views})</span>
               </li>
+
+              <li>
+                12/2017{" "}
+                <a href="http://localhost:8000/projects/ai-paper.pdf">
+                  From Human-Level Artificial Intelligence to Superintelligent
+                  Artificial Intelligence
+                </a>
+              </li>
             </ul>
 
             <p>
               You can find some of my other pieces <a href="/posts">here</a>.
             </p>
+          </div>
+
+          <div>
+            <a href="/projects">Here</a> are some fun projects that I've worked
+            on.
+            {/* <ul>
+              <li></li>
+              <li></li>
+            </ul> */}
           </div>
 
           <div>
