@@ -77,7 +77,7 @@ export default function IndexPage() {
                   Virtually (YC S20)
                 </a>{" "}
                 an edtech company as the 1st engineer. There, I wrote half the
-                codebase and scaled the product from 0 to over paying 10,000
+                codebase and scaled the product from 0 to over 10,000 paying
                 students.
               </p>
               <p>
@@ -129,7 +129,7 @@ export default function IndexPage() {
 
               <li>
                 12/2017{" "}
-                <a href="http://localhost:8000/projects/ai-paper.pdf">
+                <a href="/projects/ai-paper.pdf">
                   From Human-Level Artificial Intelligence to Superintelligent
                   Artificial Intelligence
                 </a>
