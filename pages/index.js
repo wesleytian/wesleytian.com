@@ -62,8 +62,11 @@ export default function IndexPage() {
             <div>
               <div>
                 <p>
-                  I'm the CEO and co-founder of Aragon AI, an applied AI company
-                  currently in stealth.
+                  I'm the CEO and co-founder of{" "}
+                  <a className="" href="https://www.aragon.ai/">
+                    Aragon AI
+                  </a>
+                  . Stay tuned... Big launch soon!
                 </p>
               </div>
               <p>
