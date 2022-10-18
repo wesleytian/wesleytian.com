@@ -62,11 +62,11 @@ export default function IndexPage() {
             <div>
               <div>
                 <p>
-                  I'm the CEO and co-founder of{" "}
+                  Currently founding and building{" "}
                   <a className="" href="https://www.aragon.ai/">
                     Aragon AI
                   </a>
-                  . Stay tuned... Big launch soon!
+                  . Stay tuned...
                 </p>
               </div>
               <p>
@@ -74,8 +74,11 @@ export default function IndexPage() {
                 <a className="" href="https://www.fractional.app/">
                   Fractional (YC W21)
                 </a>
-                , a proptech company which has raised over $20M. Before that, I
-                helped found{" "}
+                , a proptech company which has raised over $20M. I joined at the
+                seed stage and left at 400K MRR.
+              </p>
+              <p>
+                Before that, I helped found{" "}
                 <a className="" href="https://www.tryvirtually.com/">
                   Virtually (YC S20)
                 </a>{" "}
@@ -84,11 +87,13 @@ export default function IndexPage() {
                 students.
               </p>
               <p>
-                I've also worked at Microsoft, Clinc AI, and Fidelity
-                Investments. I studied computer science and data science at the
-                University of Michigan.
+                I was also on the core AI team at Clinc AI and a software
+                engineer at Microsoft. I studied computer science and data
+                science at the University of Michigan.
               </p>
               <br></br>
+
+              {/* <div>Personal</div> */}
               <p>
                 📍 I'm originally from California but I've also lived in Oregon,
                 Taipei, Shanghai, Massachusetts, Michigan, and Nevada. I
