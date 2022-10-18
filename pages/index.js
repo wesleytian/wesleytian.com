@@ -82,7 +82,7 @@ export default function IndexPage() {
                 <a className="" href="https://www.tryvirtually.com/">
                   Virtually (YC S20)
                 </a>{" "}
-                an edtech company as the 1st engineer. There, I wrote half the
+                an edtech company as the first hire. There, I wrote half the
                 codebase and scaled the product from 0 to over 10,000 paying
                 students.
               </p>
