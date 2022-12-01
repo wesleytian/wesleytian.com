@@ -63,7 +63,7 @@ export default function IndexPage() {
               <div>
                 <p>
                   Building{" "}
-                  <a className="" href="https://twitter.com/Aragon_AI">
+                  <a className="" href="https://www.aragon.ai">
                     Aragon
                   </a>
                   .
