@@ -62,51 +62,58 @@ export default function IndexPage() {
             <div>
               <div>
                 <p>
-                  Building{" "}
+                  I'm building{" "}
                   <a className="" href="https://www.aragon.ai">
-                    Aragon
+                    Aragon AI
                   </a>
                   .
                 </p>
               </div>
               <p>
-                Previously, I was the 3rd engineer at{" "}
+                Previously, I was the third engineer at{" "}
                 <a className="" href="https://www.fractional.app/">
-                  Fractional (YC W21)
+                  Fractional
                 </a>
-                , a proptech company which has raised over $20M. I joined at the
-                seed stage and left at 400K MRR.
+                , a proptech company that has raised over $20M from investors
+                such as Fifth Wall, CRV, Soma Capital, Y Combinator, Will Smith,
+                Kevin Durant, etc.
               </p>
               <p>
-                Before that, I helped found{" "}
+                Before that, I was the first employee and a founding member of{" "}
                 <a className="" href="https://www.tryvirtually.com/">
-                  Virtually (YC S20)
+                  Virtually
                 </a>{" "}
-                an edtech company as the first hire. There, I wrote half the
-                codebase and scaled the product from 0 to over 10,000 paying
-                students.
+                , an edtech company. I went through Y Combinator with the
+                founder and led a four-person engineering team. We were funded
+                by Tiger Global, among others.
               </p>
               <p>
                 I was also on the core AI team at Clinc AI and a software
-                engineer at Microsoft. I studied computer science and data
+                engineer at Microsoft. I double majored in computer and data
                 science at the University of Michigan.
               </p>
-              <br></br>
+              {/* <br></br> */}
 
               {/* <div>Personal</div> */}
               <p>
                 📍 I'm originally from California but I've also lived in Oregon,
                 Taipei, Shanghai, Massachusetts, Michigan, and Nevada. I
-                currently live in San Francisco.
+                currently live near Hayes Valley, San Francisco. If you're in
+                the area, come say hi!
               </p>
             </div>
           </div>
-          <br></br>
+          {/* <br></br> */}
           <div>
             <p>✍️ Sometimes, I like to write:</p>
             <ul>
               <li>
-                05/2022 <a href="/posts/sf">I ❤️ SF</a>
+                12/2022{" "}
+                <a href="/posts/2022">🆕 2022: The Best Year of My Life</a>
+              </li>
+
+              <li>
+                05/2022 <a href="/posts/sf">San Francisco</a>
               </li>
 
               <li>
@@ -132,7 +139,7 @@ export default function IndexPage() {
 
               <li>
                 06/2019 <a href="/posts/gpa">How I Nearly Failed High School</a>{" "}
-                <span style={{ color: "gray" }}>(views: {views})</span>
+                {/* <span style={{ color: "gray" }}>(views: {views})</span> */}
               </li>
 
               <li>
@@ -156,9 +163,9 @@ export default function IndexPage() {
 
           <div>
             <p>
-              See my LinkedIn (
+              Connect with me on LinkedIn (
               <a href="https://linkedin.com/in/wesleytian">wesleytian</a>),
-              Twitter (
+              follow me on Twitter (
               <a href="https://twitter.com/wesleyytian">@wesleyytian</a>) or
               shoot me an email (
               <a href="mailto:tian.wesley@gmail.com">tian.wesley@gmail.com</a>).
