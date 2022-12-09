@@ -63,7 +63,7 @@ export default function IndexPage() {
               <div>
                 <p>
                   I'm currently working on{" "}
-                  <a className="" href="https://www.aragon.ai">
+                  <a className="" href="https://www.aragon.ai/?src=wesleytian">
                     Aragon AI
                   </a>
                   .
