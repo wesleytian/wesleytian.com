@@ -62,7 +62,7 @@ export default function IndexPage() {
             <div>
               <div>
                 <p>
-                  I'm building{" "}
+                  I'm currently working on{" "}
                   <a className="" href="https://www.aragon.ai">
                     Aragon AI
                   </a>
