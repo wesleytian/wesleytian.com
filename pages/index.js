@@ -109,7 +109,7 @@ export default function IndexPage() {
             <ul>
               <li>
                 12/2022{" "}
-                <a href="/posts/2022">🆕 2022: The Best Year of My Life</a>
+                <a href="/posts/2022">🆕 2022: The Best Year of My Life 🆕</a>
               </li>
 
               <li>
