@@ -63,7 +63,7 @@ Reason 2: Attractive and Close to Existing Talent
 - Close enough to the Bay Area for local sources of talent.
 - Tons of tech workers visit Lake Tahoe each year.
 - A decent climate that's cool at night even in the summer. It's no San Francisco or San Diego, but it has four seasons, and its weather is milder than Michigan's.
-![img](/posts/reno-weather.png)
+  ![img](/posts/reno-weather.png)
 
 Reason 3: Existing Growth
 
@@ -110,7 +110,10 @@ Though my reasons for moving to Reno will not apply to everyone, I hope by readi
 
 So, yeah. That's why I'm moving to Reno, Nevada!
 
+P.S. If you're looking for a moving service for moving to Reno, check out [Three Movers](https://threemovers.com/nevada/reno/), one of the best moving services for moving to Reno!
+
 ![img](/posts/south-lake-tahoe.jpg)
+
 <center> South Lake Tahoe, Nevada </center>
 
 Adios, Ann Arbor. Thanks for being my home for the past three years. 😊 I'm going to miss you!
