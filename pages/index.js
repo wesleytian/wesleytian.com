@@ -108,47 +108,40 @@ export default function IndexPage() {
               through it right now.
             </p>
 
-            <p>
-              I've been passionate about AI since I was 17 and wanted to be a
-              data scientist.
-            </p>
+            <p>I've been passionate about AI since I was 17.</p>
             <ul>
               <li>
-                {" "}
-                At the University of Michigan, I did applied AI research under
-                Prof. Jenna Wiens
+                I did applied AI research under Prof. Jenna Wiens at the
+                University of Michigan
               </li>
               <li>
-                {" "}
-                I also wrote this paper under Prof. Rich Thomason{" "}
+                I wrote{" "}
                 <a href="/projects/ai-paper.pdf" target="_blank">
                   From Human-Level A.I. to Superintelligent A.I.: Scenarios,
                   Paths, and Counter Arguments
-                </a>
+                </a>{" "}
+                under Prof. Rich Thomason
               </li>
               <li>
                 {" "}
-                And I've won a bunch of competitive ML competitions (e.g.
-                Kaggle)
+                I've won multiple machine learning competitions (see below)
               </li>
             </ul>
 
             <p>After college, I helped build a few startups:</p>
             <ul>
+              <li> Raised money to start a stock market for sports tickets</li>
+              <li> Helped found Virtually (YC S20) as employee #1</li>
+
               <li>
                 {" "}
-                Raised pre-seed to start a stock market for sports tickets
+                Went through the Y Combinator startup accelerator with
+                Virtually's founder and raised $2M from Tiger Global
               </li>
               <li>
                 {" "}
-                Helped found Virtually (YC S20). Raised seed from Tiger Global.
+                Helped Fractional raised their $20M Series A as employee #4
               </li>
-              <li>
-                {" "}
-                Went through the Y Combinator startup accelerator with the
-                founder.
-              </li>
-              <li> Helped Fractional raised their Series A.</li>
             </ul>
 
             <p>
@@ -160,21 +153,22 @@ export default function IndexPage() {
             </p>
 
             <p>
-              Recently, my co-founder and I built the very first{" "}
+              We're working in the AI image space right now. Recently, my
+              co-founder and I built the very first{" "}
               <a
                 href="https://www.aragon.ai/?utm-source=wesleytian.com"
                 target="_blank">
                 AI headshots business
               </a>{" "}
-              using{" "}
+              using cutting-edge{" "}
               <a href="https://arxiv.org/abs/2208.12242" target="_blank">
-                cutting-edge AI research
+                AI research
               </a>
-              . We scaled it to profitability. We're excited for what's next.
+              . We recently became profitable. I'm excited for what's next.
             </p>
             <p>
-              We used AI to generate these headshots for our customers. No human
-              photographers:
+              Here's a sample of our work. These are 100% AI-generated. No human
+              photographers involved.
             </p>
             <div
               style={{
@@ -272,7 +266,7 @@ export default function IndexPage() {
               <button
                 style={{ marginLeft: "12px" }}
                 onClick={handleAragonClick}>
-                Get Your Headshot Now
+                Create Yours Now
               </button>
             </div>
           </section>
