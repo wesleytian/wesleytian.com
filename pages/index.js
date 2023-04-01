@@ -272,7 +272,7 @@ export default function IndexPage() {
               <button
                 style={{ marginLeft: "12px" }}
                 onClick={handleAragonClick}>
-                Get Your Own Headshots Here
+                Get Your Headshot Now
               </button>
             </div>
           </section>
