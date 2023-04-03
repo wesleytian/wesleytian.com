@@ -122,10 +122,7 @@ export default function IndexPage() {
                 </a>{" "}
                 under Prof. Rich Thomason
               </li>
-              <li>
-                {" "}
-                I've won multiple machine learning competitions (see below)
-              </li>
+              <li> I did competitive machine learning (see below)</li>
             </ul>
 
             <p>After college, I helped build a few startups:</p>
