@@ -153,8 +153,8 @@ export default function IndexPage() {
             </p>
 
             <p>
-              We're working in the AI image space right now. Recently, my
-              co-founder and I built the very first{" "}
+              My co-founder and I are building Aragon AI. One of our products
+              was the very first{" "}
               <a
                 href="https://www.aragon.ai/?utm-source=wesleytian.com"
                 target="_blank">
@@ -164,7 +164,11 @@ export default function IndexPage() {
               <a href="https://arxiv.org/abs/2208.12242" target="_blank">
                 AI research
               </a>
-              . We recently became profitable. I'm excited for what's next.
+              . We have thousands of users and are backed by the{" "}
+              <a href="https://www.zfellows.com/" target="_blank">
+                Z Fellowship
+              </a>{" "}
+              (&lt; 1% acceptance rate).
             </p>
             <p>
               Here's a sample of our work. These are 100% AI-generated. No human
@@ -278,7 +282,7 @@ export default function IndexPage() {
                 Remote Thermostat{" "}
                 <a href="/posts/ac_hack" target="_blank">
                   Background
-                </a>
+                </a>{" "}
                 <div
                   style={{
                     width: "1px",
@@ -288,6 +292,19 @@ export default function IndexPage() {
                     margin: "0 10px"
                   }}></div>
                 <a
+                  href="https://github.com/wesleytian/thermostat-pro"
+                  target="_blank">
+                  GitHub
+                </a>
+                {/* <div
+                  style={{
+                    width: "1px",
+                    height: "10px",
+                    backgroundColor: "#333",
+                    display: "inline-block",
+                    margin: "0 10px"
+                  }}></div> */}
+                {/* <a
                   href="#"
                   onClick={(event) => {
                     event.preventDefault();
@@ -295,20 +312,31 @@ export default function IndexPage() {
                   }}>
                   {isCollapsed ? "Show Pics" : "Hide Pics"}
                 </a>
-                {!isCollapsed && (
+                {!isCollapsed && ( */}
+                <div>
+                  <span style={{ marginRight: "0.5rem" }}>
+                    <Image
+                      src="/posts/thermostat-pro-prototype2.png"
+                      alt="Remote Thermostat"
+                      width={284}
+                      height={200}
+                      style={{ borderRadius: "0.5rem" }}
+                    />
+                  </span>
                   <Image
                     src="/posts/remote-thermostat-v1.0.jpeg"
                     alt="Remote Thermostat"
-                    width={420}
-                    height={420}
+                    width={200}
+                    height={200}
                     style={{ borderRadius: "0.5rem" }}
                   />
-                )}
+                </div>
+                {/* )} */}
               </li>
               <div></div>
               <li>
                 Final Project Competition @ EECS 445: Machine Learning (🏆
-                #1/205)
+                #1/205 students)
               </li>
               <li>
                 White Cane @ MHacks 11{" "}
@@ -327,10 +355,10 @@ export default function IndexPage() {
 
               <li>
                 Digital Interview Experience @ Fidelity Investments Hackathon
-                2017 (🏆 #1/12)
+                2017 (🏆 #1/12 teams)
               </li>
               <li>
-                ASSISTments Data Mining Competition (🏆 #3/74){" "}
+                ASSISTments Data Mining Competition (🏆 #3/74 teams){" "}
                 <a href="/projects/assistments-report.pdf" target="_blank">
                   Report
                 </a>
@@ -351,11 +379,16 @@ export default function IndexPage() {
 
               <li>
                 Google Analytics Customer Revenue Prediction Kaggle Competition
-                (#125/1089)
+                (#123/1084 teams){" "}
+                <a
+                  href="https://www.kaggle.com/competitions/ga-customer-revenue-prediction/"
+                  target="_blank">
+                  Details
+                </a>
               </li>
               <li>
-                UN Millenium Development Goals DrivenData Competition
-                (#17/2000+)
+                UN Millenium Development Goals DrivenData Competition (#17/2000+
+                teams)
               </li>
             </ul>
             {/* <button onClick={handleProjectsClick}>See All Projects</button> */}
@@ -382,13 +415,14 @@ export default function IndexPage() {
               <li>
                 {/* 08/2019{" "} */}
                 <a href="/posts/whitney">
-                  How We Climbed the Tallest Mountain in the US and Drank Piss
-                  to Survive
+                  We Climbed the Tallest Mountain in the US and Drank Piss to
+                  Survive
                 </a>
               </li>
 
               <li>
                 <a href="/posts/gpa">How I Nearly Failed High School</a>{" "}
+                {/* <p>Though I had a 1.9 GPA in high school</p> */}
                 {/* <span style={{ color: "gray" }}>(views: {views})</span> */}
               </li>
             </ul>
@@ -397,49 +431,73 @@ export default function IndexPage() {
 
           <section id="story">
             <Divider />
-            <h2>My Story</h2>
-            <p>Work in progress.</p>
-            {/* <p>Determination, Ambition, and Resilience</p>
+            <h2>My Influences</h2>
+            {/* <p>Some of my life-defining experiences:</p> */}
             <ul>
               <li>
-                Born in the heart of Silicon Valley, I grew up inspired by my
-                father's story from a farmer in rural China to the CEO of a
-                publicly traded semiconductor company.
+                <p>
+                  I've moved around a lot growing up. Places where I've lived:
+                </p>
+                <ul>
+                  <li>Born in Mountain View, CA</li>
+                  <li>Milpitas, CA (5 years)</li>
+                  <li>Oregon (1 year)</li>
+                  <li>Taiwan (2 years)</li>
+                  <li>Oregon (1 year)</li>
+                  <li>Shanghai (8 years)</li>
+                  <li>Massachusetts (2 years)</li>
+                  <li>Michigan (3 years)</li>
+                  <li>Nevada (1 year)</li>
+                  <li>Milpitas, CA (1 year)</li>
+                  <li>I currently live in San Francisco, CA (1 year)</li>
+                </ul>
+                <p>
+                  These moves taught me adaptability, resilience, and
+                  open-mindedness.
+                </p>
               </li>
-              <li>
-                As a result, I also lived in Oregon, Taiwan, and Shanghai.
-              </li>
-              <li>
-                This inspiration combined with my experiences growing up all
-                around the world fostered my adapatability and resilience while
-                nurturing my love for challenges and self-improvement, such as
-                my pursuit of completing the world's hardest race, an Ironman.
-              </li>
-            </ul>
 
-            <ul>
-              <li></li>
-            </ul>
-            <p>
-              My high school journey was not without its obstacles, as I faced
-              academic difficulties with a GPA once dipping to 1.9 due to my
-              commitment to becoming a pro League of Legends player. However, I
-              overcame these challenges through determination and hard work,
-              eventually attending the University of Massachusetts and later
-              transferring to the University of Michigan. There, I was honored
-              to lead a competitive machine learning team as president.
-            </p>
+              <li>
+                <p>
+                  One of my biggest inspirations is my father, who was forced to
+                  spend his teenage years manually farming due to China's
+                  Cultural Revolution. He carried buckets of water on his
+                  shoulders to his family everyday and has multiple scars on his
+                  hands from using farming scythes. He never got the chance to
+                  finish middle or high school. Through extreme grit, he
+                  eventually made it to the USA, studied electrical engineering,
+                  and moved to Silicon Valley to contribute to the semiconductor
+                  and computing industry. Against all odds, he's now the CEO of
+                  a public semiconductor company.
+                </p>
+                <p>
+                  He's been an inspiration for my interest in deep tech, my
+                  ambition for advancing humanity, and the belief that anything
+                  is possible.
+                </p>
+              </li>
+              <li>Elon Musk</li>
+              {/* <li>
+                <p>
+                  Other inspirations in my life include my sister, Jeni, who is
+                  also an entrepreneur and co-founded Frilly; my grandparents,
+                  one of whom is a famous painter and art professor, and the
+                  other a famous musician, composer, and conductor; and of
+                  course, Elon Musk, one of the greatest entrepreneurs of all
+                  time.
+                </p>
+              </li> */}
 
-            <ul>
-              <li>Since </li>
+              {/* <li>
+                During high school, I spent a summer attending military camp in
+                Kentucky. It was as legit as you can imagine. We all got
+                buzzcuts, the bathroom stalls had no doors, we had no access to
+                electronics for the entire summer, we had to fold hospital
+                corners every morning, we had PT at 5 am every morning, and.
+              </li> */}
+
+              {/* <li>I grew up playing tons of sports. </li> */}
             </ul>
-            <p>
-              My professional journey includes various enriching experiences,
-              from interning at Microsoft to being a founding member of 2 Y
-              Combinator startups, completing the selective Z Fellows program,
-              and gaining valuable life skills through my US military
-              involvement in high school.
-            </p> */}
           </section>
         </div>
       </main>
