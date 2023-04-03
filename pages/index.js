@@ -152,7 +152,7 @@ export default function IndexPage() {
             <p>
               My co-founder and I are building{" "}
               <a
-                href="https://www.aragon.ai/?utm-source=wesleytian.com"
+                href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral"
                 target="_blank">
                 Aragon AI
               </a>

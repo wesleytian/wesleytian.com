@@ -3,11 +3,12 @@ title: "I Nearly Failed High School"
 date: "2019-06-13"
 ---
 
-> *If you don't believe in yourself, nobody else will. – Me*
+> _If you don't believe in yourself, nobody else will. – Me_
 
 During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended the first semester of junior year with a 1.95 / 4.00 GPA. For those who aren't familiar with the GPA scale, 1.95 is equal to a C- (73%-70%).
 
 ![img](/posts/transcript.jpeg)
+
 <center><i>My official high school transcript</i></center>
 
 I applied to college with a 2.92 GPA.
@@ -27,6 +28,7 @@ It was around that point when I decided that I would stop at nothing to become o
 Of the 25 million players, I was stuck at the bottom 3% of them for two years. I was in what they called "Elo hell" (Elo is the name of the player ranking system. It's the same ranking that chess players use.)
 
 ![img](/posts/league-of-legends-elo-hell.png)
+
 <center><i>The rankings are logarithmic, ranging from 500-2500</i></center>
 
 I began to spend more and more time on improving my game mechanics.
@@ -49,7 +51,7 @@ I've always had big dreams. Everybody should. I dislike people who laugh at othe
 
 Like my dream of becoming the top 1% of players in League of Legends, I kept on dreaming, kept on setting goals for myself, and kept on achieving them.
 
-> *“Those who are crazy enough to think they can change the world usually do.” – Steve Jobs*
+> _“Those who are crazy enough to think they can change the world usually do.” – Steve Jobs_
 
 I remember that my biggest goal as a kid was to become a billionaire. I don't know why. It just seemed like a goal that was challenging.
 
@@ -62,9 +64,11 @@ I quit gaming cold turkey and started studying because I had a new goal in mind.
 It wasn't easy, but during my first semester at UMass Amherst, I took 18 credits (18 credits is the most you can take without having to pay extra tuition) and got a 4.00 GPA.
 
 ![img](/posts/umass-amherst-freshman-transcript.png)
+
 <center><i>My first semester of college at UMass Amherst</i></center>
 
 ![img](/posts/umich-senior-transcript.png)
+
 <center><i>My last semester of college at UMich</i></center>
 
 After that, my goal was to get an internship at a Big 4 tech company (Facebook, Amazon, Microsoft, Google), which I achieved in September 2018 by doing LeetCode questions all summer long on top of a full-time job.
@@ -79,14 +83,23 @@ One day, I will start a billion-dollar company.
 
 Note: It's also okay if your goals change. Unexpected things happen and there's nothing wrong with changing your goals, as long as you don't change them too often. To know when a goal is worth changing, I reflect and ask myself the following question, "is this goal taking me in the direction that makes me happy day-after-day or am I doing something just because other people think it's the cool thing to do?"
 
-For example, between my sophomore and senior year, the only thing that I wanted to do was to pursue research in machine learning (ex. get a Ph.D. in machine learning at Stanford, then work at Google DeepMind.) I went soul-searching for quite a while, but finally realized that I was only doing it because it was the hottest thing in computer science and not because I enjoyed the work. What I enjoyed was leading others and building communities and products. See [*Being President Was The Best Thing I Did In College*](/posts/president/).
+For example, between my sophomore and senior year, the only thing that I wanted to do was to pursue research in machine learning (ex. get a Ph.D. in machine learning at Stanford, then work at Google DeepMind.) I went soul-searching for quite a while, but finally realized that I was only doing it because it was the hottest thing in computer science and not because I enjoyed the work. What I enjoyed was leading others and building communities and products. See [_Being President Was The Best Thing I Did In College_](/posts/president/).
 
 Through a personal anecdote, I hope you realize the benefit of dreaming often and to never stop believing in yourself. As long as you dream and believe in yourself, you will do what is necessary to achieve your dreams. As a wise man once said,
 
-> *"Shoot for the moon, even if you miss, you'll land amongst the stars."*
+> _"Shoot for the moon, even if you miss, you'll land amongst the stars."_
 
-***Update: May, 2020***  
-*I found my dream job. See* [*How I Found My Dream Job and 3 Tips On How You Can, Too*](/posts/dream-job/).
+**_Update: May, 2020_**  
+_I found my dream job. See_ [_How I Found My Dream Job and 3 Tips On How You Can, Too_](/posts/dream-job/).
 
-***Update: November, 2021***  
-*I did an Ironman. See* [*The Hardest Year Of My Life: Training For and Finishing a 140.6-mile Ironman Race*](/posts/ironman/).
+**_Update: November, 2021_**  
+_I did an Ironman. See_ [_The Hardest Year Of My Life: Training For and Finishing a 140.6-mile Ironman Race_](/posts/ironman/).
+
+**_Update: October, 2022_**  
+_I started a company called <a href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral" target="_blank">Aragon AI</a>._
+
+**_Update: December, 2022_**  
+_Aragon AI started generating revenue._
+
+**_Update: March, 2023_**  
+_My company, Aragon AI, has received funding from Z Fellows at a $1B valuation cap (valuation cap is not the same as valuation, but it's progress!)._
