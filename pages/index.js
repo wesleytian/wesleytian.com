@@ -150,14 +150,13 @@ export default function IndexPage() {
             </p>
 
             <p>
-              My co-founder and I are building Aragon AI. One of our products
-              was the very first{" "}
+              My co-founder and I are building{" "}
               <a
                 href="https://www.aragon.ai/?utm-source=wesleytian.com"
                 target="_blank">
-                AI headshots business
-              </a>{" "}
-              using cutting-edge{" "}
+                Aragon AI
+              </a>
+              . We built the very first AI headshots business using cutting-edge{" "}
               <a href="https://arxiv.org/abs/2208.12242" target="_blank">
                 AI research
               </a>
