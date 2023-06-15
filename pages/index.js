@@ -179,12 +179,12 @@ export default function IndexPage() {
             </p>
 
             <p>
-              My life goal is to accelerate the development of AI. Development
-              of AI technologies will further permeate the sciences, longevity
-              research, robotics, and the commercialization of nuclear fusion.
-              Nuclear propulsion is the only way we'll ever be able to escape
-              our star system and explore the rest of the universe. And wouldn't
-              that be exciting?
+              My life goal is to accelerate the development of AI and eventually
+              nuclear fusion. Development of AI technologies will further
+              permeate the sciences, longevity research, robotics, and the
+              commercialization of nuclear fusion. Nuclear propulsion is the
+              only way we'll ever be able to escape our star system and explore
+              the rest of the universe. And wouldn't that be exciting?
             </p>
 
             {/* <p>
