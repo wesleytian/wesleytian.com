@@ -104,8 +104,8 @@ export default function IndexPage() {
           <section>
             <Divider />
             <p>
-              AI will be the biggest achievement of humankind. We're living
-              through it right now.
+              AI will be the biggest achievement of humankind. It's going to be
+              bigger than the internet and we're living through it right now.
             </p>
 
             <p>I've been passionate about AI since I was 17.</p>
@@ -117,15 +117,17 @@ export default function IndexPage() {
               <li>
                 I wrote{" "}
                 <a href="/projects/ai-paper.pdf" target="_blank">
-                  From Human-Level A.I. to Superintelligent A.I.: Scenarios,
-                  Paths, and Counter Arguments
+                  From Human-Level AI to Superintelligent AI
                 </a>{" "}
                 under Prof. Rich Thomason
               </li>
               <li> I did some competitive machine learning (see below)</li>
             </ul>
 
-            <p>After college, I helped build a few startups:</p>
+            <p>
+              After college, the timing for AI wasn't right, so I helped build a
+              few startups:
+            </p>
             <ul>
               <li> Founded a stock market for sports tickets (pre-seed)</li>
               <li> Helped found Virtually (YC S20) as employee #1</li>
@@ -141,12 +143,13 @@ export default function IndexPage() {
             </ul>
 
             <p>
-              Now I'm returning to my AI passion. My goal is accelerate the
-              development of AI. Development of AI technologies will further
-              permeate the sciences, longevity research, robotics, and the
-              commercialization of nuclear fusion. Nuclear propulsion is the
-              only way we'll ever be able to escape our star system and explore
-              the rest of the universe.
+              Now I'm returning to my AI passion. Soon after the research paper{" "}
+              <a href="https://arxiv.org/abs/2112.10752" target="_blank">
+                High-Resolution Image Synthesis with Latent Diffusion Models
+              </a>{" "}
+              was released last year, I left my stable job to start an AI
+              company. This was clearly a disrutive technology like the internet
+              and would be my chance of a life-time. How could I not?{" "}
             </p>
 
             <p>
@@ -171,7 +174,17 @@ export default function IndexPage() {
               <a href="https://www.zfellows.com/" target="_blank">
                 Z Fellows
               </a>{" "}
-              and have also received an offer from Y Combinator.
+              and have also received an offer from Y Combinator (which we turned
+              down).
+            </p>
+
+            <p>
+              My life goal is to accelerate the development of AI. Development
+              of AI technologies will further permeate the sciences, longevity
+              research, robotics, and the commercialization of nuclear fusion.
+              Nuclear propulsion is the only way we'll ever be able to escape
+              our star system and explore the rest of the universe. And wouldn't
+              that be exciting?
             </p>
 
             {/* <p>
