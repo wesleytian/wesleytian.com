@@ -141,10 +141,10 @@ export default function IndexPage() {
             </ul>
 
             <p>
-              Now I'm returning to my AI passion. Soon after the open-source
+              Now I'm returning to my AI passion. Soon after an open-source
               version of{" "}
               <a href="https://arxiv.org/abs/2112.10752" target="_blank">
-                High-Resolution Image Synthesis with Latent Diffusion Models
+                Latent Diffusion Models
               </a>{" "}
               was released last year, I left my stable job to start an AI
               company. This was clearly a disrutive technology and would be my
