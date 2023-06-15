@@ -460,6 +460,7 @@ export default function IndexPage() {
                 </p>
               </li>
               <li>Elon Musk</li>
+              <li>Many other people in my life.</li>
               {/* <li>
                 <p>
                   Other inspirations in my life include my sister, Jeni, who is
