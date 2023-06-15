@@ -122,14 +122,13 @@ export default function IndexPage() {
                 </a>{" "}
                 under Prof. Rich Thomason
               </li>
-              <li> I did competitive machine learning (see below)</li>
+              <li> I did some competitive machine learning (see below)</li>
             </ul>
 
             <p>After college, I helped build a few startups:</p>
             <ul>
-              <li> Raised money to start a stock market for sports tickets</li>
+              <li> Founded a stock market for sports tickets (pre-seed)</li>
               <li> Helped found Virtually (YC S20) as employee #1</li>
-
               <li>
                 {" "}
                 Went through the Y Combinator startup accelerator with
@@ -137,7 +136,7 @@ export default function IndexPage() {
               </li>
               <li>
                 {" "}
-                Helped Fractional raised their $20M Series A as employee #4
+                Helped Fractional raise their $20M Series A as employee #4
               </li>
             </ul>
 
@@ -150,27 +149,15 @@ export default function IndexPage() {
             </p>
 
             <p>
-              My co-founder and I are building{" "}
-              <a
-                href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral"
-                target="_blank">
-                Aragon AI
-              </a>
-              . We built the very first AI headshots business using cutting-edge{" "}
-              <a href="https://arxiv.org/abs/2208.12242" target="_blank">
-                AI research
-              </a>
-              . We have thousands of users and are backed by the{" "}
-              <a href="https://www.zfellows.com/" target="_blank">
-                Z Fellowship
-              </a>{" "}
-              (&lt; 1% acceptance rate).
+              My co-founder and I are on a mission to replace digital
+              photography with AI. Just like how digital replaced film industry
+              in the 1990s, we believe AI will do the same to digital.
             </p>
-            <p>
+            {/* <p>
               Here's a sample of our work. These are 100% AI-generated. No human
               photographers involved.
-            </p>
-            <div
+            </p> */}
+            {/* <div
               style={{
                 display: "flex",
                 justifyContent: "space-between"
@@ -196,9 +183,9 @@ export default function IndexPage() {
                 height={351}
                 style={{ borderRadius: "0.5rem" }}
               />
-            </div>
+            </div> */}
 
-            {!picsCollapsed && (
+            {/* {!picsCollapsed && (
               <>
                 <div
                   style={{
@@ -257,8 +244,8 @@ export default function IndexPage() {
                   />
                 </div>
               </>
-            )}
-            <div style={{ marginTop: "12px" }}>
+            )} */}
+            {/* <div style={{ marginTop: "12px" }}>
               <p>All you need to do is upload a few selfies of yourself.</p>
               <button onClick={() => setPicsCollapsed(!picsCollapsed)}>
                 {picsCollapsed ? "Show More" : "Hide"}
@@ -268,7 +255,7 @@ export default function IndexPage() {
                 onClick={handleAragonClick}>
                 Create Yours Now
               </button>
-            </div>
+            </div> */}
           </section>
           <section id="projects-and-awards">
             <Divider />
