@@ -141,13 +141,14 @@ export default function IndexPage() {
             </ul>
 
             <p>
-              Now I'm returning to my AI passion. Soon after the research paper{" "}
+              Now I'm returning to my AI passion. Soon after the open-source
+              version of{" "}
               <a href="https://arxiv.org/abs/2112.10752" target="_blank">
                 High-Resolution Image Synthesis with Latent Diffusion Models
               </a>{" "}
               was released last year, I left my stable job to start an AI
-              company. This was clearly a disrutive technology like the internet
-              and would be my chance of a life-time. How could I not?{" "}
+              company. This was clearly a disrutive technology and would be my
+              chance of a life-time. How could I not?{" "}
             </p>
 
             <p>
@@ -182,7 +183,7 @@ export default function IndexPage() {
               permeate the sciences, longevity research, robotics, and the
               commercialization of nuclear fusion. Nuclear propulsion is the
               only way we'll ever be able to escape our star system and explore
-              the rest of the universe. And wouldn't that be exciting?
+              the rest of the universe. Now wouldn't that be exciting?
             </p>
 
             {/* <p>
