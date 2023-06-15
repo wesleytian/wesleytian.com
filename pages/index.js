@@ -161,8 +161,8 @@ export default function IndexPage() {
               , my co-founder and I are on a mission to replace digital
               photography with AI. Just like how the advent of digital
               photography replaced the film industry in the 1990s, we believe AI
-              will do the same to digital. We're starting with headshot
-              photography.
+              will do the same to digital. We're starting by developing the best
+              AI model for headshot photography.
             </p>
             <p>
               We're currently a profitable team of 7. We have backing from{" "}
