@@ -142,17 +142,38 @@ export default function IndexPage() {
 
             <p>
               Now I'm returning to my AI passion. My goal is accelerate the
-              development of AI. AI will further accelerate science, longevity
-              research, robotics, and the commercialization of nuclear fusion.
-              Nuclear propulsion is the only way we'll ever be able to escape
-              our star system and explore the rest of the universe.
+              development of AI. Development of AI technologies will further
+              permeate the sciences, longevity research, robotics, and the
+              commercialization of nuclear fusion. Nuclear propulsion is the
+              only way we'll ever be able to escape our star system and explore
+              the rest of the universe.
             </p>
 
             <p>
-              My co-founder and I are on a mission to replace digital
-              photography with AI. Just like how digital replaced film industry
-              in the 1990s, we believe AI will do the same to digital.
+              At{" "}
+              <a
+                href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral"
+                target="_blank">
+                Aragon AI
+              </a>
+              , my co-founder and I are on a mission to replace digital
+              photography with AI. Just like how the advent of digital
+              photography replaced the film industry in the 1990s, we believe AI
+              will do the same to digital. We're starting with headshot
+              photography.
             </p>
+            <p>
+              We're currently a profitable team of 7. We have backing from{" "}
+              <a href="https://www.neo.com/" target="_blank">
+                Neo
+              </a>{" "}
+              and{" "}
+              <a href="https://www.zfellows.com/" target="_blank">
+                Z Fellows
+              </a>{" "}
+              and have also received an offer from Y Combinator.
+            </p>
+
             {/* <p>
               Here's a sample of our work. These are 100% AI-generated. No human
               photographers involved.
@@ -449,9 +470,10 @@ export default function IndexPage() {
                   hands from using farming scythes. He never got the chance to
                   finish middle or high school. Through extreme grit, he
                   eventually made it to the USA, studied electrical engineering,
-                  and moved to Silicon Valley to contribute to the semiconductor
-                  and computing industry. Against all odds, he's now the CEO of
-                  a public semiconductor company.
+                  dropped out of his PhD, and moved to Silicon Valley to
+                  contribute to the semiconductor and computing industry.
+                  Against all odds, he's now the CEO of a public semiconductor
+                  company.
                 </p>
                 <p>
                   He's been an inspiration for my interest in deep tech, my
@@ -460,7 +482,7 @@ export default function IndexPage() {
                 </p>
               </li>
               <li>Elon Musk</li>
-              <li>Many other people in my life.</li>
+              <li>The many other people I've met in my life.</li>
               {/* <li>
                 <p>
                   Other inspirations in my life include my sister, Jeni, who is
