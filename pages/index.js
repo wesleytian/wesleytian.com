@@ -130,15 +130,13 @@ export default function IndexPage() {
             </p>
             <ul>
               <li> Founded a stock market for sports tickets (pre-seed)</li>
-              <li> Helped found Virtually (YC S20) as employee #1</li>
               <li>
-                {" "}
-                Went through the Y Combinator startup accelerator with
-                Virtually's founder and raised $2M from Tiger Global
+                Helped found Virtually (YC S20) as employee #1 and went through
+                Y Combinator with the founder (Seed, Acquired)
               </li>
               <li>
                 {" "}
-                Helped Fractional raise their $20M Series A as employee #4
+                Helped build Fractional (YC W21) as employee #4 (Series A)
               </li>
             </ul>
 
