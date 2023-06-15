@@ -5,20 +5,20 @@ import { getViews } from "../lib/firebase";
 import Divider from "./Divider";
 import Footer from "./Footer";
 import Image from "next/image";
-import attached1 from "../public/posts/attached-1.jpg";
-import attached5 from "../public/posts/attached-2.jpg";
-import attached3 from "../public/posts/attached.jpg";
-import attached4 from "../public/posts/attached-4.jpg";
-import attached2 from "../public/posts/attached-5.jpg";
-import attached6 from "../public/posts/attached-6.jpg";
-import attached7 from "../public/posts/attached-7.jpg";
-import attached8 from "../public/posts/attached-10.jpg";
-import attached9 from "../public/posts/attached-9.jpg";
+// import attached1 from "../public/posts/attached-1.jpg";
+// import attached5 from "../public/posts/attached-2.jpg";
+// import attached3 from "../public/posts/attached.jpg";
+// import attached4 from "../public/posts/attached-4.jpg";
+// import attached2 from "../public/posts/attached-5.jpg";
+// import attached6 from "../public/posts/attached-6.jpg";
+// import attached7 from "../public/posts/attached-7.jpg";
+// import attached8 from "../public/posts/attached-10.jpg";
+// import attached9 from "../public/posts/attached-9.jpg";
 
 export default function IndexPage() {
   const [views, setViews] = useState(0);
-  const [isCollapsed, setIsCollapsed] = useState(true);
-  const [picsCollapsed, setPicsCollapsed] = useState(true);
+  // const [isCollapsed, setIsCollapsed] = useState(true);
+  // const [picsCollapsed, setPicsCollapsed] = useState(true);
 
   const currentYear = new Date().getFullYear();
 
@@ -61,9 +61,9 @@ export default function IndexPage() {
     window.open("/projects", "_blank");
   };
 
-  const handleAragonClick = () => {
-    window.open("https://www.aragon.ai/?utm-source=wesleytian.com", "_blank");
-  };
+  // const handleAragonClick = () => {
+  //   window.open("https://www.aragon.ai/?utm-source=wesleytian.com", "_blank");
+  // };
 
   return (
     <div style={containerStyle}>
