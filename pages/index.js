@@ -141,14 +141,10 @@ export default function IndexPage() {
             </ul>
 
             <p>
-              Now I'm returning to my AI passion. Soon after an open-source
-              version of{" "}
-              <a href="https://arxiv.org/abs/2112.10752" target="_blank">
-                Latent Diffusion Models
-              </a>{" "}
-              was released last year, I left my stable job to start an AI
-              company. This was clearly a disrutive technology and would be my
-              chance of a life-time. How could I not?{" "}
+              Now I'm returning to my AI passion. Soon after a breakthrough in
+              ML research was released, I left my stable job to start an AI
+              company. This was clearly an inflection point in the human history
+              and would be my chance of a life-time. How could I not?{" "}
             </p>
 
             <p>
