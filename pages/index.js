@@ -98,7 +98,7 @@ export default function IndexPage() {
               }}
             />
             <h1 styles={{ position: "relative" }}>👋🏼 Hey! I'm Wesley Tian.</h1>
-            <h3>I'm an AI startup founder, futurist, and Ironman.</h3>
+            <h3>I'm an AI startup founder/CEO, futurist, and Ironman.</h3>
           </div>
 
           <section>
@@ -125,54 +125,74 @@ export default function IndexPage() {
             </ul>
 
             <p>
-              After college, the timing for AI wasn't right, so I helped build a
-              few startups:
+              I had the opportunity to pursue research, but I was jaded by
+              academia, so I pursued the next impactful and challenging thing,
+              startups.
             </p>
             <ul>
               <li> Founded a stock market for sports tickets (pre-seed)</li>
               <li>
                 Helped found Virtually (YC S20) as employee #1 and went through
-                Y Combinator with the founder (Seed, Acquired)
+                Y Combinator with the founder (acquired)
               </li>
               <li>
-                {" "}
-                Helped build Fractional (YC W21) as employee #4 (Series A)
+                Helped build Fractional (YC W21) as employee #4 (currently
+                valued at ~$100M)
               </li>
             </ul>
 
             <p>
-              Now I'm returning to my AI passion. Soon after a breakthrough in
-              ML research was released, I left my stable job to start an AI
-              company. This was clearly an inflection point in the human history
-              and would be my chance of a life-time. How could I not?{" "}
-            </p>
-
-            <p>
-              At{" "}
+              My company,{" "}
               <a
                 href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral"
                 target="_blank">
-                Aragon AI
+                Aragon
               </a>
-              , my co-founder and I are on a mission to replace digital
-              photography with AI. Just like how the advent of digital
-              photography replaced the film industry in the 1990s, we believe AI
-              will do the same to digital. We're starting by developing the best
-              AI model for headshot photography.
+              , is an AI platform that generates photorealistic images of
+              individuals. Our first product offers professional headshots. In
+              months, we’ve exponentially grown to hundreds of thousands of
+              users, mostly organically. We’ve also onboarded dozens of
+              businesses–with thousands more in the pipeline. Our vision: unlock
+              an era of hyper-personalization, where individuals become the
+              models in marketing campaigns, online shopping experiences, and
+              more.
             </p>
             <p>
-              We're currently a profitable team of 7. We have backing from{" "}
+              We're a lean but mighty team and are backed by{" "}
               <a href="https://www.neo.com/" target="_blank">
                 Neo
-              </a>{" "}
-              and{" "}
+              </a>
+              ,{" "}
               <a href="https://www.zfellows.com/" target="_blank">
                 Z Fellows
+              </a>
+              ,{" "}
+              <a
+                href="https://www.linkedin.com/in/erik-goldman/"
+                target="_blank">
+                Erik Goldman
+              </a>
+              , and other angels from{" "}
+              <a href="https://openai.com/" target="_blank">
+                OpenAI
+              </a>
+              , Vanta, Scale, Niantic, and many more. We also received an offer
+              from Y Combinator, which we turned down. Read my viral{" "}
+              <a
+                href="https://www.linkedin.com/feed/update/urn:li:activity:7084224156883435521/"
+                target="_blank">
+                LinkedIn post
               </a>{" "}
-              and have also received an offer from Y Combinator (which we turned
-              down).
+              (1M+ impressions) describing my decision-making process. I was
+              also interviewed for{" "}
+              <a
+                href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
+                target="_blank">
+                Business Insider
+              </a>
+              .
             </p>
-
+            {/* 
             <p>
               My life goal is to accelerate the development of AI and eventually
               nuclear fusion. Development of AI technologies will further
@@ -180,7 +200,7 @@ export default function IndexPage() {
               commercialization of nuclear fusion. Nuclear propulsion is the
               only way we'll ever be able to escape our star system and explore
               the rest of the universe. Now wouldn't that be exciting?
-            </p>
+            </p> */}
 
             {/* <p>
               Here's a sample of our work. These are 100% AI-generated. No human
