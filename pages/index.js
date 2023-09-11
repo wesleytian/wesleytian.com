@@ -132,12 +132,12 @@ export default function IndexPage() {
             <ul>
               <li> Founded a stock market for sports tickets (pre-seed)</li>
               <li>
-                Helped found Virtually (YC S20) as employee #1 and went through
-                Y Combinator with the founder (acquired)
+                Helped found Virtually (YC S20) as employee #1, went through Y
+                Combinator with the founder, and became their tech lead (now
+                acquired)
               </li>
               <li>
-                Helped build Fractional (YC W21) as employee #4 (currently
-                valued at ~$100M)
+                Scaled Fractional (YC W21) to ~100M valuation as engineer #3
               </li>
             </ul>
 
