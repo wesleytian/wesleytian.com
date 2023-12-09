@@ -96,10 +96,13 @@ _I found my dream job. See_ [_How I Found My Dream Job and 3 Tips On How You Can
 _I did an Ironman. See_ [_The Hardest Year Of My Life: Training For and Finishing a 140.6-mile Ironman Race_](/posts/ironman/).
 
 **_Update: October, 2022_**  
-_I started a company called <a href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral" target="_blank">Aragon AI</a>._
+_I started a company called <a href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral" target="_blank">Aragon.ai</a>._
 
 **_Update: December, 2022_**  
-_Aragon AI started generating revenue._
+_Aragon.ai started generating revenue._
 
 **_Update: March, 2023_**  
-_My company, Aragon AI, has received funding from Z Fellows at a $1B valuation cap (valuation cap is not the same as valuation, but it's progress!)._
+_My company, Aragon.ai, has received funding from Z Fellows at a $1B valuation cap (valuation cap is not the same as valuation, but it's progress!)._
+
+**_Update: Some time later in 2023_**  
+_Aragon.ai reached over $1M annual run rate and raised money at a $10M floor valuation cap!_

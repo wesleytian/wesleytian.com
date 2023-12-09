@@ -429,7 +429,7 @@ export default function IndexPage() {
           <section id="writing">
             <Divider />
             <h2>My Writing</h2>
-            <p>Over 30,000 total reads.</p>
+            <p>Over 40,000 total reads.</p>
             <ul>
               <li>
                 <a href="/posts/ironman">
@@ -456,6 +456,20 @@ export default function IndexPage() {
                 <a href="/posts/gpa">How I Nearly Failed High School</a>{" "}
                 {/* <p>Though I had a 1.9 GPA in high school</p> */}
                 {/* <span style={{ color: "gray" }}>(views: {views})</span> */}
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/feed/update/urn:li:share:7119362559106826240/"
+                  target="_blank">
+                  My Military Experience
+                </a>
+                <Image
+                  src="/posts/military.jpg"
+                  alt="US Cadet Corps graduation"
+                  width={420}
+                  height={420}
+                  style={{ borderRadius: "0.5rem" }}
+                />
               </li>
             </ul>
             <button onClick={handleWritingClick}>See Other Writing</button>
