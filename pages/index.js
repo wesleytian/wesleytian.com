@@ -146,7 +146,7 @@ export default function IndexPage() {
               <a
                 href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral"
                 target="_blank">
-                Aragon
+                Aragon.ai
               </a>
               , is an AI platform that generates photorealistic images of
               individuals. Our first product offers professional headshots. In
