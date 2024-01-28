@@ -2,23 +2,11 @@ import React, { useState, useEffect } from "react";
 import Head from "next/head";
 import { getSortedPostsData } from "../lib/posts";
 import { getViews } from "../lib/firebase";
-import Divider from "./Divider";
 import Footer from "./Footer";
-import Image from "next/image";
-// import attached1 from "../public/posts/attached-1.jpg";
-// import attached5 from "../public/posts/attached-2.jpg";
-// import attached3 from "../public/posts/attached.jpg";
-// import attached4 from "../public/posts/attached-4.jpg";
-// import attached2 from "../public/posts/attached-5.jpg";
-// import attached6 from "../public/posts/attached-6.jpg";
-// import attached7 from "../public/posts/attached-7.jpg";
-// import attached8 from "../public/posts/attached-10.jpg";
-// import attached9 from "../public/posts/attached-9.jpg";
+import Divider from "./Divider";
 
 export default function IndexPage() {
-  const [views, setViews] = useState(0);
-  // const [isCollapsed, setIsCollapsed] = useState(true);
-  // const [picsCollapsed, setPicsCollapsed] = useState(true);
+  const [, setViews] = useState(0);
 
   const currentYear = new Date().getFullYear();
 
@@ -34,14 +22,14 @@ export default function IndexPage() {
   const containerStyle = {
     marginTop: "auto",
     marginBottom: "auto",
-    paddingTop: "4rem",
-    paddingBottom: "4rem",
+    paddingTop: "1rem",
+    paddingBottom: "1rem",
     paddingLeft: "1rem",
     paddingRight: "1rem"
   };
 
   const textContainerStyle = {
-    maxWidth: "600px",
+    maxWidth: "650px",
     margin: "0 auto"
   };
 
@@ -52,18 +40,6 @@ export default function IndexPage() {
       }
     }
   `;
-
-  const handleWritingClick = () => {
-    window.open("/posts", "_blank");
-  };
-
-  const handleProjectsClick = () => {
-    window.open("/projects", "_blank");
-  };
-
-  // const handleAragonClick = () => {
-  //   window.open("https://www.aragon.ai/?utm-source=wesleytian.com", "_blank");
-  // };
 
   return (
     <div style={containerStyle}>
@@ -87,22 +63,331 @@ export default function IndexPage() {
 
       <main id="text-container" style={textContainerStyle}>
         <div>
-          <div styles={{ float: "left" }}>
-            <img
-              src="/posts/me.jpeg"
-              style={{
-                width: "160px",
-                height: "160px",
-                borderRadius: "0.5rem",
-                objectFit: "cover"
-              }}
-            />
-            <h1 styles={{ position: "relative" }}>👋🏼 Hey! I'm Wesley Tian.</h1>
-            <h3>I'm an AI startup founder/CEO, futurist, and Ironman.</h3>
-          </div>
+          <div styles={{ float: "left" }}></div>
+
+          {/* <p>Profile:</p> */}
+          <p>Name: Wesley Y. Tian (田)</p>
+
+          <Divider />
+          <p>Species: Homo sapien</p>
+          {/* <p>Eye color: brown</p>
+          <p>Hair color: black</p> */}
+          <p>Ethnicity: Han</p>
+          {/* <p>Sex: ♂</p> */}
+          <p>
+            Birthday: April 22
+            <a
+              href="https://www.businessinsider.com/sam-altman-openai-manhattan-project-scale-ambition-agi-oppenheimer-2023-4#:~:text=%22Technology%20happens%20because%20it%20is%20possible%2C%22%20Altman%20reportedly%20said%2C%20adding%20that%20he%20and%20Oppenheimer%20shared%20the%20same%20April%2022%20birthday%2C%20per%20The%20Times.%C2%A0"
+              target="_blank">
+              *
+            </a>
+          </p>
+          <p>
+            Birthplace: Silicon Valley
+            <a
+              href="https://en.wikipedia.org/wiki/Mountain_View,_California"
+              target="_blank">
+              *
+            </a>
+          </p>
+          <p>Age: 26</p>
+
+          {/* <p>Horoscope: Taurus</p> */}
+          {/* <p>Zodiac: OX</p> */}
+          <Divider />
+
+          <p>
+            Company: Aragon.ai
+            <a href="https://www.aragon.ai/" target="_blank">
+              *
+            </a>
+          </p>
+          {/* <p>Company Size: 10</p> */}
+          <p>Role: Co-Founder & CEO</p>
+          {/* <p>Pet(s): N/A</p> */}
+          <Divider />
+
+          <details open="false">
+            <summary>🗞 News</summary>
+            <ul>
+              <li>
+                <a
+                  href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
+                  target="_blank">
+                  Business Insider
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/?utm_medium=Social&utm_source=LinkedIn#Echobox=1700078940-3"
+                  target="_blank">
+                  Big Think
+                </a>
+              </li>
+            </ul>
+          </details>
+          <Divider />
+
+          {/* <h3></h3> */}
+          <details open="false">
+            <summary>⚔️ Main Quests</summary>
+            <ul>
+              <details open="false">
+                <summary> Phase 1: Explore</summary>
+                <ul>
+                  <li>☑️ Diamond rank in League of Legends (2014)</li>
+                  <li>☑️ Get into a college. (2015)</li>
+                  <li>
+                    ☑️ Transfer to a top university.
+                    <a
+                      href="https://en.wikipedia.org/wiki/List_of_University_of_Michigan_alumni"
+                      target="_blank">
+                      *
+                    </a>{" "}
+                    (2017)
+                  </li>
+                  <li>☑️ Do AI research.</li>
+                  <li>
+                    ☑️ Get a a Big Tech
+                    <a
+                      href="https://en.wikipedia.org/wiki/Big_Tech"
+                      target="_blank">
+                      *
+                    </a>{" "}
+                    internship.
+                  </li>
+                  <li>☑️ Get a Big Tech full-time offer.</li>
+                  <li>☑️ Graduate. (2019)</li>
+                  <li> Get a Ph.D. in AI</li>
+                  <li>☑️ Join a YC startup as employee #1. (2020)</li>
+                </ul>
+              </details>
+
+              <details open="false">
+                <summary>👉 Phase 2: Build</summary>
+                <ul>
+                  <li>☑️ Find a good co-founder. (2022)</li>
+                  <li>☑️ Start a company. (2022)</li>
+                  <li>
+                    ☑️ Become ramen profitable.
+                    <a
+                      href="https://twitter.com/wesleyytian/status/1629910705251172352"
+                      target="_blank">
+                      📝
+                    </a>{" "}
+                    (2023)
+                  </li>
+                  <li>
+                    ☑️ Get into Y Combinator.
+                    <a href="https://www.ycombinator.com/" target="_blank">
+                      *
+                    </a>{" "}
+                    (2023)
+                  </li>
+                  <li>
+                    ☑️ Raise money from top Silicon Valley VC
+                    <a href="https://neo.com/" target="_blank">
+                      *
+                    </a>{" "}
+                    (2023)
+                  </li>
+                  <li>☑️ $100K annual revenue run rate (ARR) (2023)</li>
+                  <li>☑️ $1M ARR (2023)</li>
+                  <li>👉 $10M ARR</li>
+                  <li>$100M ARR</li>
+                </ul>
+              </details>
+              {/* <details>
+                <summary>Phase 3: TBD</summary>
+              </details> */}
+            </ul>
+          </details>
+          <br />
+
+          <details open="false">
+            <summary>🗝️ Side Quests</summary>
+            <ul>
+              <li>
+                Adventuring
+                <ul>
+                  <li>✅ Climb Mt. Fuji. (05-2015)</li>
+                  <li>
+                    ✅ Climb Half Dome. (09-2015)
+                    <a href="/posts/yosemite" target="_blank">
+                      📝
+                    </a>
+                  </li>
+                  <li>
+                    ✅ Climb Mt. Olympus. (05-2017)
+                    <a href="/posts/olympus" target="_blank">
+                      📝
+                    </a>
+                  </li>
+                  <li>
+                    ✅ Climb Mt. Whitney. (09-2019)
+                    <a href="/posts/whitney" target="_blank">
+                      📝
+                    </a>
+                  </li>
+                  <li>
+                    <details>
+                      <summary>
+                        Complete the Explorer's Grand Slam
+                        <a
+                          href="https://en.wikipedia.org/wiki/Explorer%27s_Grand_Slam"
+                          target="_blank">
+                          *
+                        </a>
+                      </summary>
+                      <ul>
+                        <li>👉 Climb Mt. Kilimanjaro.</li>
+                        <li>Climb Mt. Aconcaguo.</li>
+                        <li>Climb Mt. Elbrus.</li>
+                        <li>Climb Mt. Kilimanjaro.</li>
+                        <li>Climb Mt. Denali.</li>
+                        <li>Climb Mt. Everest.</li>
+                        <li>Reach the South Pole.</li>
+                        <li>Reach the North Pole.</li>
+                      </ul>
+                    </details>
+                  </li>
+                </ul>
+              </li>
+
+              <li>
+                Strength
+                <ul>
+                  <li>✅ Do a pistol squat.</li>
+                  <li>✅ Do a one-arm push-up.</li>
+                  <li>✅ Bench press 225 lbs.(2021)</li>
+                  <li>✅ Do a muscle-up. (2022)</li>
+                  {/* <li>Squat 3 plates.</li>
+                <li>Deadlift 4 plates.</li>
+                <li>Do a handstand for a minute.</li> */}
+                </ul>
+              </li>
+
+              <li>
+                Endurance
+                <ul>
+                  <li>✅ Run a marathon. (11-2021)</li>
+                  <li>
+                    ✅ Finish a full 140.6-mile Ironman triathlon. (11-2021)
+                    <a href="/posts/ironman" target="_blank">
+                      📝
+                    </a>
+                  </li>
+                  {/* <li>Swim the English channel.</li> */}
+                </ul>
+              </li>
+
+              <li>
+                <details>
+                  <summary>Brazilian Jiu-Jitsu (BJJ)</summary>
+                  <ul>
+                    <li>Blue belt.</li>
+                    <li>Black belt.</li>
+                  </ul>
+                </details>
+              </li>
+
+              {/* <li>👉 Become a millionaire.</li>
+              <li>Become a billionaire.</li> */}
+            </ul>
+          </details>
+
+          {/* <details>
+            <summary>Intellectual Quests</summary>
+            <ul>
+              <li>Win a hackathon. (2017)</li>
+              <li>Get a Ph.D.</li>
+              <li>Learn Spanish.</li>
+              <li>Learn Japanese.</li>
+              <li>Chess master.</li>
+            </ul>
+          </details> */}
+
+          {/* <details>
+            <summary>Spiritual Quests</summary>
+            <ul>
+              <li>✅ Try marijuana.</li>
+              <li>✅ Try magic mushrooms.</li>
+              <li>✅ Try LSD.</li>
+              <li>✅ Try MDMA.</li>
+              <li>Try ayahuasca.</li>
+              <li>Try Ketamine.</li>
+              <li>Try Cocaine.</li>
+              <li>Silent retreat</li>
+              <li>7-day water fast</li>
+            </ul>
+          </details> */}
+          <br />
+          <details>
+            <summary>📜 Retired Quests</summary>
+            <ul>
+              <li>Become a Navy SEAL.</li>
+              <li>Become an US Air Force pilot.</li>
+              <li>Become an astronaut.</li>
+            </ul>
+          </details>
+          {/* <p>Skills:</p>
+          <ul>
+            <li>Juggling</li>
+          </ul> */}
+          <Divider />
+          <details>
+            <summary>📔 Journals</summary>
+            <ul>
+              <li>
+                04/04/2022{" "}
+                <a href="/posts/ironman">
+                  The Hardest Thing I've Ever Done: Completing a 140.6-mile
+                  Ironman Triathlon
+                </a>
+              </li>
+              <li>
+                08/10/2019{" "}
+                <a href="/posts/whitney">
+                  We Climbed the Tallest Mountain in the US and Drank Piss to
+                  Survive
+                </a>
+              </li>
+
+              <li>
+                06/12/2019{" "}
+                <a href="/posts/gpa">How I Nearly Failed High School</a>{" "}
+              </li>
+
+              <a href="/posts/" target="_blank">
+                See All
+              </a>
+            </ul>
+          </details>
+
+          {/* 
+          <details>
+            <summary>Favorite Wearables</summary>
+            <ul>
+              <li>Uniqlo</li>
+              <li>Abercrombie & Fitch</li>
+              <li>Blundstone</li>
+              <li>Nike</li>
+              <li>WHOOP</li>
+            </ul>
+          </details>
+
+          <p>
+            Favorite Consumables
+            <ul>
+              <li></li>
+            </ul>
+          </p> */}
+
+          {/* <p>Core Memories</p> */}
+          {/* <br /> */}
 
           <section>
-            <Divider />
+            {/* <p>Hi, welcome to my personal website.</p>
             <p>
               AI will be the biggest achievement of humankind. It's going to be
               bigger than the internet and we're living through it right now.
@@ -162,391 +447,361 @@ export default function IndexPage() {
               <a href="https://www.neo.com/" target="_blank">
                 Neo
               </a>
-              ,{" "}
-              <a href="https://www.zfellows.com/" target="_blank">
-                Z Fellows
-              </a>
-              ,{" "}
-              <a
-                href="https://www.linkedin.com/in/erik-goldman/"
-                target="_blank">
-                Erik Goldman
-              </a>
-              , and other angels from{" "}
-              <a href="https://openai.com/" target="_blank">
-                OpenAI
-              </a>
-              , Vanta, Scale, Niantic, and many more. We also received an offer
-              from Y Combinator, which we turned down. Read my viral{" "}
-              <a
-                href="https://www.linkedin.com/feed/update/urn:li:activity:7084224156883435521/"
-                target="_blank">
-                LinkedIn post
-              </a>{" "}
+              , and other angels We also received an offer from Y Combinator,
+              which we turned down. Read my viral{" "}
+            
               (1M+ impressions) describing my decision-making process. I was
               also interviewed for{" "}
-              <a
-                href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
-                target="_blank">
-                Business Insider
-              </a>
+              
               .
-            </p>
-            {/* 
-            <p>
-              My life goal is to accelerate the development of AI and eventually
-              nuclear fusion. Development of AI technologies will further
-              permeate the sciences, longevity research, robotics, and the
-              commercialization of nuclear fusion. Nuclear propulsion is the
-              only way we'll ever be able to escape our star system and explore
-              the rest of the universe. Now wouldn't that be exciting?
             </p> */}
-
-            {/* <p>
-              Here's a sample of our work. These are 100% AI-generated. No human
-              photographers involved.
-            </p> */}
-            {/* <div
-              style={{
-                display: "flex",
-                justifyContent: "space-between"
-              }}>
-              <Image
-                src={attached1}
-                alt="Remote Thermostat"
-                width={197}
-                height={351}
-                style={{ borderRadius: "0.5rem" }}
-              />
-              <Image
-                src={attached2}
-                alt="Remote Thermostat"
-                width={197}
-                height={351}
-                style={{ borderRadius: "0.5rem" }}
-              />
-              <Image
-                src={attached3}
-                alt="Remote Thermostat"
-                width={197}
-                height={351}
-                style={{ borderRadius: "0.5rem" }}
-              />
-            </div> */}
-
-            {/* {!picsCollapsed && (
-              <>
-                <div
-                  style={{
-                    display: "flex",
-                    justifyContent: "space-between",
-                    marginTop: "4px"
-                  }}>
-                  <Image
-                    src={attached4}
-                    alt="Remote Thermostat"
-                    width={197}
-                    height={351}
-                    style={{ borderRadius: "0.5rem" }}
-                  />
-                  <Image
-                    src={attached5}
-                    alt="Remote Thermostat"
-                    width={197}
-                    height={351}
-                    style={{ borderRadius: "0.5rem" }}
-                  />
-                  <Image
-                    src={attached6}
-                    alt="Remote Thermostat"
-                    width={197}
-                    height={351}
-                    style={{ borderRadius: "0.5rem" }}
-                  />
-                </div>
-                <div
-                  style={{
-                    display: "flex",
-                    justifyContent: "space-between",
-                    marginTop: "4px"
-                  }}>
-                  <Image
-                    src={attached7}
-                    alt="Remote Thermostat"
-                    width={197}
-                    height={351}
-                    style={{ borderRadius: "0.5rem" }}
-                  />
-                  <Image
-                    src={attached8}
-                    alt="Remote Thermostat"
-                    width={197}
-                    height={351}
-                    style={{ borderRadius: "0.5rem" }}
-                  />
-                  <Image
-                    src={attached9}
-                    alt="Remote Thermostat"
-                    width={197}
-                    height={351}
-                    style={{ borderRadius: "0.5rem" }}
-                  />
-                </div>
-              </>
-            )} */}
-            {/* <div style={{ marginTop: "12px" }}>
-              <p>All you need to do is upload a few selfies of yourself.</p>
-              <button onClick={() => setPicsCollapsed(!picsCollapsed)}>
-                {picsCollapsed ? "Show More" : "Hide"}
-              </button>
-              <button
-                style={{ marginLeft: "12px" }}
-                onClick={handleAragonClick}>
-                Create Yours Now
-              </button>
-            </div> */}
           </section>
-          <section id="projects-and-awards">
-            <Divider />
-            <h2>My Projects/Awards</h2>
-            <ul style={{ lineHeight: "1.5" }}>
-              <li>
-                Remote Thermostat{" "}
-                <a href="/posts/ac_hack" target="_blank">
-                  Background
-                </a>{" "}
-                <div
-                  style={{
-                    width: "1px",
-                    height: "10px",
-                    backgroundColor: "#333",
-                    display: "inline-block",
-                    margin: "0 10px"
-                  }}></div>
-                <a
-                  href="https://github.com/wesleytian/thermostat-pro"
-                  target="_blank">
-                  GitHub
-                </a>
-                {/* <div
-                  style={{
-                    width: "1px",
-                    height: "10px",
-                    backgroundColor: "#333",
-                    display: "inline-block",
-                    margin: "0 10px"
-                  }}></div> */}
-                {/* <a
-                  href="#"
-                  onClick={(event) => {
-                    event.preventDefault();
-                    setIsCollapsed(!isCollapsed);
-                  }}>
-                  {isCollapsed ? "Show Pics" : "Hide Pics"}
-                </a>
-                {!isCollapsed && ( */}
-                <div>
-                  <span style={{ marginRight: "0.5rem" }}>
-                    <Image
-                      src="/posts/thermostat-pro-prototype2.png"
-                      alt="Remote Thermostat"
-                      width={284}
-                      height={200}
-                      style={{ borderRadius: "0.5rem" }}
-                    />
-                  </span>
-                  <Image
-                    src="/posts/remote-thermostat-v1.0.jpeg"
-                    alt="Remote Thermostat"
-                    width={200}
-                    height={200}
-                    style={{ borderRadius: "0.5rem" }}
-                  />
-                </div>
-                {/* )} */}
-              </li>
-              <div></div>
-              <li>
-                Final Project Competition @ EECS 445: Machine Learning (🏆
-                #1/205 students)
-              </li>
-              <li>
-                White Cane @ MHacks 11{" "}
-                <a href="https://devpost.com/software/unblind" target="_blank">
-                  Devpost
-                </a>
-              </li>
-              <li>
-                Fashion Filtr @ HampHack 2017 (🏆 #1){" "}
-                <a
-                  href="https://devpost.com/software/fashion-filtr"
-                  target="_blank">
-                  Devpost
-                </a>
-              </li>
-
-              <li>
-                Digital Interview Experience @ Fidelity Investments Hackathon
-                2017 (🏆 #1/12 teams)
-              </li>
-              <li>
-                ASSISTments Data Mining Competition (🏆 #3/74 teams){" "}
-                <a href="/projects/assistments-report.pdf" target="_blank">
-                  Report
-                </a>
-                <div
-                  style={{
-                    width: "1px",
-                    height: "10px",
-                    backgroundColor: "#333",
-                    display: "inline-block",
-                    margin: "0 10px"
-                  }}></div>
-                <a
-                  href="https://jedm.educationaldatamining.org/index.php/JEDM/article/view/486"
-                  target="_blank">
-                  Publication
-                </a>
-              </li>
-
-              <li>
-                Google Analytics Customer Revenue Prediction Kaggle Competition
-                (#123/1084 teams){" "}
-                <a
-                  href="https://www.kaggle.com/competitions/ga-customer-revenue-prediction/"
-                  target="_blank">
-                  Details
-                </a>
-              </li>
-              <li>
-                UN Millenium Development Goals DrivenData Competition (#17/2000+
-                teams)
-              </li>
-            </ul>
-            {/* <button onClick={handleProjectsClick}>See All Projects</button> */}
-          </section>
-
-          <section id="writing">
-            <Divider />
-            <h2>My Writing</h2>
-            <p>Over 40,000 total reads.</p>
-            <ul>
-              <li>
-                <a href="/posts/ironman">
-                  The Hardest Thing I've Ever Done: Completing a 140.6-mile
-                  Ironman Triathlon
-                </a>
-                <Image
-                  src="/posts/ironman-finish.JPG"
-                  alt="Ironman Finish"
-                  width={420}
-                  height={420}
-                  style={{ borderRadius: "0.5rem" }}
-                />
-              </li>
-              <li>
-                {/* 08/2019{" "} */}
-                <a href="/posts/whitney">
-                  We Climbed the Tallest Mountain in the US and Drank Piss to
-                  Survive
-                </a>
-              </li>
-
-              <li>
-                <a href="/posts/gpa">How I Nearly Failed High School</a>{" "}
-                {/* <p>Though I had a 1.9 GPA in high school</p> */}
-                {/* <span style={{ color: "gray" }}>(views: {views})</span> */}
-              </li>
-              <li>
-                <a
-                  href="https://www.linkedin.com/feed/update/urn:li:share:7119362559106826240/"
-                  target="_blank">
-                  My Military Experience
-                </a>
-                <Image
-                  src="/posts/military.jpg"
-                  alt="US Cadet Corps graduation"
-                  width={420}
-                  height={420}
-                  style={{ borderRadius: "0.5rem" }}
-                />
-              </li>
-            </ul>
-            <button onClick={handleWritingClick}>See Other Writing</button>
-          </section>
-
+          <br />
+          {/* <Divider /> */}
           <section id="story">
-            <Divider />
-            <h2>My Influences</h2>
-            {/* <p>Some of my life-defining experiences:</p> */}
+            <details>
+              <summary>✈️ Travel Log (Incomplete)</summary>
+              <p>Continents Visited: 3/7</p>
+              <p>Countries Visited: ~30/195 (15%)</p>
+              <ul>
+                {/* <li>1997: Mountain View, CA;</li>
+                <li>1997: Milpitas, CA;</li>
+                <li>West Linn, OR;</li>
+                <li>Taipei, TW;</li>
+                <li>West Linn, OR;</li>
+                <li>Shanghai, CN;</li>
+                <li>2015: Amherst, MA; </li>
+                <li>2016:</li> */}
+
+                <li>
+                  <details>
+                    <summary>2010</summary>
+                    <ul>
+                      <li>Bali, Indonesia (07-2010)</li>
+                      <li>Singapore (07-2010)</li>
+                      <li>?, China</li>
+                    </ul>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary>2010</summary>
+                    <ul>
+                      <li>?, China</li>
+                      <li>Los Angeles, CA</li>
+                      <li>Lakehouse</li>
+                      <li></li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2013</summary>
+                    <ul>
+                      <li>Nepal</li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2015</summary>
+                    <ul>
+                      <li>Australia</li>
+                      <li>Shanghai, CN</li>
+                      <li>Beijing, CN</li>
+                      <li>Ko Samui, Thailand</li>
+                      <li>Nanjing, CN</li>
+                      <li>Japan</li>
+                      <li>Ordos, CN</li>
+                      <li>Yosemite?</li>
+                      <li>Amherst, MA</li>
+                      <li>Shanghai, CN</li>
+                      <li>Guangxi</li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2016</summary>
+                    <ul>
+                      <li>Guangxi</li>
+                      {/* <li>Japan</li> */}
+                      <li>Italy</li>
+                      <li>Greece</li>
+                      <li>West Linn, OR</li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2017</summary>
+                    <ul>
+                      <li>Dubai, UAE</li>
+                      <li>Shanghai, CN</li>
+                      <li>Amherst, MA</li>
+                      <li>West Hartford, CT</li>
+                      <li>Cambridge, MA</li>
+                      <li>Manchester, NH</li>
+                      <li>Manchester, NH</li>
+                      <li>Jamaica, VT</li>
+                      <li>San Diego, CA</li>
+                      <li>Ann Arbor, MI</li>
+                      <li>TX</li>
+                      <li>Chicago, IL</li>
+                      <li>Westford, MA</li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2018</summary>
+                    <ul>
+                      <li>Mackinac Isalnd, MI</li>
+                      <li>Seattle, WA</li>
+                      <li>Colombus, OH</li>
+                      <li>Lansing, MI</li>
+                      <li>Toronto, CA</li>
+                      <li>Japan</li>
+                      <li>Nanchang</li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2019</summary>
+                    <ul>
+                      <li>Shanghai, CN</li>
+                      <li>Ann Arbor, MI</li>
+                      <li>Mexico</li>
+                      <li>Amherst</li>
+                      <li>Redmond, WA</li>
+                      <li>San Francisco, CA</li>
+                      <li>Lone Pine, CA</li>
+                      <li>Troy, MI?</li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2020</summary>
+                    <ul>
+                      <li>Spain</li>
+                      <li>Ann Arbor, MI</li>
+                      <li>Reno, NV</li>
+                      <li>Yosemite?</li>
+                    </ul>
+                  </details>
+                </li>
+
+                <li>
+                  <details>
+                    <summary>2021</summary>
+                    <ul>
+                      <li>Reno, NV</li>
+                      <li>Milpitas, CA</li>
+                      <li>Austin, TX</li>
+                      <li>Boston, MA</li>
+                      <li>Iceland</li>
+                    </ul>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary>2022</summary>
+                    <ul>
+                      <li>San Francisco, CA</li>
+                      <li>Lake Tahoe?</li>
+                      <li>Fort Lauderdale, FL</li>
+                      <li>Las Vegas, NV</li>
+                      <li>Milpitas, CA</li>
+                    </ul>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary>2023</summary>
+                    <ul>
+                      <li>Texas</li>
+                      <li>Los Angeles, CA</li>
+                      <li>Kawaii, Hawaii</li>
+                      <li>Sunriver, OR</li>
+                      <li>France</li>
+                      <li>England</li>
+                      <li>San Diego, CA</li>
+                      <li>Sequioa?</li>
+                    </ul>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary>2024</summary>
+                    <ul>
+                      <li>San Francisco, CA</li>
+                      <li>New York City, NY (1/5-1/10)</li>
+                      <li>Shenyang, Jinan, Nanchang, Shanghai (1/30-2/5)</li>
+                      <li>New Zealand (2/5-2/17)</li>
+                    </ul>
+                  </details>
+                </li>
+              </ul>
+            </details>
+          </section>
+
+          {/* <Divider /> */}
+          {/* <details>
+            <summary>Family</summary>
             <ul>
               <li>
-                <p>
-                  I've moved around a lot growing up. Places where I've lived:
-                </p>
-                <ul>
-                  <li>Born in Mountain View, CA</li>
-                  <li>Milpitas, CA (5 years)</li>
-                  <li>Oregon (1 year)</li>
-                  <li>Taiwan (2 years)</li>
-                  <li>Oregon (1 year)</li>
-                  <li>Shanghai (8 years)</li>
-                  <li>Massachusetts (2 years)</li>
-                  <li>Michigan (3 years)</li>
-                  <li>Nevada (1 year)</li>
-                  <li>Milpitas, CA (1 year)</li>
-                  <li>I currently live in San Francisco, CA (1 year)</li>
-                </ul>
-                <p>
-                  These moves taught me adaptability, resilience, and
-                  open-mindedness.
-                </p>
+                Jason Tian
+                <a
+                  href="https://www.linkedin.com/in/jason-tian-9b710512/"
+                  target="_blank">
+                  *
+                </a>
               </li>
-
+              <li>Robin Tian</li>
               <li>
-                <p>
-                  One of my biggest inspirations is my father, who was forced to
-                  spend his teenage years manually farming due to China's
-                  Cultural Revolution. He carried buckets of water on his
-                  shoulders to his family everyday and has multiple scars on his
-                  hands from using farming scythes. He never got the chance to
-                  finish middle or high school. Through extreme grit, he
-                  eventually made it to the USA, studied electrical engineering,
-                  dropped out of his PhD, and moved to Silicon Valley to
-                  contribute to the semiconductor and computing industry.
-                  Against all odds, he's now the CEO of a public semiconductor
-                  company.
-                </p>
-                <p>
-                  He's been an inspiration for my interest in deep tech, my
-                  ambition for advancing humanity, and the belief that anything
-                  is possible.
-                </p>
+                Jeni Ni
+                <a href="https://www.instagram.com/thejenini/" target="_blank">
+                  *
+                </a>
               </li>
-              <li>Elon Musk</li>
-              <li>The many other people I've met in my life.</li>
-              {/* <li>
-                <p>
-                  Other inspirations in my life include my sister, Jeni, who is
-                  also an entrepreneur and co-founded Frilly; my grandparents,
-                  one of whom is a famous painter and art professor, and the
-                  other a famous musician, composer, and conductor; and of
-                  course, Elon Musk, one of the greatest entrepreneurs of all
-                  time.
-                </p>
-              </li> */}
-
-              {/* <li>
-                During high school, I spent a summer attending military camp in
-                Kentucky. It was as legit as you can imagine. We all got
-                buzzcuts, the bathroom stalls had no doors, we had no access to
-                electronics for the entire summer, we had to fold hospital
-                corners every morning, we had PT at 5 am every morning, and.
-              </li> */}
-
-              {/* <li>I grew up playing tons of sports. </li> */}
+          
+              <li>
+                Wang Xudong 王旭东
+                <a
+                  href="https://baike.baidu.com/item/%E7%8E%8B%E6%97%AD%E4%B8%9C/13352093?fr=ge_ala"
+                  target="_blank">
+                  *
+                </a>
+              </li>
             </ul>
-          </section>
+          </details>
+          <br /> */}
+
+          {/* <details>
+            <summary>Friends</summary>
+            <ul>
+              <li>Henry Li</li>
+              <li>
+                Douglas Qian
+                <a
+                  href="https://www.linkedin.com/in/douglas-qian/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Edward Liu
+                <a
+                  href="https://www.linkedin.com/in/edwardwliu/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Henry Chan
+                <a
+                  href="https://www.linkedin.com/in/henry-chan261/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Andrew Chang
+                <a
+                  href="https://www.linkedin.com/in/andrewechang/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Nisch Tamang
+                <a
+                  href="https://www.linkedin.com/in/nischal-tamang/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Phillip Michalowski
+                <a href="https://phillipmichalowski.com/" target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Joe Breda
+                <a href="https://joebreda.github.io/" target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Rui Wang
+                <a
+                  href="https://www.cics.umass.edu/faculty/directory/wang_rui"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Solomon Demmessie
+                <a
+                  href="https://www.linkedin.com/in/solomon-demmessie-974683107/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Letao Chen
+                <a href="https://lokto.me/#/" target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Victor Maher
+                <a
+                  href="https://www.linkedin.com/in/victor-maher/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Alex George
+                <a
+                  href="https://www.linkedin.com/in/-alexgeorge/"
+                  target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Jack Li
+                <a href="https://jack-x.li/" target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Daniel Frost
+                <a href="https://frostdaniel.com/" target="_blank">
+                  *
+                </a>
+              </li>
+              <li>
+                Akhil Nadendla
+                <a href="https://www.linkedin.com/in/akh1ln/" target="_blank">
+                  *
+                </a>
+              </li>
+            </ul>
+          </details> */}
+          <Divider />
+          <p>Last updated: 01-26-2024</p>
         </div>
       </main>
       <Footer />

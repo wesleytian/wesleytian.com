@@ -52,16 +52,16 @@ const Footer = () => {
           <i className="fa fa-linkedin" style={iconStyle}></i>
           LinkedIn
         </a>
-        <a
+        {/* <a
           href="https://www.instagram.com/wesley.tian/"
           target="_blank"
           rel="noopener noreferrer"
           style={linkStyle}>
           <i className="fa fa-instagram" style={iconStyle}></i>
           Instagram
-        </a>
+        </a> */}
       </div>
-      <p>&copy; {currentYear} Wesley Tian. All rights reserved.</p>
+      {/* <p>&copy; {currentYear} Wesley Tian. All rights reserved.</p> */}
     </footer>
   );
 };
