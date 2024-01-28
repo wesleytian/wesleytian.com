@@ -210,21 +210,21 @@ export default function IndexPage() {
               <li>
                 Adventuring
                 <ul>
-                  <li>✅ Climb Mt. Fuji. (05-2015)</li>
+                  <li>☑️ Climb Mt. Fuji. (05-2015)</li>
                   <li>
-                    ✅ Climb Half Dome. (09-2015)
+                    ☑️ Climb Half Dome. (09-2015)
                     <a href="/posts/yosemite" target="_blank">
                       📝
                     </a>
                   </li>
                   <li>
-                    ✅ Climb Mt. Olympus. (05-2017)
+                    ☑️ Climb Mt. Olympus. (05-2017)
                     <a href="/posts/olympus" target="_blank">
                       📝
                     </a>
                   </li>
                   <li>
-                    ✅ Climb Mt. Whitney. (09-2019)
+                    ☑️ Climb Mt. Whitney. (09-2019)
                     <a href="/posts/whitney" target="_blank">
                       📝
                     </a>
@@ -257,10 +257,11 @@ export default function IndexPage() {
               <li>
                 Strength
                 <ul>
-                  <li>✅ Do a pistol squat.</li>
-                  <li>✅ Do a one-arm push-up.</li>
-                  <li>✅ Bench press 225 lbs.(2021)</li>
-                  <li>✅ Do a muscle-up. (2022)</li>
+                  <li>☑️ Do a pistol squat.</li>
+                  <li>☑️ Do a one-arm push-up.</li>
+                  <li>☑️ Bench press 225 lbs.(2021)</li>
+                  <li>☑️ Do a muscle-up. (2022)</li>
+                  <li>☑️ L-sit to handstand push-up (01-2024)</li>
                   {/* <li>Squat 3 plates.</li>
                 <li>Deadlift 4 plates.</li>
                 <li>Do a handstand for a minute.</li> */}
@@ -270,9 +271,9 @@ export default function IndexPage() {
               <li>
                 Endurance
                 <ul>
-                  <li>✅ Run a marathon. (11-2021)</li>
+                  <li>☑️ Run a marathon. (11-2021)</li>
                   <li>
-                    ✅ Finish a full 140.6-mile Ironman triathlon. (11-2021)
+                    ☑️ Finish a full 140.6-mile Ironman triathlon. (11-2021)
                     <a href="/posts/ironman" target="_blank">
                       📝
                     </a>
