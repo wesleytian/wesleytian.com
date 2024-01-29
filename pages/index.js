@@ -117,7 +117,8 @@ export default function IndexPage() {
 
           {/* <h3></h3> */}
           <p>
-            <i>Links take you to my journals.</i>
+            Note:{" "}
+            <a>Links below take you to my corresponding journal entry. </a>
           </p>
           <details open="false">
             <summary>⚔️ Main Quests</summary>
