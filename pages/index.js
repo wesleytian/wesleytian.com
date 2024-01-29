@@ -72,34 +72,21 @@ export default function IndexPage() {
           <p>Species: Homo sapien</p>
           {/* <p>Eye color: brown</p>
           <p>Hair color: black</p> */}
-          <p>Ethnicity: Han</p>
+          <p>Ethnicity: Han Chinese</p>
           {/* <p>Sex: ♂</p> */}
-          <p>
-            Birthday: April 22
-            <a
-              href="https://www.businessinsider.com/sam-altman-openai-manhattan-project-scale-ambition-agi-oppenheimer-2023-4#:~:text=%22Technology%20happens%20because%20it%20is%20possible%2C%22%20Altman%20reportedly%20said%2C%20adding%20that%20he%20and%20Oppenheimer%20shared%20the%20same%20April%2022%20birthday%2C%20per%20The%20Times.%C2%A0"
-              target="_blank">
-              *
-            </a>
-          </p>
-          <p>
-            Birthplace: Silicon Valley
-            <a
-              href="https://en.wikipedia.org/wiki/Mountain_View,_California"
-              target="_blank">
-              *
-            </a>
-          </p>
+          <p>Birthplace: Silicon Valley (technically Mountain View)</p>
+          <p>Birthday: April 22 (same as Sam Altman and Oppenheimer) </p>
           <p>Age: 26</p>
+          <p>Nationality: 🇺🇸</p>
 
           {/* <p>Horoscope: Taurus</p> */}
           {/* <p>Zodiac: OX</p> */}
           <Divider />
 
           <p>
-            Company: Aragon.ai
+            Company:{" "}
             <a href="https://www.aragon.ai/" target="_blank">
-              *
+              Aragon.ai
             </a>
           </p>
           {/* <p>Company Size: 10</p> */}
@@ -108,7 +95,7 @@ export default function IndexPage() {
           <Divider />
 
           <details open="false">
-            <summary>🗞 News</summary>
+            <summary>🗞 In the News</summary>
             <ul>
               <li>
                 <a
@@ -129,72 +116,114 @@ export default function IndexPage() {
           <Divider />
 
           {/* <h3></h3> */}
+          <p>
+            <i>Links take you to my journals.</i>
+          </p>
           <details open="false">
             <summary>⚔️ Main Quests</summary>
             <ul>
               <details open="false">
                 <summary> Phase 1: Explore</summary>
                 <ul>
-                  <li>☑️ Diamond rank in League of Legends (2014)</li>
-                  <li>☑️ Get into a college. (2015)</li>
                   <li>
-                    ☑️ Transfer to a top university.
-                    <a
-                      href="https://en.wikipedia.org/wiki/List_of_University_of_Michigan_alumni"
-                      target="_blank">
-                      *
-                    </a>{" "}
-                    (2017)
+                    <input type="checkbox" defaultChecked="true" />
+                    Diamond rank in League of Legends (2014)
                   </li>
-                  <li>☑️ Do AI research.</li>
                   <li>
-                    ☑️ Get a a Big Tech
-                    <a
-                      href="https://en.wikipedia.org/wiki/Big_Tech"
-                      target="_blank">
-                      *
-                    </a>{" "}
-                    internship.
+                    <input type="checkbox" defaultChecked="true" />
+                    <a href="/posts/gpa">Did not fail high School</a> (2015)
                   </li>
-                  <li>☑️ Get a Big Tech full-time offer.</li>
-                  <li>☑️ Graduate. (2019)</li>
-                  <li> Get a Ph.D. in AI</li>
-                  <li>☑️ Join a YC startup as employee #1. (2020)</li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Get into college (2015)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Transfer to a top university (2017)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Do AI research (2017)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Get a Big Tech internship (2018)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Get a Big Tech full-time offer (2018)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Graduate (2019)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Join a YC startup as employee #1 (2020)
+                  </li>
                 </ul>
               </details>
 
               <details open="false">
-                <summary>👉 Phase 2: Build</summary>
+                <summary>Phase 2: Build</summary>
                 <ul>
-                  <li>☑️ Find a good co-founder. (2022)</li>
-                  <li>☑️ Start a company. (2022)</li>
                   <li>
-                    ☑️ Become ramen profitable.
+                    <input type="checkbox" defaultChecked="true" />
+                    Find a co-founder (2022)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    <a
+                      href="https://twitter.com/wesleyytian/status/1590426084390363136"
+                      target="_blank">
+                      Start a company
+                    </a>{" "}
+                    (2022)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Become{" "}
                     <a
                       href="https://twitter.com/wesleyytian/status/1629910705251172352"
                       target="_blank">
-                      📝
+                      ramen profitable
                     </a>{" "}
                     (2023)
                   </li>
                   <li>
-                    ☑️ Get into Y Combinator.
-                    <a href="https://www.ycombinator.com/" target="_blank">
-                      *
+                    <input type="checkbox" defaultChecked="true" />
+                    Get into Y Combinator (2023)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Raise money from a{" "}
+                    <a
+                      href="https://www.linkedin.com/feed/update/urn:li:activity:7084224156883435521/"
+                      target="_blank">
+                      top Silicon Valley VC
                     </a>{" "}
                     (2023)
                   </li>
                   <li>
-                    ☑️ Raise money from top Silicon Valley VC
-                    <a href="https://neo.com/" target="_blank">
-                      *
-                    </a>{" "}
-                    (2023)
+                    <input type="checkbox" defaultChecked="true" />
+                    $100K annual revenue run rate (ARR) (2023)
                   </li>
-                  <li>☑️ $100K annual revenue run rate (ARR) (2023)</li>
-                  <li>☑️ $1M ARR (2023)</li>
-                  <li>👉 $10M ARR</li>
-                  <li>$100M ARR</li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    $1M ARR (2023)
+                  </li>
+                  <li>
+                    <input type="checkbox" />
+                    $10M ARR
+                  </li>
+                  <li>
+                    <input type="checkbox" />
+                    $100M ARR
+                  </li>
+                  <li>
+                    <input type="checkbox" />
+                    Found a unicorn
+                  </li>
                 </ul>
               </details>
               {/* <details>
@@ -210,44 +239,78 @@ export default function IndexPage() {
               <li>
                 Adventuring
                 <ul>
-                  <li>☑️ Climb Mt. Fuji. (05-2015)</li>
                   <li>
-                    ☑️ Climb Half Dome. (09-2015)
+                    <input type="checkbox" defaultChecked="true" />
+                    Climb Mt. Fuji (2015)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
                     <a href="/posts/yosemite" target="_blank">
-                      📝
-                    </a>
+                      Climb the Half Dome
+                    </a>{" "}
+                    (2015)
                   </li>
                   <li>
-                    ☑️ Climb Mt. Olympus. (05-2017)
+                    <input type="checkbox" defaultChecked="true" />
                     <a href="/posts/olympus" target="_blank">
-                      📝
-                    </a>
+                      Climb Mt. Olympus
+                    </a>{" "}
+                    (2017)
                   </li>
                   <li>
-                    ☑️ Climb Mt. Whitney. (09-2019)
+                    <input type="checkbox" defaultChecked="true" />
                     <a href="/posts/whitney" target="_blank">
-                      📝
-                    </a>
+                      Climb Mt. Whitney
+                    </a>{" "}
+                    (2019)
                   </li>
                   <li>
                     <details>
                       <summary>
+                        <input type="checkbox" />
                         Complete the Explorer's Grand Slam
-                        <a
-                          href="https://en.wikipedia.org/wiki/Explorer%27s_Grand_Slam"
-                          target="_blank">
-                          *
-                        </a>
                       </summary>
                       <ul>
-                        <li>👉 Climb Mt. Kilimanjaro.</li>
-                        <li>Climb Mt. Aconcaguo.</li>
-                        <li>Climb Mt. Elbrus.</li>
-                        <li>Climb Mt. Kilimanjaro.</li>
-                        <li>Climb Mt. Denali.</li>
-                        <li>Climb Mt. Everest.</li>
-                        <li>Reach the South Pole.</li>
-                        <li>Reach the North Pole.</li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Kilimanjaro
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Aconcagua
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Elbrus
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Puncak Jaya
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Kosciuszko
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Vinson
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Denali
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Climb Mt. Everest
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Reach the South Pole
+                        </li>
+                        <li>
+                          <input type="checkbox" />
+                          Reach the North Pole
+                        </li>
                       </ul>
                     </details>
                   </li>
@@ -257,11 +320,34 @@ export default function IndexPage() {
               <li>
                 Strength
                 <ul>
-                  <li>☑️ Do a pistol squat.</li>
-                  <li>☑️ Do a one-arm push-up.</li>
-                  <li>☑️ Bench press 225 lbs.(2021)</li>
-                  <li>☑️ Do a muscle-up. (2022)</li>
-                  <li>☑️ L-sit to handstand push-up (01-2024)</li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Do a pistol squat (2015)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Do a one-arm push-up (2021)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Bench press 225 lbs (2021)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Do a muscle-up (2022)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    L-sit to handstand (2024)
+                  </li>
+                  <li>
+                    <input type="checkbox" />
+                    Squat 315 lbs
+                  </li>
+                  <li>
+                    <input type="checkbox" />
+                    Deadlift 405 lbs
+                  </li>
                   {/* <li>Squat 3 plates.</li>
                 <li>Deadlift 4 plates.</li>
                 <li>Do a handstand for a minute.</li> */}
@@ -269,16 +355,31 @@ export default function IndexPage() {
               </li>
 
               <li>
-                Endurance
+                Cardio
                 <ul>
-                  <li>☑️ Run a marathon. (11-2021)</li>
                   <li>
-                    ☑️ Finish a full 140.6-mile Ironman triathlon. (11-2021)
+                    <input type="checkbox" defaultChecked="true" />
+                    Run a sub 6 minute mile (2013)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Run a marathon (2021)
+                  </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Finish a full 140.6-mile Ironman triathlon (2021)
                     <a href="/posts/ironman" target="_blank">
                       📝
                     </a>
                   </li>
-                  {/* <li>Swim the English channel.</li> */}
+                  <li>
+                    <input type="checkbox" />
+                    Run an ultramarathon
+                  </li>
+                  <li>
+                    <input type="checkbox" />
+                    Swim across the English channel
+                  </li>
                 </ul>
               </li>
 
@@ -286,8 +387,14 @@ export default function IndexPage() {
                 <details>
                   <summary>Brazilian Jiu-Jitsu (BJJ)</summary>
                   <ul>
-                    <li>Blue belt.</li>
-                    <li>Black belt.</li>
+                    <li>
+                      <input type="checkbox" />
+                      Blue belt
+                    </li>
+                    <li>
+                      <input type="checkbox" />
+                      Black belt
+                    </li>
                   </ul>
                 </details>
               </li>
@@ -329,14 +436,15 @@ export default function IndexPage() {
               <li>Become a Navy SEAL.</li>
               <li>Become an US Air Force pilot.</li>
               <li>Become an astronaut.</li>
+              <li>Get a Ph.D. in AI</li>
             </ul>
           </details>
           {/* <p>Skills:</p>
           <ul>
             <li>Juggling</li>
           </ul> */}
-          <Divider />
-          <details>
+          {/* <Divider />
+          <details open="false">
             <summary>📔 Journals</summary>
             <ul>
               <li>
@@ -355,15 +463,16 @@ export default function IndexPage() {
               </li>
 
               <li>
-                06/12/2019{" "}
-                <a href="/posts/gpa">How I Nearly Failed High School</a>{" "}
+                <a href="/posts/gpa">How I Nearly Failed High School</a> (2019)
               </li>
 
-              <a href="/posts/" target="_blank">
-                See All
-              </a>
+              <li>
+                <a href="/posts/" target="_blank">
+                  See All
+                </a>
+              </li>
             </ul>
-          </details>
+          </details> */}
 
           {/* 
           <details>
@@ -461,196 +570,26 @@ export default function IndexPage() {
           {/* <Divider /> */}
           <section id="story">
             <details>
-              <summary>✈️ Travel Log (Incomplete)</summary>
+              <summary>✈️ World Travel Log</summary>
               <p>Continents Visited: 3/7</p>
-              <p>Countries Visited: ~30/195 (15%)</p>
+              <p>Countries Lived In: USA, Taiwan, China</p>
+              <p>Countries Visited: 22/195 (11%)</p>
               <ul>
-                {/* <li>1997: Mountain View, CA;</li>
-                <li>1997: Milpitas, CA;</li>
-                <li>West Linn, OR;</li>
-                <li>Taipei, TW;</li>
-                <li>West Linn, OR;</li>
-                <li>Shanghai, CN;</li>
-                <li>2015: Amherst, MA; </li>
-                <li>2016:</li> */}
-
-                <li>
-                  <details>
-                    <summary>2010</summary>
-                    <ul>
-                      <li>Bali, Indonesia (07-2010)</li>
-                      <li>Singapore (07-2010)</li>
-                      <li>?, China</li>
-                    </ul>
-                  </details>
-                </li>
-                <li>
-                  <details>
-                    <summary>2010</summary>
-                    <ul>
-                      <li>?, China</li>
-                      <li>Los Angeles, CA</li>
-                      <li>Lakehouse</li>
-                      <li></li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2013</summary>
-                    <ul>
-                      <li>Nepal</li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2015</summary>
-                    <ul>
-                      <li>Australia</li>
-                      <li>Shanghai, CN</li>
-                      <li>Beijing, CN</li>
-                      <li>Ko Samui, Thailand</li>
-                      <li>Nanjing, CN</li>
-                      <li>Japan</li>
-                      <li>Ordos, CN</li>
-                      <li>Yosemite?</li>
-                      <li>Amherst, MA</li>
-                      <li>Shanghai, CN</li>
-                      <li>Guangxi</li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2016</summary>
-                    <ul>
-                      <li>Guangxi</li>
-                      {/* <li>Japan</li> */}
-                      <li>Italy</li>
-                      <li>Greece</li>
-                      <li>West Linn, OR</li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2017</summary>
-                    <ul>
-                      <li>Dubai, UAE</li>
-                      <li>Shanghai, CN</li>
-                      <li>Amherst, MA</li>
-                      <li>West Hartford, CT</li>
-                      <li>Cambridge, MA</li>
-                      <li>Manchester, NH</li>
-                      <li>Manchester, NH</li>
-                      <li>Jamaica, VT</li>
-                      <li>San Diego, CA</li>
-                      <li>Ann Arbor, MI</li>
-                      <li>TX</li>
-                      <li>Chicago, IL</li>
-                      <li>Westford, MA</li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2018</summary>
-                    <ul>
-                      <li>Mackinac Isalnd, MI</li>
-                      <li>Seattle, WA</li>
-                      <li>Colombus, OH</li>
-                      <li>Lansing, MI</li>
-                      <li>Toronto, CA</li>
-                      <li>Japan</li>
-                      <li>Nanchang</li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2019</summary>
-                    <ul>
-                      <li>Shanghai, CN</li>
-                      <li>Ann Arbor, MI</li>
-                      <li>Mexico</li>
-                      <li>Amherst</li>
-                      <li>Redmond, WA</li>
-                      <li>San Francisco, CA</li>
-                      <li>Lone Pine, CA</li>
-                      <li>Troy, MI?</li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2020</summary>
-                    <ul>
-                      <li>Spain</li>
-                      <li>Ann Arbor, MI</li>
-                      <li>Reno, NV</li>
-                      <li>Yosemite?</li>
-                    </ul>
-                  </details>
-                </li>
-
-                <li>
-                  <details>
-                    <summary>2021</summary>
-                    <ul>
-                      <li>Reno, NV</li>
-                      <li>Milpitas, CA</li>
-                      <li>Austin, TX</li>
-                      <li>Boston, MA</li>
-                      <li>Iceland</li>
-                    </ul>
-                  </details>
-                </li>
-                <li>
-                  <details>
-                    <summary>2022</summary>
-                    <ul>
-                      <li>San Francisco, CA</li>
-                      <li>Lake Tahoe?</li>
-                      <li>Fort Lauderdale, FL</li>
-                      <li>Las Vegas, NV</li>
-                      <li>Milpitas, CA</li>
-                    </ul>
-                  </details>
-                </li>
-                <li>
-                  <details>
-                    <summary>2023</summary>
-                    <ul>
-                      <li>Texas</li>
-                      <li>Los Angeles, CA</li>
-                      <li>Kawaii, Hawaii</li>
-                      <li>Sunriver, OR</li>
-                      <li>France</li>
-                      <li>England</li>
-                      <li>San Diego, CA</li>
-                      <li>Sequioa?</li>
-                    </ul>
-                  </details>
-                </li>
-                <li>
-                  <details>
-                    <summary>2024</summary>
-                    <ul>
-                      <li>San Francisco, CA</li>
-                      <li>New York City, NY (1/5-1/10)</li>
-                      <li>Shenyang, Jinan, Nanchang, Shanghai (1/30-2/5)</li>
-                      <li>New Zealand (2/5-2/17)</li>
-                    </ul>
-                  </details>
-                </li>
+                <li>2010: Indonesia, Singapore</li>
+                <li>2011: </li>
+                <li>2012: Philippines</li>
+                <li>2013: Nepal</li>
+                <li>2014: Cambodia</li>
+                <li>2015: Australia, Thailand, Japan</li>
+                <li>2016: Italy, Vatican City, Greece</li>
+                <li>2017: UAE</li>
+                <li>2018: Japan (2), Canada</li>
+                <li>2019: Mexico</li>
+                <li>2020: Spain</li>
+                <li>2021: Iceland</li>
+                <li>2022: </li>
+                <li>2023: France, United Kingdom</li>
+                <li>2024: New Zealand</li>
               </ul>
             </details>
           </section>
@@ -802,7 +741,7 @@ export default function IndexPage() {
             </ul>
           </details> */}
           <Divider />
-          <p>Last updated: 01-26-2024</p>
+          <p>Last updated: 01-2024</p>
         </div>
       </main>
       <Footer />
