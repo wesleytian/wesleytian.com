@@ -367,10 +367,10 @@ export default function IndexPage() {
                   </li>
                   <li>
                     <input type="checkbox" defaultChecked="true" />
-                    Finish a full 140.6-mile Ironman triathlon (2021)
                     <a href="/posts/ironman" target="_blank">
-                      📝
-                    </a>
+                      Finish a full 140.6-mile Ironman triathlon
+                    </a>{" "}
+                    (2021)
                   </li>
                   <li>
                     <input type="checkbox" />
