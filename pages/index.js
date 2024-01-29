@@ -128,8 +128,14 @@ export default function IndexPage() {
                 <ul>
                   <li>
                     <input type="checkbox" defaultChecked="true" />
-                    Diamond rank in League of Legends (2014)
+                    Graduate from US Army Cadet Corps (2013)
                   </li>
+                  <li>
+                    <input type="checkbox" defaultChecked="true" />
+                    Achieve diamond/semi-pro in League of Legends (top 0.1%)
+                    (2014)
+                  </li>
+
                   <li>
                     <input type="checkbox" defaultChecked="true" />
                     <a href="/posts/gpa">Did not fail high School</a> (2015)
@@ -434,10 +440,11 @@ export default function IndexPage() {
           <details>
             <summary>📜 Retired Quests</summary>
             <ul>
-              <li>Become a Navy SEAL.</li>
-              <li>Become an US Air Force pilot.</li>
-              <li>Become an astronaut.</li>
+              <li>Survive SEAL BUD/S</li>
+              <li>Become an US Air Force pilot</li>
+              <li>Become an astronaut</li>
               <li>Get a Ph.D. in AI</li>
+              <li>Dunk a basketball</li>
             </ul>
           </details>
           {/* <p>Skills:</p>
