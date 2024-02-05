@@ -69,18 +69,19 @@ export default function IndexPage() {
           <p>Name: Wesley Y. Tian (田)</p>
 
           <Divider />
+
+          {/* <p>Sex: ♂</p> */}
+          <span>Birthplace: Mountain View, CA (Silicon Valley)</span>
+          <br />
+          <span>Birthday: April 22 (same as Sam Altman and Oppenheimer) </span>
+          <br />
           <span>Species: Homo sapien</span>
           <br />
           {/* <p>Eye color: brown</p>
           <p>Hair color: black</p> */}
           <span>Ethnicity: Han Chinese</span>
           <br />
-          {/* <p>Sex: ♂</p> */}
-          <span>Birthplace: Mountain View, CA (Silicon Valley)</span>
-          <br />
-          <span>Birthday: April 22 (same as Sam Altman and Oppenheimer) </span>
-          <br />
-          <span>Age: 26</span>
+          {/* <span>Age: 26</span> */}
           {/* <p>Nationality: 🇺🇸</p> */}
 
           {/* <p>Horoscope: Taurus</p> */}
@@ -863,8 +864,27 @@ export default function IndexPage() {
           {/* <Divider /> */}
           {/* <p>Last updated: 01-2024</p> */}
         </div>
+        <Divider />
+        <div>
+          <a
+            href="https://twitter.com/wesleyytian"
+            target="_blank"
+            rel="noopener noreferrer">
+            {/* <i className="fa fa-twitter" style={iconStyle}></i> */}
+            Twitter
+          </a>
+          {" | "}
+          <a
+            href="https://www.linkedin.com/in/wesleytian/"
+            target="_blank"
+            rel="noopener noreferrer">
+            {/* <i className="fa fa-linkedin" style={iconStyle}></i> */}
+            LinkedIn
+          </a>
+        </div>
       </main>
-      <Footer />
+
+      {/* <Footer /> */}
     </div>
   );
 }
