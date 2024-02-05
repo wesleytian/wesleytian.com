@@ -74,10 +74,10 @@ export default function IndexPage() {
           <p>Hair color: black</p> */}
           <p>Ethnicity: Han Chinese</p>
           {/* <p>Sex: ♂</p> */}
-          <p>Birthplace: Silicon Valley (technically Mountain View)</p>
+          <p>Birthplace: Mountain View, CA (Silicon Valley)</p>
           <p>Birthday: April 22 (same as Sam Altman and Oppenheimer) </p>
           <p>Age: 26</p>
-          <p>Nationality: 🇺🇸</p>
+          {/* <p>Nationality: 🇺🇸</p> */}
 
           {/* <p>Horoscope: Taurus</p> */}
           {/* <p>Zodiac: OX</p> */}
@@ -98,6 +98,8 @@ export default function IndexPage() {
             <summary>🗞 In the News</summary>
             <ul>
               <li>
+                Why Aragon.ai Founder Chose Startup Accelerator Neo Over Y
+                Combinator -{" "}
                 <a
                   href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
                   target="_blank">
@@ -124,111 +126,153 @@ export default function IndexPage() {
             <summary>⚔️ Main Quests</summary>
             <ul>
               <details open="false">
-                <summary> Phase 1: Explore</summary>
+                <summary> Chapter 1: Explore ('13 – '22)</summary>
                 <ul>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Graduate from US Army Cadet Corps (2013)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Graduate from US Army Cadet Corps
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Achieve diamond/semi-pro in League of Legends (top 0.1%)
-                    (2014)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Achieve semi-pro in League of Legends (top 0.1%)
                   </li>
 
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    <a href="/posts/gpa">Did not fail high School</a> (2015)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    <a href="/posts/gpa">
+                      Graduate high School (I almost failed)
+                    </a>{" "}
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Get into college (2015)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Transfer to the University of Michigan
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Transfer to a top university (2017)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Do AI research
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Do AI research (2017)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Get a full-time offer from Microsoft AI + Cloud
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Get a Big Tech internship (2018)
-                  </li>
-                  <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Get a Big Tech full-time offer (2018)
-                  </li>
-                  <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Graduate (2019)
-                  </li>
-                  <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Join a YC startup as employee #1 (2020)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Join a YC startup as employee #1
                   </li>
                 </ul>
               </details>
 
               <details open="false">
-                <summary>Phase 2: Build</summary>
+                <summary>Chapter 2: Build ('22 -)</summary>
                 <ul>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Find a co-founder (2022)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Find a co-founder
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     <a
                       href="https://twitter.com/wesleyytian/status/1590426084390363136"
                       target="_blank">
                       Start a company
                     </a>{" "}
-                    (2022)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Become{" "}
                     <a
                       href="https://twitter.com/wesleyytian/status/1629910705251172352"
                       target="_blank">
                       ramen profitable
                     </a>{" "}
-                    (2023)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    Get into Y Combinator (2023)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Get into Y Combinator
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Raise money from a{" "}
                     <a
                       href="https://www.linkedin.com/feed/update/urn:li:activity:7084224156883435521/"
                       target="_blank">
                       top Silicon Valley VC
                     </a>{" "}
-                    (2023)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    $100K annual revenue run rate (ARR) (2023)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    $100K annual revenue run rate (ARR)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
-                    $1M ARR (2023)
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    $1M ARR
                   </li>
                   <li>
-                    <input type="checkbox" />
+                    <input type="checkbox" disabled="true" />
                     $10M ARR
                   </li>
                   <li>
-                    <input type="checkbox" />
+                    <input type="checkbox" disabled="true" />
                     $100M ARR
                   </li>
                   <li>
-                    <input type="checkbox" />
+                    <input type="checkbox" disabled="true" />
                     Found a unicorn
                   </li>
                 </ul>
@@ -247,25 +291,41 @@ export default function IndexPage() {
                 Adventuring
                 <ul>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Climb Mt. Fuji (2015)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     <a href="/posts/yosemite" target="_blank">
                       Climb the Half Dome
                     </a>{" "}
                     (2015)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     <a href="/posts/olympus" target="_blank">
                       Climb Mt. Olympus
                     </a>{" "}
                     (2017)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     <a href="/posts/whitney" target="_blank">
                       Climb Mt. Whitney
                     </a>{" "}
@@ -274,48 +334,48 @@ export default function IndexPage() {
                   <li>
                     <details>
                       <summary>
-                        <input type="checkbox" />
+                        <input type="checkbox" disabled="true" />
                         Complete the Explorer's Grand Slam
                       </summary>
                       <ul>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Kilimanjaro
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Aconcagua
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Elbrus
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Puncak Jaya
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Kosciuszko
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Vinson
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Denali
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Climb Mt. Everest
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Reach the South Pole
                         </li>
                         <li>
-                          <input type="checkbox" />
+                          <input type="checkbox" disabled="true" />
                           Reach the North Pole
                         </li>
                       </ul>
@@ -328,31 +388,51 @@ export default function IndexPage() {
                 Strength
                 <ul>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Do a pistol squat (2015)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Do a one-arm push-up (2021)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Bench press 225 lbs (2021)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Do a muscle-up (2022)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     L-sit to handstand (2024)
                   </li>
                   <li>
-                    <input type="checkbox" />
+                    <input type="checkbox" disabled="true" />
                     Squat 315 lbs
                   </li>
                   <li>
-                    <input type="checkbox" />
+                    <input type="checkbox" disabled="true" />
                     Deadlift 405 lbs
                   </li>
                   {/* <li>Squat 3 plates.</li>
@@ -365,26 +445,38 @@ export default function IndexPage() {
                 Cardio
                 <ul>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Run a sub 6 minute mile (2013)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     Run a marathon (2021)
                   </li>
                   <li>
-                    <input type="checkbox" defaultChecked="true" />
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
                     <a href="/posts/ironman" target="_blank">
                       Finish a full 140.6-mile Ironman triathlon
                     </a>{" "}
                     (2021)
                   </li>
                   <li>
-                    <input type="checkbox" />
+                    <input type="checkbox" disabled="true" />
                     Run an ultramarathon
                   </li>
                   <li>
-                    <input type="checkbox" />
+                    <input type="checkbox" disabled="true" />
                     Swim across the English channel
                   </li>
                 </ul>
@@ -395,11 +487,11 @@ export default function IndexPage() {
                   <summary>Brazilian Jiu-Jitsu (BJJ)</summary>
                   <ul>
                     <li>
-                      <input type="checkbox" />
+                      <input type="checkbox" disabled="true" />
                       Blue belt
                     </li>
                     <li>
-                      <input type="checkbox" />
+                      <input type="checkbox" disabled="true" />
                       Black belt
                     </li>
                   </ul>
