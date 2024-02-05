@@ -69,42 +69,47 @@ export default function IndexPage() {
           <p>Name: Wesley Y. Tian (田)</p>
 
           <Divider />
-          <p>Species: Homo sapien</p>
+          <span>Species: Homo sapien</span>
+          <br />
           {/* <p>Eye color: brown</p>
           <p>Hair color: black</p> */}
-          <p>Ethnicity: Han Chinese</p>
+          <span>Ethnicity: Han Chinese</span>
+          <br />
           {/* <p>Sex: ♂</p> */}
-          <p>Birthplace: Mountain View, CA (Silicon Valley)</p>
-          <p>Birthday: April 22 (same as Sam Altman and Oppenheimer) </p>
-          <p>Age: 26</p>
+          <span>Birthplace: Mountain View, CA (Silicon Valley)</span>
+          <br />
+          <span>Birthday: April 22 (same as Sam Altman and Oppenheimer) </span>
+          <br />
+          <span>Age: 26</span>
           {/* <p>Nationality: 🇺🇸</p> */}
 
           {/* <p>Horoscope: Taurus</p> */}
           {/* <p>Zodiac: OX</p> */}
           <Divider />
 
-          <p>
+          <span>
             Company:{" "}
             <a href="https://www.aragon.ai/" target="_blank">
               Aragon.ai
             </a>
-          </p>
+          </span>
+          <br />
           {/* <p>Company Size: 10</p> */}
-          <p>Role: Co-Founder & CEO</p>
+          <span>Role: Co-Founder & CEO</span>
           {/* <p>Pet(s): N/A</p> */}
           <Divider />
 
-          <details open="false">
+          <details>
             <summary>🗞 In the News</summary>
             <ul>
               <li>
-                Why Aragon.ai Founder Chose Startup Accelerator Neo Over Y
-                Combinator -{" "}
                 <a
                   href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
                   target="_blank">
                   Business Insider
                 </a>
+                : Why Aragon.ai Founder Chose Startup Accelerator Neo Over Y
+                Combinator
               </li>
               <li>
                 <a
@@ -112,21 +117,22 @@ export default function IndexPage() {
                   target="_blank">
                   Big Think
                 </a>
+                : Anatomy of an AI startup: Key lessons for first-time founders
               </li>
             </ul>
           </details>
           <Divider />
 
           {/* <h3></h3> */}
-          <p>
+          {/* <p>
             Note:{" "}
             <a>Links below take you to my corresponding journal entry. </a>
-          </p>
+          </p> */}
           <details open="false">
             <summary>⚔️ Main Quests</summary>
             <ul>
               <details open="false">
-                <summary> Chapter 1: Explore ('13 – '22)</summary>
+                <summary> Chapter 1 ('13 – '22): Explore</summary>
                 <ul>
                   <li>
                     <input
@@ -142,7 +148,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Achieve semi-pro in League of Legends (top 0.1%)
+                    Become semi-pro in League of Legends (top 0.1%)
                   </li>
 
                   <li>
@@ -177,7 +183,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Get a full-time offer from Microsoft AI + Cloud
+                    Get a full-time offer from Microsoft
                   </li>
                   <li>
                     <input
@@ -185,13 +191,13 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Join a YC startup as employee #1
+                    Help build a YC startup as employee #1 (acquired)
                   </li>
                 </ul>
               </details>
 
               <details open="false">
-                <summary>Chapter 2: Build ('22 -)</summary>
+                <summary>Chapter 2 ('22 - present): Build</summary>
                 <ul>
                   <li>
                     <input
@@ -207,11 +213,12 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a
+                    Start a company
+                    {/* <a
                       href="https://twitter.com/wesleyytian/status/1590426084390363136"
                       target="_blank">
                       Start a company
-                    </a>{" "}
+                    </a>{" "} */}
                   </li>
                   <li>
                     <input
@@ -240,12 +247,13 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Raise money from a{" "}
-                    <a
+                    Raise pre-seed from Neo and founders of billion-dollar
+                    companies{" "}
+                    {/* <a
                       href="https://www.linkedin.com/feed/update/urn:li:activity:7084224156883435521/"
                       target="_blank">
                       top Silicon Valley VC
-                    </a>{" "}
+                    </a>{" "} */}
                   </li>
                   <li>
                     <input
@@ -253,7 +261,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    $100K annual revenue run rate (ARR)
+                    $100K ARR
                   </li>
                   <li>
                     <input
@@ -273,7 +281,7 @@ export default function IndexPage() {
                   </li>
                   <li>
                     <input type="checkbox" disabled="true" />
-                    Found a unicorn
+                    Found a billion-dollar company
                   </li>
                 </ul>
               </details>
@@ -288,7 +296,48 @@ export default function IndexPage() {
             <summary>🗝️ Side Quests</summary>
             <ul>
               <li>
-                Adventuring
+                Endurance
+                <ul>
+                  {/* <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Run a sub 6 minute mile (2013)
+                  </li> */}
+                  <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Run a marathon ('21)
+                  </li>
+                  <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    <a href="/posts/ironman" target="_blank">
+                      Finish a full 140.6-mile Ironman triathlon
+                    </a>{" "}
+                    ('21)
+                  </li>
+                  <li>
+                    <input type="checkbox" disabled="true" />
+                    Run an ultramarathon
+                  </li>
+                  <li>
+                    <input type="checkbox" disabled="true" />
+                    Swim across the English channel
+                  </li>
+                </ul>
+              </li>
+
+              <li>
+                Strength
                 <ul>
                   <li>
                     <input
@@ -296,7 +345,61 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Climb Mt. Fuji (2015)
+                    Do a pistol squat ('15)
+                  </li>
+                  <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Do a one-arm push-up ('21)
+                  </li>
+                  <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Bench press 225 lbs ('21)
+                  </li>
+                  <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Do a muscle-up ('22)
+                  </li>
+                  <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    L-sit to handstand ('24)
+                  </li>
+                  <li>
+                    <input type="checkbox" disabled="true" />
+                    Squat 315 lbs
+                  </li>
+                  <li>
+                    <input type="checkbox" disabled="true" />
+                    Deadlift 405 lbs
+                  </li>
+                </ul>
+              </li>
+
+              <li>
+                Mountaineering
+                <ul>
+                  <li>
+                    <input
+                      type="checkbox"
+                      defaultChecked="true"
+                      disabled="true"
+                    />
+                    Climb Mt. Fuji ('15)
                   </li>
                   <li>
                     <input
@@ -307,7 +410,7 @@ export default function IndexPage() {
                     <a href="/posts/yosemite" target="_blank">
                       Climb the Half Dome
                     </a>{" "}
-                    (2015)
+                    ('15)
                   </li>
                   <li>
                     <input
@@ -318,7 +421,7 @@ export default function IndexPage() {
                     <a href="/posts/olympus" target="_blank">
                       Climb Mt. Olympus
                     </a>{" "}
-                    (2017)
+                    ('17)
                   </li>
                   <li>
                     <input
@@ -329,7 +432,7 @@ export default function IndexPage() {
                     <a href="/posts/whitney" target="_blank">
                       Climb Mt. Whitney
                     </a>{" "}
-                    (2019)
+                    ('19)
                   </li>
                   <li>
                     <details>
@@ -385,106 +488,8 @@ export default function IndexPage() {
               </li>
 
               <li>
-                Strength
-                <ul>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Do a pistol squat (2015)
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Do a one-arm push-up (2021)
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Bench press 225 lbs (2021)
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Do a muscle-up (2022)
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    L-sit to handstand (2024)
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Squat 315 lbs
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Deadlift 405 lbs
-                  </li>
-                  {/* <li>Squat 3 plates.</li>
-                <li>Deadlift 4 plates.</li>
-                <li>Do a handstand for a minute.</li> */}
-                </ul>
-              </li>
-
-              <li>
-                Cardio
-                <ul>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Run a sub 6 minute mile (2013)
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Run a marathon (2021)
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    <a href="/posts/ironman" target="_blank">
-                      Finish a full 140.6-mile Ironman triathlon
-                    </a>{" "}
-                    (2021)
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Run an ultramarathon
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Swim across the English channel
-                  </li>
-                </ul>
-              </li>
-
-              <li>
                 <details>
-                  <summary>Brazilian Jiu-Jitsu (BJJ)</summary>
+                  <summary>BJJ</summary>
                   <ul>
                     <li>
                       <input type="checkbox" disabled="true" />
@@ -493,6 +498,21 @@ export default function IndexPage() {
                     <li>
                       <input type="checkbox" disabled="true" />
                       Black belt
+                    </li>
+                  </ul>
+                </details>
+              </li>
+              <li>
+                <details>
+                  <summary>Languages</summary>
+                  <ul>
+                    <li>
+                      <input type="checkbox" disabled="true" />
+                      Learn Japanese
+                    </li>
+                    <li>
+                      <input type="checkbox" disabled="true" />
+                      Learn Spanish
                     </li>
                   </ul>
                 </details>
@@ -532,8 +552,8 @@ export default function IndexPage() {
           <details>
             <summary>📜 Retired Quests</summary>
             <ul>
-              <li>Survive SEAL BUD/S</li>
-              <li>Become an US Air Force pilot</li>
+              {/* <li>Survive SEAL BUD/S</li> */}
+              <li>Become an US Air Force pilot/Navy SEAL</li>
               <li>Become an astronaut</li>
               <li>Get a Ph.D. in AI</li>
               <li>Dunk a basketball</li>
@@ -840,8 +860,8 @@ export default function IndexPage() {
               </li>
             </ul>
           </details> */}
-          <Divider />
-          <p>Last updated: 01-2024</p>
+          {/* <Divider /> */}
+          {/* <p>Last updated: 01-2024</p> */}
         </div>
       </main>
       <Footer />
