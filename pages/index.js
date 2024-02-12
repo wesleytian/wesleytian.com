@@ -195,7 +195,7 @@ export default function IndexPage() {
 
               <details open="false">
                 <summary style={{ cursor: "pointer" }}>
-                  Chapter 2 ('22 - present): Build
+                  Chapter 2 ('22 - present): Make Money
                 </summary>
                 <ul>
                   <li>
@@ -283,7 +283,7 @@ export default function IndexPage() {
                 </ul>
               </details>
               {/* <details>
-                <summary>Phase 3: TBD</summary>
+                <summary>Phase 3: ? </summary>
               </details> */}
             </ul>
           </details>
