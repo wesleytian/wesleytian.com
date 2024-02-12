@@ -66,7 +66,7 @@ export default function IndexPage() {
           <div styles={{ float: "left" }}></div>
 
           {/* <p>Profile:</p> */}
-          <p>Name: Wesley Y. Tian (田)</p>
+          <p>Name: Wesley Tian</p>
 
           <Divider />
 
@@ -79,8 +79,8 @@ export default function IndexPage() {
           <br />
           {/* <p>Eye color: brown</p>
           <p>Hair color: black</p> */}
-          <span>Ethnicity: Han Chinese</span>
-          <br />
+          {/* <span>Ethnicity: Han Chinese</span> */}
+          {/* <br /> */}
           {/* <span>Age: 26</span> */}
           {/* <p>Nationality: 🇺🇸</p> */}
 
@@ -89,10 +89,7 @@ export default function IndexPage() {
           <Divider />
 
           <span>
-            Company:{" "}
-            <a href="https://www.aragon.ai/" target="_blank">
-              Aragon.ai
-            </a>
+            Company: <a href="https://www.aragon.ai/">Aragon.ai</a>
           </span>
           <br />
           {/* <p>Company Size: 10</p> */}
@@ -101,21 +98,17 @@ export default function IndexPage() {
           <Divider />
 
           <details>
-            <summary>🗞 In the News</summary>
+            <summary style={{ cursor: "pointer" }}>🗞 In the News</summary>
             <ul>
               <li>
-                <a
-                  href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
-                  target="_blank">
+                <a href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
                   Business Insider
                 </a>
                 : Why Aragon.ai Founder Chose Startup Accelerator Neo Over Y
                 Combinator
               </li>
               <li>
-                <a
-                  href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/?utm_medium=Social&utm_source=LinkedIn#Echobox=1700078940-3"
-                  target="_blank">
+                <a href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/?utm_medium=Social&utm_source=LinkedIn#Echobox=1700078940-3">
                   Big Think
                 </a>
                 : Anatomy of an AI startup: Key lessons for first-time founders
@@ -130,10 +123,13 @@ export default function IndexPage() {
             <a>Links below take you to my corresponding journal entry. </a>
           </p> */}
           <details open="false">
-            <summary>⚔️ Main Quests</summary>
+            <summary style={{ cursor: "pointer" }}>⚔️ Main Quests</summary>
             <ul>
               <details open="false">
-                <summary> Chapter 1 ('13 – '22): Explore</summary>
+                <summary style={{ cursor: "pointer" }}>
+                  {" "}
+                  Chapter 1 ('13 – '22): Explore
+                </summary>
                 <ul>
                   <li>
                     <input
@@ -198,7 +194,9 @@ export default function IndexPage() {
               </details>
 
               <details open="false">
-                <summary>Chapter 2 ('22 - present): Build</summary>
+                <summary style={{ cursor: "pointer" }}>
+                  Chapter 2 ('22 - present): Build
+                </summary>
                 <ul>
                   <li>
                     <input
@@ -228,9 +226,7 @@ export default function IndexPage() {
                       disabled="true"
                     />
                     Become{" "}
-                    <a
-                      href="https://twitter.com/wesleyytian/status/1629910705251172352"
-                      target="_blank">
+                    <a href="https://twitter.com/wesleyytian/status/1629910705251172352">
                       ramen profitable
                     </a>{" "}
                   </li>
@@ -294,7 +290,7 @@ export default function IndexPage() {
           <br />
 
           <details open="false">
-            <summary>🗝️ Side Quests</summary>
+            <summary style={{ cursor: "pointer" }}>🗝️ Side Quests</summary>
             <ul>
               <li>
                 Endurance
@@ -307,21 +303,21 @@ export default function IndexPage() {
                     />
                     Run a sub 6 minute mile (2013)
                   </li> */}
-                  <li>
+                  {/* <li>
                     <input
                       type="checkbox"
                       defaultChecked="true"
                       disabled="true"
                     />
                     Run a marathon ('21)
-                  </li>
+                  </li> */}
                   <li>
                     <input
                       type="checkbox"
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a href="/posts/ironman" target="_blank">
+                    <a href="/posts/ironman">
                       Finish a full 140.6-mile Ironman triathlon
                     </a>{" "}
                     ('21)
@@ -340,14 +336,14 @@ export default function IndexPage() {
               <li>
                 Strength
                 <ul>
-                  <li>
+                  {/* <li>
                     <input
                       type="checkbox"
                       defaultChecked="true"
                       disabled="true"
                     />
                     Do a pistol squat ('15)
-                  </li>
+                  </li> */}
                   <li>
                     <input
                       type="checkbox"
@@ -362,7 +358,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Bench press 225 lbs ('21)
+                    Bench press 225 lbs ('22)
                   </li>
                   <li>
                     <input
@@ -408,10 +404,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a href="/posts/yosemite" target="_blank">
-                      Climb the Half Dome
-                    </a>{" "}
-                    ('15)
+                    <a href="/posts/yosemite">Climb the Half Dome</a> ('15)
                   </li>
                   <li>
                     <input
@@ -419,10 +412,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a href="/posts/olympus" target="_blank">
-                      Climb Mt. Olympus
-                    </a>{" "}
-                    ('17)
+                    <a href="/posts/olympus">Climb Mt. Olympus</a> ('17)
                   </li>
                   <li>
                     <input
@@ -430,14 +420,11 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a href="/posts/whitney" target="_blank">
-                      Climb Mt. Whitney
-                    </a>{" "}
-                    ('19)
+                    <a href="/posts/whitney">Climb Mt. Whitney</a> ('19)
                   </li>
                   <li>
                     <details>
-                      <summary>
+                      <summary style={{ cursor: "pointer" }}>
                         <input type="checkbox" disabled="true" />
                         Complete the Explorer's Grand Slam
                       </summary>
@@ -490,7 +477,7 @@ export default function IndexPage() {
 
               <li>
                 <details>
-                  <summary>BJJ</summary>
+                  <summary style={{ cursor: "pointer" }}>BJJ</summary>
                   <ul>
                     <li>
                       <input type="checkbox" disabled="true" />
@@ -505,7 +492,7 @@ export default function IndexPage() {
               </li>
               <li>
                 <details>
-                  <summary>Languages</summary>
+                  <summary style={{ cursor: "pointer" }}>Languages</summary>
                   <ul>
                     <li>
                       <input type="checkbox" disabled="true" />
@@ -551,7 +538,7 @@ export default function IndexPage() {
           </details> */}
           <br />
           <details>
-            <summary>📜 Retired Quests</summary>
+            <summary style={{ cursor: "pointer" }}>📜 Retired Quests</summary>
             <ul>
               {/* <li>Survive SEAL BUD/S</li> */}
               <li>Become an US Air Force pilot/Navy SEAL</li>
@@ -691,7 +678,9 @@ export default function IndexPage() {
           {/* <Divider /> */}
           <section id="story">
             <details>
-              <summary>✈️ World Travel Log</summary>
+              <summary style={{ cursor: "pointer" }}>
+                ✈️ World Travel Log
+              </summary>
               <p>Continents Visited: 3/7</p>
               <p>Countries Lived In: USA, Taiwan, China</p>
               <p>Countries Visited: 22/195 (11%)</p>
@@ -868,7 +857,7 @@ export default function IndexPage() {
         <div>
           <a
             href="https://twitter.com/wesleyytian"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer">
             {/* <i className="fa fa-twitter" style={iconStyle}></i> */}
             Twitter
@@ -876,7 +865,7 @@ export default function IndexPage() {
           {" | "}
           <a
             href="https://www.linkedin.com/in/wesleytian/"
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer">
             {/* <i className="fa fa-linkedin" style={iconStyle}></i> */}
             LinkedIn
