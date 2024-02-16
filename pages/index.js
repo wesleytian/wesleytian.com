@@ -101,6 +101,13 @@ export default function IndexPage() {
             <summary style={{ cursor: "pointer" }}>🗞 In the News</summary>
             <ul>
               <li>
+                <a href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
+                  Washington Post
+                </a>
+                : AI professional headshots are quick and easy. But should you
+                use one?
+              </li>
+              <li>
                 <a href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
                   Business Insider
                 </a>
