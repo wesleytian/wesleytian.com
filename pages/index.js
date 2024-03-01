@@ -683,7 +683,7 @@ export default function IndexPage() {
           {/* </section> */}
           {/* <br /> */}
           <details>
-            <summary style={{ cursor: "pointer" }}>💛 Friends</summary>
+            <summary style={{ cursor: "pointer" }}>💛 Besties</summary>
 
             <ul>
               <li>Henry Li</li>
