@@ -294,7 +294,7 @@ export default function IndexPage() {
               </details> */}
             </ul>
           </details>
-          <br />
+          {/* <br /> */}
 
           <details open="false">
             <summary style={{ cursor: "pointer" }}>🗝️ Side Quests</summary>
@@ -543,7 +543,7 @@ export default function IndexPage() {
               <li>7-day water fast</li>
             </ul>
           </details> */}
-          <br />
+          {/* <br /> */}
           <details>
             <summary style={{ cursor: "pointer" }}>📜 Abandoned Quests</summary>
             <ul>
@@ -611,8 +611,8 @@ export default function IndexPage() {
           {/* <p>Core Memories</p> */}
           {/* <br /> */}
 
-          <section>
-            {/* <p>Hi, welcome to my personal website.</p>
+          {/* <section> */}
+          {/* <p>Hi, welcome to my personal website.</p>
             <p>
               AI will be the biggest achievement of humankind. It's going to be
               bigger than the internet and we're living through it right now.
@@ -680,8 +680,8 @@ export default function IndexPage() {
               
               .
             </p> */}
-          </section>
-          <br />
+          {/* </section> */}
+          {/* <br /> */}
           <details>
             <summary style={{ cursor: "pointer" }}>💛 Friends</summary>
 
@@ -879,6 +879,7 @@ export default function IndexPage() {
             LinkedIn
           </a>
         </div>
+        <br></br> <br></br> <br></br>
       </main>
 
       {/* <Footer /> */}
