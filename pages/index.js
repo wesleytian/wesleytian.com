@@ -545,7 +545,7 @@ export default function IndexPage() {
           </details> */}
           <br />
           <details>
-            <summary style={{ cursor: "pointer" }}>📜 Retired Quests</summary>
+            <summary style={{ cursor: "pointer" }}>📜 Abandoned Quests</summary>
             <ul>
               {/* <li>Survive SEAL BUD/S</li> */}
               <li>Become an US Air Force pilot/Navy SEAL</li>
@@ -682,6 +682,121 @@ export default function IndexPage() {
             </p> */}
           </section>
           <br />
+          <details>
+            <summary style={{ cursor: "pointer" }}>💛 Friends</summary>
+
+            <ul>
+              <li>Henry Li</li>
+              <li>
+                Douglas Qian
+                {/* <a
+                  href="https://www.linkedin.com/in/douglas-qian/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Edward Liu
+                {/* <a
+                  href="https://www.linkedin.com/in/edwardwliu/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Henry Chan
+                {/* <a
+                  href="https://www.linkedin.com/in/henry-chan261/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Andrew Chang
+                {/* <a
+                  href="https://www.linkedin.com/in/andrewechang/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Nisch Tamang
+                {/* <a
+                  href="https://www.linkedin.com/in/nischal-tamang/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Phillip Michalowski
+                {/* <a href="https://phillipmichalowski.com/" target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Joe Breda
+                {/* <a href="https://joebreda.github.io/" target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Rui Wang
+                {/* <a
+                  href="https://www.cics.umass.edu/faculty/directory/wang_rui"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Solomon Demmessie
+                {/* <a
+                  href="https://www.linkedin.com/in/solomon-demmessie-974683107/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Letao Chen
+                {/* <a href="https://lokto.me/#/" target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Victor Maher
+                {/* <a
+                  href="https://www.linkedin.com/in/victor-maher/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Alex George
+                {/* <a
+                  href="https://www.linkedin.com/in/-alexgeorge/"
+                  target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Jack Li
+                {/* <a href="https://jack-x.li/" target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Daniel Frost
+                {/* <a href="https://frostdaniel.com/" target="_blank">
+                  *
+                </a> */}
+              </li>
+              <li>
+                Akhil Nadendla
+                {/* <a href="https://www.linkedin.com/in/akh1ln/" target="_blank">
+                  *
+                </a> */}
+              </li>
+            </ul>
+          </details>
           {/* <Divider /> */}
           <section id="story">
             <details>
@@ -743,120 +858,6 @@ export default function IndexPage() {
           </details>
           <br /> */}
 
-          {/* <details>
-            <summary>Friends</summary>
-            <ul>
-              <li>Henry Li</li>
-              <li>
-                Douglas Qian
-                <a
-                  href="https://www.linkedin.com/in/douglas-qian/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Edward Liu
-                <a
-                  href="https://www.linkedin.com/in/edwardwliu/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Henry Chan
-                <a
-                  href="https://www.linkedin.com/in/henry-chan261/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Andrew Chang
-                <a
-                  href="https://www.linkedin.com/in/andrewechang/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Nisch Tamang
-                <a
-                  href="https://www.linkedin.com/in/nischal-tamang/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Phillip Michalowski
-                <a href="https://phillipmichalowski.com/" target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Joe Breda
-                <a href="https://joebreda.github.io/" target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Rui Wang
-                <a
-                  href="https://www.cics.umass.edu/faculty/directory/wang_rui"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Solomon Demmessie
-                <a
-                  href="https://www.linkedin.com/in/solomon-demmessie-974683107/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Letao Chen
-                <a href="https://lokto.me/#/" target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Victor Maher
-                <a
-                  href="https://www.linkedin.com/in/victor-maher/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Alex George
-                <a
-                  href="https://www.linkedin.com/in/-alexgeorge/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Jack Li
-                <a href="https://jack-x.li/" target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Daniel Frost
-                <a href="https://frostdaniel.com/" target="_blank">
-                  *
-                </a>
-              </li>
-              <li>
-                Akhil Nadendla
-                <a href="https://www.linkedin.com/in/akh1ln/" target="_blank">
-                  *
-                </a>
-              </li>
-            </ul>
-          </details> */}
           {/* <Divider /> */}
           {/* <p>Last updated: 01-2024</p> */}
         </div>
