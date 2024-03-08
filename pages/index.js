@@ -251,7 +251,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Raise pre-seed from Neo and founders of billion-dollar
+                    Raise money from Neo and founders of billion-dollar
                     companies{" "}
                     {/* <a
                       href="https://www.linkedin.com/feed/update/urn:li:activity:7084224156883435521/"
