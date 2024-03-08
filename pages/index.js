@@ -135,7 +135,7 @@ export default function IndexPage() {
               <details open="false">
                 <summary style={{ cursor: "pointer" }}>
                   {" "}
-                  Chapter 1 ('13 – '22): Explore
+                  Chapter 1 ('13 – '22): Learn
                 </summary>
                 <ul>
                   <li>
@@ -152,7 +152,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Become semi-pro in League of Legends (top 0.1%)
+                    Become semi-pro at League of Legends (top 0.1%)
                   </li>
 
                   <li>
@@ -202,7 +202,7 @@ export default function IndexPage() {
 
               <details open="false">
                 <summary style={{ cursor: "pointer" }}>
-                  Chapter 2 ('22 - present): Make Money
+                  Chapter 2 ('22 - present): Founder Journey
                 </summary>
                 <ul>
                   <li>
@@ -283,15 +283,11 @@ export default function IndexPage() {
                     <input type="checkbox" disabled="true" />
                     $100M ARR
                   </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Found a billion-dollar company
-                  </li>
                 </ul>
               </details>
-              {/* <details>
-                <summary>Phase 3: ? </summary>
-              </details> */}
+              <details open="false">
+                <summary>Chapter 3: :)</summary>
+              </details>
             </ul>
           </details>
           {/* <br /> */}
@@ -428,6 +424,14 @@ export default function IndexPage() {
                       disabled="true"
                     />
                     <a href="/posts/whitney">Climb Mt. Whitney</a> ('19)
+                  </li>
+                  <li>
+                    <input type="checkbox" disabled="true" />
+                    Learn mountaineering
+                  </li>
+                  <li>
+                    <input type="checkbox" disabled="true" />
+                    Climb Mt. Rainier
                   </li>
                   <li>
                     <details>
