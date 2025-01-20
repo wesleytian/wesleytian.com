@@ -66,16 +66,12 @@ export default function IndexPage() {
           <div styles={{ float: "left" }}></div>
 
           {/* <p>Profile:</p> */}
-          <p>Name: Wesley Tian</p>
+          <p>Hi, welcome to my website!</p>
 
           <Divider />
 
           {/* <p>Sex: ♂</p> */}
-          <span>Birthplace: Mountain View, CA (Silicon Valley)</span>
-          <br />
-          <span>Birthday: April 22 (same as Sam Altman and Oppenheimer) </span>
-          <br />
-          <span>Species: Homo sapien</span>
+          <span>Birthplace: Mountain View, CA</span>
           <br />
           {/* <p>Eye color: brown</p>
           <p>Hair color: black</p> */}
@@ -161,9 +157,9 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a href="/posts/gpa">
+                    
                       Graduate high School (I almost failed)
-                    </a>{" "}
+              
                   </li>
                   <li>
                     <input
@@ -233,9 +229,9 @@ export default function IndexPage() {
                       disabled="true"
                     />
                     Become{" "}
-                    <a href="https://twitter.com/wesleyytian/status/1629910705251172352">
+                 
                       ramen profitable
-                    </a>{" "}
+      
                   </li>
                   <li>
                     <input
@@ -320,19 +316,11 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a href="/posts/ironman">
+                  
                       Finish a full 140.6-mile Ironman triathlon
-                    </a>{" "}
-                    ('21)
+     
                   </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Run an ultramarathon
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Swim across the English channel
-                  </li>
+             
                 </ul>
               </li>
 
@@ -345,23 +333,16 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Do a pistol squat ('15)
+                    Do a pistol squat
                   </li> */}
+             
                   <li>
                     <input
                       type="checkbox"
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Do a one-arm push-up ('21)
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Bench press 225 lbs ('22)
+                    Bench press 225 lbs
                   </li>
                   <li>
                     <input
@@ -369,24 +350,10 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Do a muscle-up ('22)
+                    Do a muscle-up
                   </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    L-sit to handstand ('24)
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Squat 315 lbs
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Deadlift 405 lbs
-                  </li>
+              
+               
                 </ul>
               </li>
 
@@ -415,7 +382,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    <a href="/posts/olympus">Climb Mt. Olympus</a> ('17)
+                   Climb Mt. Olympus
                   </li>
                   <li>
                     <input
@@ -425,14 +392,8 @@ export default function IndexPage() {
                     />
                     <a href="/posts/whitney">Climb Mt. Whitney</a> ('19)
                   </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Learn mountaineering
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    Climb Mt. Rainier
-                  </li>
+               
+               
                   <li>
                     <details>
                       <summary style={{ cursor: "pointer" }}>
@@ -486,53 +447,11 @@ export default function IndexPage() {
                 </ul>
               </li>
 
-              <li>
-                <details>
-                  <summary style={{ cursor: "pointer" }}>BJJ</summary>
-                  <ul>
-                    <li>
-                      <input type="checkbox" disabled="true" />
-                      Blue belt
-                    </li>
-                    <li>
-                      <input type="checkbox" disabled="true" />
-                      Black belt
-                    </li>
-                  </ul>
-                </details>
-              </li>
-              <li>
-                <details>
-                  <summary style={{ cursor: "pointer" }}>Languages</summary>
-                  <ul>
-                    <li>
-                      <input type="checkbox" disabled="true" />
-                      Learn Japanese
-                    </li>
-                    <li>
-                      <input type="checkbox" disabled="true" />
-                      Learn Spanish
-                    </li>
-                  </ul>
-                </details>
-              </li>
-
-              {/* <li>👉 Become a millionaire.</li>
-              <li>Become a billionaire.</li> */}
+ 
             </ul>
           </details>
 
-          {/* <details>
-            <summary>Intellectual Quests</summary>
-            <ul>
-              <li>Win a hackathon. (2017)</li>
-              <li>Get a Ph.D.</li>
-              <li>Learn Spanish.</li>
-              <li>Learn Japanese.</li>
-              <li>Chess master.</li>
-            </ul>
-          </details> */}
-
+        
           {/* <details>
             <summary>Spiritual Quests</summary>
             <ul>
@@ -548,16 +467,7 @@ export default function IndexPage() {
             </ul>
           </details> */}
           {/* <br /> */}
-          <details>
-            <summary style={{ cursor: "pointer" }}>📜 Abandoned Quests</summary>
-            <ul>
-              {/* <li>Survive SEAL BUD/S</li> */}
-              <li>Become an US Air Force pilot/Navy SEAL</li>
-              <li>Become an astronaut</li>
-              <li>Get a Ph.D. in AI</li>
-              <li>Dunk a basketball</li>
-            </ul>
-          </details>
+        
           {/* <p>Skills:</p>
           <ul>
             <li>Juggling</li>
@@ -592,25 +502,6 @@ export default function IndexPage() {
               </li>
             </ul>
           </details> */}
-
-          {/* 
-          <details>
-            <summary>Favorite Wearables</summary>
-            <ul>
-              <li>Uniqlo</li>
-              <li>Abercrombie & Fitch</li>
-              <li>Blundstone</li>
-              <li>Nike</li>
-              <li>WHOOP</li>
-            </ul>
-          </details>
-
-          <p>
-            Favorite Consumables
-            <ul>
-              <li></li>
-            </ul>
-          </p> */}
 
           {/* <p>Core Memories</p> */}
           {/* <br /> */}
@@ -693,26 +584,8 @@ export default function IndexPage() {
               <summary style={{ cursor: "pointer" }}>
                 ✈️ World Travel Log
               </summary>
-              <p>Continents Visited: 3/7</p>
-              <p>Countries Lived In: USA, Taiwan, China</p>
-              <p>Countries Visited: 22/195 (11%)</p>
-              <ul>
-                <li>2010: Indonesia, Singapore</li>
-                <li>2011: </li>
-                <li>2012: Philippines</li>
-                <li>2013: Nepal</li>
-                <li>2014: Cambodia</li>
-                <li>2015: Australia, Thailand, Japan</li>
-                <li>2016: Italy, Vatican City, Greece</li>
-                <li>2017: UAE</li>
-                <li>2018: Japan (2), Canada</li>
-                <li>2019: Mexico</li>
-                <li>2020: Spain</li>
-                <li>2021: Iceland</li>
-                <li>2022: </li>
-                <li>2023: France, United Kingdom</li>
-                <li>2024: New Zealand</li>
-              </ul>
+              <p>Continents Visited: 6/7</p>
+              <p>Countries Visited: 25/195 (13%)</p>
             </details>
           </section>
 
