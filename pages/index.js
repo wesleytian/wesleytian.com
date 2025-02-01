@@ -82,7 +82,7 @@ export default function IndexPage() {
             I’m Wesley, an entrepreneur based in San Francisco who enjoys
             traveling, mountaineering, and running. Here's a bit about me.
           </p>
-          <b>Work</b>
+          <h4>Work</h4>
           <p>
             I’m the CEO and Co-Founder of{' '}
             <a target="_blank" href="https://www.aragon.ai/">
@@ -92,7 +92,7 @@ export default function IndexPage() {
             need for in-person photoshoots.
           </p>
           <p>
-            We have over 1.4 million users, including Fortune 500 companies and
+            We have over 1.2 million users, including Fortune 500 companies and
             our products have generated over 25 million photos for people.{' '}
           </p>
           <p>
@@ -168,13 +168,13 @@ export default function IndexPage() {
             </a>{' '}
             podcast.
           </p>
-          <h6>Hobbies</h6>
+          <h4>Hobbies</h4>
           <p>
-            I’m a huge proponent of boosting productivity and creativity by
-            cultivating a healthy body and healthy relationships. Besides
-            working on improving my biomarkers such as my VO2 max by running and
-            maintaining my strength by lifting, I enjoy challenging myself
-            physically.
+            I’m a big believer that a healthy body fosters more productivity, so
+            I try to spend most of my free time staying active. Besides trying
+            to improve my VO2 max by running and maintain my strength by
+            lifting, I enjoy physical challenges to see what my body and mind
+            can do.
           </p>
           <p>
             One of my goals since I was a child is to climb the Seven Summits
@@ -251,8 +251,8 @@ export default function IndexPage() {
             <li>
               I nearly failed high school with a 1.9 GPA because I was focused
               on playing League of Legends competitively (I made it to the top
-              2% of players globally). I was also busy playing 4 varsity sports
-              and 2 JV.
+              2% of players globally). I was also busy playing on 6 sports
+              teams–4 varsisty and 2 JV.
             </li>
 
             <li>I've visited 25 countries and 6 continents.</li>
