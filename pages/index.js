@@ -79,40 +79,70 @@ export default function IndexPage() {
           <Divider />*/}
           <p>Hey,</p>
           <p>
-            I’m Wesley. I’m an entrepreneur and I enjoy mountaineering and
+            I’m Wesley. I’m a tech entrepreneur and I enjoy mountaineering and
             running.
           </p>
           <h3>Work</h3>
           <p>
-            I’m the CEO and Co-Founder of Aragon. We generate realistic photos
+            I’m the CEO and Co-Founder of <a
+            href="https://www.aragon.ai/"
+            rel="noopener noreferrer"
+          >Aragon</a>. We generate realistic photos
             of people using AI.
           </p>
           <p>
-            We have 1.4+ million users, including Fortune 500 companies and our
-            products have generated 25+ million photos for people. We’ve raised
+            We have over 1.4 million users, including Fortune 500 companies and our
+            products have generated over 25 million photos for people. We’ve raised
             a million dollars from Neo and the founders of billion-dollar
             companies but are proud to have never used any of the capital as
             we’ve been able to build a capital-efficient business. We’ve been
             able to grow to $1M ARR within four months of launch and $4M ARR in
-            under two years on profits alone.{' '}
+            under two years on profits alone.
           </p>
           <p>
-            My company has been featured on the My First Million podcast, the
-            Rolling Stone, the Washington Post, Entrepreneur, NBC News. I’ve
-            also been invited to chat about my journey building Aragon on the
-            Business Insider, Big Think Amazon, and the NeuralZen Venture
-            Podcast, and soon Jomatech, Marty’s friend and __.
+            My company has been featured on the <a
+            href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
+            rel="noopener noreferrer"
+          >Washington Post</a>, <a
+            href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
+            rel="noopener noreferrer"
+          >NBC News</a>, <a
+            href="https://www.aragon.ai/"
+            rel="noopener noreferrer"
+          >the
+            Entrepreneur</a>, <a
+            href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/"
+            rel="noopener noreferrer"
+          >the Rolling Stone</a>, and the <a
+            href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
+            rel="noopener noreferrer"
+          >My First Million podcast</a>.
+            </br>
+            I’ve also been invited to chat about my journey building my company
+            on the <a
+            href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
+            rel="noopener noreferrer"
+          >Business Insider</a>, <a
+            href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
+            rel="noopener noreferrer"
+          >Big Think</a>, <a
+            href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
+            rel="noopener noreferrer"
+          >Amazon</a>, and the <a
+            href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
+            rel="noopener noreferrer"
+          >NeuralZen Venture
+            Podcast</a>.
           </p>
           <h3>Hobbies</h3>
           <p>
-            I’m a huge proponent in boosting productivity by developing a
-            healthy body and relationships. Besides working on improving my
-            biomarkers such as my VO2max, I enjoy mountaineering, skiing,
-            running, and lifting.
+            I’m a huge proponent in boosting productivity by cultivating a
+            healthy body and healthy relationships. Besides working on improving my
+            biomarkers such as my VO2 max and maintaing my strength, I enjoy mountaineering and skiing.
           </p>
           <p>
             One of my dreams since I was a child is to climb the Seven Summits
-            (the tallest mountain on every continent). I’ve climbed one and have
+            (the tallest mountain on every continent). I’ve climbed one so far and have
             six more to go.
           </p>
           Notable summits:
@@ -120,8 +150,8 @@ export default function IndexPage() {
             <li>
               Mt. Kilimanjaro (Tanzania)
               <p>
-                In 2025, I convinced 3 friends to climb the tallest mountain in
-                Africa (19,000ft / 6,000m) with me. It took us 5 days to summit
+                In 2025, I organized 3 friends to climb the tallest mountain in
+                Africa (19,341 ft / 5,895). It took us 5 days to summit
                 and 2 days to descend and one of us didn’t make it due to
                 altitude sickness. This climb was the most I’ve physically
                 suffered (more than my Ironman race) due to getting food
@@ -129,10 +159,10 @@ export default function IndexPage() {
               </p>
             </li>
             <li>
-              Mt. Whitney (CA)
+              Mt. Whitney (CA, US)
               <p>
-                In 2019, I convinced 3 friends to climb the tallest mountain in
-                the contiguous US (14,505ft / 4000m) with me. We started at 1 am
+                In 2019, I organized 3 friends to climb the tallest mountain in
+                the contiguous US (14,505 ft / 4,421m). We started the climb at 2 am
                 and it took us 17 hours to summit and descend. People usually
                 split this climb into two days.
               </p>
@@ -140,16 +170,16 @@ export default function IndexPage() {
             <li>
               Mt. Fuji (Japan)
               <p>
-                In 2015, I Convinced 3 friends to bullet hike Mt. Fuji (without
-                staying overnight on the mountain) with me (12,000ft / 3,000m).
+                In 2015, I organized 3 friends to bullet hike Japan's tallest mountain (without
+                staying overnight on the mountain) with me (12,389 ft / 3,776 m).
                 It took us 16 hours to summit and descend. It’s now illegal to
                 bullet hike Mt. Fuji due to people being injured from doing so.
                 All 3 now refuse to hike.
               </p>
             </li>
             <li>
-              Others: Mt. Olympus (Greece), Mt. Washington (NH), Mt. Diablo
-              (CA), Mt. Tam, Mt. Jefferson, and many more.
+              Others: Mt. Olympus (Greece), Mt. Washington (NH, US), Mt. Diablo
+              (CA, US), Mt. Tam, Mt. Jefferson, and many more.
             </li>
           </ul>
           <p>
@@ -164,31 +194,33 @@ export default function IndexPage() {
             particular order, the following are some people who have been an
             influence on my life: dad, mom, sister, Henry, Douglas, Henry,
             Andrew, Edward, Rui, Nisch, Phillip, Joe, Solomon, Elon, Victor,
-            Jack, Akhil, Carol, Lindy.{' '}
+            Jack, Akhil, Carol, Lindy.{' '} 
           </p>*/}
           <h3>Fun facts</h3>
           <ul>
             <li>
-              I have a cameo in a Netflix documentary called Don’t Die about
+              I have a cameo in a Netflix documentary called <a
+            href="https://www.netflix.com/title/81757532"
+            rel="noopener noreferrer"
+          >Don’t Die</a> about
               Bryan Johnson, a wealthy entrepreneur who tries to defy aging.
             </li>
             <li>
               I nearly failed high school playing League of Legends
               competitively (I made it to the top 1%). I also played 4 sports at
-              the varsity level and 2 at the JV level.{' '}
+              the varsity level and 2 at the JV level.
             </li>
             <li>
-              I changed schools 7 times growing up, and moved to two different
+              I changed schools 7 times while growing up and moved to two different
               countries.
             </li>
             <li>
               I was born in the SF Bay Area but didn’t grow up there. I’ve since
-              moved back 4 years ago and call it my home.
+              moved back 4 years ago and am proud to call it my home.
             </li>
             <li>
-              In high school, I spent a summer at a military school in Kentucky
-              to become a US Army Cadet Private. It’s now closed down due to
-              hazing.
+              In high school, I voluntarily spent a summer being hazed at a military school in Kentucky. It closed shortly after I left due to
+              unsafe conditions.
             </li>
           </ul>
           <p>
