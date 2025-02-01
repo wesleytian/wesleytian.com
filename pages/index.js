@@ -73,7 +73,7 @@ export default function IndexPage() {
           {/* <p>Horoscope: Taurus</p> */}
           {/*<Divider />*/}
           {/* <span>
-            Company: <a href="https://www.aragon.ai/">Aragon.ai</a>
+            Company: <a target="_blank"href="https://www.aragon.ai/">Aragon.ai</a>
           </span>*/}
           {/*<br /> 
           <Divider />*/}
@@ -85,8 +85,10 @@ export default function IndexPage() {
           <h3>Work</h3>
           <p>
             I’m the CEO and Co-Founder of{' '}
-            <a href="https://www.aragon.ai/">Aragon</a>. We generate realistic
-            photos of people using AI.
+            <a target="_blank" href="https://www.aragon.ai/">
+              Aragon
+            </a>
+            . We generate realistic photos of people using AI.
           </p>
           <p>
             We have over 1.4 million users, including Fortune 500 companies and
@@ -94,7 +96,10 @@ export default function IndexPage() {
             raised a million dollars from Neo and the founders of billion-dollar
             companies and are proud to have never used any of the capital as
             we’ve been able to build a{' '}
-            <a href="https://blog.eladgil.com/p/capital-efficient-businesses">
+            <a
+              target="_blank"
+              href="https://blog.eladgil.com/p/capital-efficient-businesses"
+            >
               capital-efficient business
             </a>
             . We’ve been able to grow to $1M ARR within four months of launch
@@ -102,36 +107,64 @@ export default function IndexPage() {
           </p>
           <p>
             My company has been featured on the{' '}
-            <a href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
+            <a
+              target="_blank"
+              href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
+            >
               Washington Post
             </a>
             ,{' '}
-            <a href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821">
+            <a
+              target="_blank"
+              href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
+            >
               NBC News
             </a>
-            , <a href="https://www.aragon.ai/">the Entrepreneur</a>,{' '}
-            <a href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/">
+            ,{' '}
+            <a target="_blank" href="https://www.aragon.ai/">
+              the Entrepreneur
+            </a>
+            ,{' '}
+            <a
+              target="_blank"
+              href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/"
+            >
               the Rolling Stone
             </a>
             , and the{' '}
-            <a href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141">
+            <a
+              target="_blank"
+              href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
+            >
               My First Million podcast
             </a>
             . I’ve also been invited to chat about my journey building my
             company on the{' '}
-            <a href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
+            <a
+              target="_blank"
+              href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
+            >
               Business Insider
             </a>
             ,{' '}
-            <a href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/">
+            <a
+              target="_blank"
+              href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
+            >
               Big Think
             </a>
             ,{' '}
-            <a href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166">
+            <a
+              target="_blank"
+              href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
+            >
               Amazon
             </a>
             , and the{' '}
-            <a href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w">
+            <a
+              target="_blank"
+              href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
+            >
               NeuralZen Venture Podcast
             </a>
             .
@@ -202,7 +235,9 @@ export default function IndexPage() {
           <ul>
             <li>
               I have a cameo in a Netflix documentary called{' '}
-              <a href="https://www.netflix.com/title/81757532">Don’t Die</a>{' '}
+              <a target="_blank" href="https://www.netflix.com/title/81757532">
+                Don’t Die
+              </a>{' '}
               about Bryan Johnson, a wealthy entrepreneur who tries to defy
               aging.
             </li>
