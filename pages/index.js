@@ -88,7 +88,68 @@ export default function IndexPage() {
           <Divider />
 
         
-          
+          <p>
+            Hey,</p>
+<p>
+            I’m Wesley. I’m an entrepreneur and I enjoy mountaineering and running.
+            </p>
+
+          <p>
+  Work
+I’m the CEO and Co-Founder of Aragon. We generate realistic photos of people using AI.
+
+We have 1.4+ million users, including Fortune 500 companies and our products have generated 25+ million photos for people.
+
+We’ve raised a million dollars from Neo and the founders of billion-dollar companies but are proud to have never used any of the capital as we’ve been able to build a capital-efficient business. We’ve been able to grow to $1M ARR within four months of launch and $4M ARR in under two years on profits alone.
+
+My company has been featured on the My First Million podcast, the Rolling Stone, the Washington Post, Entrepreneur, NBC News. I’ve also been invited to chat about my journey building Aragon on the Business Insider, Big Think Amazon, and the NeuralZen Venture Podcast, and soon Jomatech, Marty’s friend and __.
+            </p>
+
+  <p>
+  Hobbies
+I’m a huge proponent in boosting productivity by developing a healthy body and relationships. Besides working on improving my biomarkers such as my VO2max, I enjoy 
+mountaineering, skiing, running, and lifting.
+
+One of my dreams since I was a child is to climb the Seven Summits (the tallest mountain on every continent). I’ve climbed one and have six more to go.
+Notable summits:
+<ul>
+
+<li>
+Mt. Kilimanjaro (Tanzania)
+- In 2025, I convinced 3 friends to climb the tallest mountain in Africa (19,000ft / 6,000m) with me. It took us 5 days to summit and 2 days to descend and one of us didn’t make it due to altitude sickness. This climb was the most I’ve physically suffered (more than my Ironman race) due to getting food poisoning.
+</li>
+<li>
+Mt. Whitney (CA)
+- In 2019, I convinced 3 friends to climb the tallest mountain in the contiguous US (14,505ft / 4000m) with me. We started at 1 am and it took us 17 hours to summit and descend. People usually split this climb into two days.
+</li>
+<li>
+Mt. Fuji (Japan)
+- In 2015, I Convinced 3 friends to bullet hike Mt. Fuji (without staying overnight on the mountain) with me (12,000ft / 3,000m). It took us 16 hours to summit and descend. It’s now illegal to bullet hike Mt. Fuji due to people being injured from doing so. All 3 now refuse to hike.
+</li>
+<li>
+Others: Mt. Olympus (Greece), Mt. Washington (NH), Mt. Diablo (CA), Mt. Tam, Mt. Jefferson, and many more.
+</li>
+</ul>
+In 2021, I trained for and finished an Ironman (a race consisting of a back-to-back 2.4-mile swim, 112-mike bike ride, and a full marathon). It took me 15 hours and is still the hardest physical thing I’ve accomplished to date. I can also do a standing backflip, ride a motorcycle, and am SCUBA certified. 
+  </p>
+
+  <p>
+  People
+I am who I am today because of the people in my life. In no particular order, the following are some people who have been an influence on my life: dad, mom, sister, Henry, Douglas, Henry, Andrew, Edward, Rui, Nisch, Phillip, Joe, Solomon, Elon, Victor, Jack, Akhil, Carol, Lindy.
+
+Fun facts
+* I have a cameo in a Netflix documentary called Don’t Die about Bryan Johnson, a wealthy entrepreneur who tries to defy aging.
+* I nearly failed high school playing League of Legends competitively (I made it to the top 1%). I also played 4 sports at the varsity level and 2 at the JV level.
+* I changed schools 7 times growing up, and moved to two different countries.
+* I was born in the SF Bay Area but didn’t grow up there. I’ve since moved back 4 years ago and call it my home.
+* In high school, I spent a summer at a military school in Kentucky to become a US Army Cadet Private. It’s now closed down due to hazing.
+
+If you’d like to chat, feel free to email me at my last name . my first name at gmail period com or connect with me on LinkedIn.
+
+Thanks for reading,
+Wesley Tian
+  </p>
+            
           <details open="false">
             <summary style={{ cursor: "pointer" }}>⚔️ Main Quests</summary>
             <ul>
