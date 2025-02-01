@@ -79,8 +79,8 @@ export default function IndexPage() {
           <Divider />*/}
           <p>Hey,</p>
           <p>
-            I’m Wesley. I’m a tech entrepreneur and I enjoy mountaineering and
-            running.
+            I’m Wesley. I’m an entrepreneur based in San Francisco and I enjoy
+            traveling, mountaineering, and running.
           </p>
           <h3>Work</h3>
           <p>
@@ -173,8 +173,8 @@ export default function IndexPage() {
           <p>
             I’m a huge proponent in boosting productivity by cultivating a
             healthy body and healthy relationships. Besides working on improving
-            my biomarkers such as my VO2 max and maintaing my strength, I enjoy
-            mountaineering and skiing.
+            my biomarkers such as my VO2 max by running and maintaing my
+            strength by lifting, I enjoy mountaineering.
           </p>
           <p>
             One of my dreams since I was a child is to climb the Seven Summits
@@ -187,7 +187,7 @@ export default function IndexPage() {
               Mt. Kilimanjaro (Tanzania)
               <p>
                 In 2025, I organized 3 friends to climb the tallest mountain in
-                Africa (19,341 ft / 5,895). It took us 5 days to summit and 2
+                Africa (19,341 ft / 5,895 m). It took us 5 days to summit and 2
                 days to descend and one of us didn’t make it due to altitude
                 sickness. This climb was the most I’ve physically suffered (more
                 than my Ironman race) due to getting food poisoning.
@@ -197,7 +197,7 @@ export default function IndexPage() {
               Mt. Whitney (CA, US)
               <p>
                 In 2019, I organized 3 friends to climb the tallest mountain in
-                the contiguous US (14,505 ft / 4,421m). We started the climb at
+                the contiguous US (14,505 ft / 4,421 m). We started the climb at
                 2 am and it took us 17 hours to summit and descend. People
                 usually split this climb into two days.
               </p>
@@ -234,12 +234,11 @@ export default function IndexPage() {
           <h3>Fun facts</h3>
           <ul>
             <li>
-              I have a cameo in a Netflix documentary called{' '}
+              I have a cameo in{' '}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
-                Don’t Die
-              </a>{' '}
-              about Bryan Johnson, a wealthy entrepreneur who tries to defy
-              aging.
+                Bryan Johnson's new Netflix documentary
+              </a>
+              .
             </li>
             <li>
               I nearly failed high school playing League of Legends
@@ -259,36 +258,26 @@ export default function IndexPage() {
               military school in Kentucky. It closed shortly after I left due to
               unsafe conditions.
             </li>
+            <li>I've visited 25 countries and 6 contintents.</li>
           </ul>
           <p>
             If you’d like to chat, feel free to email me at my last name . my
-            first name at gmail period com or connect with me on LinkedIn.
+            first name at gmail period com. You can also find me on{' '}
+            <a href="https://x.com/wesleyytian" target="_blank">
+              X
+            </a>{' '}
+            and{' '}
+            <a href="https://www.linkedin.com/in/wesleytian/" target="_blank">
+              LinkedIn
+            </a>
+            . I'm quite active on there.
           </p>
           <p>Thanks for reading,</p>
           <p> Wesley Tian</p>
         </div>
         <Divider />
-        <div>
-          <a
-            href="https://twitter.com/wesleyytian"
-            // target="_blank"
-          >
-            {/* <i className="fa fa-twitter" style={iconStyle}></i> */}
-            Twitter
-          </a>
-          {' | '}
-          <a
-            href="https://www.linkedin.com/in/wesleytian/"
-            // target="_blank"
-          >
-            {/* <i className="fa fa-linkedin" style={iconStyle}></i> */}
-            LinkedIn
-          </a>
-        </div>
         <br></br> <br></br> <br></br>
       </main>
-
-      {/* <Footer /> */}
     </div>
   )
 }
