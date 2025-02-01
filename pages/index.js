@@ -137,7 +137,7 @@ export default function IndexPage() {
             >
               My First Million podcast
             </a>
-            . I’ve also been invited to chat about my journey building my
+            . I’ve also been invited to chat about my journey of building my
             company on the{' '}
             <a
               target="_blank"
@@ -170,9 +170,9 @@ export default function IndexPage() {
           </p>
           <h3>Hobbies</h3>
           <p>
-            I’m a huge proponent in boosting productivity by cultivating a
+            I’m a huge proponent of boosting productivity by cultivating a
             healthy body and healthy relationships. Besides working on improving
-            my biomarkers such as my VO2 max by running and maintaing my
+            my biomarkers such as my VO2 max by running and maintaining my
             strength by lifting, I enjoy mountaineering.
           </p>
           <p>
@@ -204,12 +204,12 @@ export default function IndexPage() {
             <li>
               Mt. Fuji (Japan, 12,389 ft / 3,776 m)
               <p>
-                In 2015, I organized 3 friends to "bullet hike" Japan's tallest
+                In 2015, I organized 3 friends to "bullet climb" Japan's tallest
                 mountain–meaning we summitted in one push without staying
                 overnight on the mountain at one of the huts. It took us 14
-                hours to summit and descend. It’s now illegal to bullet hike Mt.
-                Fuji due to people being injured from doing so. All 3 stopped
-                hiking because of how hard it was.
+                hours to summit and descend. It’s now illegal to bullet climb
+                Mt. Fuji due to people being injured from doing so. All 3
+                stopped hiking because of how hard it was.
               </p>
             </li>
             <li>
@@ -219,11 +219,11 @@ export default function IndexPage() {
           </ul>
           <p>
             In 2021, I trained for and finished an Ironman (a race consisting of
-            a 2.4-mile swim, 112-mike bike ride, and a 26.2-mile marathon run,
+            a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon run,
             done back-to-back-to-back and completed in that order). It took me
             15 hours to finish and is still the hardest physical thing I’ve
-            accomplished to date. I can also do a standing backflip, ride a
-            motorcycle, and am SCUBA certified.
+            accomplished. I can also do a standing backflip, ride a motorcycle,
+            and am SCUBA certified.
           </p>
           {/*  <p>
             People I am who I am today because of the people in my life. In no
