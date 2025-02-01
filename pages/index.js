@@ -79,7 +79,7 @@ export default function IndexPage() {
           <Divider />*/}
           <p>Hey,</p>
           <p>
-            I’m Wesley–an entrepreneur based in San Francisco and who enjoys
+            I’m Wesley, an entrepreneur based in San Francisco who enjoys
             traveling, mountaineering, and running.
           </p>
           <h3>Work</h3>
@@ -88,8 +88,8 @@ export default function IndexPage() {
             <a target="_blank" href="https://www.aragon.ai/">
               Aragon
             </a>
-            . We generate realistic photos of people using AI. We're basically
-            replacing portrait photographers.
+            . We use AI to generate realistic photos of people, replacing the
+            need for in-person photoshoots.
           </p>
           <p>
             We have over 1.4 million users, including Fortune 500 companies and
@@ -97,7 +97,7 @@ export default function IndexPage() {
           </p>
           <p>
             We’ve raised a million dollars from Neo and the founders of
-            billion-dollar companies and are proud to have never used any of the
+            billion-dollar companies. We are proud to have never used any of the
             capital as we’ve been able to build a{' '}
             <a
               target="_blank"
@@ -105,8 +105,8 @@ export default function IndexPage() {
             >
               capital-efficient business
             </a>
-            . We’ve been able to grow to $1M ARR within four months of launch
-            and $4M ARR in under two years on profits alone.
+            . On profits alone, We grew to $1M ARR within 4 months of launch and
+            $4M ARR in under 2 years.
           </p>
           <p>
             My company has been featured in the{' '}
@@ -187,9 +187,9 @@ export default function IndexPage() {
               <p>
                 In January 2025, I organized 3 friends to climb the tallest
                 mountain in Africa. It took us 5 days to summit and 2 days to
-                descend. One of us wasn't able to summit due altitude sickness.
-                This climb was the most I’ve physically suffered (more than my
-                Ironman race) due to getting food poisoning.
+                descend. One of us wasn't able to summit due to altitude
+                sickness. This climb was the most I’ve physically suffered (more
+                than my Ironman race) due to getting food poisoning.
               </p>
             </li>
             <li>
@@ -244,16 +244,16 @@ export default function IndexPage() {
             <li>
               I nearly failed high school with a 1.9 GPA because I was focused
               on playing League of Legends competitively (I made it to the top
-              2% of players in the world). I was also busy playing 4 varsity
-              sports and 2 JV.
+              2% of players globally). I was also busy playing 4 varsity sports
+              and 2 JV.
             </li>
             <li>
               I changed schools 7 times growing up and lived in 3 different
               countries.
             </li>
             <li>
-              I was born in the SF Bay Area but didn’t grow up there. I’ve since
-              moved back 4 years ago and am proud to call it my home.
+              I was born in the SF Bay Area but didn’t grow up there. I moved
+              back 4 years ago and am proud to call it my home.
             </li>
             <li>
               In high school, I voluntarily spent a summer being hazed at a
