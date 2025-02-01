@@ -82,7 +82,7 @@ export default function IndexPage() {
             I’m Wesley, an entrepreneur based in San Francisco who enjoys
             traveling, mountaineering, and running. Here's a bit about me.
           </p>
-          <h3>Work</h3>
+          <b>Work</b>
           <p>
             I’m the CEO and Co-Founder of{' '}
             <a target="_blank" href="https://www.aragon.ai/">
@@ -165,35 +165,38 @@ export default function IndexPage() {
               href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
             >
               NeuralZen Venture
-            </a>
+            </a>{' '}
             podcast.
           </p>
-          <h3>Hobbies</h3>
+          <h6>Hobbies</h6>
           <p>
             I’m a huge proponent of boosting productivity and creativity by
             cultivating a healthy body and healthy relationships. Besides
             working on improving my biomarkers such as my VO2 max by running and
-            maintaining my strength by lifting, I enjoy mountaineering.
+            maintaining my strength by lifting, I enjoy challenging myself
+            physically.
           </p>
           <p>
-            One of my dreams since I was a child is to climb the Seven Summits
-            (the tallest mountain on every continent). I’ve climbed one so far
+            One of my goals since I was a child is to climb the Seven Summits
+            (the highest mountain on each continent). I’ve climbed one so far
             and have six more to go.
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
             <li>
-              Mt. Kilimanjaro (Tanzania, 19,341 ft / 5,895 m)
+              Mt. Kilimanjaro (19,341 ft / 5,895 m)
               <p>
                 In January 2025, I organized 3 friends to climb the tallest
                 mountain in Africa. It took us 5 days to summit and 2 days to
                 descend. One of us was unable to summit due to altitude
-                sickness. This climb was the most I’ve physically suffered (more
-                than my Ironman race) due to getting food poisoning.
+                sickness. At this extreme altitude, you have &lt;50% oxygen.
+                This climb was the most I’ve physically suffered (more than my
+                Ironman race) due to getting food poisoning while on the
+                mountain.
               </p>
             </li>
             <li>
-              Mt. Whitney (CA, US, 14,505 ft / 4,421 m)
+              Mt. Whitney (14,505 ft / 4,421 m)
               <p>
                 In 2019, I organized 3 friends to climb the tallest mountain in
                 the contiguous US. We started the climb at 2 am and it took us
@@ -202,14 +205,15 @@ export default function IndexPage() {
               </p>
             </li>
             <li>
-              Mt. Fuji (Japan, 12,389 ft / 3,776 m)
+              Mt. Fuji (12,389 ft / 3,776 m)
               <p>
-                In 2015, I organized 3 friends to "bullet climb" Japan's tallest
-                mountain–meaning we summitted in one push without staying
-                overnight on the mountain in one of the huts. It took us 14
-                hours to summit and descend. It’s now illegal to bullet climb
-                Mt. Fuji due to the frequency of injuries from people attempting
-                it. All 3 stopped hiking because of how hard it was.
+                In 2015, I organized 3 friends to "bullet climb" the tallest
+                mountain in Japan–meaning summitting and descending in one push
+                without staying overnight on the mountain. It took us 14 hours
+                to summit and descend. It’s now illegal to bullet climb Mt. Fuji
+                due to the frequency of injuries from people attempting it. My
+                friends stopped hiking after this experience because of how
+                challenging it was.
               </p>
             </li>
           </ul>
@@ -228,7 +232,7 @@ export default function IndexPage() {
             Andrew, Edward, Rui, Nisch, Phillip, Joe, Solomon, Elon, Victor,
             Jack, Akhil, Carol, Lindy.{' '} 
           </p>*/}
-          <h3>Fun facts</h3>
+          <h4>Fun facts</h4>
           <ul>
             <li>
               I was born in the San Francisco Bay Area but didn’t grow up there.
@@ -238,10 +242,11 @@ export default function IndexPage() {
               Growing up, I lived in 3 different countries and changed schools 7
               times.
             </li>
+
             <li>
               In high school, I voluntarily spent a summer being hazed at a
-              military school in Kentucky. It closed down shortly after I left
-              due to unsafe conditions.
+              military school in Kentucky and becoming a US Army Cadet. It
+              closed down shortly after I left due to unsafe conditions.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was focused
@@ -249,6 +254,8 @@ export default function IndexPage() {
               2% of players globally). I was also busy playing 4 varsity sports
               and 2 JV.
             </li>
+
+            <li>I've visited 25 countries and 6 continents.</li>
             <li>
               I have a cameo in Bryan Johnson's{' '}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
@@ -256,7 +263,6 @@ export default function IndexPage() {
               </a>
               .
             </li>
-            <li>I've visited 25 countries and 6 continents.</li>
           </ul>
           <p>
             If you’d like to chat, feel free to email me at my last name . my
