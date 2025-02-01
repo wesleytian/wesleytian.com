@@ -75,7 +75,7 @@ export default function IndexPage() {
           {/* <span>
             Company: <a href="https://www.aragon.ai/">Aragon.ai</a>
           </span>*/}
-          {/*<br />
+          {/*<br /> 
           <Divider />*/}
           <p>Hey,</p>
           <p>
@@ -85,80 +85,53 @@ export default function IndexPage() {
           <h3>Work</h3>
           <p>
             I’m the CEO and Co-Founder of{' '}
-            <a href="https://www.aragon.ai/" rel="noopener noreferrer">
-              Aragon
-            </a>
-            . We generate realistic photos of people using AI.
+            <a href="https://www.aragon.ai/">Aragon</a>. We generate realistic
+            photos of people using AI.
           </p>
           <p>
             We have over 1.4 million users, including Fortune 500 companies and
             our products have generated over 25 million photos for people. We’ve
             raised a million dollars from Neo and the founders of billion-dollar
-            companies but are proud to have never used any of the capital as
-            we’ve been able to build a capital-efficient business. We’ve been
-            able to grow to $1M ARR within four months of launch and $4M ARR in
-            under two years on profits alone.
+            companies and are proud to have never used any of the capital as
+            we’ve been able to build a{' '}
+            <a href="https://blog.eladgil.com/p/capital-efficient-businesses">
+              capital-efficient business
+            </a>
+            . We’ve been able to grow to $1M ARR within four months of launch
+            and $4M ARR in under two years on profits alone.
           </p>
           <p>
             My company has been featured on the{' '}
-            <a
-              href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
               Washington Post
             </a>
             ,{' '}
-            <a
-              href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821">
               NBC News
             </a>
-            ,{' '}
-            <a href="https://www.aragon.ai/" rel="noopener noreferrer">
-              the Entrepreneur
-            </a>
-            ,{' '}
-            <a
-              href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/"
-              rel="noopener noreferrer"
-            >
+            , <a href="https://www.aragon.ai/">the Entrepreneur</a>,{' '}
+            <a href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/">
               the Rolling Stone
             </a>
             , and the{' '}
-            <a
-              href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
-              rel="noopener noreferrer"
-            >
+            <a href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141">
               My First Million podcast
             </a>
             . I’ve also been invited to chat about my journey building my
             company on the{' '}
-            <a
-              href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
               Business Insider
             </a>
             ,{' '}
-            <a
-              href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
-              rel="noopener noreferrer"
-            >
+            <a href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/">
               Big Think
             </a>
             ,{' '}
-            <a
-              href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
-              rel="noopener noreferrer"
-            >
+            <a href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166">
               Amazon
             </a>
             , and the{' '}
-            <a
-              href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
-              rel="noopener noreferrer"
-            >
+            <a href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w">
               NeuralZen Venture Podcast
             </a>
             .
@@ -229,12 +202,7 @@ export default function IndexPage() {
           <ul>
             <li>
               I have a cameo in a Netflix documentary called{' '}
-              <a
-                href="https://www.netflix.com/title/81757532"
-                rel="noopener noreferrer"
-              >
-                Don’t Die
-              </a>{' '}
+              <a href="https://www.netflix.com/title/81757532">Don’t Die</a>{' '}
               about Bryan Johnson, a wealthy entrepreneur who tries to defy
               aging.
             </li>
@@ -269,7 +237,6 @@ export default function IndexPage() {
           <a
             href="https://twitter.com/wesleyytian"
             // target="_blank"
-            rel="noopener noreferrer"
           >
             {/* <i className="fa fa-twitter" style={iconStyle}></i> */}
             Twitter
@@ -278,7 +245,6 @@ export default function IndexPage() {
           <a
             href="https://www.linkedin.com/in/wesleytian/"
             // target="_blank"
-            rel="noopener noreferrer"
           >
             {/* <i className="fa fa-linkedin" style={iconStyle}></i> */}
             LinkedIn
