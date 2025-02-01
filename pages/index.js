@@ -49,7 +49,7 @@ export default function IndexPage() {
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:url" content="wesleytian.com" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="👋 Hey! I'm Wesley Tian." />
+        <meta property="og:title" content="Hey! I'm Wesley 👋" />
         <meta
           property="og:description"
           content="Welcome to my personal site."
@@ -70,105 +70,33 @@ export default function IndexPage() {
 
           <Divider />
 
-          {/* <p>Sex: ♂</p> */}
           <span>Birthplace: Mountain View, CA</span>
           <br />
-          {/* <p>Eye color: brown</p>
-          <p>Hair color: black</p> */}
-          {/* <span>Ethnicity: Han Chinese</span> */}
-          {/* <br /> */}
-          {/* <span>Age: 26</span> */}
+      
+
+          {/* <span>Age: 27</span> */}
           {/* <p>Nationality: 🇺🇸</p> */}
 
           {/* <p>Horoscope: Taurus</p> */}
-          {/* <p>Zodiac: OX</p> */}
           <Divider />
 
           <span>
             Company: <a href="https://www.aragon.ai/">Aragon.ai</a>
           </span>
           <br />
-          {/* <p>Company Size: 10</p> */}
-          <span>Role: Co-Founder & CEO</span>
-          {/* <p>Pet(s): N/A</p> */}
+  
           <Divider />
 
-          <details>
-            <summary style={{ cursor: "pointer" }}>🗞 In the News</summary>
-            <ul>
-              <li>
-                <a href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
-                  Washington Post
-                </a>
-                : AI professional headshots are quick and easy. But should you
-                use one?
-              </li>
-              <li>
-                <a href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
-                  Business Insider
-                </a>
-                : Why Aragon.ai Founder Chose Startup Accelerator Neo Over Y
-                Combinator
-              </li>
-              <li>
-                <a href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/?utm_medium=Social&utm_source=LinkedIn#Echobox=1700078940-3">
-                  Big Think
-                </a>
-                : Anatomy of an AI startup: Key lessons for first-time founders
-              </li>
-            </ul>
-          </details>
-          <Divider />
-
-          {/* <h3></h3> */}
-          {/* <p>
-            Note:{" "}
-            <a>Links below take you to my corresponding journal entry. </a>
-          </p> */}
+        
+          
           <details open="false">
             <summary style={{ cursor: "pointer" }}>⚔️ Main Quests</summary>
             <ul>
               <details open="false">
-                <summary style={{ cursor: "pointer" }}>
-                  {" "}
-                  Chapter 1 ('13 – '22): Learn
-                </summary>
+            
                 <ul>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Graduate from US Army Cadet Corps
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Become semi-pro at League of Legends (top 0.1%)
-                  </li>
+                 
 
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    
-                      Graduate high School (I almost failed)
-              
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Transfer to the University of Michigan
-                  </li>
                   <li>
                     <input
                       type="checkbox"
@@ -183,32 +111,16 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Get a full-time offer from Microsoft
+                    Work at Microsoft
                   </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Help build a YC startup as employee #1 (acquired)
-                  </li>
+                  
                 </ul>
               </details>
 
               <details open="false">
-                <summary style={{ cursor: "pointer" }}>
-                  Chapter 2 ('22 - present): Founder Journey
-                </summary>
+             
                 <ul>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Find a co-founder
-                  </li>
+                 
                   <li>
                     <input
                       type="checkbox"
@@ -239,7 +151,7 @@ export default function IndexPage() {
                       defaultChecked="true"
                       disabled="true"
                     />
-                    Get into Y Combinator
+                    Get acceptend into Y Combinator
                   </li>
                   <li>
                     <input
@@ -255,41 +167,14 @@ export default function IndexPage() {
                       top Silicon Valley VC
                     </a>{" "} */}
                   </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    $100K ARR
-                  </li>
-                  <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    $1M ARR
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    $10M ARR
-                  </li>
-                  <li>
-                    <input type="checkbox" disabled="true" />
-                    $100M ARR
-                  </li>
+                 
                 </ul>
               </details>
-              <details open="false">
-                <summary>Chapter 3: :)</summary>
-              </details>
+       
             </ul>
           </details>
-          {/* <br /> */}
 
           <details open="false">
-            <summary style={{ cursor: "pointer" }}>🗝️ Side Quests</summary>
             <ul>
               <li>
                 Endurance
@@ -302,14 +187,7 @@ export default function IndexPage() {
                     />
                     Run a sub 6 minute mile (2013)
                   </li> */}
-                  {/* <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Run a marathon ('21)
-                  </li> */}
+                
                   <li>
                     <input
                       type="checkbox"
@@ -327,14 +205,7 @@ export default function IndexPage() {
               <li>
                 Strength
                 <ul>
-                  {/* <li>
-                    <input
-                      type="checkbox"
-                      defaultChecked="true"
-                      disabled="true"
-                    />
-                    Do a pistol squat
-                  </li> */}
+               
              
                   <li>
                     <input
@@ -396,51 +267,13 @@ export default function IndexPage() {
                
                   <li>
                     <details>
-                      <summary style={{ cursor: "pointer" }}>
-                        <input type="checkbox" disabled="true" />
-                        Complete the Explorer's Grand Slam
-                      </summary>
+                      
                       <ul>
                         <li>
                           <input type="checkbox" disabled="true" />
                           Climb Mt. Kilimanjaro
                         </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Climb Mt. Aconcagua
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Climb Mt. Elbrus
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Climb Mt. Puncak Jaya
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Climb Mt. Kosciuszko
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Climb Mt. Vinson
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Climb Mt. Denali
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Climb Mt. Everest
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Reach the South Pole
-                        </li>
-                        <li>
-                          <input type="checkbox" disabled="true" />
-                          Reach the North Pole
-                        </li>
+                       
                       </ul>
                     </details>
                   </li>
@@ -452,26 +285,8 @@ export default function IndexPage() {
           </details>
 
         
-          {/* <details>
-            <summary>Spiritual Quests</summary>
-            <ul>
-              <li>✅ Try marijuana.</li>
-              <li>✅ Try magic mushrooms.</li>
-              <li>✅ Try LSD.</li>
-              <li>✅ Try MDMA.</li>
-              <li>Try ayahuasca.</li>
-              <li>Try Ketamine.</li>
-              <li>Try Cocaine.</li>
-              <li>Silent retreat</li>
-              <li>7-day water fast</li>
-            </ul>
-          </details> */}
-          {/* <br /> */}
+      
         
-          {/* <p>Skills:</p>
-          <ul>
-            <li>Juggling</li>
-          </ul> */}
           {/* <Divider />
           <details open="false">
             <summary>📔 Journals</summary>
@@ -483,14 +298,7 @@ export default function IndexPage() {
                   Ironman Triathlon
                 </a>
               </li>
-              <li>
-                08/10/2019{" "}
-                <a href="/posts/whitney">
-                  We Climbed the Tallest Mountain in the US and Drank Piss to
-                  Survive
-                </a>
-              </li>
-
+        
               <li>
                 <a href="/posts/gpa">How I Nearly Failed High School</a> (2019)
               </li>
@@ -503,10 +311,6 @@ export default function IndexPage() {
             </ul>
           </details> */}
 
-          {/* <p>Core Memories</p> */}
-          {/* <br /> */}
-
-          {/* <section> */}
           {/* <p>Hi, welcome to my personal website.</p>
             <p>
               AI will be the biggest achievement of humankind. It's going to be
@@ -529,97 +333,11 @@ export default function IndexPage() {
               <li> I did some competitive machine learning (see below)</li>
             </ul>
 
-            <p>
-              I had the opportunity to pursue research, but I was jaded by
-              academia, so I pursued the next impactful and challenging thing,
-              startups.
-            </p>
-            <ul>
-              <li> Founded a stock market for sports tickets (pre-seed)</li>
-              <li>
-                Helped found Virtually (YC S20) as employee #1, went through Y
-                Combinator with the founder, and became their tech lead (now
-                acquired)
-              </li>
-              <li>
-                Scaled Fractional (YC W21) to ~100M valuation as engineer #3
-              </li>
-            </ul>
 
-            <p>
-              My company,{" "}
-              <a
-                href="https://www.aragon.ai/?utm_source=wesleytian-blog&utm_medium=blog_post&utm_campaign=business_referral"
-                target="_blank">
-                Aragon.ai
-              </a>
-              , is an AI platform that generates photorealistic images of
-              individuals. Our first product offers professional headshots. In
-              months, we’ve exponentially grown to hundreds of thousands of
-              users, mostly organically. We’ve also onboarded dozens of
-              businesses–with thousands more in the pipeline. Our vision: unlock
-              an era of hyper-personalization, where individuals become the
-              models in marketing campaigns, online shopping experiences, and
-              more.
-            </p>
-            <p>
-              We're a lean but mighty team and are backed by{" "}
-              <a href="https://www.neo.com/" target="_blank">
-                Neo
-              </a>
-              , and other angels We also received an offer from Y Combinator,
-              which we turned down. Read my viral{" "}
-            
-              (1M+ impressions) describing my decision-making process. I was
-              also interviewed for{" "}
-              
-              .
-            </p> */}
-          {/* </section> */}
-          {/* <br /> */}
-
-          {/* <Divider /> */}
-          <section id="story">
-            <details>
-              <summary style={{ cursor: "pointer" }}>
-                ✈️ World Travel Log
-              </summary>
-              <p>Continents Visited: 6/7</p>
-              <p>Countries Visited: 25/195 (13%)</p>
-            </details>
-          </section>
-
-          {/* <Divider /> */}
-          {/* <details>
-            <summary>Family</summary>
-            <ul>
-              <li>
-                Jason Tian
-                <a
-                  href="https://www.linkedin.com/in/jason-tian-9b710512/"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-              <li>Robin Tian</li>
-              <li>
-                Jeni Ni
-                <a href="https://www.instagram.com/thejenini/" target="_blank">
-                  *
-                </a>
-              </li>
           
-              <li>
-                Wang Xudong 王旭东
-                <a
-                  href="https://baike.baidu.com/item/%E7%8E%8B%E6%97%AD%E4%B8%9C/13352093?fr=ge_ala"
-                  target="_blank">
-                  *
-                </a>
-              </li>
-            </ul>
-          </details>
-          <br /> */}
+            </p> */}
+       
+
 
           {/* <Divider /> */}
           {/* <p>Last updated: 01-2024</p> */}
