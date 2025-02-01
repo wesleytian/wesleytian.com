@@ -124,10 +124,6 @@ export default function IndexPage() {
               NBC News
             </a>
             ,{' '}
-            <a target="_blank" href="https://www.aragon.ai/">
-              Entrepreneur
-            </a>
-            ,{' '}
             <a
               target="_blank"
               href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/"
@@ -223,10 +219,11 @@ export default function IndexPage() {
           </ul>
           <p>
             In 2021, I trained for and finished an Ironman (a race consisting of
-            a back-to-back 2.4-mile swim, 112-mike bike ride, and a full
-            marathon). It took me 15 hours and is still the hardest physical
-            thing I’ve accomplished to date. I can also do a standing backflip,
-            ride a motorcycle, and am SCUBA certified.
+            a 2.4-mile swim, 112-mike bike ride, and a 26.2-mile marathon run,
+            done back-to-back-to-back and completed in that order). It took me
+            15 hours to finish and is still the hardest physical thing I’ve
+            accomplished to date. I can also do a standing backflip, ride a
+            motorcycle, and am SCUBA certified.
           </p>
           {/*  <p>
             People I am who I am today because of the people in my life. In no
@@ -238,20 +235,21 @@ export default function IndexPage() {
           <h3>Fun facts</h3>
           <ul>
             <li>
-              I have a cameo in{' '}
+              I have a cameo in Bryan Johnson's{' '}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
-                Bryan Johnson's new Netflix documentary
+                new Netflix documentary
               </a>
               .
             </li>
             <li>
-              I nearly failed high school because I was focused on League of
-              Legends (I made it to the top 1%). I also played 4 sports at the
-              varsity level and 2 at the JV level.
+              I nearly failed high school with a 1.9 GPA because I was focused
+              on playing League of Legends competitively (I made it to the top
+              2% of players in the world). I was also busy playing 4 varsity
+              sports and 2 JV.
             </li>
             <li>
-              I changed schools 7 times while growing up and moved to two
-              different countries.
+              I changed schools 7 times growing up and lived in 3 different
+              countries.
             </li>
             <li>
               I was born in the SF Bay Area but didn’t grow up there. I’ve since
@@ -259,8 +257,8 @@ export default function IndexPage() {
             </li>
             <li>
               In high school, I voluntarily spent a summer being hazed at a
-              military school in Kentucky. It closed shortly after I left due to
-              unsafe conditions.
+              military school in Kentucky. It closed down shortly after I left
+              due to unsafe conditions.
             </li>
             <li>I've visited 25 countries and 6 continents.</li>
           </ul>
