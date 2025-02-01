@@ -64,19 +64,6 @@ export default function IndexPage() {
       <main id="text-container" style={textContainerStyle}>
         <div>
           <div styles={{ float: 'left' }}></div>
-          {/* <p>Profile:</p> */}
-          {/*<p>Hi, welcome to my website!</p>*/}
-          {/*<Divider />*/}
-          {/*<span>Birthplace: Mountain View, CA</span>*/}
-          {/*<br />*/}
-          {/* <p>Nationality: 🇺🇸</p> */}
-          {/* <p>Horoscope: Taurus</p> */}
-          {/*<Divider />*/}
-          {/* <span>
-            Company: <a target="_blank"href="https://www.aragon.ai/">Aragon.ai</a>
-          </span>*/}
-          {/*<br /> 
-          <Divider />*/}
           <p>Hey,</p>
           <p>
             I’m Wesley, an entrepreneur based in San Francisco who enjoys
@@ -96,9 +83,12 @@ export default function IndexPage() {
             our products have generated over 25 million photos for people.{' '}
           </p>
           <p>
-            We’ve raised a million dollars from Neo and the founders of
-            billion-dollar companies. We're proud to have never used any of the
-            capital as we’ve been able to build a{' '}
+            We’ve raised a million dollars from{' '}
+            <a target="_blank" href="https://neo.com/">
+              Neo
+            </a>{' '}
+            and the founders of billion-dollar companies. We're proud to have
+            never used any of the capital as we’ve been able to build a{' '}
             <a
               target="_blank"
               href="https://blog.eladgil.com/p/capital-efficient-businesses"
@@ -137,7 +127,7 @@ export default function IndexPage() {
             >
               My First Million
             </a>{' '}
-            podcast . I’ve also been invited to chat about my startup journey on
+            podcast. I’ve also been invited to chat about my startup journey on
             the{' '}
             <a
               target="_blank"
