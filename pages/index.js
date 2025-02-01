@@ -80,7 +80,7 @@ export default function IndexPage() {
           <p>Hey,</p>
           <p>
             I’m Wesley, an entrepreneur based in San Francisco who enjoys
-            traveling, mountaineering, and running.
+            traveling, mountaineering, and running. Here's a bit about me.
           </p>
           <h3>Work</h3>
           <p>
@@ -97,7 +97,7 @@ export default function IndexPage() {
           </p>
           <p>
             We’ve raised a million dollars from Neo and the founders of
-            billion-dollar companies. We are proud to have never used any of the
+            billion-dollar companies. We're proud to have never used any of the
             capital as we’ve been able to build a{' '}
             <a
               target="_blank"
@@ -105,11 +105,11 @@ export default function IndexPage() {
             >
               capital-efficient business
             </a>
-            . On profits alone, We grew to $1M ARR within 4 months of launch and
+            . On profits alone, we grew to $1M ARR within 4 months of launch and
             $4M ARR in under 2 years.
           </p>
           <p>
-            My company has been featured in the{' '}
+            We've been featured in the{' '}
             <a
               target="_blank"
               href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
@@ -135,10 +135,10 @@ export default function IndexPage() {
               target="_blank"
               href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
             >
-              My First Million podcast
-            </a>
-            . I’ve also been invited to chat about my journey of building my
-            company on the{' '}
+              My First Million
+            </a>{' '}
+            podcast . I’ve also been invited to chat about my startup journey on
+            the{' '}
             <a
               target="_blank"
               href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
@@ -164,30 +164,30 @@ export default function IndexPage() {
               target="_blank"
               href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
             >
-              NeuralZen Venture Podcast
+              NeuralZen Venture
             </a>
-            .
+            podcast.
           </p>
           <h3>Hobbies</h3>
           <p>
-            I’m a huge proponent of boosting productivity by cultivating a
-            healthy body and healthy relationships. Besides working on improving
-            my biomarkers such as my VO2 max by running and maintaining my
-            strength by lifting, I enjoy mountaineering.
+            I’m a huge proponent of boosting productivity and creativity by
+            cultivating a healthy body and healthy relationships. Besides
+            working on improving my biomarkers such as my VO2 max by running and
+            maintaining my strength by lifting, I enjoy mountaineering.
           </p>
           <p>
             One of my dreams since I was a child is to climb the Seven Summits
             (the tallest mountain on every continent). I’ve climbed one so far
             and have six more to go.
           </p>
-          Notable summits:
+          I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
             <li>
               Mt. Kilimanjaro (Tanzania, 19,341 ft / 5,895 m)
               <p>
                 In January 2025, I organized 3 friends to climb the tallest
                 mountain in Africa. It took us 5 days to summit and 2 days to
-                descend. One of us wasn't able to summit due to altitude
+                descend. One of us was unable to summit due to altitude
                 sickness. This climb was the most I’ve physically suffered (more
                 than my Ironman race) due to getting food poisoning.
               </p>
@@ -196,7 +196,7 @@ export default function IndexPage() {
               Mt. Whitney (CA, US, 14,505 ft / 4,421 m)
               <p>
                 In 2019, I organized 3 friends to climb the tallest mountain in
-                the contiguous US . We started the climb at 2 am and it took us
+                the contiguous US. We started the climb at 2 am and it took us
                 17 hours to summit and descend. People usually split this climb
                 into two days.
               </p>
@@ -206,24 +206,20 @@ export default function IndexPage() {
               <p>
                 In 2015, I organized 3 friends to "bullet climb" Japan's tallest
                 mountain–meaning we summitted in one push without staying
-                overnight on the mountain at one of the huts. It took us 14
+                overnight on the mountain in one of the huts. It took us 14
                 hours to summit and descend. It’s now illegal to bullet climb
-                Mt. Fuji due to people being injured from doing so. All 3
-                stopped hiking because of how hard it was.
+                Mt. Fuji due to the frequency of injuries from people attempting
+                it. All 3 stopped hiking because of how hard it was.
               </p>
-            </li>
-            <li>
-              Others: Mt. Olympus (Greece), Mt. Washington (NH, US), Mt. Diablo
-              (CA, US), Mt. Tam, Mt. Jefferson, and many more.
             </li>
           </ul>
           <p>
             In 2021, I trained for and finished an Ironman (a race consisting of
             a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon run,
             done back-to-back-to-back and completed in that order). It took me
-            15 hours to finish and is still the hardest physical thing I’ve
-            accomplished. I can also do a standing backflip, ride a motorcycle,
-            and am SCUBA certified.
+            15 hours to finish and is the hardest physical __. i've ever
+            accomplished. I've also learned how to do a standing backflip, ride
+            a motorcycle, and SCUBA dive.
           </p>
           {/*  <p>
             People I am who I am today because of the people in my life. In no
@@ -235,11 +231,17 @@ export default function IndexPage() {
           <h3>Fun facts</h3>
           <ul>
             <li>
-              I have a cameo in Bryan Johnson's{' '}
-              <a target="_blank" href="https://www.netflix.com/title/81757532">
-                new Netflix documentary
-              </a>
-              .
+              I was born in the San Francisco Bay Area but didn’t grow up there.
+              I moved back 4 years ago and am proud to call it my home.
+            </li>
+            <li>
+              Growing up, I lived in 3 different countries and changed schools 7
+              times.
+            </li>
+            <li>
+              In high school, I voluntarily spent a summer being hazed at a
+              military school in Kentucky. It closed down shortly after I left
+              due to unsafe conditions.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was focused
@@ -248,17 +250,11 @@ export default function IndexPage() {
               and 2 JV.
             </li>
             <li>
-              I changed schools 7 times growing up and lived in 3 different
-              countries.
-            </li>
-            <li>
-              I was born in the SF Bay Area but didn’t grow up there. I moved
-              back 4 years ago and am proud to call it my home.
-            </li>
-            <li>
-              In high school, I voluntarily spent a summer being hazed at a
-              military school in Kentucky. It closed down shortly after I left
-              due to unsafe conditions.
+              I have a cameo in Bryan Johnson's{' '}
+              <a target="_blank" href="https://www.netflix.com/title/81757532">
+                new Netflix documentary
+              </a>
+              .
             </li>
             <li>I've visited 25 countries and 6 continents.</li>
           </ul>
