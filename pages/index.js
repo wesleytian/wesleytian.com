@@ -84,66 +84,96 @@ export default function IndexPage() {
           </p>
           <h3>Work</h3>
           <p>
-            I’m the CEO and Co-Founder of <a
-            href="https://www.aragon.ai/"
-            rel="noopener noreferrer"
-          >Aragon</a>. We generate realistic photos
-            of people using AI.
+            I’m the CEO and Co-Founder of{' '}
+            <a href="https://www.aragon.ai/" rel="noopener noreferrer">
+              Aragon
+            </a>
+            . We generate realistic photos of people using AI.
           </p>
           <p>
-            We have over 1.4 million users, including Fortune 500 companies and our
-            products have generated over 25 million photos for people. We’ve raised
-            a million dollars from Neo and the founders of billion-dollar
+            We have over 1.4 million users, including Fortune 500 companies and
+            our products have generated over 25 million photos for people. We’ve
+            raised a million dollars from Neo and the founders of billion-dollar
             companies but are proud to have never used any of the capital as
             we’ve been able to build a capital-efficient business. We’ve been
             able to grow to $1M ARR within four months of launch and $4M ARR in
             under two years on profits alone.
           </p>
           <p>
-            My company has been featured on the <a
-            href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
-            rel="noopener noreferrer"
-          >Washington Post</a>, <a
-            href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
-            rel="noopener noreferrer"
-          >NBC News</a>, <a
-            href="https://www.aragon.ai/"
-            rel="noopener noreferrer"
-          >the
-            Entrepreneur</a>, <a
-            href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/"
-            rel="noopener noreferrer"
-          >the Rolling Stone</a>, and the <a
-            href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
-            rel="noopener noreferrer"
-          >My First Million podcast</a>.
-            </br>
-            I’ve also been invited to chat about my journey building my company
-            on the <a
-            href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
-            rel="noopener noreferrer"
-          >Business Insider</a>, <a
-            href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
-            rel="noopener noreferrer"
-          >Big Think</a>, <a
-            href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
-            rel="noopener noreferrer"
-          >Amazon</a>, and the <a
-            href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
-            rel="noopener noreferrer"
-          >NeuralZen Venture
-            Podcast</a>.
+            My company has been featured on the{' '}
+            <a
+              href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
+              rel="noopener noreferrer"
+            >
+              Washington Post
+            </a>
+            ,{' '}
+            <a
+              href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
+              rel="noopener noreferrer"
+            >
+              NBC News
+            </a>
+            ,{' '}
+            <a href="https://www.aragon.ai/" rel="noopener noreferrer">
+              the Entrepreneur
+            </a>
+            ,{' '}
+            <a
+              href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/"
+              rel="noopener noreferrer"
+            >
+              the Rolling Stone
+            </a>
+            , and the{' '}
+            <a
+              href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
+              rel="noopener noreferrer"
+            >
+              My First Million podcast
+            </a>
+            . I’ve also been invited to chat about my journey building my
+            company on the{' '}
+            <a
+              href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
+              rel="noopener noreferrer"
+            >
+              Business Insider
+            </a>
+            ,{' '}
+            <a
+              href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
+              rel="noopener noreferrer"
+            >
+              Big Think
+            </a>
+            ,{' '}
+            <a
+              href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
+              rel="noopener noreferrer"
+            >
+              Amazon
+            </a>
+            , and the{' '}
+            <a
+              href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
+              rel="noopener noreferrer"
+            >
+              NeuralZen Venture Podcast
+            </a>
+            .
           </p>
           <h3>Hobbies</h3>
           <p>
             I’m a huge proponent in boosting productivity by cultivating a
-            healthy body and healthy relationships. Besides working on improving my
-            biomarkers such as my VO2 max and maintaing my strength, I enjoy mountaineering and skiing.
+            healthy body and healthy relationships. Besides working on improving
+            my biomarkers such as my VO2 max and maintaing my strength, I enjoy
+            mountaineering and skiing.
           </p>
           <p>
             One of my dreams since I was a child is to climb the Seven Summits
-            (the tallest mountain on every continent). I’ve climbed one so far and have
-            six more to go.
+            (the tallest mountain on every continent). I’ve climbed one so far
+            and have six more to go.
           </p>
           Notable summits:
           <ul>
@@ -151,30 +181,29 @@ export default function IndexPage() {
               Mt. Kilimanjaro (Tanzania)
               <p>
                 In 2025, I organized 3 friends to climb the tallest mountain in
-                Africa (19,341 ft / 5,895). It took us 5 days to summit
-                and 2 days to descend and one of us didn’t make it due to
-                altitude sickness. This climb was the most I’ve physically
-                suffered (more than my Ironman race) due to getting food
-                poisoning.
+                Africa (19,341 ft / 5,895). It took us 5 days to summit and 2
+                days to descend and one of us didn’t make it due to altitude
+                sickness. This climb was the most I’ve physically suffered (more
+                than my Ironman race) due to getting food poisoning.
               </p>
             </li>
             <li>
               Mt. Whitney (CA, US)
               <p>
                 In 2019, I organized 3 friends to climb the tallest mountain in
-                the contiguous US (14,505 ft / 4,421m). We started the climb at 2 am
-                and it took us 17 hours to summit and descend. People usually
-                split this climb into two days.
+                the contiguous US (14,505 ft / 4,421m). We started the climb at
+                2 am and it took us 17 hours to summit and descend. People
+                usually split this climb into two days.
               </p>
             </li>
             <li>
               Mt. Fuji (Japan)
               <p>
-                In 2015, I organized 3 friends to bullet hike Japan's tallest mountain (without
-                staying overnight on the mountain) with me (12,389 ft / 3,776 m).
-                It took us 16 hours to summit and descend. It’s now illegal to
-                bullet hike Mt. Fuji due to people being injured from doing so.
-                All 3 now refuse to hike.
+                In 2015, I organized 3 friends to bullet hike Japan's tallest
+                mountain (without staying overnight on the mountain) with me
+                (12,389 ft / 3,776 m). It took us 16 hours to summit and
+                descend. It’s now illegal to bullet hike Mt. Fuji due to people
+                being injured from doing so. All 3 now refuse to hike.
               </p>
             </li>
             <li>
@@ -199,11 +228,15 @@ export default function IndexPage() {
           <h3>Fun facts</h3>
           <ul>
             <li>
-              I have a cameo in a Netflix documentary called <a
-            href="https://www.netflix.com/title/81757532"
-            rel="noopener noreferrer"
-          >Don’t Die</a> about
-              Bryan Johnson, a wealthy entrepreneur who tries to defy aging.
+              I have a cameo in a Netflix documentary called{' '}
+              <a
+                href="https://www.netflix.com/title/81757532"
+                rel="noopener noreferrer"
+              >
+                Don’t Die
+              </a>{' '}
+              about Bryan Johnson, a wealthy entrepreneur who tries to defy
+              aging.
             </li>
             <li>
               I nearly failed high school playing League of Legends
@@ -211,15 +244,16 @@ export default function IndexPage() {
               the varsity level and 2 at the JV level.
             </li>
             <li>
-              I changed schools 7 times while growing up and moved to two different
-              countries.
+              I changed schools 7 times while growing up and moved to two
+              different countries.
             </li>
             <li>
               I was born in the SF Bay Area but didn’t grow up there. I’ve since
               moved back 4 years ago and am proud to call it my home.
             </li>
             <li>
-              In high school, I voluntarily spent a summer being hazed at a military school in Kentucky. It closed shortly after I left due to
+              In high school, I voluntarily spent a summer being hazed at a
+              military school in Kentucky. It closed shortly after I left due to
               unsafe conditions.
             </li>
           </ul>
