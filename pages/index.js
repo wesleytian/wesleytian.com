@@ -66,8 +66,7 @@ export default function IndexPage() {
           <div styles={{ float: 'left' }}></div>
           <p>Hey,</p>
           <p>
-            I’m Wesley, an entrepreneur based in San Francisco who enjoys
-            traveling, mountaineering, and running. Here's a bit about me.
+            I’m Wesley, an entrepreneur and mountaineer. Here's a bit about me.
           </p>
           <h4>Work</h4>
           <p>
@@ -88,15 +87,15 @@ export default function IndexPage() {
               Neo
             </a>{' '}
             and the founders of billion-dollar companies. We're proud to have
-            never used any of the capital as we’ve been able to build a{' '}
+            never used any of that capital as we’ve been able to build a{' '}
             <a
               target="_blank"
               href="https://blog.eladgil.com/p/capital-efficient-businesses"
             >
               capital-efficient business
             </a>
-            . On profits alone, we grew to $1M ARR within 4 months of launch and
-            $4M ARR in under 2 years.
+            . On our profits alone, we grew to $1M ARR within 4 months of launch
+            and $4M ARR in under 2 years.
           </p>
           <p>
             We've been featured in the{' '}
@@ -160,16 +159,15 @@ export default function IndexPage() {
           </p>
           <h4>Hobbies</h4>
           <p>
-            I’m a big believer that a healthy body fosters more productivity, so
-            I try to spend most of my free time staying active. Besides trying
-            to improve my VO2 max by running and maintain my strength by
-            lifting, I enjoy physical challenges to see what my body and mind
-            can do.
+            I aim to balance my work with improving my health and fitness by
+            running and lifting. When time allows, I also enjoy pushing my
+            physical limits and mental willpower such as with mountaineering and
+            doing an Ironman.
           </p>
           <p>
-            One of my goals since I was a child is to climb the Seven Summits
-            (the highest mountain on each continent). I’ve climbed one so far
-            and have six more to go.
+            I've wanted to climb the Seven Summits (the highest mountains on
+            each continent including Mt. Everest) ever since I was a kid. I’ve
+            conquered one so far and have six more to go.
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
@@ -198,30 +196,21 @@ export default function IndexPage() {
               Mt. Fuji (12,389 ft / 3,776 m)
               <p>
                 In 2015, I organized 3 friends to "bullet climb" the tallest
-                mountain in Japan–meaning summitting and descending in one push
-                without staying overnight on the mountain. It took us 14 hours
-                to summit and descend. It’s now illegal to bullet climb Mt. Fuji
-                due to the frequency of injuries from people attempting it. My
-                friends stopped hiking after this experience because of how
-                challenging it was.
+                mountain in Japan, which means to summit and descend in a single
+                push without staying overnight on the mountain. It took us 14
+                hours to summit and descend. It’s now illegal to bullet climb
+                Mt. Fuji due to the frequency of injuries from people attempting
+                it. My friends stopped hiking after this experience because of
+                how challenging it was.
               </p>
             </li>
           </ul>
           <p>
-            In 2021, I trained for and finished an Ironman (a race consisting of
-            a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon run,
-            done back-to-back-to-back and completed in that order). It took me
-            15 hours to finish and is the hardest physical __. i've ever
-            accomplished. I've also learned how to do a standing backflip, ride
-            a motorcycle, and SCUBA dive.
+            In 2021, I trained for and finished an Ironman–a race consisting of
+            a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon, all
+            done back-to-back. It took me 15 hours to finish and has been the
+            hardest physical thing I've ever done.
           </p>
-          {/*  <p>
-            People I am who I am today because of the people in my life. In no
-            particular order, the following are some people who have been an
-            influence on my life: dad, mom, sister, Henry, Douglas, Henry,
-            Andrew, Edward, Rui, Nisch, Phillip, Joe, Solomon, Elon, Victor,
-            Jack, Akhil, Carol, Lindy.{' '} 
-          </p>*/}
           <h4>Fun facts</h4>
           <ul>
             <li>
@@ -229,20 +218,20 @@ export default function IndexPage() {
               I moved back 4 years ago and am proud to call it my home.
             </li>
             <li>
-              Growing up, I lived in 3 different countries and changed schools 7
-              times.
+              Growing up, I lived in 3 countries and changed schools 7 times.
             </li>
 
             <li>
               In high school, I voluntarily spent a summer being hazed at a
-              military school in Kentucky and becoming a US Army Cadet. It
-              closed down shortly after I left due to unsafe conditions.
+              military school in Kentucky. I wanted to go for the experience
+              (and it was a great one). It closed down shortly after I left due
+              to safety concerns.
             </li>
             <li>
-              I nearly failed high school with a 1.9 GPA because I was focused
-              on playing League of Legends competitively (I made it to the top
-              2% of players globally). I was also busy playing on 6 sports
-              teams–4 varsisty and 2 JV.
+              I nearly failed high school with a 1.9 GPA because I was playing
+              League of Legends competitively (I made it to the top 2% of
+              players globally). I was also busy competing on 6 sports teams–4
+              varsity and 2 JV.
             </li>
 
             <li>I've visited 25 countries and 6 continents.</li>
@@ -255,8 +244,8 @@ export default function IndexPage() {
             </li>
           </ul>
           <p>
-            If you’d like to chat, feel free to email me at my last name . my
-            first name at gmail period com. You can also find me on{' '}
+            If you’d like to chat, you can reach me at my first name at my
+            company url. You can also find me on{' '}
             <a href="https://x.com/wesleyytian" target="_blank">
               X (Twitter)
             </a>{' '}
@@ -267,7 +256,7 @@ export default function IndexPage() {
             , where I'm quite active.
           </p>
           <p>Thanks for reading,</p>
-          <p> Wesley Tian</p>
+          <p>Wesley Tian</p>
         </div>
         <Divider />
         <br></br> <br></br> <br></br>
