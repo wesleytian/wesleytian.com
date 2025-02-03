@@ -266,7 +266,7 @@ export default function IndexPage() {
           <p>Wesley Tian</p>
         </div>
         <Divider />
-        <i>Last updated: Feb, 2025</i>
+        <i>Last updated: 02-02-2025</i>
         <br></br> <br></br> <br></br>
       </main>
     </div>
