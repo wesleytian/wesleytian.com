@@ -66,7 +66,8 @@ export default function IndexPage() {
           <div styles={{ float: 'left' }}></div>
           <p>Hey,</p>
           <p>
-            I’m Wesley, an entrepreneur and mountaineer. Here's a bit about me.
+            I’m Wesley, entrepreneur, mountaineer, and Ironman finisher. Here's
+            a bit about me.
           </p>
           <h4>Work</h4>
           <p>
@@ -86,16 +87,18 @@ export default function IndexPage() {
             <a target="_blank" href="https://neo.com/">
               Neo
             </a>{' '}
-            and the founders of billion-dollar companies. We're proud to have
-            never used any of that capital as we’ve been able to build a{' '}
+            and the founders of billion-dollar companies. However, we've proud
+            to have never needed to use any of that capital as we’ve been able
+            to build a{' '}
             <a
               target="_blank"
               href="https://blog.eladgil.com/p/capital-efficient-businesses"
             >
               capital-efficient business
             </a>
-            . On our profits alone, we grew to $1M ARR within 4 months of launch
-            and $4M ARR in under 2 years.
+            . Using our profits alone, we grew to $1M annual run rate (ARR)
+            within 4 months of launching our first product and $4M ARR in under
+            2 years.
           </p>
           <p>
             We've been featured in the{' '}
@@ -137,16 +140,16 @@ export default function IndexPage() {
             ,{' '}
             <a
               target="_blank"
-              href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
+              href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
             >
-              Big Think
+              Amazon
             </a>
             ,{' '}
             <a
               target="_blank"
-              href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
+              href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
             >
-              Amazon
+              Big Think
             </a>
             , and the{' '}
             <a
@@ -160,14 +163,9 @@ export default function IndexPage() {
           <h4>Hobbies</h4>
           <p>
             I aim to balance my work with improving my health and fitness by
-            running and lifting. When time allows, I also enjoy pushing my
-            physical limits and mental willpower such as with mountaineering and
-            doing an Ironman.
-          </p>
-          <p>
-            I've wanted to climb the Seven Summits (the highest mountains on
-            each continent including Mt. Everest) ever since I was a kid. I’ve
-            conquered one so far and have six more to go.
+            sleeping early, running, and lifting. When time allows, I also enjoy
+            pushing my physical limits and mental willpower with challenging
+            activities like mountaineering and doing an Ironman.
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
@@ -177,10 +175,10 @@ export default function IndexPage() {
                 In January 2025, I organized 3 friends to climb the tallest
                 mountain in Africa. It took us 5 days to summit and 2 days to
                 descend. One of us was unable to summit due to altitude
-                sickness. At this extreme altitude, you have &lt;50% oxygen.
-                This climb was the most I’ve physically suffered (more than my
-                Ironman race) due to getting food poisoning while on the
-                mountain.
+                sickness. At this extreme altitude, you have 50% oxygen
+                available. Due to getting food poisoning and still having to
+                hike 5-8 hours a day, this was the most I've physically suffered
+                (even more than my Ironman).
               </p>
             </li>
             <li>
@@ -189,7 +187,8 @@ export default function IndexPage() {
                 In 2019, I organized 3 friends to climb the tallest mountain in
                 the contiguous US. We started the climb at 2 am and it took us
                 17 hours to summit and descend. People usually split this climb
-                into two days.
+                into two days. We ran out of water near the summit, so one of us
+                drank piss to survive (we filtered it).
               </p>
             </li>
             <li>
@@ -198,7 +197,7 @@ export default function IndexPage() {
                 In 2015, I organized 3 friends to "bullet climb" the tallest
                 mountain in Japan, which means to summit and descend in a single
                 push without staying overnight on the mountain. It took us 14
-                hours to summit and descend. It’s now illegal to bullet climb
+                hours to summit and descend. It’s now forbidden to bullet climb
                 Mt. Fuji due to the frequency of injuries from people attempting
                 it. My friends stopped hiking after this experience because of
                 how challenging it was.
@@ -206,9 +205,14 @@ export default function IndexPage() {
             </li>
           </ul>
           <p>
+            I've wanted to climb the Seven Summits (the highest mountains on
+            each continent including Mt. Everest) ever since I was a kid. I’ve
+            conquered one so far and have six more to go.
+          </p>
+          <p>
             In 2021, I trained for and finished an Ironman–a race consisting of
             a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon, all
-            done back-to-back. It took me 15 hours to finish and has been the
+            done back-to-back. It took me 15 hours to finish and it's been the
             hardest physical thing I've ever done.
           </p>
           <h4>Fun facts</h4>
@@ -224,8 +228,8 @@ export default function IndexPage() {
             <li>
               In high school, I voluntarily spent a summer being hazed at a
               military school in Kentucky. I wanted to go for the experience
-              (and it was a great one). It closed down shortly after I left due
-              to safety concerns.
+              (and it was a great one). It shut down shortly after I left due to
+              safety concerns from parents.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was playing
@@ -233,12 +237,11 @@ export default function IndexPage() {
               players globally). I was also busy competing on 6 sports teams–4
               varsity and 2 JV.
             </li>
-
             <li>I've visited 25 countries and 6 continents.</li>
             <li>
-              I have a cameo in Bryan Johnson's{' '}
+              I have a cameo in Bryan Johnson's new Netflix documentary called{' '}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
-                new Netflix documentary
+                Don't Die
               </a>
               .
             </li>
