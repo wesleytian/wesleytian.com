@@ -165,10 +165,10 @@ export default function IndexPage() {
           </p>
           <h4>Hobbies</h4>
           <p>
-            I aim to balance work with my health by learning new recipes,
-            running, and lifting. When time allows, I also enjoy pushing my
-            physical limits and mental willpower with activities like
-            mountaineering and doing an Ironman.
+            I aim to balance work with my health by running, lifting, and
+            cooking. When time allows, I also enjoy pushing my physical limits
+            and mental willpower with activities like mountaineering and doing
+            an Ironman triathlon.
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
@@ -217,6 +217,10 @@ export default function IndexPage() {
             a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon, all
             done back-to-back. It took me 15 hours to finish and it's been the
             hardest physical thing I've ever done.
+          </p>
+          <p>
+            I've also trained to do a standing backflip, muscle-up, and bench
+            press 2 plates (225 lbs.).
           </p>
           <h4>Fun facts</h4>
           <ul>
