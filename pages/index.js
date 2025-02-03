@@ -219,7 +219,7 @@ export default function IndexPage() {
             hardest physical thing I've ever done.
           </p>
           <p>
-            I've also trained to do a muscle-up, land a standing backflip and
+            I've also trained to do a muscle-up, land a standing backflip, and
             bench press 2 plates (225 lbs / 102 kg).
           </p>
           <h4>Fun facts</h4>
