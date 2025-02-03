@@ -64,7 +64,7 @@ export default function IndexPage() {
       <main id="text-container" style={textContainerStyle}>
         <div>
           <div styles={{ float: 'left' }}></div>
-          <h4>Hey👋🏻,</h4>
+          <h4>Hey 👋🏻,</h4>
           <p>
             I’m Wesley, an entrepreneur, mountaineer, and Ironman finisher.
             Here's a bit about me.
@@ -75,7 +75,7 @@ export default function IndexPage() {
             <a target="_blank" href="https://www.aragon.ai/">
               Aragon
             </a>
-            . We use AI to generate photorealistic images of people, replacing
+            . We use AI to generate hyperrealistic photos of people, replacing
             the need for in-person photoshoots.
           </p>
           <p>
