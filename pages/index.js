@@ -87,7 +87,7 @@ export default function IndexPage() {
             <a target="_blank" href="https://neo.com/">
               Neo
             </a>{' '}
-            and the founders of billion-dollar companies. However, we've proud
+            and the founders of billion-dollar companies. However, we're proud
             to have never needed to use any of that capital as we’ve been able
             to build a{' '}
             <a
@@ -96,7 +96,7 @@ export default function IndexPage() {
             >
               capital-efficient business
             </a>
-            . Using our profits alone, we grew to $1M annual run rate (ARR)
+            . Using our profits alone, we grew to a $1M annual run rate (ARR)
             within 4 months of launching our first product and $4M ARR in under
             2 years.
           </p>
@@ -129,8 +129,7 @@ export default function IndexPage() {
             >
               My First Million
             </a>{' '}
-            podcast. I’ve also been invited to chat about my startup journey on
-            the{' '}
+            podcast. I’ve also been invited to chat about my startup journey on{' '}
             <a
               target="_blank"
               href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
@@ -185,7 +184,7 @@ export default function IndexPage() {
               Mt. Whitney (14,505 ft / 4,421 m)
               <p>
                 In 2019, I organized 3 friends to climb the tallest mountain in
-                the contiguous US. We started the climb at 2 am and it took us
+                the contiguous US. We started the climb at 2 am, and it took us
                 17 hours to summit and descend. People usually split this climb
                 into two days. We ran out of water near the summit, so one of us
                 drank piss to survive (we filtered it).
@@ -199,8 +198,8 @@ export default function IndexPage() {
                 push without staying overnight on the mountain. It took us 14
                 hours to summit and descend. It’s now forbidden to bullet climb
                 Mt. Fuji due to the frequency of injuries from people attempting
-                do so. My friends stopped hiking after this experience because
-                of how challenging it was.
+                to do so. My friends stopped hiking after this experience
+                because of how challenging it was.
               </p>
             </li>
           </ul>
@@ -218,8 +217,8 @@ export default function IndexPage() {
           <h4>Fun facts</h4>
           <ul>
             <li>
-              I was born in the San Francisco Bay Area, but I didn’t grow up
-              there. I moved back 4 years ago and am proud to call it my home.
+              I was born in the San Francisco Bay Area but didn’t grow up there.
+              I moved back 4 years ago and am proud to call it my home.
             </li>
             <li>
               Growing up, I lived in 3 countries and changed schools 7 times.
@@ -261,6 +260,7 @@ export default function IndexPage() {
           <p>Thanks for reading,</p>
           <p>Wesley Tian</p>
         </div>
+        <p>Last updated: Feb, 2025</p>
         <Divider />
         <br></br> <br></br> <br></br>
       </main>
