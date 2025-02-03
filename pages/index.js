@@ -129,7 +129,7 @@ export default function IndexPage() {
             >
               My First Million
             </a>{' '}
-            podcast. I’ve also been invited to chat about my startup journey on{' '}
+            podcast. I’ve also been invited to chat about my startup journey by{' '}
             <a
               target="_blank"
               href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
@@ -160,9 +160,9 @@ export default function IndexPage() {
             podcast.
           </p>
           <p>
-            Prior to starting Aragon, I worked at early-stage startups, was a
-            software engineer at Microsoft, and an AI researcher at the
-            University of Michigan.
+            Prior to starting my company, I worked at 2 early-stage Y Combinator
+            startups, was a software engineer at Microsoft, and an AI researcher
+            at the University of Michigan.
           </p>
           <h4>Hobbies</h4>
           <p>
@@ -182,7 +182,7 @@ export default function IndexPage() {
                 sickness. At this extreme altitude, you have only have 50% of
                 oxygen available to you. Due to getting food poisoning early on
                 in the 7-day climb, this was the most I've physically suffered
-                (even more than my Ironman).
+                (even more than during my Ironman).
               </p>
             </li>
             <li>
@@ -192,7 +192,7 @@ export default function IndexPage() {
                 the contiguous US. We started the climb at 2 am, and it took us
                 17 hours to summit and descend. People usually split this climb
                 into two days. We ran out of water near the summit, so one of us
-                drank piss to survive (we filtered it).
+                had to drink piss to survive (we filtered it).
               </p>
             </li>
             <li>
@@ -201,10 +201,10 @@ export default function IndexPage() {
                 In 2015, I organized 3 friends to "bullet climb" the tallest
                 mountain in Japan, which means to summit and descend in a single
                 push without staying overnight on the mountain. It took us 14
-                hours to summit and descend. It’s now forbidden to bullet climb
-                Mt. Fuji because too many people have been injured doing it. My
-                friends stopped hiking after this experience because of how
-                challenging it was.
+                hours total. It’s now forbidden to bullet climb Mt. Fuji because
+                too many people have been injured from attempting it. My friends
+                stopped hiking after this experience because of how challenging
+                this climb was.
               </p>
             </li>
           </ul>
