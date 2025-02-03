@@ -162,10 +162,10 @@ export default function IndexPage() {
           </p>
           <h4>Hobbies</h4>
           <p>
-            I aim to balance my work with improving my health and fitness by
-            sleeping early, running, and lifting. When time allows, I also enjoy
-            pushing my physical limits and mental willpower with challenging
-            activities like mountaineering and doing an Ironman.
+            I aim to balance my work with optimizing my health by sleeping
+            early, running, and lifting. When time allows, I also enjoy pushing
+            my physical limits and mental willpower with challenging activities
+            like mountaineering and doing an Ironman.
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
@@ -175,10 +175,10 @@ export default function IndexPage() {
                 In January 2025, I organized 3 friends to climb the tallest
                 mountain in Africa. It took us 5 days to summit and 2 days to
                 descend. One of us was unable to summit due to altitude
-                sickness. At this extreme altitude, you have 50% oxygen
-                available. Due to getting food poisoning and still having to
-                hike 5-8 hours a day, this was the most I've physically suffered
-                (even more than my Ironman).
+                sickness. At this extreme altitude, you have only have 50% of
+                oxygen available to you. Due to getting food poisoning and still
+                having to hike 5-8 hours a day, this was the most I've
+                physically suffered (even more than my Ironman).
               </p>
             </li>
             <li>
@@ -199,8 +199,8 @@ export default function IndexPage() {
                 push without staying overnight on the mountain. It took us 14
                 hours to summit and descend. It’s now forbidden to bullet climb
                 Mt. Fuji due to the frequency of injuries from people attempting
-                it. My friends stopped hiking after this experience because of
-                how challenging it was.
+                do so. My friends stopped hiking after this experience because
+                of how challenging it was.
               </p>
             </li>
           </ul>
@@ -218,8 +218,8 @@ export default function IndexPage() {
           <h4>Fun facts</h4>
           <ul>
             <li>
-              I was born in the San Francisco Bay Area but didn’t grow up there.
-              I moved back 4 years ago and am proud to call it my home.
+              I was born in the San Francisco Bay Area, but I didn’t grow up
+              there. I moved back 4 years ago and am proud to call it my home.
             </li>
             <li>
               Growing up, I lived in 3 countries and changed schools 7 times.
