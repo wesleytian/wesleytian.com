@@ -64,9 +64,9 @@ export default function IndexPage() {
       <main id="text-container" style={textContainerStyle}>
         <div>
           <div styles={{ float: 'left' }}></div>
-          <p>Hey,</p>
+          <t4>Hey,</h4>
           <p>
-            I’m Wesley, entrepreneur, mountaineer, and Ironman finisher. Here's
+            I’m Wesley–entrepreneur, mountaineer, and Ironman finisher. Here's
             a bit about me.
           </p>
           <h4>Work</h4>
@@ -159,6 +159,7 @@ export default function IndexPage() {
             </a>{' '}
             podcast.
           </p>
+          <p>Prior to starting Aragon, I worked at early-stage startups, was a software engineer at Microsoft, and did AI research at the University of Michigan.</p>
           <h4>Hobbies</h4>
           <p>
             I aim to balance my work with optimizing my health by sleeping
@@ -175,8 +176,7 @@ export default function IndexPage() {
                 mountain in Africa. It took us 5 days to summit and 2 days to
                 descend. One of us was unable to summit due to altitude
                 sickness. At this extreme altitude, you have only have 50% of
-                oxygen available to you. Due to getting food poisoning and still
-                having to hike 5-8 hours a day, this was the most I've
+                oxygen available to you. Due to getting food poisoning early on in the 7-day climb, this was the most I've
                 physically suffered (even more than my Ironman).
               </p>
             </li>
@@ -197,8 +197,7 @@ export default function IndexPage() {
                 mountain in Japan, which means to summit and descend in a single
                 push without staying overnight on the mountain. It took us 14
                 hours to summit and descend. It’s now forbidden to bullet climb
-                Mt. Fuji due to the frequency of injuries from people attempting
-                to do so. My friends stopped hiking after this experience
+                Mt. Fuji because too many people have been injured doing it. My friends stopped hiking after this experience
                 because of how challenging it was.
               </p>
             </li>
@@ -228,7 +227,7 @@ export default function IndexPage() {
               In high school, I voluntarily spent a summer being hazed at a
               military school in Kentucky. I wanted to go for the experience
               (and it was a great one). It shut down shortly after I left due to
-              safety concerns from parents.
+              safety concerns.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was playing
