@@ -75,8 +75,8 @@ export default function IndexPage() {
             <a target="_blank" href="https://www.aragon.ai/">
               Aragon
             </a>
-            . We use AI to generate realistic photos of people, replacing the
-            need for in-person photoshoots.
+            . We use AI to generate photorealistic images of people, replacing
+            the need for in-person photoshoots.
           </p>
           <p>
             We have over 1.2 million users, including Fortune 500 companies and
@@ -87,9 +87,8 @@ export default function IndexPage() {
             <a target="_blank" href="https://neo.com/">
               Neo
             </a>{' '}
-            and the founders of billion-dollar companies. However, we're proud
-            to have never needed to use any of that capital as we’ve been able
-            to build a{' '}
+            and the founders of billion-dollar companies. However, we've never
+            needed to use any of that money as we’ve been able to build a{' '}
             <a
               target="_blank"
               href="https://blog.eladgil.com/p/capital-efficient-businesses"
@@ -166,10 +165,10 @@ export default function IndexPage() {
           </p>
           <h4>Hobbies</h4>
           <p>
-            I aim to balance my work with optimizing my health by sleeping
-            early, running, and lifting. When time allows, I also enjoy pushing
-            my physical limits and mental willpower with challenging activities
-            like mountaineering and doing an Ironman.
+            I aim to balance work with my health by learning new recipes,
+            running, and lifting. When time allows, I also enjoy pushing my
+            physical limits and mental willpower with activities like
+            mountaineering and doing an Ironman.
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
@@ -179,10 +178,10 @@ export default function IndexPage() {
                 In January 2025, I organized 3 friends to climb the tallest
                 mountain in Africa. It took us 5 days to summit and 2 days to
                 descend. One of us was unable to summit due to altitude
-                sickness. At this extreme altitude, you have only have 50% of
-                oxygen available to you. Due to getting food poisoning early on
-                in the 7-day climb, this was the most I've physically suffered
-                (even more than during my Ironman).
+                sickness. At that extreme altitude, you only have 50% of the
+                oxygen available at sea level. Due to getting food poisoning
+                early on in the climb, this was the most I've physically
+                suffered (even more than during my Ironman).
               </p>
             </li>
             <li>
@@ -204,7 +203,7 @@ export default function IndexPage() {
                 hours total. It’s now forbidden to bullet climb Mt. Fuji because
                 too many people have been injured from attempting it. My friends
                 stopped hiking after this experience because of how challenging
-                this climb was.
+                it was.
               </p>
             </li>
           </ul>
