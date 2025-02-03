@@ -64,10 +64,10 @@ export default function IndexPage() {
       <main id="text-container" style={textContainerStyle}>
         <div>
           <div styles={{ float: 'left' }}></div>
-          <h4>Hey,</h4>
+          <h4>Hey👋🏻,</h4>
           <p>
-            I’m Wesley–entrepreneur, mountaineer, and Ironman finisher. Here's a
-            bit about me.
+            I’m Wesley, an entrepreneur, mountaineer, and Ironman finisher.
+            Here's a bit about me.
           </p>
           <h4>Work</h4>
           <p>
