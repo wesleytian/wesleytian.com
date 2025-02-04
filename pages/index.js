@@ -165,7 +165,7 @@ export default function IndexPage() {
           </p>
           <h4>Hobbies</h4>
           <p>
-            I aim to balance work with my health by running, lifting, and
+            I aim to balance work and health by running, lifting, and
             cooking. When time allows, I also enjoy pushing my physical limits
             and mental willpower with activities like mountaineering and doing
             an Ironman triathlon.
@@ -208,8 +208,8 @@ export default function IndexPage() {
             </li>
           </ul>
           <p>
-            I've wanted to climb the Seven Summits (the highest mountains on
-            each continent including Mt. Everest) ever since I was a kid. I’ve
+            I've wanted to climb the Seven Summits (the highest mountain on
+            each continent, including Mt. Everest) ever since I was a kid. I’ve
             conquered one so far and have six more to go.
           </p>
           <p>
@@ -236,7 +236,7 @@ export default function IndexPage() {
               In high school, I voluntarily spent a summer being hazed at a
               military school in Kentucky. I wanted to go for the experience
               (and it was a great one). It shut down shortly after I left due to
-              safety concerns.
+              complaints about safety concerns.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was playing
