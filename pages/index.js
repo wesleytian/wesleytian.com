@@ -165,24 +165,28 @@ export default function IndexPage() {
           </p>
           <h4>Hobbies</h4>
           <p>
-            I aim to balance work and health by running, lifting, and
-            cooking. When time allows, I also enjoy pushing my physical limits
-            and mental willpower with activities like mountaineering and doing
-            an Ironman triathlon.
+            I aim to balance work and health by running, lifting, and cooking.
+            When time allows, I also enjoy pushing my physical limits and mental
+            willpower with activities like mountaineering and doing an Ironman
+            triathlon.
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
             <li>
-              Mt. Kilimanjaro (19,341 ft / 5,895 m)
-              <p>
-                In January 2025, I organized 3 friends to climb the tallest
-                mountain in Africa. It took us 5 days to summit and 2 days to
-                descend. One of us was unable to summit due to altitude
-                sickness. At that extreme altitude, you only have 50% of the
-                oxygen available at sea level. Due to getting food poisoning
-                early on in the climb, this was the most I've physically
-                suffered (even more than during my Ironman).
-              </p>
+              <details open="false">
+                <summary style={{ cursor: 'pointer' }}>
+                  Mt. Kilimanjaro (19,341 ft / 5,895 m)
+                </summary>
+                <p>
+                  In January 2025, I organized 3 friends to climb the tallest
+                  mountain in Africa. It took us 5 days to summit and 2 days to
+                  descend. One of us was unable to summit due to altitude
+                  sickness. At that extreme altitude, you only have 50% of the
+                  oxygen available at sea level. Due to getting food poisoning
+                  early on in the climb, this was the most I've physically
+                  suffered (even more than during my Ironman).
+                </p>
+              </details>
             </li>
             <li>
               Mt. Whitney (14,505 ft / 4,421 m)
@@ -208,8 +212,8 @@ export default function IndexPage() {
             </li>
           </ul>
           <p>
-            I've wanted to climb the Seven Summits (the highest mountain on
-            each continent, including Mt. Everest) ever since I was a kid. I’ve
+            I've wanted to climb the Seven Summits (the highest mountain on each
+            continent, including Mt. Everest) ever since I was a kid. I’ve
             conquered one so far and have six more to go.
           </p>
           <p>
