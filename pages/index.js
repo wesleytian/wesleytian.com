@@ -172,22 +172,25 @@ export default function IndexPage() {
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
-            <details open="false">
+            <details open="true">
               <summary style={{ cursor: 'pointer' }}>
                 Mt. Kilimanjaro (19,341 ft / 5,895 m)
               </summary>
-              {/*<p>*/}
-              In January 2025, I organized 3 friends to climb the tallest
-              mountain in Africa. It took us 5 days to summit and 2 days to
-              descend. One of us was unable to summit due to altitude sickness.
-              At that extreme altitude, you only have 50% of the oxygen
-              available at sea level. Due to getting food poisoning early on in
-              the climb, this was the most I've physically suffered (even more
-              than during my Ironman).
-              {/*</p>*/}
+              <p>
+                In January 2025, I organized 3 friends to climb the tallest
+                mountain in Africa. It took us 5 days to summit and 2 days to
+                descend. One of us was unable to summit due to altitude
+                sickness. At that extreme altitude, you only have 50% of the
+                oxygen available at sea level. Due to getting food poisoning
+                early on in the climb, this was the most I've physically
+                suffered (even more than during my Ironman).
+              </p>
             </details>
-            <li>
-              Mt. Whitney (14,505 ft / 4,421 m)
+
+            <details open="true">
+              <summary style={{ cursor: 'pointer' }}>
+                Mt. Whitney (14,505 ft / 4,421 m)
+              </summary>
               <p>
                 In 2019, I organized 3 friends to climb the tallest mountain in
                 the contiguous US. We started the climb at 2 am, and it took us
@@ -195,9 +198,12 @@ export default function IndexPage() {
                 into two days. We ran out of water near the summit, so one of us
                 had to drink piss to survive (we filtered it).
               </p>
-            </li>
-            <li>
-              Mt. Fuji (12,389 ft / 3,776 m)
+            </details>
+
+            <details open="true">
+              <summary style={{ cursor: 'pointer' }}>
+                Mt. Fuji (12,389 ft / 3,776 m)
+              </summary>
               <p>
                 In 2015, I organized 3 friends to "bullet climb" the tallest
                 mountain in Japan, which means to summit and descend in a single
@@ -207,7 +213,7 @@ export default function IndexPage() {
                 stopped hiking after this experience because of how challenging
                 it was.
               </p>
-            </li>
+            </details>
           </ul>
           <p>
             I've wanted to climb the Seven Summits (the highest mountain on each
