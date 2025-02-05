@@ -242,7 +242,7 @@ export default function IndexPage() {
               In high school, I voluntarily spent a summer being hazed at a
               military school in Kentucky. I wanted to go for the experience
               (and it was a great one). It shut down shortly after I left due to
-              complaints about safety concerns.
+              safety concern complaints.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was playing
@@ -275,7 +275,7 @@ export default function IndexPage() {
           <p>Wesley Tian</p>
         </div>
         <Divider />
-        <i>Last updated: 02-02-2025</i>
+        <i>Last updated: 02-05-2025</i>
         <br></br> <br></br> <br></br>
       </main>
     </div>
