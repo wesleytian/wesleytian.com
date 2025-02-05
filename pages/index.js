@@ -181,9 +181,9 @@ export default function IndexPage() {
                 mountain in Africa. It took us 5 days to summit and 2 days to
                 descend. One of us was unable to summit due to altitude
                 sickness. At that extreme altitude, you only have 50% of the
-                oxygen available at sea level. Due to getting food poisoning
-                early on in the climb, this was the most I've physically
-                suffered (even more than during my Ironman).
+                oxygen available at sea level. Due to getting severe food
+                poisoning early on in the climb, this was the most suffering
+                I've ever had to endure (even more than during my Ironman).
               </p>
             </details>
             <details>
