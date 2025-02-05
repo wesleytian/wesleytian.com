@@ -172,22 +172,20 @@ export default function IndexPage() {
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
-            <li>
-              <details open="false">
-                <summary style={{ cursor: 'pointer' }}>
-                  Mt. Kilimanjaro (19,341 ft / 5,895 m)
-                </summary>
-                <p>
-                  In January 2025, I organized 3 friends to climb the tallest
-                  mountain in Africa. It took us 5 days to summit and 2 days to
-                  descend. One of us was unable to summit due to altitude
-                  sickness. At that extreme altitude, you only have 50% of the
-                  oxygen available at sea level. Due to getting food poisoning
-                  early on in the climb, this was the most I've physically
-                  suffered (even more than during my Ironman).
-                </p>
-              </details>
-            </li>
+            <details open="false">
+              <summary style={{ cursor: 'pointer' }}>
+                Mt. Kilimanjaro (19,341 ft / 5,895 m)
+              </summary>
+              {/*<p>*/}
+              In January 2025, I organized 3 friends to climb the tallest
+              mountain in Africa. It took us 5 days to summit and 2 days to
+              descend. One of us was unable to summit due to altitude sickness.
+              At that extreme altitude, you only have 50% of the oxygen
+              available at sea level. Due to getting food poisoning early on in
+              the climb, this was the most I've physically suffered (even more
+              than during my Ironman).
+              {/*</p>*/}
+            </details>
             <li>
               Mt. Whitney (14,505 ft / 4,421 m)
               <p>
