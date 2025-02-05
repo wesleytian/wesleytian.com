@@ -172,7 +172,7 @@ export default function IndexPage() {
           </p>
           I've climbed over a dozen mountains. Here are a few notable ones:
           <ul>
-            <details open="true">
+            <details>
               <summary style={{ cursor: 'pointer' }}>
                 Mt. Kilimanjaro (19,341 ft / 5,895 m)
               </summary>
@@ -186,8 +186,8 @@ export default function IndexPage() {
                 suffered (even more than during my Ironman).
               </p>
             </details>
-
-            <details open="true">
+            <br/>
+            <details>
               <summary style={{ cursor: 'pointer' }}>
                 Mt. Whitney (14,505 ft / 4,421 m)
               </summary>
@@ -199,8 +199,8 @@ export default function IndexPage() {
                 had to drink piss to survive (we filtered it).
               </p>
             </details>
-
-            <details open="true">
+            </br>
+            <details>
               <summary style={{ cursor: 'pointer' }}>
                 Mt. Fuji (12,389 ft / 3,776 m)
               </summary>
