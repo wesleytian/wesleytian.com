@@ -96,7 +96,7 @@ export default function IndexPage() {
               capital-efficient business
             </a>
             . Using our profits alone, we grew to a $1M annual run rate (ARR)
-            within 4 months of launching our first product and $4M ARR in under
+            within 4 months of launching our first product and $5M ARR in under
             2 years.
           </p>
           <p>
