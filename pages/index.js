@@ -186,7 +186,7 @@ export default function IndexPage() {
                 suffered (even more than during my Ironman).
               </p>
             </details>
-            <br/>
+            <br />
             <details>
               <summary style={{ cursor: 'pointer' }}>
                 Mt. Whitney (14,505 ft / 4,421 m)
@@ -199,7 +199,7 @@ export default function IndexPage() {
                 had to drink piss to survive (we filtered it).
               </p>
             </details>
-            </br>
+            <br />
             <details>
               <summary style={{ cursor: 'pointer' }}>
                 Mt. Fuji (12,389 ft / 3,776 m)
