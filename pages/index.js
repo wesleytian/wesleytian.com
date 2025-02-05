@@ -159,9 +159,15 @@ export default function IndexPage() {
             podcast.
           </p>
           <p>
-            Prior to starting my company, I worked at 2 early-stage Y Combinator
-            startups, was a software engineer at Microsoft, and an AI researcher
-            at the University of Michigan.
+            Prior to starting my company, I worked at 2 early-stage{' '}
+            <a
+              target="_blank"
+              href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
+            >
+              Y Combinator
+            </a>
+            -backed startups, was a software engineer at Microsoft, and an AI
+            researcher at the University of Michigan.
           </p>
           <h4>Hobbies</h4>
           <p>
@@ -170,7 +176,8 @@ export default function IndexPage() {
             willpower with activities like mountaineering and doing an Ironman
             triathlon.
           </p>
-          I've climbed over a dozen mountains. Here are a few notable ones:
+          I've climbed over a dozen mountains. Here are a few notable
+          experiences:
           <ul>
             <details>
               <summary style={{ cursor: 'pointer' }}>
@@ -269,7 +276,7 @@ export default function IndexPage() {
             <a href="https://www.linkedin.com/in/wesleytian/" target="_blank">
               LinkedIn
             </a>
-            , where I'm quite active.
+            , where I'm somewhat active.
           </p>
           <p>Thanks for reading,</p>
           <p>Wesley Tian</p>
