@@ -92,7 +92,8 @@ export default function IndexPage() {
               Sequoia Scout
             </a>
             , and the founders of billion-dollar companies. However, we've never
-            needed to use any of that money as we’ve been able to build a{' '}
+            needed to use any of the money that we've raised as we’ve been able to
+            build a{' '}
             <a
               target="_blank"
               href="https://blog.eladgil.com/p/capital-efficient-businesses"
