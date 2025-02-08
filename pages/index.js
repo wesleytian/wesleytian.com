@@ -83,11 +83,15 @@ export default function IndexPage() {
             our products have generated over 25 million photos for people.{' '}
           </p>
           <p>
-            We’ve raised a million dollars from{' '}
+            We’ve backed by{' '}
             <a target="_blank" href="https://neo.com/">
               Neo
-            </a>{' '}
-            and the founders of billion-dollar companies. However, we've never
+            </a>
+            ,{' '}
+            <a target="_blank" href="https://www.sequoiacap.com/">
+              Sequoia Scout
+            </a>
+            , and the founders of billion-dollar companies. However, we've never
             needed to use any of that money as we’ve been able to build a{' '}
             <a
               target="_blank"
