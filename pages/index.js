@@ -66,7 +66,7 @@ export default function IndexPage() {
           <div styles={{ float: 'left' }}></div>
           <h4>Hey 👋🏻,</h4>
           <p>
-            I’m Wesley, an entrepreneur, mountaineer, and Ironman finisher.
+            I’m Wesley–tech entrepreneur, mountaineer, and Ironman finisher.
             Here's a bit about me.
           </p>
           <h4>Work</h4>
@@ -75,7 +75,7 @@ export default function IndexPage() {
             <a target="_blank" href="https://www.aragon.ai/">
               Aragon
             </a>
-            . We use AI to generate hyperrealistic photos of people, replacing
+            . We use AI to generate hyperrealistic photos of people, eliminating
             the need for in-person photoshoots.
           </p>
           <p>
@@ -83,7 +83,7 @@ export default function IndexPage() {
             our products have generated over 25 million photos for people.{' '}
           </p>
           <p>
-            We’ve backed by{' '}
+            We’re funded by{' '}
             <a target="_blank" href="https://neo.com/">
               Neo
             </a>
@@ -92,17 +92,16 @@ export default function IndexPage() {
               Sequoia Scout
             </a>
             , and the founders of billion-dollar companies. However, we've never
-            needed to use any of the money that we've raised as we’ve been able to
-            build a{' '}
+            needed to use any of the money that we've raised as we’ve been able
+            to build a{' '}
             <a
               target="_blank"
               href="https://blog.eladgil.com/p/capital-efficient-businesses"
             >
               capital-efficient business
             </a>
-            . Using our profits alone, we grew to a $1M annual run rate (ARR)
-            within 4 months of launching our first product and $5M ARR in under
-            2 years.
+            . Using our profits, we grew to a $1M annual run rate (ARR) within 4
+            months of launching our first product and $5M ARR in under 2 years.
           </p>
           <p>
             We've been featured in the{' '}
@@ -233,8 +232,8 @@ export default function IndexPage() {
           <p>
             In 2021, I trained for and finished an Ironman–a race consisting of
             a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon, all
-            done back-to-back. It took me 15 hours to finish and it's been the
-            hardest physical thing I've ever done.
+            done back-to-back. It took me 15 hours to finish and it was hardest
+            physical thing I've ever done.
           </p>
           <p>
             I've also trained to do a muscle-up, land a standing backflip, and
@@ -287,7 +286,7 @@ export default function IndexPage() {
           <p>Wesley Tian</p>
         </div>
         <Divider />
-        <i>Last updated: 02-05-2025</i>
+        <i>Last updated: 02-10-2025</i>
         <br></br> <br></br> <br></br>
       </main>
     </div>
