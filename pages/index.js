@@ -253,7 +253,7 @@ export default function IndexPage() {
               In high school, I voluntarily spent a summer being hazed at a
               military school in Kentucky. I wanted to go for the experience
               (and it was a great one). It shut down shortly after I left due to
-              safety concern complaints.
+              safety concern complaints from parents.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was playing
