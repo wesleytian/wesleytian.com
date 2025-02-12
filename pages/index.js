@@ -257,8 +257,7 @@ export default function IndexPage() {
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was playing
-              League of Legends competitively (I made it to the top 2% of
-              players globally). I was also busy competing on 6 sports teams–4
+              League of Legends competitively (I made it to semi-pro on the Chinese server). I was also busy competing on 6 sports teams–4
               varsity and 2 JV.
             </li>
             <li>I've visited 25 countries and 6 continents.</li>
