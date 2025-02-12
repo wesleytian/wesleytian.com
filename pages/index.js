@@ -265,8 +265,7 @@ export default function IndexPage() {
               I have a cameo in a Netflix documentary called{' '}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
                 Don't Die
-              </a>{' '}
-              (it's about Bryan Johnson).
+              </a>.
             </li>
           </ul>
           <p>
