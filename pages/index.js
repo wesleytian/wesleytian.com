@@ -101,7 +101,7 @@ export default function IndexPage() {
               capital-efficient business
             </a>
             . Using our profits, we grew to a $1M annual run rate (ARR) within 4
-            months of launching our first product and $5M ARR in under 2 years.
+            months of launching our first product and $9M ARR in under 2 years.
           </p>
           <p>
             We've been featured in the{' '}
@@ -176,8 +176,8 @@ export default function IndexPage() {
           <h4>Hobbies</h4>
           <p>
             I aim to balance work and health by running, lifting, and cooking.
-            When time allows, I also enjoy pushing my physical limits and mental
-            willpower with activities like mountaineering and doing an Ironman
+            When time allows, I also enjoy pushing my physical and mental
+            limits with activities like mountaineering and doing an Ironman
             triathlon.
           </p>
           I've climbed over a dozen mountains. Here are a few notable
