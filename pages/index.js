@@ -262,11 +262,11 @@ export default function IndexPage() {
             </li>
             <li>I've visited 25 countries and 6 continents.</li>
             <li>
-              I have a cameo in Bryan Johnson's new Netflix documentary called{' '}
+              I have a cameo in a Netflix documentary called{' '}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
                 Don't Die
-              </a>
-              .
+              </a>{' '}
+              (it's about Bryan Johnson).
             </li>
           </ul>
           <p>
