@@ -132,7 +132,14 @@ export default function IndexPage() {
             >
               My First Million
             </a>{' '}
-            podcast. I’ve also been invited to chat about my startup journey by{' '}
+            podcast. I’ve also been featured by{' '}
+            <a
+              target="_blank"
+              href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups"
+            >
+              The Information
+            </a>
+            ,{' '}
             <a
               target="_blank"
               href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
@@ -176,9 +183,8 @@ export default function IndexPage() {
           <h4>Hobbies</h4>
           <p>
             I aim to balance work and health by running, lifting, and cooking.
-            When time allows, I also enjoy pushing my physical and mental
-            limits with activities like mountaineering and doing an Ironman
-            triathlon.
+            When time allows, I also enjoy pushing my physical and mental limits
+            with activities like mountaineering and doing an Ironman triathlon.
           </p>
           I've climbed over a dozen mountains. Here are a few notable
           experiences:
@@ -257,7 +263,8 @@ export default function IndexPage() {
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA because I was playing
-              League of Legends competitively (I made it to semi-pro on the Chinese server). I was also busy competing on 6 sports teams–4
+              League of Legends competitively (I made it to semi-pro on the
+              Chinese server). I was also busy competing on 6 sports teams–4
               varsity and 2 JV.
             </li>
             <li>I've visited 25 countries and 6 continents.</li>
@@ -265,7 +272,8 @@ export default function IndexPage() {
               I have a cameo in a Netflix documentary called{' '}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
                 Don't Die
-              </a>.
+              </a>
+              .
             </li>
           </ul>
           <p>
