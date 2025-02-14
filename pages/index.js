@@ -132,7 +132,7 @@ export default function IndexPage() {
             >
               My First Million
             </a>{' '}
-            podcast. I’ve also been featured by{' '}
+            podcast. I’ve also been personally featured by{' '}
             <a
               target="_blank"
               href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups"
