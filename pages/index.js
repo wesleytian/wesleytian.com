@@ -152,7 +152,7 @@ export default function IndexPage() {
               href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
             >
               My First Million
-            </a>
+            </a>{' '}
             and{' '}
             <a
               target="_blank"
@@ -200,7 +200,7 @@ export default function IndexPage() {
                 point, even water made me have explosive diarrhea. Despite that,
                 I still had to hike through blistering sun, rain, sleet,
                 stinging hail, and snow. Summit day started at 10 p.m., and we
-                ended up hiking ~17 hours that day. This was the most physical
+                ended up hiking 17 hours that day. This was the most physical
                 suffering I've ever endured–even more than my Ironman.
               </p>
             </details>
