@@ -125,6 +125,13 @@ export default function IndexPage() {
             >
               Washington Post
             </a>
+            , The Rolling Stone ,{' '}
+            <a
+              target="_blank"
+              href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
+            >
+              NBC News
+            </a>
             ,{' '}
             <a
               target="_blank"
@@ -142,11 +149,18 @@ export default function IndexPage() {
             , and the{' '}
             <a
               target="_blank"
+              href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
+            >
+              My First Million
+            </a>
+            , and{' '}
+            <a
+              target="_blank"
               href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
             >
               NeuralZen Venture
             </a>{' '}
-            podcast.
+            podcasts.
           </p>
           <p>
             Prior to starting my company, I worked at 2 early-stage{' '}
