@@ -183,8 +183,8 @@ export default function IndexPage() {
           <h4>Hobbies</h4>
           <p>
             I aim to balance work and health by running, lifting, and cooking.
-            When time allows, I also enjoy pushing my physical and mental limits
-            with activities like mountaineering and completing an Ironman.
+            When time allows, I also enjoy pushing my body's limits with
+            activities like mountaineering and completing an Ironman.
           </p>
           🏔️ I've climbed over a dozen mountains. Here are a few notable
           experiences:
@@ -203,11 +203,11 @@ export default function IndexPage() {
               </p>
               <p>
                 Early in the climb, I got severe food poisoning, and at one
-                point, even water made me have diarrhea. Despite that, I still
-                had to hike through blistering sun, rain, sleet, stinging hail,
-                and snow. Summit day started at 10 p.m., and we ended up hiking
-                ~17 hours that day. This was the most physical suffering I've
-                ever endured–even more than my Ironman.
+                point, even water made me have explosive diarrhea. Despite that,
+                I still had to hike through blistering sun, rain, sleet,
+                stinging hail, and snow. Summit day started at 10 p.m., and we
+                ended up hiking ~17 hours that day. This was the most physical
+                suffering I've ever endured–even more than my Ironman.
               </p>
             </details>
             <details>
