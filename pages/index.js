@@ -186,7 +186,7 @@ export default function IndexPage() {
             When time allows, I also enjoy pushing my physical and mental limits
             with activities like mountaineering and completing an Ironman.
           </p>
-          I've climbed over a dozen mountains. Here are a few notable
+          🏔️ I've climbed over a dozen mountains. Here are a few notable
           experiences:
           <ul>
             <details>
@@ -203,11 +203,11 @@ export default function IndexPage() {
               </p>
               <p>
                 Early in the climb, I got severe food poisoning, and at one
-                point, I couldn't even hold down water. Despite this, I still
-                had to hike in blistering sun, rain, sleet, stinging hail, and
-                snow. Summit day started at 10 p.m. and we hiked ~17 hours that
-                day. This was the most physical suffering I've ever endured
-                (even more than my Ironman).
+                point, even water made me have diarrhea. Despite that, I still
+                had to hike through blistering sun, rain, sleet, stinging hail,
+                and snow. Summit day started at 10 p.m., and we ended up hiking
+                ~17 hours that day. This was the most physical suffering I've
+                ever endured–even more than my Ironman.
               </p>
             </details>
             <details>
@@ -242,9 +242,8 @@ export default function IndexPage() {
             continent, including Mt. Everest) ever since I was a kid. I’ve
             conquered one so far and have six more to go.
           </p>
-          <br />
           <p>
-            In 2021, I trained for and completed an Ironman Triathlon–a
+            🚴🏻 In 2021, I trained for and completed an Ironman Triathlon–a
             140.6-mile endurance race consisting of a 2.4-mile swim, a 112-mile
             bike ride, and a 26.2-mile marathon, all done back-to-back. The race
             took place in Cozumel, Mexico, where it was 80&deg;F (27&deg;C) with
@@ -257,7 +256,6 @@ export default function IndexPage() {
             couldn't even open my fists. The race took me 15 hours to finish and
             it was the hardest physical thing I've ever done.
           </p>
-          <br />
           <p>
             I've also trained to do a muscle-up, land a standing backflip, and
             bench press 2 plates (225 lbs / 102 kg).
