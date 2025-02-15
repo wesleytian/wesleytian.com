@@ -238,10 +238,10 @@ export default function IndexPage() {
           </p>
           <p>
             🚴🏻 In 2021, I trained for and completed an Ironman Triathlon–a
-            140.6-mile endurance race consisting of a 2.4-mile swim, a 112-mile
-            bike ride, and a 26.2-mile marathon, all done back-to-back. The race
-            took place in Cozumel, Mexico, where it was 80&deg;F (27&deg;C) with
-            100% humidity.
+            140.6-mile (226 km) endurance race consisting of a 2.4-mile swim, a
+            112-mile bike ride, and a 26.2-mile marathon, all done back-to-back.
+            The race took place in Cozumel, Mexico, where it was 80&deg;F
+            (27&deg;C) with 100% humidity.
           </p>
           <p>
             Right after I crossed the finish line, I collapsed from hyponatremia
@@ -271,10 +271,10 @@ export default function IndexPage() {
               safety concern complaints from parents.
             </li>
             <li>
-              I nearly failed high school with a 1.9 GPA because I was playing
-              League of Legends competitively (I made it to semi-pro on the
-              Chinese server). I was also busy competing on 6 sports teams–4
-              varsity and 2 JV.
+              I nearly failed high school with a 1.9 GPA (C- average) because I
+              was playing League of Legends competitively (I made it to semi-pro
+              on the Chinese server). I was also busy competing on 6 sports
+              teams–4 varsity and 2 JV.
             </li>
             <li>I've visited 25 countries and 6 continents.</li>
             <li>
@@ -301,7 +301,7 @@ export default function IndexPage() {
           <p>Wesley Tian</p>
         </div>
         <Divider />
-        <i>Last major update: 02-5-2025</i>
+        <i>Last major update: 02-05-2025</i>
         <br></br> <br></br> <br></br>
       </main>
     </div>
