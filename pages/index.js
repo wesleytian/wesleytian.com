@@ -237,11 +237,11 @@ export default function IndexPage() {
             conquered one so far and have six more to go.
           </p>
           <p>
-            In 2021, I trained for and completed an Ironman Triathlon–an
-            endurance race consisting of a 2.4-mile swim, a 112-mile bike ride,
-            and a 26.2-mile marathon, all done back-to-back. The race took place
-            in Cozumel, Mexico, where it was 80&deg;F (27&deg;C) with 100%
-            humidity. <br />
+            In 2021, I trained for and completed an Ironman Triathlon–a
+            140.6-mile endurance race consisting of a 2.4-mile swim, a 112-mile
+            bike ride, and a 26.2-mile marathon, all done back-to-back. The race
+            took place in Cozumel, Mexico, where it was 80&deg;F (27&deg;C) with
+            100% humidity. <br />
             Right after I crossed the finish line, I collapsed from hyponatremia
             and had to be carried to the infirmary on a stretcher. I was pretty
             scared–my entire body was cramping, including my face, and I
