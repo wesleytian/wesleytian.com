@@ -109,9 +109,9 @@ export default function IndexPage() {
               target="_blank"
               href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups"
             >
-              The Information (front page)
-            </a>
-            ,{' '}
+              The Information
+            </a>{' '}
+            (front page),{' '}
             <a
               target="_blank"
               href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
