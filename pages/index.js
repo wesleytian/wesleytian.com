@@ -104,35 +104,7 @@ export default function IndexPage() {
             4 months of launching and $10M ARR in 2 years.
           </p>
           <p>
-            We've been featured in the{' '}
-            <a
-              target="_blank"
-              href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
-            >
-              Washington Post
-            </a>
-            ,{' '}
-            <a
-              target="_blank"
-              href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
-            >
-              NBC News
-            </a>
-            ,{' '}
-            <a
-              target="_blank"
-              href="https://www.rollingstone.com/culture/culture-news/ai-headshot-generators-2024-1235080786/"
-            >
-              Rolling Stone
-            </a>
-            , and on the{' '}
-            <a
-              target="_blank"
-              href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
-            >
-              My First Million
-            </a>{' '}
-            podcast. I’ve also been personally featured by{' '}
+            For my company, I've been featured on{' '}
             <a
               target="_blank"
               href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups"
@@ -145,6 +117,13 @@ export default function IndexPage() {
               href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
             >
               Business Insider
+            </a>
+            ,{' '}
+            <a
+              target="_blank"
+              href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
+            >
+              Washington Post
             </a>
             ,{' '}
             <a
