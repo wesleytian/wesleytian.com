@@ -104,12 +104,12 @@ export default function IndexPage() {
             4 months of launching and $10M ARR in 2 years.
           </p>
           <p>
-            For my company, I've been featured on{' '}
+            For my company, I've been featured in{' '}
             <a
               target="_blank"
               href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups"
             >
-              The Information
+              The Information (front page)
             </a>
             ,{' '}
             <a
@@ -123,9 +123,9 @@ export default function IndexPage() {
               target="_blank"
               href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
             >
-              Washington Post
+              The Washington Post
             </a>
-            , The Rolling Stone ,{' '}
+            , Rolling Stone,{' '}
             <a
               target="_blank"
               href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
@@ -139,21 +139,21 @@ export default function IndexPage() {
             >
               Amazon
             </a>
-            ,{' '}
+            , and{' '}
             <a
               target="_blank"
               href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
             >
               Big Think
             </a>
-            , and the{' '}
+            , as well as on the{' '}
             <a
               target="_blank"
               href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
             >
               My First Million
             </a>
-            , and{' '}
+            and{' '}
             <a
               target="_blank"
               href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
@@ -176,8 +176,9 @@ export default function IndexPage() {
           <h4>Hobbies</h4>
           <p>
             I aim to balance work and health by running, lifting, and cooking.
-            When time allows, I also enjoy pushing my body's limits with
-            activities like mountaineering and completing an Ironman.
+            When time allows, I also enjoy seeing what my body and mind are
+            capable of with activities like mountaineering and completing an
+            Ironman.
           </p>
           🏔️ I've climbed over a dozen mountains. Here are a few notable
           experiences:
@@ -300,7 +301,7 @@ export default function IndexPage() {
           <p>Wesley Tian</p>
         </div>
         <Divider />
-        <i>Last updated: 02-10-2025</i>
+        <i>Last major update: 02-5-2025</i>
         <br></br> <br></br> <br></br>
       </main>
     </div>
