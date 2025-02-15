@@ -245,10 +245,11 @@ export default function IndexPage() {
           </p>
           <p>
             Right after I crossed the finish line, I collapsed from hyponatremia
-            and had to be carried on a stretcher to the infirmary. I was pretty
-            scared–my entire body was cramping, including my face, and I
-            couldn't even open my fists. The race took me 15 hours to finish and
-            it was the hardest physical thing I've ever done.
+            and had to be carried away on a stretcher. For the first time in my
+            life, I was scared that I had irreversibly fucked up my body–my
+            entire body was cramping, including my face, and I couldn't even
+            open my fists. The race took me 15 hours to finish and it was the
+            hardest physical thing I've ever done.
           </p>
           <p>
             💪🏻 I've also trained to do a muscle-up, land a standing backflip,
