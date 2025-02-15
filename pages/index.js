@@ -245,7 +245,7 @@ export default function IndexPage() {
           </p>
           <p>
             Right after I crossed the finish line, I collapsed from hyponatremia
-            and had to be carried to the infirmary on a stretcher. I was pretty
+            and had to be carried on a stretcher to the infirmary. I was pretty
             scared–my entire body was cramping, including my face, and I
             couldn't even open my fists. The race took me 15 hours to finish and
             it was the hardest physical thing I've ever done.
