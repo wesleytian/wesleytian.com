@@ -66,8 +66,8 @@ export default function IndexPage() {
           <div styles={{ float: 'left' }}></div>
           <h4>Hey 👋🏻,</h4>
           <p>
-            I’m Wesley–tech entrepreneur, mountaineer, and Ironman finisher.
-            Here's a bit about me.
+            I’m Wesley–tech entrepreneur, mountaineer, and Ironman Triathlon
+            finisher. Here's a bit about me.
           </p>
           <h4>Work</h4>
           <p>
@@ -100,8 +100,8 @@ export default function IndexPage() {
             >
               capital-efficient business
             </a>
-            . Using our profits, we grew to a $1M annual run rate (ARR) within 4
-            months of launching our first product and $9M ARR in under 2 years.
+            . Using our profits, we grew to $1M in annual run rate (ARR) within
+            4 months of launching and $10M ARR in 2 years.
           </p>
           <p>
             We've been featured in the{' '}
@@ -184,7 +184,8 @@ export default function IndexPage() {
           <p>
             I aim to balance work and health by running, lifting, and cooking.
             When time allows, I also enjoy pushing my physical and mental limits
-            with activities like mountaineering and doing an Ironman triathlon.
+            with activities like mountaineering and completing an Ironman
+            Triathlon.
           </p>
           I've climbed over a dozen mountains. Here are a few notable
           experiences:
@@ -236,10 +237,16 @@ export default function IndexPage() {
             conquered one so far and have six more to go.
           </p>
           <p>
-            In 2021, I trained for and finished an Ironman–a race consisting of
-            a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon, all
-            done back-to-back. It took me 15 hours to finish and it was hardest
-            physical thing I've ever done.
+            In 2021, I trained for and completed an Ironman Triathlon–an
+            endurance race consisting of a 2.4-mile swim, a 112-mile bike ride,
+            and a 26.2-mile marathon, all done back-to-back. The race took place
+            in Cozumel, Mexico, where it was 80&deg;F (27&deg;C) with 100%
+            humidity. <br />
+            Right after I crossed the finish line, I collapsed from hyponatremia
+            and had to be carried to the infirmary on a stretcher. I was pretty
+            scared–my entire body was cramping, including my face, and I
+            couldn't even open my fists. The race took me 15 hours to finish and
+            it was the hardest physical thing I've ever done.
           </p>
           <p>
             I've also trained to do a muscle-up, land a standing backflip, and
