@@ -1,6 +1,6 @@
 import "../styles/globals.css";
 import "regenerator-runtime/runtime.js";
-import React, { useEffect } from "react";
+import * as React from "react";
 import Layout from "../components/layout";
 import {
   createMuiTheme,
@@ -16,13 +16,15 @@ import JssProvider from "react-jss/lib/JssProvider";
 import { useRouter } from "next/router";
 import { incrementViews } from "../lib/firebase";
 import Script from "next/script";
+import { ThemeProvider as CustomThemeProvider } from "../lib/theme";
+import ThemeToggle from "../components/ThemeToggle";
 
 function MyApp({ Component, pageProps }) {
   const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)");
   // console.log(prefersDarkMode);
   const router = useRouter();
 
-  useEffect(() => {
+  React.useEffect(() => {
     if (router.pathname === "/posts/[id]") {
       return;
     }
@@ -35,33 +37,31 @@ function MyApp({ Component, pageProps }) {
     );
   }, [router.pathname]);
 
-  return (
-    <div>
-      {/* Google Analytics */}
-      <Script
-        strategy="lazyOnload"
-        src={`https://www.googletagmanager.com/gtag/js?id=G-SCT2GW3WK4`}
-      />
-      <Script id="googleAnalytics" strategy="lazyOnload">
-        {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-SCT2GW3WK4');          
-        `}
-      </Script>
-      {/* <Layout> */}
-      <JssProvider>
-        <ThemeProvider theme={theme}>
-          {/* <ButtonAppBar /> */}
-          {/* <> */}
-          <Component {...pageProps} />
-          {/* <Footer /> */}
-          {/* </> */}
-        </ThemeProvider>
-      </JssProvider>
-      {/* </Layout> */}
-    </div>
+  return React.createElement(CustomThemeProvider, {}, 
+    React.createElement('div', {}, [
+      // Google Analytics
+      React.createElement(Script, {
+        key: 'ga-script',
+        strategy: "lazyOnload",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-SCT2GW3WK4"
+      }),
+      React.createElement(Script, {
+        key: 'ga-config',
+        id: "googleAnalytics", 
+        strategy: "lazyOnload"
+      }, `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-SCT2GW3WK4');          
+      `),
+      React.createElement(JssProvider, { key: 'jss' },
+        React.createElement(ThemeProvider, { theme: theme }, [
+          React.createElement(ThemeToggle, { key: 'toggle' }),
+          React.createElement(Component, { ...pageProps, key: 'component' })
+        ])
+      )
+    ])
   );
 }
 

@@ -1,5 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
+:root {
+  /* Light theme (default) */
+  --background: #f8f8f8;
+  --text: #1a1a1a;
+  --text-secondary: #666666;
+  --accent: rgb(30, 120, 250);
+  --link: #2563eb;
+  --border: #e0e0e0;
+  --card-bg: #ffffff;
+  --card-shadow: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --background: #121212;
+  --text: #ffffff;
+  --text-secondary: #b0b0b0;
+  --accent: rgb(30, 120, 250);
+  --link: #60a5fa;
+  --border: #333333;
+  --card-bg: #1e1e1e;
+  --card-shadow: rgba(0, 0, 0, 0.3);
+}
+
 html,
 body {
   padding: 0;
@@ -8,8 +31,9 @@ body {
   font-weight: 300, 400, 500, 600, 700;
   font-size: 1rem;
   line-height: 1.5;
-  color: #FFFFFF;
-  background-color: #121212;
+  color: var(--text);
+  background-color: var(--background);
+  transition: color 0.3s ease, background-color 0.3s ease;
 }
 
 h1 {
@@ -17,11 +41,13 @@ h1 {
 }
 
 a {
-  color: rgb(30, 120, 250);
+  color: var(--link);
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
+  color: var(--text);
   text-decoration: underline;
 }
 
@@ -39,4 +65,44 @@ img[alt="img"] {
 
 b {
   font-weight: bolder;
+}
+
+/* Theme toggle button styles */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-family: "IBM Plex Sans";
+  color: var(--text);
+  transition: all 0.3s ease;
+  z-index: 1000;
+  box-shadow: 0 2px 8px var(--card-shadow);
+}
+
+.theme-toggle:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px var(--card-shadow);
+}
+
+.theme-icon {
+  font-size: 16px;
+}
+
+.theme-label {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .theme-label {
+    display: inline;
+  }
 }

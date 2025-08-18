@@ -1,37 +1,37 @@
-import React, { useState, useEffect } from 'react'
-import Head from 'next/head'
-import { getSortedPostsData } from '../lib/posts'
-import { getViews } from '../lib/firebase'
-import Footer from './Footer'
-import Divider from './Divider'
+import React, { useState, useEffect } from "react";
+import Head from "next/head";
+import { getSortedPostsData } from "../lib/posts";
+import { getViews } from "../lib/firebase";
+import Footer from "./Footer";
+import Divider from "./Divider";
 
 export default function IndexPage() {
-  const [, setViews] = useState(0)
+  const [, setViews] = useState(0);
 
-  const currentYear = new Date().getFullYear()
+  const currentYear = new Date().getFullYear();
 
   useEffect(() => {
-    fetchViews()
-  }, [])
+    fetchViews();
+  }, []);
 
   const fetchViews = async () => {
-    const views = await getViews('gpa')
-    setViews(views)
-  }
+    const views = await getViews("gpa");
+    setViews(views);
+  };
 
   const containerStyle = {
-    marginTop: 'auto',
-    marginBottom: 'auto',
-    paddingTop: '1rem',
-    paddingBottom: '1rem',
-    paddingLeft: '1rem',
-    paddingRight: '1rem',
-  }
+    marginTop: "auto",
+    marginBottom: "auto",
+    paddingTop: "1rem",
+    paddingBottom: "1rem",
+    paddingLeft: "1rem",
+    paddingRight: "1rem",
+  };
 
   const textContainerStyle = {
-    maxWidth: '650px',
-    margin: '0 auto',
-  }
+    maxWidth: "650px",
+    margin: "0 auto",
+  };
 
   const mediaQueryStyle = `
     @media only screen and (max-width: 768px) {
@@ -39,7 +39,7 @@ export default function IndexPage() {
         max-width: 90%;
       }
     }
-  `
+  `;
 
   return (
     <div style={containerStyle}>
@@ -54,7 +54,7 @@ export default function IndexPage() {
           property="og:description"
           content="Welcome to my personal site."
         />
-        <meta property="og:image" content={'/posts/ogimage.jpeg'} />
+        <meta property="og:image" content={"/posts/ogimage.jpeg"} />
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -63,107 +63,178 @@ export default function IndexPage() {
 
       <main id="text-container" style={textContainerStyle}>
         <div>
-          <div styles={{ float: 'left' }}></div>
-          <h4>Hey 👋🏻,</h4>
+          <div styles={{ float: "left" }}></div>
+          <h4>Hey, I’m Wesley! 👋🏻 </h4>
           <p>
-            I’m Wesley–tech entrepreneur, mountaineer, and Ironman Triathlon
-            finisher. Here's a bit about me.
-          </p>
-          <h4>Work</h4>
-          <p>
-            I’m the CEO and Co-Founder of{' '}
+            I’m the Co-Founder and CEO of{" "}
             <a target="_blank" href="https://www.aragon.ai/">
               Aragon
             </a>
-            . We use AI to generate hyperrealistic photos of people, eliminating
-            the need for in-person photoshoots.
+            , the world's most popular AI photography studio. We use AI to
+            generate photos of people that are indistinguishable from real
+            photos, eliminating the need for in-person photoshoots.
           </p>
           <p>
-            We have over 1.2 million users, including Fortune 500 companies and
-            our products have generated over 25 million photos for people.{' '}
+            We have 2M+ users, including Fortune 200 companies and our products
+            have generated 34M+ photos for people. We grew to $10M+ annualized revenue in less than two years.{" "}
           </p>
           <p>
-            We’re funded by{' '}
+            We're profitable and raised from{" "}
             <a target="_blank" href="https://neo.com/">
               Neo
             </a>
-            ,{' '}
+            ,{" "}
             <a target="_blank" href="https://www.sequoiacap.com/">
-              Sequoia Scout
-            </a>
-            , and the founders of billion-dollar companies. However, we've never
-            needed to use any of the money that we've raised as we’ve been able
-            to build a{' '}
-            <a
-              target="_blank"
-              href="https://blog.eladgil.com/p/capital-efficient-businesses"
-            >
-              capital-efficient business
-            </a>
-            . Using our profits, we grew to $1M in annual run rate (ARR) within
-            4 months of launching and $10M ARR in 2 years.
+              Sequoia
+            </a>{" "}
+            Scout, and angels such as the founders of <a target="_blank" href="https://www.vanta.com/">Vanta</a> ($4B), DocSend (sold for $165M), and <a target="_blank" href="https://www.decagon.ai/">Decagon</a> ($1B). 
           </p>
           <p>
-            For my company, I've been featured in{' '}
-            <a
-              target="_blank"
-              href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups"
-            >
-              The Information
-            </a>{' '}
-            (front page),{' '}
-            <a
-              target="_blank"
-              href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator"
-            >
-              Business Insider
-            </a>
-            ,{' '}
-            <a
-              target="_blank"
-              href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/"
-            >
-              The Washington Post
-            </a>
-            , Rolling Stone,{' '}
-            <a
-              target="_blank"
-              href="https://www.wbaltv.com/article/professional-headshots-from-selfies-ai/46411821"
-            >
-              NBC News
-            </a>
-            ,{' '}
-            <a
-              target="_blank"
-              href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
-            >
-              Amazon
-            </a>
-            , and{' '}
-            <a
-              target="_blank"
-              href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/"
-            >
-              Big Think
-            </a>
-            , as well as on the{' '}
-            <a
-              target="_blank"
-              href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141"
-            >
-              My First Million
-            </a>{' '}
-            and{' '}
-            <a
-              target="_blank"
-              href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w"
-            >
-              NeuralZen Venture
-            </a>{' '}
-            podcasts.
+            I've been featured in: {" "}
           </p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
+            <div>
+              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
+                <li>
+                  <a target="_blank" href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups">
+                    The Information
+                  </a> - <i>Why Early-Stage Founders Are Opting to 'Seed-Strap' Their Startups</i>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.indiehackers.com/post/tech/building-one-of-the-first-ai-headshot-products-and-hitting-900k-mo-in-3-years-UK9omiPofFtha5Kps2Fj">
+                    Indie Hackers
+                  </a> - <i>Building one of the first AI headshot products and hitting $900k/mo</i>
+                </li>
+                <li><a href="https://leanaileaderboard.com/" target="_blank">
+              Lean AI Leaderboard
+            </a></li>
+            <li>
+                  <a target="_blank" href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141">
+                    My First Million
+                  </a>
+                </li>
+                
+               
+               
+              </ul>
+            </div>
+            <div>
+              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
+              <li>
+                  <a target="_blank" href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
+                    Business Insider
+                  </a> - <i>Why I turned down Y Combinator for Neo</i>
+                </li>
+               
+                <li>
+                  <a target="_blank" href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
+                    The Washington Post
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.pmf.show/1st-time-founder-grows-ai-headshot-app-from-0-to-10m-arr-in-2-years-with-no-funding-wesley-tian/">
+                    The Product Market Fit Show
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/">
+                    Big Think
+                  </a> - <i>Key lessons for first-time founders</i>
+                </li>
+                <li>
+                  <a target="_blank" href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w">
+                    NeuralZen Venture
+                  </a>
+                </li>
+                
+                {/* <li>Amazon</li> */}
+                
+              </ul>
+            </div>
+          </div>
+
+         
+
           <p>
-            Prior to starting my company, I worked at 2 early-stage{' '}
+            I'm also an angel investor/LP in the following companies and funds:{" "}
+          </p>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
+            <div>
+              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
+                <li>
+                  <a target="_blank" href="https://neo.com/">
+                    Neo
+                  </a> VC (first investor in <a target="_blank" href="https://cursor.com/">
+                    Cursor
+                  </a>, now $10B+)
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.anthropic.com/">
+                    Anthropic
+                  </a> ($170B)
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.replit.com/">
+                    Replit
+                  </a> ($3B)
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.sesame.com/">
+                    Sesame
+                  </a> ($1B)
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.volantissemi.ai/">
+                    Volantis
+                  </a> (Thiel Fellow, ex-YC, backed by Sam Altman)
+                </li>
+                
+                <li>
+                  <a target="_blank" href="https://www.codebuff.com/">
+                    Codebuff
+                  </a> (YC F24)
+                </li>
+              </ul>
+            </div>
+            <div>
+              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
+              <li>
+                  <a target="_blank" href="https://www.salley.co/">
+                    Salley
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.cloverlabs.ai/">
+                    Clover
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.jooba.com/">
+                    Jooba
+                  </a> (a16z-backed)
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.up-to-speed.ai/">
+                    UpToSpeed
+                  </a> (Thiel Fellow)
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.endflow.com/">
+                    Endflow
+                  </a> (ex-YC)
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.fetchr.so/">
+                    Fetchr
+                  </a> (YC W23, inactive)
+                </li>
+              </ul>
+            </div>
+          </div>
+
+
+          <p>
+            Prior to starting my company, I worked at two early-stage{" "}
             <a
               target="_blank"
               href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
@@ -173,18 +244,17 @@ export default function IndexPage() {
             -backed startups, was a software engineer at Microsoft, and an AI
             researcher at the University of Michigan.
           </p>
-          <h4>Hobbies</h4>
+          <hr></hr>
+          <h4>Mountains & Ironman</h4>
           <p>
-            I aim to balance work and health by running, lifting, and cooking.
-            When time allows, I also enjoy seeing what my body and mind are
-            capable of with activities like mountaineering and completing an
-            Ironman.
+            Outside of work, I'm a health fanatic and like to dabble in
+            endurance sports.
           </p>
           🏔️ I've climbed over a dozen mountains. Here are a few notable
-          experiences:
+          experiences (click to expand):
           <ul>
             <details>
-              <summary style={{ cursor: 'pointer' }}>
+              <summary style={{ cursor: "pointer" }}>
                 Mt. Kilimanjaro (19,341 ft / 5,895 m)
               </summary>
               <p>
@@ -196,28 +266,28 @@ export default function IndexPage() {
                 of the oxygen at sea level was available to us.
               </p>
               <p>
-                Early in the climb, I got severe food poisoning, and at one
-                point, even water made me have explosive diarrhea. Despite that,
-                I still had to hike through blistering sun, rain, sleet,
-                stinging hail, and snow. Summit day started at 10 p.m., and we
-                ended up hiking 17 hours that day. This was the most physical
-                suffering I've ever endured–even more than my Ironman.
+                Early in the climb, I got severe food poisoning. At one point,
+                even water made me have explosive diarrhea. Despite that, I
+                still had to hike through blistering sun, rain, sleet, stinging
+                hail, and snow. Summit day started at 10 p.m., and we ended up
+                hiking 17 hours that day. This was the most physical suffering
+                I've ever endured–even more than my Ironman.
               </p>
             </details>
             <details>
-              <summary style={{ cursor: 'pointer' }}>
+              <summary style={{ cursor: "pointer" }}>
                 Mt. Whitney (14,505 ft / 4,421 m)
               </summary>
               <p>
-                In 2019, I organized 3 friends to climb the tallest mountain in
-                the contiguous US. We started the climb at 2 am, and it took us
-                17 hours to summit and descend. People usually split this climb
-                into two days. We ran out of water near the summit, so one of us
-                had to drink piss to survive (we filtered it).
+                In 2019, I organized three friends to climb the tallest mountain
+                in the contiguous US. We started the climb at 2 am, and it took
+                us 17 hours to summit and descend. People usually split this
+                climb into two days. We ran out of water near the summit, so one
+                of us had to drink piss to survive (we filtered it).
               </p>
             </details>
             <details>
-              <summary style={{ cursor: 'pointer' }}>
+              <summary style={{ cursor: "pointer" }}>
                 Mt. Fuji (12,389 ft / 3,776 m)
               </summary>
               <p>
@@ -239,9 +309,9 @@ export default function IndexPage() {
           <p>
             🚴🏻 In 2021, I trained for and completed an Ironman Triathlon–a
             140.6-mile (226 km) endurance race consisting of a 2.4-mile swim, a
-            112-mile bike ride, and a 26.2-mile marathon, all done back-to-back.
-            The race took place in Cozumel, Mexico, where it was 80&deg;F
-            (27&deg;C) with 100% humidity.
+            112-mile bike ride, and a 26.2-mile marathon, all done back-to-back,
+            in Cozumel, Mexico, where it was 80&deg;F (27&deg;C) with 100%
+            humidity.
           </p>
           <p>
             Right after I crossed the finish line, I collapsed from hyponatremia
@@ -253,46 +323,46 @@ export default function IndexPage() {
           </p>
           <p>
             💪🏻 I've also trained to do a muscle-up, land a standing backflip,
-            and bench press 2 plates (225 lbs / 102 kg).
+            and bench press two plates (225 lbs / 102 kg).
           </p>
-          <h4>Fun facts</h4>
+          <hr></hr>
+          <h4>Fun facts:</h4>
           <ul>
             <li>
-              I was born in the San Francisco Bay Area but didn’t grow up there.
-              I moved back 4 years ago and am proud to call it my home.
-            </li>
-            <li>
-              Growing up, I lived in 3 countries and changed schools 7 times.
+              I've moved around a lot growing up. I've lived in the San
+              Francisco Bay Area, Oregon, Taiwan, Shanghai, Massachusetts,
+              Michigan, and Nevada.
             </li>
 
             <li>
-              In high school, I voluntarily spent a summer being hazed at a
-              military school in Kentucky. I wanted to go for the experience
-              (and it was a great one). It shut down shortly after I left due to
-              safety concern complaints from parents.
+              When I was 16, I spent a summer at a military camp in Kentucky. It
+              shut down shortly after I left due to safety complaints from
+              parents.
             </li>
             <li>
               I nearly failed high school with a 1.9 GPA (C- average) because I
               was playing League of Legends competitively (I made it to semi-pro
-              on the Chinese server). I was also busy competing on 6 sports
-              teams–4 varsity and 2 JV.
+              on the Chinese server). I also played on six sports teams–four
+              varsity and two JV.
             </li>
-            <li>I've visited 25 countries and 6 continents.</li>
+            <li>I've visited 26 countries and 6 continents.</li>
             <li>
-              I have a cameo in a Netflix documentary called{' '}
+              I have a cameo in a Netflix documentary called{" "}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
                 Don't Die
               </a>
               .
             </li>
+            
+          
           </ul>
           <p>
             If you’d like to chat, you can reach me at my first name at my
-            company url. You can also find me on{' '}
+            company url. You can also find me on{" "}
             <a href="https://x.com/wesleyytian" target="_blank">
               X (Twitter)
-            </a>{' '}
-            and{' '}
+            </a>{" "}
+            and{" "}
             <a href="https://www.linkedin.com/in/wesleytian/" target="_blank">
               LinkedIn
             </a>
@@ -302,19 +372,20 @@ export default function IndexPage() {
           <p>Wesley Tian</p>
         </div>
         <Divider />
-        <i>Last major update: 02-05-2025</i>
+        <i>Last major update: August, 2025</i>
         <br></br> <br></br> <br></br>
       </main>
     </div>
-  )
+  );
 }
 
 export async function getStaticProps() {
-  const allPostsData = getSortedPostsData()
+  const allPostsData = getSortedPostsData();
 
   return {
     props: {
       allPostsData,
     },
-  }
+  };
 }
+
