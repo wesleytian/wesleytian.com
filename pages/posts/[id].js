@@ -80,10 +80,10 @@ export default function Post({ postData }) {
 							dangerouslySetInnerHTML={{
 								__html: contentHtml,
                 
-							}} style={{
-                fontFamily: "gentium basic",
-                fontSize: "1.2rem"
-                // fontFamily: "libre baskerville"
+							              }} style={{
+                fontFamily: "IBM Plex Sans",
+                fontSize: "1rem",
+                lineHeight: "1.6"
               }}></div>
 					</Typography>
 				</Grid>

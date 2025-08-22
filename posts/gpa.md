@@ -106,3 +106,6 @@ _My company, Aragon.ai, has received funding from Z Fellows at a $1B valuation c
 
 **_Update: Some time later in 2023_**  
 _Aragon.ai reached over $1M annual run rate and raised money at a $10M floor valuation cap!_
+
+**_Update: February, 2025_**  
+_Aragon reached over $10M annual run rate (est. valuation: $100M+). Almost there! What a journey._
