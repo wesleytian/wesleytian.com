@@ -76,7 +76,7 @@ export default function IndexPage() {
           </p>
           <p>
             We have 2M+ users, including Fortune 200 companies and our products
-            have generated 34M+ photos for people. We grew to $10M+ annualized revenue in less than two years.{" "}
+            have generated 34M+ photos for people. We grew the business to $12M annualized revenue in less than two years with just 8 employees.{" "}
           </p>
           <p>
             We're profitable and raised from{" "}
