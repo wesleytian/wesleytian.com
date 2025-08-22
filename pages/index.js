@@ -350,11 +350,11 @@ export default function IndexPage() {
             </li>
            
             <li> I
-            was one of the worst League of Legends player in my grade wanted to be the best, so I played over a thousand hours on the game and made it to semi-pro
+            was one of the worst League of Legends player in my grade and I wanted to be the best, so I played over a thousand hours on the game and made it to semi-pro
             on the most competitive server in the world, 祖安.
             </li>
             <li>
-            I had a 1.9/4.00 GPA (C- average) during my junior year and I graduated with a &lt;3.00, at the bottom of my class. I believed in my future self to get me to where I wanted to go. (I was right.)  <a href="/posts/gpa">Blog Post</a></li>
+            I had a 1.9/4.00 GPA (C- average) during my junior year and I griaduated with a &lt;3.00, at the bottom of my class. I believed in my future self to get me to where I wanted to go. (I was right.)  <a href="/posts/gpa">Blog Post</a></li>
             <li>I competed on 6 sports teams–track, cross country, tennis, table tennis, swimming, and basketball.</li>
             
             
