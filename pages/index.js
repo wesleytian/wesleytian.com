@@ -83,11 +83,11 @@ export default function IndexPage() {
             <a target="_blank" href="https://neo.com/">
               Neo
             </a>
-            ,{" "}
+            {" "}(invested in Ramp, Deel, Scale, Vanta, Cursor, Cognition),{" "}
             <a target="_blank" href="https://www.sequoiacap.com/">
               Sequoia
             </a>{" "}
-            Scout, and angels such as the founders of <a target="_blank" href="https://www.vanta.com/">Vanta</a> ($4B), DocSend (sold for $165M), and <a target="_blank" href="https://www.decagon.ai/">Decagon</a> ($1B). 
+            Scout's Fund (invested in Uber, Airbnb, Stripe, Notion, Dropbox), and the founders of Vanta ($4B), DocSend (sold for $165M), and Decagon ($1B). 
           </p>
           <p>
             I've been featured in: {" "}
@@ -105,14 +105,15 @@ export default function IndexPage() {
                     Indie Hackers
                   </a> - <i>Building one of the first AI headshot products and hitting $900k/mo</i>
                 </li>
+                <li>
+                  <a target="_blank" href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
+                    The Washington Post
+                  </a>
+                </li>
                 <li><a href="https://leanaileaderboard.com/" target="_blank">
               Lean AI Leaderboard
             </a></li>
-            <li>
-                  <a target="_blank" href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141">
-                    My First Million
-                  </a>
-                </li>
+           
                 
                
                
@@ -125,25 +126,27 @@ export default function IndexPage() {
                     Business Insider
                   </a> - <i>Why I turned down Y Combinator for Neo</i>
                 </li>
-               
-                <li>
-                  <a target="_blank" href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
-                    The Washington Post
-                  </a>
-                </li>
-                <li>
-                  <a target="_blank" href="https://www.pmf.show/1st-time-founder-grows-ai-headshot-app-from-0-to-10m-arr-in-2-years-with-no-funding-wesley-tian/">
-                    The Product Market Fit Show
-                  </a>
-                </li>
                 <li>
                   <a target="_blank" href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/">
                     Big Think
                   </a> - <i>Key lessons for first-time founders</i>
                 </li>
+               
+               
+                <li>
+                  <a target="_blank" href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141">
+                    My First Million Podcast
+                  </a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.pmf.show/1st-time-founder-grows-ai-headshot-app-from-0-to-10m-arr-in-2-years-with-no-funding-wesley-tian/">
+                    The Product Market Fit Show Podcast
+                  </a>
+                </li>
+               
                 <li>
                   <a target="_blank" href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w">
-                    NeuralZen Venture
+                    NeuralZen Venture Podcast
                   </a>
                 </li>
                 
@@ -156,7 +159,7 @@ export default function IndexPage() {
          
 
           <p>
-            I'm also an angel investor/LP in the following companies and funds:{" "}
+            I'm also an angel investor/LP in 14+ companies and funds. Here are a select few:{" "}
           </p>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
             <div>
@@ -166,7 +169,7 @@ export default function IndexPage() {
                     Neo
                   </a> VC (first investor in <a target="_blank" href="https://cursor.com/">
                     Cursor
-                  </a>, now $10B+)
+                  </a>, now $10B)
                 </li>
                 <li>
                   <a target="_blank" href="https://www.anthropic.com/">
@@ -189,16 +192,17 @@ export default function IndexPage() {
                   </a> (Thiel Fellow, ex-YC, backed by Sam Altman)
                 </li>
                 
-                <li>
-                  <a target="_blank" href="https://www.codebuff.com/">
-                    Codebuff
-                  </a> (YC F24)
-                </li>
+                
               </ul>
             </div>
             <div>
               <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
               <li>
+                  <a target="_blank" href="https://www.codebuff.com/">
+                    Codebuff
+                  </a> (YC F24)
+                </li>
+                <li>
                   <a target="_blank" href="https://www.salley.co/">
                     Salley
                   </a>
@@ -224,9 +228,7 @@ export default function IndexPage() {
                   </a> (ex-YC)
                 </li>
                 <li>
-                  <a target="_blank" href="https://www.fetchr.so/">
-                    Fetchr
-                  </a> (YC W23, inactive)
+                  and more...
                 </li>
               </ul>
             </div>
@@ -234,23 +236,20 @@ export default function IndexPage() {
 
 
           <p>
-            Prior to starting my company, I worked at two early-stage{" "}
+            Prior to starting my company, I was a founding engineer at two {" "}
             <a
               target="_blank"
               href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
             >
               Y Combinator
             </a>
-            -backed startups, was a software engineer at Microsoft, and an AI
+            -backed startups, a software engineer at Microsoft, and an undergraduate AI
             researcher at the University of Michigan.
           </p>
           <hr></hr>
-          <h4>Mountains & Ironman</h4>
-          <p>
-            Outside of work, I'm a health fanatic and like to dabble in
-            endurance sports.
-          </p>
-          🏔️ I've climbed over a dozen mountains. Here are a few notable
+          <h4>Mountaineering & Triathlons</h4>
+      
+          🏔️ I enjoy climbing mountains. Here are a few notable
           experiences (click to expand):
           <ul>
             <details>
@@ -314,8 +313,8 @@ export default function IndexPage() {
             humidity.
           </p>
           <p>
-            Right after I crossed the finish line, I collapsed from hyponatremia
-            and had to be carried away on a stretcher. For the first time in my
+            Right after I crossed the finish line, I collapsed from <a target="_blank" href="https://en.wikipedia.org/wiki/Hyponatremia">hyponatremia </a> 
+             and had to be carried away on a stretcher. For the first time in my
             life, I was scared that I had irreversibly fucked up my body–my
             entire body was cramping, including my face, and I couldn't even
             open my fists. The race took me 15 hours to finish and it was the
