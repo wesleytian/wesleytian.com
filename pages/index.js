@@ -346,15 +346,15 @@ export default function IndexPage() {
             <br/>
               In high school:
             <li>
-              When I was 15, I attended a military camp in Kentucky. They shaved all of our heads as soon as we arrived, none of the bathroom stalls had doors, they made a guy run until he puked because he took too long to finish eating, I ate ants, we had to wake up every morning at 4:30 a.m. to do physical training (PT), and more. The camp shut down soon after I left due to safety concerns and lawsuits filed against them.
+              When I was 15, I attended a military camp in Kentucky. They shaved our heads as soon as we arrived, none of the bathroom stalls had doors, they made a guy run until he puked because he took too long to finish eating, I ate some ants, we had to wake up every morning at 4:30 a.m. to do physical training (PT), and more. The camp shut down soon after I left due to safety concerns and lawsuits filed against them.
             </li>
             <li>
-              I had a 1.9/4.00 GPA (C- average) during my junior year and graduated with a &lt;3.00. I didn't think my grades really mattered.</li>
+              I had a 1.9/4.00 GPA (C- average) during my junior year and I graduated with a &lt;3.00. I didn't think my grades really mattered.</li>
             <li> I
-            wanted to become the best League of Legends player and spent thousands of hours on the game. (I made it to semi-pro
+            wanted to become the best League of Legends player and spent over a thousand hours on the game. (I made it to semi-pro
             on the most competitive server in the world, 祖安). <a href="/posts/gpa">Blog Post</a>
             </li>
-            <li>I competed on 6 sports teams, track, cross country, tennis, table tennis, swimming, and basketball.</li>
+            <li>I competed on 6 sports teams–track, cross country, tennis, table tennis, swimming, and basketball.</li>
             
             
           
