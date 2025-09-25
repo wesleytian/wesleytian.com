@@ -86,23 +86,20 @@ export default function IndexPage() {
           <p>
           I’m the Co-Founder and CEO <a target="_blank" href="https://www.aragon.ai/">
                    Aragon AI
-                  </a> and we’re building the visual identity layer of the internet.
+                  </a>. We're building the visual identity layer of the internet.
           </p>
           <p>
-          Our proprietary AI generates ultra-realistic photos of people that are indistinguishable from real ones. We started by building the world’s most popular AI headshot generator (now with over 2 million users) and have since expanded into enterprise solutions for Fortune 500s and a growing platform of AI products spanning photo editing, photo generation, and digital identity.
+          Our proprietary AI generates ultra-realistic photos of people that are indistinguishable from real ones. We started by building the world’s most popular AI headshot generator (2M+ users) and have since expanded into enterprise solutions for Fortune 500s and a growing platform of AI products spanning photo editing, photo generation, and digital identity.
           </p>
           <p>
-          We launched in 2023 and have since grown Aragon to over 8-figures in annual run rate and profitability.
-          </p>
-          <p>
-          Our team of 12 includes ex-founders, AI researchers, International Math Olympiad gold medalists, and engineers and alumni from MIT, Meta, Google, and Brex.
+          Since launching in 2023, we've scaled Aragon to over 8-figure annual run rate and profitability with a 12-person team of ex-founders, AI researchers, International Math Olympiad medalists, and alumni from MIT, Meta, Google, and Brex.
 
           </p>
-          <p>Our proud investors include <a target="_blank" href="https://www.neo.com/">
+          <p>Aragon's investors include <a target="_blank" href="https://www.neo.com/">
                    Neo
                   </a>, <a target="_blank" href="https://www.sequoiacap.com/">
-                    Sequioa Scout
-                  </a>, and the founders of billion-dollar companies such as Vanta and Decagon.
+                    Sequoia Scout
+                  </a>, and the founders of billion-dollar companies like Vanta and Decagon.
           </p>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
             <div>
@@ -162,9 +159,6 @@ export default function IndexPage() {
                   </a>
                 </li>
             
-                
-                {/* <li>Amazon</li> */}
-                
               </ul>
             </div>
           </div>
@@ -172,84 +166,30 @@ export default function IndexPage() {
          
 
           <p>
-            I'm an investor in over a dozen companies and VC funds. Here are some:{" "}
-          </p>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '2rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
-            <div>
-              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
-                <li>
-                  <a target="_blank" href="https://neo.com/">
+            I'm also an active investor in over a dozen companies and VC funds, including <a target="_blank" href="https://neo.com/">
                     Neo
-                  </a>
-                </li>
-                <li>
-                  <a target="_blank" href="https://www.openai.com/">
+                  </a>, <a target="_blank" href="https://www.openai.com/">
                     OpenAI
-                  </a>
-                </li>
-                <li>
+                  </a>,{" "}
                   <a target="_blank" href="https://www.anthropic.com/">
                     Anthropic
-                  </a>
-                </li>
-                <li>
+                  </a>,{" "}
                   <a target="_blank" href="https://www.replit.com/">
                     Replit
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
-                <li>
-                  <a target="_blank" href="https://www.sesame.com/">
+                  </a>, and <a target="_blank" href="https://www.sesame.com/">
                     Sesame
-                  </a>
-                </li>
-                <li>
-                  <a target="_blank" href="https://www.volantissemi.ai/">
-                    Volantis
-                  </a>
-                </li>
-                <li>
-                  <a target="_blank" href="https://www.cloverlabs.ai/">
-                    Clover
-                  </a>
-                </li>
-               
-              </ul>
-            </div>
-            <div>
-              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
-                <li>
-                  <a target="_blank" href="https://www.up-to-speed.ai/">
-                    UpToSpeed
-                  </a>
-                </li>
-                <li>
-                  <a target="_blank" href="https://www.endflow.com/">
-                    Endflow
-                  </a>
-                </li>
-                <li>
-                  <a target="_blank" href="https://www.jooba.com/">
-                    Jooba
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-
+                  </a>.
+          </p>
 
           <p>
-            Prior to starting my company, I was a founding engineer at two {" "}
+            Before starting Aragon, I was a founding engineer at two {" "}
             <a
               target="_blank"
               href="https://aws.amazon.com/startups/learn/a-cup-of-innovation-chatting-with-startup-founders-at-their-favorite-cafs?sc_channel=sm&sc_publisher=LINKEDIN&sc_country=global&sc_geo=GLOBAL&sc_outcome=awareness&linkId=691394166"
             >
               Y Combinator
             </a>
-            -backed startups, a software engineer at Microsoft, a machine learning engineer at Clinc AI, and an AI
+            -backed startups, a software engineer at Microsoft, an machine learning engineer at Clinc AI, and an AI
             researcher at the University of Michigan.
           </p>
           <hr></hr>
