@@ -33,11 +33,10 @@ const ThemeToggle = () => {
   return React.createElement('button', {
     onClick: toggleTheme,
     className: 'theme-toggle',
-    'aria-label': `Switch to ${getLabel()}`,
-    title: getLabel()
+    'aria-label': `Switch to ${getLabel()}`
   }, [
     React.createElement('span', { key: 'icon', className: 'theme-icon' }, getIcon()),
-    React.createElement('span', { key: 'label', className: 'theme-label' }, getLabel())
+    // Removed visible label to display only the icon
   ]);
 };
 

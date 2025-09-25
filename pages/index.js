@@ -84,7 +84,7 @@ export default function IndexPage() {
             />
           </div>
           <p>
-          I’m the Co-Founder and CEO <a target="_blank" href="https://www.aragon.ai/">
+          I’m the Co-Founder and CEO of <a target="_blank" href="https://www.aragon.ai/">
                    Aragon AI
                   </a>. We're building the visual identity layer of the internet.
           </p>
