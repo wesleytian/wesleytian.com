@@ -84,7 +84,9 @@ export default function IndexPage() {
             />
           </div>
           <p>
-          I’m the Co-Founder and CEO of Aragon AI and we’re building the visual identity layer of the internet.
+          I’m the Co-Founder and CEO <a target="_blank" href="https://www.aragon.ai/">
+                   Aragon AI
+                  </a> and we’re building the visual identity layer of the internet.
           </p>
           <p>
           Our proprietary AI generates ultra-realistic photos of people that are indistinguishable from real ones. We started by building the world’s most popular AI headshot generator (now with over 2 million users) and have since expanded into enterprise solutions for Fortune 500s and a growing platform of AI products spanning photo editing, photo generation, and digital identity.
@@ -96,7 +98,11 @@ export default function IndexPage() {
           Our team of 12 includes ex-founders, AI researchers, International Math Olympiad gold medalists, and engineers and alumni from MIT, Meta, Google, and Brex.
 
           </p>
-          <p>Our proud investors include Neo, Sequoia Scouts, and the founders of billion-dollar companies such as Vanta and Decagon.
+          <p>Our proud investors include <a target="_blank" href="https://www.neo.com/">
+                   Neo
+                  </a>, <a target="_blank" href="https://www.sequoiacap.com/">
+                    Sequioa Scout
+                  </a>, and the founders of billion-dollar companies such as Vanta and Decagon.
           </p>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
             <div>
