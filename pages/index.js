@@ -77,8 +77,8 @@ export default function IndexPage() {
                 objectFit: 'cover',
                 objectPosition: 'top center',
                 border: '2px solid #e0e0e0',
-                float: 'left',
-                marginRight: '1rem',
+                float: 'right',
+                marginLeft: '1rem',
                 marginBottom: '0.5rem'
               }} 
             />
@@ -86,25 +86,49 @@ export default function IndexPage() {
           <p>
           I’m the Co-Founder and CEO of <a target="_blank" href="https://www.aragon.ai/">
                    Aragon AI
-                  </a>. We're building the visual identity layer of the internet.
+                  </a>. We're building the most realistic AI photo platform.
           </p>
           <p>
-          Our proprietary AI generates ultra-realistic photos of people that are indistinguishable from real ones. We started by building the world’s most popular AI headshot generator (2M+ users) and have since expanded into enterprise solutions for Fortune 500s and a growing platform of AI products spanning photo editing, photo generation, and digital identity.
+          We started by building the world’s most popular AI headshot generator (2M+ users) and have since expanded into enterprise solutions for Fortune 500s and a growing platform of AI products spanning photo editing and photo generation.
           </p>
           <p>
-          Since launching in 2023, we've scaled Aragon to over 8-figure annual run rate and profitability with a 12-person team of ex-founders, AI researchers, International Math Olympiad medalists, and alumni from MIT, Meta, Google, and Brex.
+          Since launching in 2023, we've scaled Aragon to over 8-figures in ARR (annual run rate) and profitability with a 12-person team of ex-founders, AI researchers, International Math Olympiad medalists, and alumni from MIT, Meta, Google, and Brex.
 
           </p>
-          <p>Aragon's investors include <a target="_blank" href="https://www.neo.com/">
+          <p>Our investors include <a target="_blank" href="https://www.neo.com/">
                    Neo
                   </a>, <a target="_blank" href="https://www.sequoiacap.com/">
-                    Sequoia Scout
-                  </a>, and the founders of billion-dollar companies like Vanta and Decagon.
+                    Sequoia
+                  </a> Scout Fund, and the founders and CEOs of multiple publicly-traded companies and unicorns.
           </p>
+          <p>Some articles that I've been featured in:</p>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
+            
+            <div>
+              
+              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
+              <li>
+                  <a target="_blank" href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
+                    Business Insider
+                  </a>: <i>Why I turned down Y Combinator for Neo</i>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
+                    The Washington Post
+                  </a>
+                </li>
+              
+               
+                
+           
+                
+          
+               
+              </ul>
+            </div>
             <div>
               <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
-                <li>
+              <li>
                   <a target="_blank" href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups">
                     The Information
                   </a>: <i>Why Early-Stage Founders Are Opting to 'Seed-Strap' Their Startups</i>
@@ -114,50 +138,34 @@ export default function IndexPage() {
                     Indie Hackers
                   </a>: <i>Building one of the first AI headshot products and hitting $900k/mo</i>
                 </li>
-                <li>
-                  <a target="_blank" href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
-                    The Washington Post
-                  </a>
-                </li>
-                <li><a href="https://leanaileaderboard.com/" target="_blank">
+              {/* <li><a href="https://leanaileaderboard.com/" target="_blank">
               Lean AI Leaderboard
-            </a></li>
-           
-                
+            </a></li> */}
+             
                
-               
-              </ul>
-            </div>
-            <div>
-              <ul style={{ margin: 0, paddingLeft: '1.5rem' }}>
-              <li>
-                  <a target="_blank" href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
-                    Business Insider
-                  </a>: <i>Why I turned down Y Combinator for Neo</i>
-                </li>
-                <li>
+                {/* <li>
                   <a target="_blank" href="https://bigthink.com/business/anatomy-ai-startup-key-lessons-first-time-founders/">
                     Big Think
                   </a>: <i>Key lessons for first-time founders</i>
-                </li>
+                </li> */}
                
                
-                <li>
+                {/* <li>
                   <a target="_blank" href="https://youtu.be/hMvnKX0yeJw?si=Ct3p_dtDjUzXE1D7&t=1141">
                     My First Million Podcast
                   </a>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <a target="_blank" href="https://www.pmf.show/1st-time-founder-grows-ai-headshot-app-from-0-to-10m-arr-in-2-years-with-no-funding-wesley-tian/">
                     The Product Market Fit Show Podcast
                   </a>
-                </li>
+                </li> */}
                
-                <li>
+                {/* <li>
                   <a target="_blank" href="https://open.spotify.com/episode/6dyNbnylQwTeEGhyyIb0Li?si=X7DOG9_YRDaLbLwQrKxW4w">
                     NeuralZen Venture Podcast
                   </a>
-                </li>
+                </li> */}
             
               </ul>
             </div>
@@ -166,22 +174,15 @@ export default function IndexPage() {
          
 
           <p>
-            I'm also an active investor in over a dozen companies and VC funds, including <a target="_blank" href="https://neo.com/">
+            I'm also an angel investor and LP in 14+ companies and VC funds, including <a target="_blank" href="https://neo.com/">
                     Neo
-                  </a>, <a target="_blank" href="https://www.openai.com/">
+                  </a> and <a target="_blank" href="https://www.openai.com/">
                     OpenAI
-                  </a>,{" "}
-                  <a target="_blank" href="https://www.anthropic.com/">
-                    Anthropic
-                  </a>,{" "}
-                  <a target="_blank" href="https://www.replit.com/">
-                    Replit
-                  </a>, and <a target="_blank" href="https://www.sesame.com/">
-                    Sesame
                   </a>.
+                
           </p>
 
-          <p>
+          {/* <p>
             Before starting Aragon, I was a founding engineer at two {" "}
             <a
               target="_blank"
@@ -191,11 +192,61 @@ export default function IndexPage() {
             </a>
             -backed startups, a software engineer at Microsoft, an machine learning engineer at Clinc AI, and an AI
             researcher at the University of Michigan.
-          </p>
-          <hr></hr>
-          <h4>Mountaineering & Triathlons</h4>
+          </p> */}
+          {/* <hr></hr> */}
+          <h4>Hobbies</h4>
+          <p>Besides working out to optimize my overall health, I enjoy mountaineering, skiing, and endurance sports when I have the time.</p>
+          <p>Some physical goals and achievements of mine:</p>
+          <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
+            <li>
+              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Everest
+            </li>
+            <li>
+              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb an 8,000-meter peak
+            </li>
+            <li>
+              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Rainier
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Kilimanjaro (2025)
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Learn to do standing backflips (2024)
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Do a muscle-up
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Bench press 225 lbs.
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Finish a full 140.6-mile Ironman Triathlon (2021)
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Whitney (2019)
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Fuji (2015)
+            </li>
+           
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Run a sub-5 min mile (2014)
+            </li>
+            
+          </ul>
       
-          🏔️ I enjoy climbing mountains. Here are a few notable
+          {/* 🏔️ I enjoy climbing mountains. Here are a few notable
           experiences (click to expand):
           <ul>
             <details>
@@ -265,22 +316,22 @@ export default function IndexPage() {
             entire body was cramping, including my face, and I couldn't even
             open my fists. The race took me 15 hours to finish and it was the
             hardest physical thing I've ever done.
-          </p>
-          <p>
+          </p> */}
+          {/* <p>
             💪🏻 I've also trained to do a muscle-up, land a standing backflip,
             and bench press two plates (225 lbs / 102 kg).
-          </p>
-          <hr></hr>
+          </p> */}
+          {/* <hr></hr> */}
           <h4>Fun facts:</h4>
           <ul>
             <li>
-              I've moved around a lot growing up. I've lived in the San
-              Francisco Bay Area, Oregon, Taiwan, Shanghai, Massachusetts,
+              I was born in Mountain View, CA and grew up near San
+              Francisco, in Oregon, Taiwan, Shanghai, Massachusetts,
               Michigan, and Nevada.
             </li>
             
             <li>
-              I have a cameo in a Netflix documentary called{" "}
+              I have in a Netflix documentary called{" "}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
                 Don't Die
               </a>
@@ -288,8 +339,8 @@ export default function IndexPage() {
               .
              
              
-            </li> <li>I've visited 28 countries and 6 continents.</li>
-            <br/>
+            </li> <li>I've visited ~30 countries and 6 continents.</li>
+            {/* <br/>
               High school was formative for me:
             <li>
               When I was 15, I attended a military camp in Kentucky. They shaved our heads as soon as we arrived, none of the bathroom stalls had doors, they made a guy run until he puked because he took too long to finish eating, I ate some ants, we had to wake up every morning at 4:30 a.m. to do physical training (PT), and more. The camp shut down soon after I left due to safety concerns and lawsuits filed against them.
@@ -302,23 +353,22 @@ export default function IndexPage() {
             I had a 1.9/4.0 GPA (C- average) during my junior year and I graduated at the bottom of my class. <a href="/posts/gpa">Blog Post</a></li>
             <li>I competed on 6 sports teams–track, cross country, tennis, table tennis, swimming, and basketball.</li>
             
-            
+             */}
           
           </ul>
-          <p>
-            If you’d like to chat, you can reach me at my first name at my
-            company url. You can also find me on{" "}
+          {/* <p>
+            Here are my socials:{" "}
             <a href="https://x.com/wesleyytian" target="_blank">
-              X (Twitter)
+              X
             </a>{" "}
             and{" "}
             <a href="https://www.linkedin.com/in/wesleytian/" target="_blank">
               LinkedIn
             </a>.
             
-          </p>
-          <p>Thanks for reading,</p>
-          <p>Wesley Tian</p>
+          </p> */}
+          {/* <p>Thanks for reading,</p>
+          <p>Wesley Tian</p> */}
         </div>
         <br></br> <br></br> <br></br>
       </main>

@@ -66,12 +66,12 @@ export default function Post({ postData }) {
 					md={7}
 					className={styles.description}>
 					<Typography style={{
-            fontFamily: "eczar", 
+            fontFamily: '"IBM Plex Sans", sans-serif', 
             // fontFamily: "libre franklin",
             // fontStyle: "italic",
             fontSize:"2.4rem"}}>{title}</Typography>
 					<br />
-					<Typography variant="body1" style={{fontFamily: "courier", fontSize: "1.2rem"}}>
+					<Typography variant="body1" style={{fontFamily: '"IBM Plex Sans", sans-serif', fontSize: "1.2rem"}}>
 						{format(new Date(date), "PPP")}
 					</Typography>
 					<br />
@@ -81,7 +81,7 @@ export default function Post({ postData }) {
 								__html: contentHtml,
                 
 							              }} style={{
-                fontFamily: "IBM Plex Sans",
+                fontFamily: '"IBM Plex Sans", sans-serif',
                 fontSize: "1rem",
                 lineHeight: "1.6"
               }}></div>

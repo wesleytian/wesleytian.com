@@ -68,9 +68,9 @@ function MyApp({ Component, pageProps }) {
 export default MyApp;
 
 const theme = createTheme({
-  // typography: {
-  // 	fontFamily: ["Titillium Web"].join()
-  // },
+  typography: {
+    fontFamily: '"IBM Plex Sans", sans-serif'
+  },
   palette: {
     // primary: {
     // 	main: "#0f3"

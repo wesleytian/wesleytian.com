@@ -14,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
     marginBottom: '2.5rem',
     fontSize: '2rem',
     fontWeight: 700,
-    fontFamily: 'Inter, sans-serif',
+    fontFamily: '"IBM Plex Sans", sans-serif',
     color: theme.palette.text.primary,
     textAlign: 'center',
   },

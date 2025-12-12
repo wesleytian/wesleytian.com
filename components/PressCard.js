@@ -42,7 +42,7 @@ const useStyles = makeStyles((theme) => ({
     color: theme.palette.text.secondary,
     fontSize: '0.875rem',
     marginTop: '0.75rem',
-    fontFamily: 'Inter, sans-serif',
+    fontFamily: '"IBM Plex Sans", sans-serif',
   },
   outlet: {
     display: 'flex',
@@ -53,7 +53,7 @@ const useStyles = makeStyles((theme) => ({
     fontWeight: 600,
     fontSize: '1rem',
     marginLeft: '0.75rem',
-    fontFamily: 'Inter, sans-serif',
+    fontFamily: '"IBM Plex Sans", sans-serif',
     color: theme.palette.text.primary,
   },
   title: {
@@ -61,14 +61,14 @@ const useStyles = makeStyles((theme) => ({
     lineHeight: 1.4,
     fontWeight: 600,
     marginBottom: '0.5rem',
-    fontFamily: 'Inter, sans-serif',
+    fontFamily: '"IBM Plex Sans", sans-serif',
     color: theme.palette.text.primary,
   },
   snippet: {
     color: theme.palette.text.secondary,
     fontSize: '0.9375rem',
     lineHeight: 1.6,
-    fontFamily: 'Inter, sans-serif',
+    fontFamily: '"IBM Plex Sans", sans-serif',
   },
   logo: {
     width: 28,
