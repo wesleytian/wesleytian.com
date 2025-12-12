@@ -31,6 +31,8 @@ export default function IndexPage() {
   const textContainerStyle = {
     maxWidth: "650px",
     margin: "0 auto",
+    paddingTop: "3rem",
+    paddingBottom: "3rem",
   };
 
   const mediaQueryStyle = `
@@ -63,7 +65,6 @@ export default function IndexPage() {
 
       <main id="text-container" style={textContainerStyle}>
         <div>
-          <br></br> <br></br> <br></br>
           <div styles={{ float: "left" }}></div>
           {/* <h4>Hey, I'm Wesley! 👋🏻 </h4> */}
           <div style={{ marginBottom: '1.5rem' }}>
@@ -351,7 +352,6 @@ export default function IndexPage() {
           {/* <p>Thanks for reading,</p>
           <p>Wesley Tian</p> */}
         </div>
-        <br></br> <br></br> <br></br>
       </main>
     </div>
   );
