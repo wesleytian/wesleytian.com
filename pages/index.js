@@ -63,6 +63,7 @@ export default function IndexPage() {
 
       <main id="text-container" style={textContainerStyle}>
         <div>
+          <br></br> <br></br> <br></br>
           <div styles={{ float: "left" }}></div>
           {/* <h4>Hey, I'm Wesley! 👋🏻 </h4> */}
           <div style={{ marginBottom: '1.5rem' }}>
@@ -84,7 +85,7 @@ export default function IndexPage() {
             />
           </div>
           <p>
-          <span style={{ }}>I'm Wesley, the Co-Founder and CEO of <a target="_blank" href="https://www.aragon.ai/">
+          <span style={{ }}>I'm Wesley Tian, Co-Founder and CEO of <a target="_blank" href="https://www.aragon.ai/">
                    Aragon AI
                   </a>. We're building the world's #1 AI photo platform.</span>
           </p>
@@ -92,7 +93,7 @@ export default function IndexPage() {
           We started by building the world’s most popular AI headshot generator (2M+ users) and have since expanded into enterprise solutions for Fortune 500s and a growing platform of AI photo products spanning photo editing and photo generation.
           </p>
           <p>
-          Since launching in 2023, we've scaled Aragon to over 8-figures in annual run rate (ARR) and profitability with a 14-person team of ex-founders, AI researchers, International Math Olympiad medalists, and alumni from MIT, Meta, Google, and Brex.
+          Since launching in 2023, we've scaled Aragon to over 8-figures in annual run rate (ARR) and profitability with a 14-person team of ex-founders, AI researchers, International Math Olympiad medalists, and alumni from MIT, Meta, Google, and Brex. 
 
           </p>
           <p>Our investors include <a target="_blank" href="https://www.neo.com/">
@@ -152,14 +153,7 @@ export default function IndexPage() {
 
          
 
-          <p>
-            I'm also an angel investor and LP in 14+ companies and VC funds, including <a target="_blank" href="https://neo.com/">
-                    Neo
-                  </a> and <a target="_blank" href="https://www.openai.com/">
-                    OpenAI
-                  </a>.
-                
-          </p>
+         
 
           {/* <p>
             Before starting Aragon, I was a founding engineer at two {" "}
@@ -174,7 +168,15 @@ export default function IndexPage() {
           </p> */}
           {/* <hr></hr> */}
           <p style={{ fontWeight: 500 }}>Hobbies:</p>
-          <p>Besides working out to optimize my overall health, I enjoy mountaineering, skiing, and endurance sports when I have the time.</p>
+          <p>
+            I'm an angel investor and LP in 15+ companies and VC funds, including <a target="_blank" href="https://neo.com/">
+                    Neo
+                  </a> and <a target="_blank" href="https://www.openai.com/">
+                    OpenAI
+                  </a>.
+                
+          </p>
+          <p>Besides working out to optimize my overall health, I also enjoy mountaineering, skiing, and endurance sports when I have the time.</p>
           <p>Some physical goals and achievements of mine:</p>
           <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
             <li>
@@ -310,7 +312,7 @@ export default function IndexPage() {
             </li>
             
             <li>
-              I have in a Netflix documentary called{" "}
+              I'm in a Netflix documentary called{" "}
               <a target="_blank" href="https://www.netflix.com/title/81757532">
                 Don't Die
               </a>
