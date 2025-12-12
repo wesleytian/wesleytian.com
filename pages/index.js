@@ -88,23 +88,24 @@ export default function IndexPage() {
           <p>
           <span style={{ }}>I'm Wesley Tian, Co-Founder and CEO of <a target="_blank" href="https://www.aragon.ai/">
                    Aragon AI
-                  </a>. We're building the world's #1 AI photo platform.</span>
+                  </a> – an AI photo platform that's generated 40M+ photos for 2.3M+ users.</span>
           </p>
-          <p>
+          <p>I care about craft, building great businesses, and rapid growth – professional and personal.</p>
+          {/* <p>
           We started by building the world’s most popular AI headshot generator (2M+ users) and have since expanded into enterprise solutions for Fortune 500s and a growing platform of AI photo products spanning photo editing and photo generation.
-          </p>
+          </p> */}
           <p>
-          Since launching in 2023, we've scaled Aragon to over 8-figures in annual run rate (ARR) and profitability with a 14-person team of ex-founders, AI researchers, International Math Olympiad medalists, and alumni from MIT, Meta, Google, and Brex. 
+          Since launching in 2023, we've scaled Aragon to over 8-figures in annual run rate (ARR) and profitability, serving enterprise clients on 6-figure annual contracts. Our 12-person team includes multiple ex-founders, AI researchers, International Math Olympiad medalists, and alumni from MIT, Meta, Google, and Brex. 
 
           </p>
           <p>Our investors include <a target="_blank" href="https://www.neo.com/">
                    Neo
                   </a>, <a target="_blank" href="https://www.sequoiacap.com/">
-                    Sequoia's
-                  </a> Scout Fund, and the founders and CEOs of multiple publicly-traded companies and unicorns.
+                    Sequoia
+                  </a> (Scout), and the founders and CEOs of multiple publicly-traded companies and unicorns.
           </p>
-          <p>Some articles that I've been featured in:</p>
-          <ul style={{ margin: 0, paddingLeft: '1.5rem', marginTop: '0.5rem', marginBottom: '1.5rem' }}>
+            <p style={{ fontWeight: 500 }}>Selected press:</p>
+            <ul>
             
           <li>
               <a target="_blank" href="https://www.theinformation.com/articles/why-early-stage-founders-are-opting-to-seed-strap-their-startups">
@@ -116,17 +117,17 @@ export default function IndexPage() {
                 Indie Hackers
               </a> (2025): Building one of the first AI headshot products and hitting $900k/mo
             </li>
-            <li>
+            {/* <li>
               <a target="_blank" href="https://www.washingtonpost.com/technology/2024/02/08/ai-professional-headshots/">
                 The Washington Post
               </a> (2024): AI professional headshots are quick and easy...
-            </li>
+            </li> */}
             <li>
               <a target="_blank" href="https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator">
                 Business Insider
               </a> (2023): Why I turned down Y Combinator for Neo
             </li>
-            
+            </ul>
             {/* <li><a href="https://leanaileaderboard.com/" target="_blank">
               Lean AI Leaderboard
             </a></li> */}
@@ -150,7 +151,6 @@ export default function IndexPage() {
                 NeuralZen Venture Podcast
               </a>
             </li> */}
-          </ul>
 
          
 
@@ -168,7 +168,61 @@ export default function IndexPage() {
             researcher at the University of Michigan.
           </p> */}
           {/* <hr></hr> */}
-          <p style={{ fontWeight: 500 }}>Hobbies:</p>
+          {/* <p style={{ fontWeight: 500 }}>Hobbies:</p> */}
+         
+          {/* <p>Besides working out to optimize my overall health, I also enjoy mountaineering, skiing, and endurance sports when I have the time.</p> */}
+          {/* <p>Some physical goals and achievements of mine:</p> */}
+          {/* <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
+           
+            {/* <li>
+              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb an 8,000-meter peak
+            </li> */}
+           
+           
+            {/* <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Learn to do a standing backflip (2024)
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Learn to do muscle-ups
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Bench press 225 lbs.
+            </li> */}
+            {/* <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Finish a 140.6-mile Ironman Triathlon
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Kilimanjaro 
+            </li>
+            {/* <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Whitney (2019)
+            </li>
+            <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Fuji (2015)
+            </li>
+            */}
+            {/* <li>
+              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Run a sub-5 min mile
+            </li>
+            <li>
+              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Rainier
+            </li>
+            <li>
+              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
+              Climb Mt. Everest
+            </li> */}
+            
+          {/* </ul> */}
           <p>
             I'm an angel investor and LP in 15+ companies and VC funds, including <a target="_blank" href="https://neo.com/">
                     Neo
@@ -177,56 +231,9 @@ export default function IndexPage() {
                   </a>.
                 
           </p>
-          <p>Besides working out to optimize my overall health, I also enjoy mountaineering, skiing, and endurance sports when I have the time.</p>
-          <p>Some physical goals and achievements of mine:</p>
-          <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
-            <li>
-              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Climb Mt. Everest
-            </li>
-            <li>
-              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Climb an 8,000-meter peak
-            </li>
-            <li>
-              <input type="checkbox" style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Climb Mt. Rainier
-            </li>
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Climb Mt. Kilimanjaro (2025)
-            </li>
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Learn to do standing backflips (2024)
-            </li>
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Do a muscle-up
-            </li>
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Bench press 225 lbs.
-            </li>
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Finish a full 140.6-mile Ironman Triathlon (2021)
-            </li>
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Climb Mt. Whitney (2019)
-            </li>
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Climb Mt. Fuji (2015)
-            </li>
-           
-            <li>
-              <input type="checkbox" defaultChecked style={{ marginRight: '0.5rem', cursor: 'pointer' }} />
-              Run a sub-5 min mile (2014)
-            </li>
-            
-          </ul>
+          <p>
+           Outside of work, I enjoy mountaineering, skiing, and endurance sports. I've finished a 140.6-mile Ironman triathlon, climbed Mt. Kilimanjaro, and ran a sub-5 minute mile. Mt. Rainier and Everest are on the list.
+          </p>
       
           {/* 🏔️ I enjoy climbing mountains. Here are a few notable
           experiences (click to expand):
@@ -304,12 +311,11 @@ export default function IndexPage() {
             and bench press two plates (225 lbs / 102 kg).
           </p> */}
           {/* <hr></hr> */}
-          <p style={{ fontWeight: 500 }}>Fun facts:</p>
+          <p style={{ fontWeight: 400 }}>Fun facts:</p>
           <ul>
             <li>
               I was born in Mountain View, CA and grew up near San
-              Francisco, in Oregon, Taiwan, Shanghai, Massachusetts,
-              Michigan, and Nevada.
+              Francisco, in Oregon, Taiwan, and Shanghai.
             </li>
             
             <li>
@@ -322,6 +328,7 @@ export default function IndexPage() {
              
              
             </li> <li>I've visited ~30 countries and 6 continents.</li>
+            {/* <li>I got a 1.9 GPA during high school.</li> */}
             {/* <br/>
               High school was formative for me:
             <li>
@@ -351,6 +358,7 @@ export default function IndexPage() {
           </p> */}
           {/* <p>Thanks for reading,</p>
           <p>Wesley Tian</p> */}
+          <a href="mailto:wesley@aragon.ai">wesley@aragon.ai</a>
         </div>
       </main>
     </div>
