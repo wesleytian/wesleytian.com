@@ -368,6 +368,15 @@ export default function IndexPage() {
              */}
           
           </ul>
+          <p style={{ fontWeight: 400 }}>Favorites:</p>
+          <ul>
+            <li>
+              <strong>TV/Film:</strong> Hannibal, Mindhunter, Succession, Free Solo, Whiplash
+            </li>
+            <li>
+              <strong>Books:</strong> Flowers for Algernon, The Rosie Project, Star Builders, The Molecule of More
+            </li>
+          </ul>
           {/* <p>
             Here are my socials:{" "}
             <a href="https://x.com/wesleyytian" target="_blank">
